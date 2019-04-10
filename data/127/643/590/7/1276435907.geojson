@@ -1,0 +1,79 @@
+{
+  "id": 1276435907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.34453,25.07752,46.34453,25.07752",
+    "geom:latitude":25.07752,
+    "geom:longitude":46.34453,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sulbukh",
+    "gn:country_code":"SA",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102496,
+    "gn:latitude":25.07752,
+    "gn:longitude":46.34453,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"\u015eulb\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u015eulb\u016bkh"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0644\u0628\u0648\u062e"
+    ],
+    "name:und_x_variant":[
+        "As Salb\u016bkh",
+        "Salb\u016bkh",
+        "Salbukh",
+        "\u015ealb\u016bkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102496
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"038ff96624179a795e809de15e593ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720711,
+            "locality_id":1276435907,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1276435907,
+    "wof:lastmodified":1537699179,
+    "wof:name":"Sulbukh",
+    "wof:parent_id":1108720711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.34453,
+    25.07752,
+    46.34453,
+    25.07752
+],
+  "geometry": {"coordinates":[46.34453,25.07752],"type":"Point"}
+}

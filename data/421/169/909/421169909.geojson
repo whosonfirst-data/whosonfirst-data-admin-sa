@@ -1,0 +1,76 @@
+{
+  "id": 421169909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.205202,26.280599,50.205202,26.280599",
+    "geom:latitude":26.280599,
+    "geom:longitude":50.205202,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u062b\u0642\u0628\u0647 3",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":523864,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":55948380,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948380,
+        "qs:id":523864
+    },
+    "wof:country":"SA",
+    "wof:created":1459008829,
+    "wof:geomhash":"a78dcc99aad599f398282734ea2e795f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":-1,
+            "neighbourhood_id":421169909,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":421169909,
+    "wof:lastmodified":1531858337,
+    "wof:name":"\u0627\u0644\u062b\u0642\u0628\u0647 3",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.205202,
+    26.280599,
+    50.205202,
+    26.280599
+],
+  "geometry": {"coordinates":[50.205202,26.280599],"type":"Point"}
+}

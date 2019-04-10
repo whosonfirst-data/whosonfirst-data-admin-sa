@@ -1,0 +1,74 @@
+{
+  "id": 1242936691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.59877,16.89865,42.59877,16.89865",
+    "geom:latitude":16.89865,
+    "geom:longitude":42.59877,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bakhshat Yamani",
+    "gn:country_code":"SA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107710,
+    "gn:latitude":16.89865,
+    "gn:longitude":42.59877,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bakhshat Yaman\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakhshah",
+        "Bakhsha",
+        "Bakhshah Yaman\u012b",
+        "Bakhshat Yaman\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107710,
+        "wk:page":"Bakhshat_Yamani"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7d32da90d33ac9ac507e7d9f1f7ea940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720713,
+            "locality_id":1242936691,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1242936691,
+    "wof:lastmodified":1537699224,
+    "wof:name":"Bakhshat Yamani",
+    "wof:parent_id":1108720713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.59877,
+    16.89865,
+    42.59877,
+    16.89865
+],
+  "geometry": {"coordinates":[42.59877,16.89865],"type":"Point"}
+}

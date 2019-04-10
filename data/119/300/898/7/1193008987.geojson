@@ -1,0 +1,73 @@
+{
+  "id": 1193008987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00015,25.0475,43.00015,25.0475",
+    "geom:latitude":25.0475,
+    "geom:longitude":43.00015,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Buqay`a' al Janubiyah",
+    "gn:country_code":"SA",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395167,
+    "gn:latitude":25.0475,
+    "gn:longitude":43.00015,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Buqay\u2018\u0101\u2019 al Jan\u016bb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0642\u064a\u0639\u0627\u0621 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0651\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Buqay\u2018\u0101\u2019 al Jan\u016bb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395167
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f5ee4c75d744f593533366a9e22b0a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720653,
+            "locality_id":1193008987,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1193008987,
+    "wof:lastmodified":1537699296,
+    "wof:name":"Buqay`a' al Janubiyah",
+    "wof:parent_id":1108720653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00015,
+    25.0475,
+    43.00015,
+    25.0475
+],
+  "geometry": {"coordinates":[43.00015,25.0475],"type":"Point"}
+}

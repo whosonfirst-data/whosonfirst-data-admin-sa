@@ -1,0 +1,71 @@
+{
+  "id": 1360194767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.86667,20.3,39.86667,20.3",
+    "geom:latitude":20.3,
+    "geom:longitude":39.86667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"`Usharah",
+    "gn:country_code":"SA",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100669,
+    "gn:latitude":20.3,
+    "gn:longitude":39.86667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Ush\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ushara",
+        "\u2018Ush\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100669
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c676c5d238d23fe3a448f59497eb2ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720603,
+            "locality_id":1360194767,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1360194767,
+    "wof:lastmodified":1537699165,
+    "wof:name":"`Usharah",
+    "wof:parent_id":1108720603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.86667,
+    20.3,
+    39.86667,
+    20.3
+],
+  "geometry": {"coordinates":[39.86667,20.3],"type":"Point"}
+}

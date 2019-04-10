@@ -1,0 +1,74 @@
+{
+  "id": 1242936743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96762,16.52942,42.96762,16.52942",
+    "geom:latitude":16.52942,
+    "geom:longitude":42.96762,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"At Tuwal",
+    "gn:country_code":"SA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411006,
+    "gn:latitude":16.52942,
+    "gn:longitude":42.96762,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"A\u0163 \u0162uw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u0163 \u0162uw\u0101l"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0648\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411006,
+        "wk:page":"At_Tuwal"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f7d44b44c823f415003d374c043520dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720759,
+            "locality_id":1242936743,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1242936743,
+    "wof:lastmodified":1537699336,
+    "wof:name":"At Tuwal",
+    "wof:parent_id":1108720759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96762,
+    16.52942,
+    42.96762,
+    16.52942
+],
+  "geometry": {"coordinates":[42.96762,16.52942],"type":"Point"}
+}

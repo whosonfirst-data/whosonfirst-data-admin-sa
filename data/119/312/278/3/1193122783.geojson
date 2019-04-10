@@ -1,0 +1,73 @@
+{
+  "id": 1193122783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00258,25.38062,43.00258,25.38062",
+    "geom:latitude":25.38062,
+    "geom:longitude":43.00258,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Muzayfir",
+    "gn:country_code":"SA",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395622,
+    "gn:latitude":25.38062,
+    "gn:longitude":43.00258,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Muz\u0327ayf\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0638\u064a\u0641\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Muz\u0327ayf\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395622
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f0cb7e3a53b0fc965397c0bf16d39f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1193122783,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1193122783,
+    "wof:lastmodified":1537699300,
+    "wof:name":"Muzayfir",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00258,
+    25.38062,
+    43.00258,
+    25.38062
+],
+  "geometry": {"coordinates":[43.00258,25.38062],"type":"Point"}
+}

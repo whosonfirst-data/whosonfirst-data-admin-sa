@@ -1,0 +1,70 @@
+{
+  "id": 1242671497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.24423,26.36762,47.24423,26.36762",
+    "geom:latitude":26.36762,
+    "geom:longitude":47.24423,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Shawyah",
+    "gn:country_code":"SA",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102108,
+    "gn:latitude":26.36762,
+    "gn:longitude":47.24423,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Shawyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u064a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102108
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0ef636c500ede2dae95af4c9601e9f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720751,
+            "locality_id":1242671497,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1242671497,
+    "wof:lastmodified":1537699176,
+    "wof:name":"Shawyah",
+    "wof:parent_id":1108720751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.24423,
+    26.36762,
+    47.24423,
+    26.36762
+],
+  "geometry": {"coordinates":[47.24423,26.36762],"type":"Point"}
+}

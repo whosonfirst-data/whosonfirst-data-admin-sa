@@ -1,0 +1,70 @@
+{
+  "id": 1243428249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.20857,21.39676,39.20857,21.39676",
+    "geom:latitude":21.39676,
+    "geom:longitude":39.20857,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tuhamah",
+    "gn:country_code":"SA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410048,
+    "gn:latitude":21.39676,
+    "gn:longitude":39.20857,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tu\u1e29amah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu\u1e29amah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410048
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"da182885ebe7be22c0177e435a34712c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":1243428249,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1243428249,
+    "wof:lastmodified":1537699332,
+    "wof:name":"Tuhamah",
+    "wof:parent_id":1108720715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.20857,
+    21.39676,
+    39.20857,
+    21.39676
+],
+  "geometry": {"coordinates":[39.20857,21.39676],"type":"Point"}
+}

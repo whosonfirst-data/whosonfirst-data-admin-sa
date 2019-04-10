@@ -1,0 +1,70 @@
+{
+  "id": 1242867981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2636,24.23192,47.2636,24.23192",
+    "geom:latitude":24.23192,
+    "geom:longitude":47.2636,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Barrah",
+    "gn:country_code":"SA",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9642381,
+    "gn:latitude":24.23192,
+    "gn:longitude":47.2636,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Al Barrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9642381
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5bfc5f3d9a012b4f0a5d3ac72383a1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1242867981,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1242867981,
+    "wof:lastmodified":1537699346,
+    "wof:name":"Al Barrah",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2636,
+    24.23192,
+    47.2636,
+    24.23192
+],
+  "geometry": {"coordinates":[47.2636,24.23192],"type":"Point"}
+}

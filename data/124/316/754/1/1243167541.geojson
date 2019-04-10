@@ -1,0 +1,73 @@
+{
+  "id": 1243167541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.36089,25.77336,43.36089,25.77336",
+    "geom:latitude":25.77336,
+    "geom:longitude":43.36089,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Qaw`i",
+    "gn:country_code":"SA",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396462,
+    "gn:latitude":25.77336,
+    "gn:longitude":43.36089,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al Qaw\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Qaw\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396462
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"95623cf15f549c882639c9d5c5b48505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720653,
+            "locality_id":1243167541,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1243167541,
+    "wof:lastmodified":1537699309,
+    "wof:name":"Al Qaw`i",
+    "wof:parent_id":1108720653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.36089000000001,
+    25.77336,
+    43.36089000000001,
+    25.77336
+],
+  "geometry": {"coordinates":[43.36089000000001,25.77336],"type":"Point"}
+}

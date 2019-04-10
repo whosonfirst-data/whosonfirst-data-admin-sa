@@ -1,0 +1,70 @@
+{
+  "id": 1226052759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.88333,24.71667,42.88333,24.71667",
+    "geom:latitude":24.71667,
+    "geom:longitude":42.88333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Mutaywi",
+    "gn:country_code":"SA",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109006,
+    "gn:latitude":24.71667,
+    "gn:longitude":42.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mu\u0163ayw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mu\u0163ayw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109006
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d07ff71ceb9e29955a23a0d559667a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720653,
+            "locality_id":1226052759,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1226052759,
+    "wof:lastmodified":1537699249,
+    "wof:name":"Al Mutaywi",
+    "wof:parent_id":1108720653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.88333,
+    24.71667,
+    42.88333,
+    24.71667
+],
+  "geometry": {"coordinates":[42.88333,24.71667],"type":"Point"}
+}

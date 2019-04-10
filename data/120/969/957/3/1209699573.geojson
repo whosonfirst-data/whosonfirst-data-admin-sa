@@ -1,0 +1,73 @@
+{
+  "id": 1209699573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.34062,24.47749,46.34062,24.47749",
+    "geom:latitude":24.47749,
+    "geom:longitude":46.34062,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qasr Ibn Shuhayl",
+    "gn:country_code":"SA",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397159,
+    "gn:latitude":24.47749,
+    "gn:longitude":46.34062,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Qa\u015fr Ibn Shuhayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0627\u0628\u0646 \u0634\u0647\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qa\u015fr Ibn Shuhayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397159
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d8d68a9a61540085f418687b32c4a3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720621,
+            "locality_id":1209699573,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209699573,
+    "wof:lastmodified":1537699315,
+    "wof:name":"Qasr Ibn Shuhayl",
+    "wof:parent_id":1108720621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.34062,
+    24.47749,
+    46.34062,
+    24.47749
+],
+  "geometry": {"coordinates":[46.34062,24.47749],"type":"Point"}
+}

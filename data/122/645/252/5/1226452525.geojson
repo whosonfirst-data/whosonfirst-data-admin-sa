@@ -1,0 +1,70 @@
+{
+  "id": 1226452525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.9663,19.30003,41.9663,19.30003",
+    "geom:latitude":19.30003,
+    "geom:longitude":41.9663,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Shumran",
+    "gn:country_code":"SA",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101986,
+    "gn:latitude":19.30003,
+    "gn:longitude":41.9663,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shumr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shumr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101986
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"bb4cac99b2664f2ff8bd471407cc0618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720609,
+            "locality_id":1226452525,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1226452525,
+    "wof:lastmodified":1537699175,
+    "wof:name":"Shumran",
+    "wof:parent_id":1108720609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.9663,
+    19.30003,
+    41.9663,
+    19.30003
+],
+  "geometry": {"coordinates":[41.9663,19.30003],"type":"Point"}
+}

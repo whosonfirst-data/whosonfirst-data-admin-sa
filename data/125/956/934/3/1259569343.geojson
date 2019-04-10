@@ -1,0 +1,75 @@
+{
+  "id": 1259569343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.94545,28.013,40.94545,28.013",
+    "geom:latitude":28.013,
+    "geom:longitude":40.94545,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Jubbah",
+    "gn:country_code":"SA",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":105286,
+    "gn:latitude":28.013,
+    "gn:longitude":40.94545,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Jubbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064f\u0628\u0651\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Gubba",
+        "Jubba",
+        "Jubbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":105286
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"89574e685c9de757410c7ab110463264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1259569343,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1259569343,
+    "wof:lastmodified":1537699204,
+    "wof:name":"Jubbah",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.94545,
+    28.013,
+    40.94545,
+    28.013
+],
+  "geometry": {"coordinates":[40.94545,28.013],"type":"Point"}
+}

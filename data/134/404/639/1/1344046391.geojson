@@ -1,0 +1,67 @@
+{
+  "id": 1344046391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78596,23.74819,44.78596,23.74819",
+    "geom:latitude":23.74819,
+    "geom:longitude":44.78596,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ar Radah",
+    "gn:country_code":"SA",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399875,
+    "gn:latitude":23.74819,
+    "gn:longitude":44.78596,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Radah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399875
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a09c20fe9622f4a678e20195a4ac2369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1344046391,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1344046391,
+    "wof:lastmodified":1536895742,
+    "wof:name":"Ar Radah",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78596,
+    23.74819,
+    44.78596,
+    23.74819
+],
+  "geometry": {"coordinates":[44.78596,23.74819],"type":"Point"}
+}

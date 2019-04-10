@@ -1,0 +1,78 @@
+{
+  "id": 1344240655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81927,25.01792,43.81927,25.01792",
+    "geom:latitude":25.01792,
+    "geom:longitude":43.81927,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nifi",
+    "gn:country_code":"SA",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103671,
+    "gn:latitude":25.01792,
+    "gn:longitude":43.81927,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Nif\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Nif\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0650\u0641\u064a"
+    ],
+    "name:und_x_variant":[
+        "Naf\u012b",
+        "Niffi",
+        "An Naf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103671
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"40466265cbf8dafd2129b9aee62122bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1344240655,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1344240655,
+    "wof:lastmodified":1537699191,
+    "wof:name":"Nifi",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81927,
+    25.01792,
+    43.81927,
+    25.01792
+],
+  "geometry": {"coordinates":[43.81927,25.01792],"type":"Point"}
+}

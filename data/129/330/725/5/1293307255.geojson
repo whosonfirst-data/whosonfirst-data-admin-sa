@@ -1,0 +1,66 @@
+{
+  "id": 1293307255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.53333,19.9,40.53333,19.9",
+    "geom:latitude":19.9,
+    "geom:longitude":40.53333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Misna",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104078,
+    "gn:latitude":19.9,
+    "gn:longitude":40.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Misna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jelajil",
+        "Misna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104078
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"53a7f97dfbd4177593b937a82980c229",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293307255,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293307255,
+    "wof:lastmodified":1537699193,
+    "wof:name":"Misna",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.53333,
+    19.9,
+    40.53333,
+    19.9
+],
+  "geometry": {"coordinates":[40.53333,19.9],"type":"Point"}
+}

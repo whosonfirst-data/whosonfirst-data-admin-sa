@@ -1,0 +1,73 @@
+{
+  "id": 1243077819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.14444,26.82809,42.14444,26.82809",
+    "geom:latitude":26.82809,
+    "geom:longitude":42.14444,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"As Safra'",
+    "gn:country_code":"SA",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108134,
+    "gn:latitude":26.82809,
+    "gn:longitude":42.14444,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"A\u015f \u015eafr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eafr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108134
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"34a8560a8ef52b1722aa1b4572520c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1243077819,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1243077819,
+    "wof:lastmodified":1537699230,
+    "wof:name":"As Safra'",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.14444,
+    26.82809,
+    42.14444,
+    26.82809
+],
+  "geometry": {"coordinates":[42.14444,26.82809],"type":"Point"}
+}

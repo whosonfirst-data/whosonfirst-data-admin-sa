@@ -1,0 +1,70 @@
+{
+  "id": 1225829029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.44472,24.39611,44.44472,24.39611",
+    "geom:latitude":24.39611,
+    "geom:longitude":44.44472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hamrurah",
+    "gn:country_code":"SA",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106135,
+    "gn:latitude":24.39611,
+    "gn:longitude":44.44472,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"\u1e28amr\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28amr\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106135
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2f0f9114c80bb6c81a2a1d99b36b67df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1225829029,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1225829029,
+    "wof:lastmodified":1537699211,
+    "wof:name":"Hamrurah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.44472,
+    24.39611,
+    44.44472,
+    24.39611
+],
+  "geometry": {"coordinates":[44.44472,24.39611],"type":"Point"}
+}

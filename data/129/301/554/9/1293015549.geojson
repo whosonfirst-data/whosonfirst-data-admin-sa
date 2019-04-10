@@ -1,0 +1,71 @@
+{
+  "id": 1293015549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.74837,17.25197,42.74837,17.25197",
+    "geom:latitude":17.25197,
+    "geom:longitude":42.74837,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Husayniyah",
+    "gn:country_code":"SA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109548,
+    "gn:latitude":17.25197,
+    "gn:longitude":42.74837,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28usayn\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Husainiya",
+        "Al \u1e28usayn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109548
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"60e5f0e5c4ba3f11af856b5fe4a59051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720753,
+            "locality_id":1293015549,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1293015549,
+    "wof:lastmodified":1537699261,
+    "wof:name":"Al Husayniyah",
+    "wof:parent_id":1108720753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.74837,
+    17.25197,
+    42.74837,
+    17.25197
+],
+  "geometry": {"coordinates":[42.74837,17.25197],"type":"Point"}
+}

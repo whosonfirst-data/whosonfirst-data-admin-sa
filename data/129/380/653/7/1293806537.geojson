@@ -1,0 +1,74 @@
+{
+  "id": 1293806537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.49892,24.39372,39.49892,24.39372",
+    "geom:latitude":24.39372,
+    "geom:longitude":39.49892,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Abu Kabir",
+    "gn:country_code":"SA",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9616361,
+    "gn:latitude":24.39372,
+    "gn:longitude":39.49892,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Abu Kabir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Kab\u012br",
+        "Abu Kabir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9616361
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9f39aea1670f2dc1cd8a7952eacea381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1293806537,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1293806537,
+    "wof:lastmodified":1537699346,
+    "wof:name":"Abu Kabir",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.49892,
+    24.39372,
+    39.49892,
+    24.39372
+],
+  "geometry": {"coordinates":[39.49892,24.39372],"type":"Point"}
+}

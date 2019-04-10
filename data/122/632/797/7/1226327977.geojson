@@ -1,0 +1,76 @@
+{
+  "id": 1226327977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.73024,25.38666,42.73024,25.38666",
+    "geom:latitude":25.38666,
+    "geom:longitude":42.73024,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Jardhawiyah",
+    "gn:country_code":"SA",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109406,
+    "gn:latitude":25.38666,
+    "gn:longitude":42.73024,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Al Jardh\u0101w\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0630\u0627\u0648\u064a\u0651\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jird\u0101w\u012bjah",
+        "Al Jurdh\u0101w\u012byah",
+        "Jard\u0101w\u012byah",
+        "Al Jardh\u0101w\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109406
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"eb00e87d149d2e29f83008ec1fab2ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1226327977,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1226327977,
+    "wof:lastmodified":1537699258,
+    "wof:name":"Al Jardhawiyah",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.73024,
+    25.38666,
+    42.73024,
+    25.38666
+],
+  "geometry": {"coordinates":[42.73024,25.38666],"type":"Point"}
+}

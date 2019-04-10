@@ -1,0 +1,73 @@
+{
+  "id": 1209607771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86337,25.97532,48.86337,25.97532",
+    "geom:latitude":25.97532,
+    "geom:longitude":48.86337,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Umm Tali`",
+    "gn:country_code":"SA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":398394,
+    "gn:latitude":25.97532,
+    "gn:longitude":48.86337,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Umm T\u0101li\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm T\u0101li\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645 \u062a\u0627\u0644\u0639"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":398394
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"96ded0e1dba64308cffa1663926a696f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1209607771,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1209607771,
+    "wof:lastmodified":1548455927,
+    "wof:name":"Umm Tali`",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86337,
+    25.97532,
+    48.86337,
+    25.97532
+],
+  "geometry": {"coordinates":[48.86337,25.97532],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293783145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.64325,23.80978,39.64325,23.80978",
+    "geom:latitude":23.80978,
+    "geom:longitude":39.64325,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Kitimah",
+    "gn:country_code":"SA",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410187,
+    "gn:latitude":23.80978,
+    "gn:longitude":39.64325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kitimah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410187
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e5438211db25a523e5e7f139eb6fefe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1293783145,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1293783145,
+    "wof:lastmodified":1536856672,
+    "wof:name":"Al Kitimah",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.64325,
+    23.80978,
+    39.64325,
+    23.80978
+],
+  "geometry": {"coordinates":[39.64325,23.80978],"type":"Point"}
+}

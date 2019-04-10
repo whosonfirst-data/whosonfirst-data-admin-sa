@@ -1,0 +1,73 @@
+{
+  "id": 1242692521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22969,26.79029,43.22969,26.79029",
+    "geom:latitude":26.79029,
+    "geom:longitude":43.22969,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Mukharim",
+    "gn:country_code":"SA",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397544,
+    "gn:latitude":26.79029,
+    "gn:longitude":43.22969,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Mukharim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062e\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Mukharrim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397544
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"09a7f715b050af84a9452b0b2712ae94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720787,
+            "locality_id":1242692521,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1242692521,
+    "wof:lastmodified":1537699319,
+    "wof:name":"Al Mukharim",
+    "wof:parent_id":1108720787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22969000000001,
+    26.79029,
+    43.22969000000001,
+    26.79029
+],
+  "geometry": {"coordinates":[43.22969000000001,26.79029],"type":"Point"}
+}

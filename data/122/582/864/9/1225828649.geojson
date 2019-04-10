@@ -1,0 +1,71 @@
+{
+  "id": 1225828649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.51667,21.21667,40.51667,21.21667",
+    "geom:latitude":21.21667,
+    "geom:longitude":40.51667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Fatat",
+    "gn:country_code":"SA",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109816,
+    "gn:latitude":21.21667,
+    "gn:longitude":40.51667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Fat\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Fat\u0101h",
+        "Al Fat\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109816
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"cfc5b9b7e9e8a56749a63202e762efd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1225828649,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1225828649,
+    "wof:lastmodified":1537699267,
+    "wof:name":"Al Fatat",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.51667,
+    21.21667,
+    40.51667,
+    21.21667
+],
+  "geometry": {"coordinates":[40.51667,21.21667],"type":"Point"}
+}

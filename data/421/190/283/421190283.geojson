@@ -1,0 +1,75 @@
+{
+  "id": 421190283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.0537965,26.715713,50.0537965,26.715713",
+    "geom:latitude":26.715713,
+    "geom:longitude":50.053796,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0631\u0627\u0633 \u062a\u0646\u0648\u0631\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photos":126,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":126,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119462,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":1939172,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1939172,
+        "qs:id":1119462
+    },
+    "wof:country":"SA",
+    "wof:created":1459009653,
+    "wof:geomhash":"23d891cb0ab5917f7921f62fd455f710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720745,
+            "locality_id":421190283,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":421190283,
+    "wof:lastmodified":1500025315,
+    "wof:name":"\u0631\u0627\u0633 \u062a\u0646\u0648\u0631\u0629",
+    "wof:parent_id":1108720745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0537965,
+    26.715713,
+    50.0537965,
+    26.715713
+],
+  "geometry": {"coordinates":[50.0537965,26.715713],"type":"Point"}
+}

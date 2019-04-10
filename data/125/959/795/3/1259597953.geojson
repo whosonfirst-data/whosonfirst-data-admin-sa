@@ -1,0 +1,71 @@
+{
+  "id": 1259597953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.26667,17.98333,42.26667,17.98333",
+    "geom:latitude":17.98333,
+    "geom:longitude":42.26667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"`Ainah",
+    "gn:country_code":"SA",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110210,
+    "gn:latitude":17.98333,
+    "gn:longitude":42.26667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018\u0100inah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayinah",
+        "\u2018\u0100inah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110210
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5009a01ae9d85383eddf6942d6cb7921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720747,
+            "locality_id":1259597953,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1259597953,
+    "wof:lastmodified":1537699276,
+    "wof:name":"`Ainah",
+    "wof:parent_id":1108720747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.26667,
+    17.98333,
+    42.26667,
+    17.98333
+],
+  "geometry": {"coordinates":[42.26667,17.98333],"type":"Point"}
+}

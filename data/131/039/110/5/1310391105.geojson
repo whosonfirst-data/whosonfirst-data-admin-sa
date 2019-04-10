@@ -1,0 +1,70 @@
+{
+  "id": 1310391105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.30981,25.9431,42.30981,25.9431",
+    "geom:latitude":25.9431,
+    "geom:longitude":42.30981,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Bakrah",
+    "gn:country_code":"SA",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396157,
+    "gn:latitude":25.9431,
+    "gn:longitude":42.30981,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al Bakrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0643\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396157
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"45cef8f3451bd6468fd1f5a7ebdc4513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720749,
+            "locality_id":1310391105,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1310391105,
+    "wof:lastmodified":1537699306,
+    "wof:name":"Al Bakrah",
+    "wof:parent_id":1108720749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.30981,
+    25.9431,
+    42.30981,
+    25.9431
+],
+  "geometry": {"coordinates":[42.30981,25.9431],"type":"Point"}
+}

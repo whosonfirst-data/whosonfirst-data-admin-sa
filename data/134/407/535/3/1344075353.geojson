@@ -1,0 +1,70 @@
+{
+  "id": 1344075353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.51667,20.03333,41.51667,20.03333",
+    "geom:latitude":20.03333,
+    "geom:longitude":41.51667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Qazzahah",
+    "gn:country_code":"SA",
+    "gn:dem":2055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108916,
+    "gn:latitude":20.03333,
+    "gn:longitude":41.51667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Qazz\u0101\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qazz\u0101\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108916
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"63e1695dfd6e248e457883c1902dac1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720567,
+            "locality_id":1344075353,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1344075353,
+    "wof:lastmodified":1537699246,
+    "wof:name":"Al Qazzahah",
+    "wof:parent_id":1108720567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.51667,
+    20.03333,
+    41.51667,
+    20.03333
+],
+  "geometry": {"coordinates":[41.51667,20.03333],"type":"Point"}
+}

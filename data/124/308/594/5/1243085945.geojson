@@ -1,0 +1,73 @@
+{
+  "id": 1243085945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.14382,26.8862,43.14382,26.8862",
+    "geom:latitude":26.8862,
+    "geom:longitude":43.14382,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Faydat Yaklib",
+    "gn:country_code":"SA",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397707,
+    "gn:latitude":26.8862,
+    "gn:longitude":43.14382,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Fay\u1e11at Yaklib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0636\u0629 \u064a\u0643\u0644\u0628"
+    ],
+    "name:und_x_variant":[
+        "Fay\u1e11at Yaklib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397707
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2080f470f8aa69b1be8bad8de0988564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720787,
+            "locality_id":1243085945,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1243085945,
+    "wof:lastmodified":1537699320,
+    "wof:name":"Faydat Yaklib",
+    "wof:parent_id":1108720787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.14382,
+    26.8862,
+    43.14382,
+    26.8862
+],
+  "geometry": {"coordinates":[43.14382,26.8862],"type":"Point"}
+}

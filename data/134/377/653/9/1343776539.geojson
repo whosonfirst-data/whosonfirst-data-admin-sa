@@ -1,0 +1,73 @@
+{
+  "id": 1343776539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.26288,19.54807,42.26288,19.54807",
+    "geom:latitude":19.54807,
+    "geom:longitude":42.26288,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Al Qawba'",
+    "gn:country_code":"SA",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019523,
+    "gn:latitude":19.54807,
+    "gn:longitude":42.26288,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Qawb\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0628\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Qawb\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019523
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6a5c95bb0292e34caf2344ea466429a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720681,
+            "locality_id":1343776539,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1343776539,
+    "wof:lastmodified":1537699344,
+    "wof:name":"Al Qawba'",
+    "wof:parent_id":1108720681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.26288,
+    19.54807000000001,
+    42.26288,
+    19.54807000000001
+],
+  "geometry": {"coordinates":[42.26288,19.54807000000001],"type":"Point"}
+}

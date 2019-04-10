@@ -1,0 +1,73 @@
+{
+  "id": 1310403481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.37827,27.93105,45.37827,27.93105",
+    "geom:latitude":27.93105,
+    "geom:longitude":45.37827,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dhabhah",
+    "gn:country_code":"SA",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391736,
+    "gn:latitude":27.93105,
+    "gn:longitude":45.37827,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Dhab\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0630\u0628\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dhab\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391736
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"dcd20b691cb3964a8b9b806d42b553fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":1310403481,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1310403481,
+    "wof:lastmodified":1537699283,
+    "wof:name":"Dhabhah",
+    "wof:parent_id":1108720699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.37827,
+    27.93105,
+    45.37827,
+    27.93105
+],
+  "geometry": {"coordinates":[45.37827,27.93105],"type":"Point"}
+}

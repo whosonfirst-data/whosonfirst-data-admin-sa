@@ -1,0 +1,103 @@
+{
+  "id": 85907409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9772580.613878,
+    "geom:bbox":"46.57731,24.73379,46.57731,24.73379",
+    "geom:latitude":24.73379,
+    "geom:longitude":46.57731,
+    "iso:country":"SA",
+    "lbl:latitude":24.73379,
+    "lbl:longitude":46.57731,
+    "mps:latitude":24.734359,
+    "mps:longitude":46.58789,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Al Marih"
+    ],
+    "name:unk_x_variant":[
+        "Al Marih"
+    ],
+    "qs:gn_adm0_cc":"SA",
+    "qs:gn_id":0,
+    "qs:gn_local":108410,
+    "qs:gn_nam_loc":"\u0627\u0644\u0631\u064a\u0627\u0636, \u0627\u0644\u0631\u064a\u0627\u0636, \u0627\u0644\u0631\u064a\u0627\u0636, SA",
+    "qs:gn_namadm1":"10",
+    "qs:id":0,
+    "qs:local_max":655,
+    "qs:local_sum":5321,
+    "qs:localhoods":54,
+    "qs:name":"Al Marih",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:name_adm2":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:name_local":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:photo_max":35,
+    "qs:photo_sum":122,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424938,
+    "qs:woe_adm1":2346951,
+    "qs:woe_adm2":56120189,
+    "qs:woe_lau":0,
+    "qs:woe_local":1939753,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720543,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725981
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"57bd023401dd8d1bc7332d0476992037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720543,
+            "locality_id":-1,
+            "neighbourhood_id":85907409,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":85907409,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936562,
+    "wof:name":"Al Marih",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.57731,
+    24.73379,
+    46.57731,
+    24.73379
+],
+  "geometry": {"coordinates":[46.57731,24.73379],"type":"Point"}
+}

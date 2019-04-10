@@ -1,0 +1,67 @@
+{
+  "id": 1293505575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.72667,18.63083,42.72667,18.63083",
+    "geom:latitude":18.63083,
+    "geom:longitude":42.72667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Bil Hasbil",
+    "gn:country_code":"SA",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107428,
+    "gn:latitude":18.63083,
+    "gn:longitude":42.72667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bil Hasbil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107428
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d5354ff2667bc75ab6d90b5adc5624df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720717,
+            "locality_id":1293505575,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1293505575,
+    "wof:lastmodified":1536761193,
+    "wof:name":"Bil Hasbil",
+    "wof:parent_id":1108720717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.72667,
+    18.63083,
+    42.72667,
+    18.63083
+],
+  "geometry": {"coordinates":[42.72667,18.63083],"type":"Point"}
+}

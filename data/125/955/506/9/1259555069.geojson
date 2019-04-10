@@ -1,0 +1,70 @@
+{
+  "id": 1259555069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.86044,16.7547,42.86044,16.7547",
+    "geom:latitude":16.7547,
+    "geom:longitude":42.86044,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ash Sha`fuliyah",
+    "gn:country_code":"SA",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410990,
+    "gn:latitude":16.7547,
+    "gn:longitude":42.86044,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Sha\u2018f\u016bl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sha\u2018f\u016bl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410990
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"15f1a0727fb616192333ae3505780de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720549,
+            "locality_id":1259555069,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1259555069,
+    "wof:lastmodified":1537699335,
+    "wof:name":"Ash Sha`fuliyah",
+    "wof:parent_id":1108720549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.86044,
+    16.7547,
+    42.86044,
+    16.7547
+],
+  "geometry": {"coordinates":[42.86044,16.7547],"type":"Point"}
+}

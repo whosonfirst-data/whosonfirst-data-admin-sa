@@ -1,0 +1,72 @@
+{
+  "id": 1293505581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.7,25.93333,40.7,25.93333",
+    "geom:latitude":25.93333,
+    "geom:longitude":40.7,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Hulayfa' Kharibah",
+    "gn:country_code":"SA",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":105764,
+    "gn:latitude":25.93333,
+    "gn:longitude":40.7,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28ulayf\u0101\u2019 Kh\u0101ribah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hulaifa Kharba",
+        "\u1e28ulayfah Kh\u0101ribah",
+        "\u1e28ulayf\u0101\u2019 Kh\u0101ribah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":105764
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"07292ec81442e16d6d3d1a50a6032e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720573,
+            "locality_id":1293505581,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1293505581,
+    "wof:lastmodified":1537699208,
+    "wof:name":"Hulayfa' Kharibah",
+    "wof:parent_id":1108720573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.7,
+    25.93333,
+    40.7,
+    25.93333
+],
+  "geometry": {"coordinates":[40.7,25.93333],"type":"Point"}
+}

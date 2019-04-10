@@ -1,0 +1,73 @@
+{
+  "id": 1293277937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.76958,25.75512,42.76958,25.75512",
+    "geom:latitude":25.75512,
+    "geom:longitude":42.76958,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"`Utayy",
+    "gn:country_code":"SA",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396273,
+    "gn:latitude":25.75512,
+    "gn:longitude":42.76958,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"\u2018U\u0163ayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0637\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018U\u0163ayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396273
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"467542087254ea189494c0aaf44c187d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1293277937,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1293277937,
+    "wof:lastmodified":1537699307,
+    "wof:name":"`Utayy",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.76958,
+    25.75512,
+    42.76958,
+    25.75512
+],
+  "geometry": {"coordinates":[42.76958,25.75512],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310320085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.57362,18.26268,42.57362,18.26268",
+    "geom:latitude":18.26268,
+    "geom:longitude":42.57362,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Ashram",
+    "gn:country_code":"SA",
+    "gn:dem":2138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110020,
+    "gn:latitude":18.26268,
+    "gn:longitude":42.57362,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ashram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lashram",
+        "Al Ashram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110020
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"12093faa05ce8ef9801bd3fa16e1fc9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1310320085,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1310320085,
+    "wof:lastmodified":1548452889,
+    "wof:name":"Al Ashram",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361026113
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.57362,
+    18.26268,
+    42.57362,
+    18.26268
+],
+  "geometry": {"coordinates":[42.57362,18.26268],"type":"Point"}
+}

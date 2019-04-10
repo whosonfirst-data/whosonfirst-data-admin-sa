@@ -1,0 +1,76 @@
+{
+  "id": 1276531765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4465,24.91116,46.4465,24.91116",
+    "geom:latitude":24.91116,
+    "geom:longitude":46.4465,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Jubaylah",
+    "gn:country_code":"SA",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109432,
+    "gn:latitude":24.91116,
+    "gn:longitude":46.4465,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Al Jubaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jubaila",
+        "Al Jubaila",
+        "Jabailah",
+        "Al Jubaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109432
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3be9edfb7dca943148389400496e18ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720543,
+            "locality_id":1276531765,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1276531765,
+    "wof:lastmodified":1537699259,
+    "wof:name":"Al Jubaylah",
+    "wof:parent_id":1108720543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4465,
+    24.91116,
+    46.4465,
+    24.91116
+],
+  "geometry": {"coordinates":[46.4465,24.91116],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226009559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.21833,30.24444,40.21833,30.24444",
+    "geom:latitude":30.24444,
+    "geom:longitude":40.21833,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Mazra`at Sultanah",
+    "gn:country_code":"SA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392869,
+    "gn:latitude":30.24444,
+    "gn:longitude":40.21833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mazra\u2018at Sul\u0163\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at Sul\u0163\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392869
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2a77b009e1580d09f9d5e58153a615ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720757,
+            "locality_id":1226009559,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1226009559,
+    "wof:lastmodified":1537699288,
+    "wof:name":"Mazra`at Sultanah",
+    "wof:parent_id":1108720757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.21833,
+    30.24444,
+    40.21833,
+    30.24444
+],
+  "geometry": {"coordinates":[40.21833,30.24444],"type":"Point"}
+}

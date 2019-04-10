@@ -1,0 +1,67 @@
+{
+  "id": 1260304141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1,19.31667,42.1,19.31667",
+    "geom:latitude":19.31667,
+    "geom:longitude":42.1,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Sahwah",
+    "gn:country_code":"SA",
+    "gn:dem":2432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102548,
+    "gn:latitude":19.31667,
+    "gn:longitude":42.1,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sahwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102548
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a0b4346e7ef1ad2929f03bf299dd22b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720649,
+            "locality_id":1260304141,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1260304141,
+    "wof:lastmodified":1536684160,
+    "wof:name":"Sahwah",
+    "wof:parent_id":1108720649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1,
+    19.31667,
+    42.1,
+    19.31667
+],
+  "geometry": {"coordinates":[42.1,19.31667],"type":"Point"}
+}

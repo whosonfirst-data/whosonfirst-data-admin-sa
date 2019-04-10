@@ -1,0 +1,73 @@
+{
+  "id": 1310519685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.33861,26.39389,42.33861,26.39389",
+    "geom:latitude":26.39389,
+    "geom:longitude":42.33861,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"An Nimriyah",
+    "gn:country_code":"SA",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108616,
+    "gn:latitude":26.39389,
+    "gn:longitude":42.33861,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"An Nimr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0645\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "An Nimr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108616
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3fdcdae0a8bc86f2259dd709f97aa8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720749,
+            "locality_id":1310519685,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1310519685,
+    "wof:lastmodified":1537699239,
+    "wof:name":"An Nimriyah",
+    "wof:parent_id":1108720749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.33861,
+    26.39389000000001,
+    42.33861,
+    26.39389000000001
+],
+  "geometry": {"coordinates":[42.33861,26.39389000000001],"type":"Point"}
+}

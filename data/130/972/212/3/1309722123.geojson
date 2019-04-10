@@ -1,0 +1,67 @@
+{
+  "id": 1309722123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.72444,17.96639,41.72444,17.96639",
+    "geom:latitude":17.96639,
+    "geom:longitude":41.72444,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Musaykah",
+    "gn:country_code":"SA",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400314,
+    "gn:latitude":17.96639,
+    "gn:longitude":41.72444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Musaykah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400314
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d1c47a355e088017982c1a3284bd7361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1309722123,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1309722123,
+    "wof:lastmodified":1537049547,
+    "wof:name":"Musaykah",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.72444,
+    17.96639,
+    41.72444,
+    17.96639
+],
+  "geometry": {"coordinates":[41.72444,17.96639],"type":"Point"}
+}

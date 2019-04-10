@@ -1,0 +1,72 @@
+{
+  "id": 1343645323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.78333,22.23333,46.78333,22.23333",
+    "geom:latitude":22.23333,
+    "geom:longitude":46.78333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qutayn",
+    "gn:country_code":"SA",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103066,
+    "gn:latitude":22.23333,
+    "gn:longitude":46.78333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Qu\u0163ayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qatain",
+        "Qutain",
+        "Qu\u0163ayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103066
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c25c3923c1ca5e7c3c6af885b8f5fd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720553,
+            "locality_id":1343645323,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1343645323,
+    "wof:lastmodified":1537699184,
+    "wof:name":"Qutayn",
+    "wof:parent_id":1108720553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.78333,
+    22.23333,
+    46.78333,
+    22.23333
+],
+  "geometry": {"coordinates":[46.78333,22.23333],"type":"Point"}
+}

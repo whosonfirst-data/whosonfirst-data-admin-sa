@@ -1,0 +1,71 @@
+{
+  "id": 1309688471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.02113,16.68092,43.02113,16.68092",
+    "geom:latitude":16.68092,
+    "geom:longitude":43.02113,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Abu Hajar al A`la",
+    "gn:country_code":"SA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110572,
+    "gn:latitude":16.68092,
+    "gn:longitude":43.02113,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ab\u016b \u1e28ajar al A\u2018l\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28ajar A\u2018l\u00e1",
+        "Ab\u016b \u1e28ajar al A\u2018l\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110572
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"cb4e3d091f233f5fb56f4c0978592b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720759,
+            "locality_id":1309688471,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1309688471,
+    "wof:lastmodified":1537699279,
+    "wof:name":"Abu Hajar al A`la",
+    "wof:parent_id":1108720759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.02113,
+    16.68092,
+    43.02113,
+    16.68092
+],
+  "geometry": {"coordinates":[43.02113,16.68092],"type":"Point"}
+}

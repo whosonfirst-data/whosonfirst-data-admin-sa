@@ -1,0 +1,76 @@
+{
+  "id": 421174907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.192663,21.4853305,39.192663,21.4853305",
+    "geom:latitude":21.48533,
+    "geom:longitude":39.192663,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u0635\u062d\u064a\u0641\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0645\u0643\u0629",
+    "qs:photos":12,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":347101,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":22726097,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726097,
+        "qs:id":347101
+    },
+    "wof:country":"SA",
+    "wof:created":1459009048,
+    "wof:geomhash":"c78214ab46c22e2b8d7f06d96af74cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":-1,
+            "neighbourhood_id":421174907,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":421174907,
+    "wof:lastmodified":1531858409,
+    "wof:name":"\u0627\u0644\u0635\u062d\u064a\u0641\u0629",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.192663,
+    21.4853305,
+    39.192663,
+    21.4853305
+],
+  "geometry": {"coordinates":[39.192663,21.4853305],"type":"Point"}
+}

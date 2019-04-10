@@ -1,0 +1,70 @@
+{
+  "id": 1344152517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.94722,24.01694,44.94722,24.01694",
+    "geom:latitude":24.01694,
+    "geom:longitude":44.94722,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Marjan",
+    "gn:country_code":"SA",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104348,
+    "gn:latitude":24.01694,
+    "gn:longitude":44.94722,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Marj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104348
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"00e41d65a0c8a74e7a2ace57fb7fbf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1344152517,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1344152517,
+    "wof:lastmodified":1537699195,
+    "wof:name":"Marjan",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.94722,
+    24.01694,
+    44.94722,
+    24.01694
+],
+  "geometry": {"coordinates":[44.94722,24.01694],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276328171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.40105,25.44702,45.40105,25.44702",
+    "geom:latitude":25.44702,
+    "geom:longitude":45.40105,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Hurayyiq",
+    "gn:country_code":"SA",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109551,
+    "gn:latitude":25.44702,
+    "gn:longitude":45.40105,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al \u1e28urayyiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Haraiyiq",
+        "Al \u1e28urayq",
+        "Huraiyiq",
+        "Al Huraiyiq",
+        "\u1e28urayiq",
+        "Al \u1e28urayyiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109551
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"cdb5774b935b3b99dc10c470360934b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720763,
+            "locality_id":1276328171,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1276328171,
+    "wof:lastmodified":1537699261,
+    "wof:name":"Al Hurayyiq",
+    "wof:parent_id":1108720763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.40105,
+    25.44702,
+    45.40105,
+    25.44702
+],
+  "geometry": {"coordinates":[45.40105,25.44702],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259793707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35,17.98333,43.35,17.98333",
+    "geom:latitude":17.98333,
+    "geom:longitude":43.35,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ya`ud",
+    "gn:country_code":"SA",
+    "gn:dem":2289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100413,
+    "gn:latitude":17.98333,
+    "gn:longitude":43.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ya\u2018u\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ya\u2018udh",
+        "Ya\u2018u\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100413
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b2c8e698f9a86ac59880c8623b4c3e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720797,
+            "locality_id":1259793707,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1259793707,
+    "wof:lastmodified":1537699163,
+    "wof:name":"Ya`ud",
+    "wof:parent_id":1108720797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35,
+    17.98333,
+    43.35,
+    17.98333
+],
+  "geometry": {"coordinates":[43.35,17.98333],"type":"Point"}
+}

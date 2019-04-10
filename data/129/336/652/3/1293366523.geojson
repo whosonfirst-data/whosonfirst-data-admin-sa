@@ -1,0 +1,70 @@
+{
+  "id": 1293366523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21782,16.784,43.21782,16.784",
+    "geom:latitude":16.784,
+    "geom:longitude":43.21782,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"`Ajam",
+    "gn:country_code":"SA",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411071,
+    "gn:latitude":16.784,
+    "gn:longitude":43.21782,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Ajam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ajam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411071
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1b39706a15ec265b78a86eca80fc7773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720579,
+            "locality_id":1293366523,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1293366523,
+    "wof:lastmodified":1537699336,
+    "wof:name":"`Ajam",
+    "wof:parent_id":1108720579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21782,
+    16.784,
+    43.21782,
+    16.784
+],
+  "geometry": {"coordinates":[43.21782,16.784],"type":"Point"}
+}

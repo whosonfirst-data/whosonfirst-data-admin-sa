@@ -1,0 +1,70 @@
+{
+  "id": 1259397357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.41076,30.42019,38.41076,30.42019",
+    "geom:latitude":30.42019,
+    "geom:longitude":38.41076,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"An Nibaj",
+    "gn:country_code":"SA",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392476,
+    "gn:latitude":30.42019,
+    "gn:longitude":38.41076,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An Nib\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "An Nib\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392476
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5890e006f4fc9b614bf8334314b46812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720757,
+            "locality_id":1259397357,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1259397357,
+    "wof:lastmodified":1537699286,
+    "wof:name":"An Nibaj",
+    "wof:parent_id":1108720757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.41076,
+    30.42019,
+    38.41076,
+    30.42019
+],
+  "geometry": {"coordinates":[38.41076,30.42019],"type":"Point"}
+}

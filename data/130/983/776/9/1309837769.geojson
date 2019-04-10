@@ -1,0 +1,70 @@
+{
+  "id": 1309837769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.58333,24.61667,38.58333,24.61667",
+    "geom:latitude":24.61667,
+    "geom:longitude":38.58333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Yarfa`",
+    "gn:country_code":"SA",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100419,
+    "gn:latitude":24.61667,
+    "gn:longitude":38.58333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yarfa\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yarfa\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100419
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"bec5b12fa00fc7841042fc99f04f1ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720795,
+            "locality_id":1309837769,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1309837769,
+    "wof:lastmodified":1537699163,
+    "wof:name":"Yarfa`",
+    "wof:parent_id":1108720795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.58333,
+    24.61667000000001,
+    38.58333,
+    24.61667000000001
+],
+  "geometry": {"coordinates":[38.58333,24.61667000000001],"type":"Point"}
+}

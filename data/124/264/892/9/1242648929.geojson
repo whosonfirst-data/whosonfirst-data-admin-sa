@@ -1,0 +1,71 @@
+{
+  "id": 1242648929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.76528,16.55806,42.76528,16.55806",
+    "geom:latitude":16.55806,
+    "geom:longitude":42.76528,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Al Hanashah",
+    "gn:country_code":"SA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411003,
+    "gn:latitude":16.55806,
+    "gn:longitude":42.76528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28an\u0101shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28an\u0101shah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411003,
+        "wk:page":"Al_Hanashah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c6a3bc2217b50bf115c9b17c2b5e0399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720759,
+            "locality_id":1242648929,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1242648929,
+    "wof:lastmodified":1537699336,
+    "wof:name":"Al Hanashah",
+    "wof:parent_id":1108720759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.76528,
+    16.55806,
+    42.76528,
+    16.55806
+],
+  "geometry": {"coordinates":[42.76528,16.55806],"type":"Point"}
+}

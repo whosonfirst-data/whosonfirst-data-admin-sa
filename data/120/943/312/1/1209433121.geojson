@@ -1,0 +1,67 @@
+{
+  "id": 1209433121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46572,17.9478,43.46572,17.9478",
+    "geom:latitude":17.9478,
+    "geom:longitude":43.46572,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Hafir",
+    "gn:country_code":"SA",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106294,
+    "gn:latitude":17.9478,
+    "gn:longitude":43.46572,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hafir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106294
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a72cbd6824a910d0cb4fafc6ee08c57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720797,
+            "locality_id":1209433121,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1209433121,
+    "wof:lastmodified":1548455917,
+    "wof:name":"Hafir",
+    "wof:parent_id":1108720797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46572000000001,
+    17.9478,
+    43.46572000000001,
+    17.9478
+],
+  "geometry": {"coordinates":[43.46572000000001,17.9478],"type":"Point"}
+}

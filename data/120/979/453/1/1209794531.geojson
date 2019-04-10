@@ -1,0 +1,72 @@
+{
+  "id": 1209794531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.32015,22.15553,39.32015,22.15553",
+    "geom:latitude":22.15553,
+    "geom:longitude":39.32015,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Khulays",
+    "gn:country_code":"SA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104923,
+    "gn:latitude":22.15553,
+    "gn:longitude":39.32015,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khulay\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khulais",
+        "Khulay\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104923,
+        "wk:page":"Khulays"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ac611eba4c07f070f5575749ee5fa7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720725,
+            "locality_id":1209794531,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1209794531,
+    "wof:lastmodified":1537699201,
+    "wof:name":"Khulays",
+    "wof:parent_id":1108720725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.32015,
+    22.15553,
+    39.32015,
+    22.15553
+],
+  "geometry": {"coordinates":[39.32015,22.15553],"type":"Point"}
+}

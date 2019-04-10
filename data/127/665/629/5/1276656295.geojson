@@ -1,0 +1,70 @@
+{
+  "id": 1276656295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02078,24.33732,39.02078,24.33732",
+    "geom:latitude":24.33732,
+    "geom:longitude":39.02078,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Hzm",
+    "gn:country_code":"SA",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8436689,
+    "gn:latitude":24.33732,
+    "gn:longitude":39.02078,
+    "gn:modification_date":"2013-01-21",
+    "gn:name":"Al Hzm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Hzm \u0627\u0644\u0647\u0632\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436689
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4e1968d1940ff884000ff1c636ec7cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1276656295,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1276656295,
+    "wof:lastmodified":1537699344,
+    "wof:name":"Al Hzm",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02078,
+    24.33732,
+    39.02078,
+    24.33732
+],
+  "geometry": {"coordinates":[39.02078,24.33732],"type":"Point"}
+}

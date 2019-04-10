@@ -1,0 +1,81 @@
+{
+  "id": 1126041483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.09599,22.59246,54.09599,22.59246",
+    "geom:latitude":22.59246,
+    "geom:longitude":54.09599,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1000,
+    "gn:population":1000,
+    "iso:country":"SA",
+    "lbl:latitude":22.59246,
+    "lbl:longitude":54.09599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0439\u0431\u0430"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7288343,
+    "qs_pg:gn_pop":1000,
+    "qs_pg:name":"Shaybah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":671713,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7288343,
+        "qs_pg:id":671713
+    },
+    "wof:country":"SA",
+    "wof:created":1497302185,
+    "wof:geomhash":"295f3366505fda39ca7b35498882a184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1126041483,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1126041483,
+    "wof:lastmodified":1509408537,
+    "wof:name":"Shaybah",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.09599,
+    22.59246,
+    54.09599,
+    22.59246
+],
+  "geometry": {"coordinates":[54.09599,22.59246],"type":"Point"}
+}

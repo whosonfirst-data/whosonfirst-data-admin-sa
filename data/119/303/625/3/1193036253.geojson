@@ -1,0 +1,76 @@
+{
+  "id": 1193036253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.24488,24.20602,47.24488,24.20602",
+    "geom:latitude":24.20602,
+    "geom:longitude":47.24488,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Firzan",
+    "gn:country_code":"SA",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414163,
+    "gn:latitude":24.20602,
+    "gn:longitude":47.24488,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Firz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Firz\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0631\u0632\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Farzan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414163
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6c1007f8c05b0a4ceec9dbddf12ee617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1193036253,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1193036253,
+    "wof:lastmodified":1537699340,
+    "wof:name":"Firzan",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.24488,
+    24.20602,
+    47.24488,
+    24.20602
+],
+  "geometry": {"coordinates":[47.24488,24.20602],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259958697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.08194,21.28091,40.08194,21.28091",
+    "geom:latitude":21.28091,
+    "geom:longitude":40.08194,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Umm Hubaytir",
+    "gn:country_code":"SA",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410081,
+    "gn:latitude":21.28091,
+    "gn:longitude":40.08194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm \u1e28ubaytir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm \u1e28ubaytir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410081
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"fac37bef25bff0690591b6273183ebfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1259958697,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1259958697,
+    "wof:lastmodified":1537699333,
+    "wof:name":"Umm Hubaytir",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.08194,
+    21.28091,
+    40.08194,
+    21.28091
+],
+  "geometry": {"coordinates":[40.08194,21.28091],"type":"Point"}
+}

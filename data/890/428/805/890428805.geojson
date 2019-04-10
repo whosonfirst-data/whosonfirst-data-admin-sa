@@ -1,0 +1,69 @@
+{
+  "id": 890428805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.91639,26.65361,49.91639,26.65361",
+    "geom:latitude":26.65361,
+    "geom:longitude":49.91639,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
+    "gn:pop":11813,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Umm es Sahich"
+    ],
+    "qs:name":"Umm as S\u0101hik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101035,
+        "gp:id":1939492,
+        "qs:id":64709
+    },
+    "wof:country":"SA",
+    "wof:created":1469051773,
+    "wof:geomhash":"a367f63c2eccd3dc9cb929dbfc339c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":890428805,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":890428805,
+    "wof:lastmodified":1505343508,
+    "wof:name":"Umm as S\u0101hik",
+    "wof:parent_id":1108720627,
+    "wof:placetype":"locality",
+    "wof:population":11813,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.91639,
+    26.65361,
+    49.91639,
+    26.65361
+],
+  "geometry": {"coordinates":[49.91639,26.65361],"type":"Point"}
+}

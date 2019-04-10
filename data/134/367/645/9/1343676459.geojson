@@ -1,0 +1,79 @@
+{
+  "id": 1343676459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6312,26.49829,43.6312,26.49829",
+    "geom:latitude":26.49829,
+    "geom:longitude":43.6312,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"`Uyun al Jiwa'",
+    "gn:country_code":"SA",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108782,
+    "gn:latitude":26.49829,
+    "gn:longitude":43.6312,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"\u2018Uy\u016bn al Jiw\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Uy\u016bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u064f\u064a\u064f\u0648\u0646 \u0627\u0644\u062c\u0650\u0648\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "\u2019Ay\u016bn",
+        "\u2018Uyun",
+        "\u2018Uy\u016bn al Jiw\u0101\u2019",
+        "\u2018Uy\u016bn al Qas\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108782
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a74236ffd6aa17e96fe7d3b1c18e6293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720787,
+            "locality_id":1343676459,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1343676459,
+    "wof:lastmodified":1537699242,
+    "wof:name":"`Uyun al Jiwa'",
+    "wof:parent_id":1108720787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6312,
+    26.49829,
+    43.6312,
+    26.49829
+],
+  "geometry": {"coordinates":[43.6312,26.49829],"type":"Point"}
+}

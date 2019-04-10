@@ -1,0 +1,71 @@
+{
+  "id": 1310610963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18091,26.58031,44.18091,26.58031",
+    "geom:latitude":26.58031,
+    "geom:longitude":44.18091,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"As Sarif",
+    "gn:country_code":"SA",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":108102,
+    "gn:latitude":26.58031,
+    "gn:longitude":44.18091,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"A\u015f \u015ear\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sar\u012bf",
+        "A\u015f \u015ear\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108102
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"90d1d8f9707886123579c7ce60109ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":1310610963,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1310610963,
+    "wof:lastmodified":1537699229,
+    "wof:name":"As Sarif",
+    "wof:parent_id":1108720687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18091,
+    26.58031,
+    44.18091,
+    26.58031
+],
+  "geometry": {"coordinates":[44.18091,26.58031],"type":"Point"}
+}

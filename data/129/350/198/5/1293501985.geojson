@@ -1,0 +1,73 @@
+{
+  "id": 1293501985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76177,17.72537,43.76177,17.72537",
+    "geom:latitude":17.72537,
+    "geom:longitude":43.76177,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Al Khaniq",
+    "gn:country_code":"SA",
+    "gn:dem":1611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019512,
+    "gn:latitude":17.72537,
+    "gn:longitude":43.76177,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Kh\u0101niq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Kh\u0101niq"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0627\u0646\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676809,
+        1108720669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019512
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1e8f5f04dc4c31ccb614d17ac96b2dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720669,
+            "locality_id":1293501985,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":1293501985,
+    "wof:lastmodified":1537699343,
+    "wof:name":"Al Khaniq",
+    "wof:parent_id":1108720669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76177,
+    17.72537,
+    43.76177,
+    17.72537
+],
+  "geometry": {"coordinates":[43.76177,17.72537],"type":"Point"}
+}

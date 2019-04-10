@@ -1,0 +1,72 @@
+{
+  "id": 1276676195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53333,22.45,39.53333,22.45",
+    "geom:latitude":22.45,
+    "geom:longitude":39.53333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Qudayd",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103176,
+    "gn:latitude":22.45,
+    "gn:longitude":39.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qudayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudayd",
+        "Qudayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103176
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ded6fe8c27e4f8ab8c23b80b4ef53bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720725,
+            "locality_id":1276676195,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1276676195,
+    "wof:lastmodified":1537699186,
+    "wof:name":"Qudayd",
+    "wof:parent_id":1108720725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53333,
+    22.45,
+    39.53333,
+    22.45
+],
+  "geometry": {"coordinates":[39.53333,22.45],"type":"Point"}
+}

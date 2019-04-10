@@ -1,0 +1,73 @@
+{
+  "id": 1310323105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2563,18.85157,43.2563,18.85157",
+    "geom:latitude":18.85157,
+    "geom:longitude":43.2563,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Madhah",
+    "gn:country_code":"SA",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104638,
+    "gn:latitude":18.85157,
+    "gn:longitude":43.2563,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Madhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madhdha",
+        "Madhaha",
+        "Ma\u1e11\u1e29\u0101",
+        "Al Madhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104638
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d35d0248380fc1d7e557011c1e5e6e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720717,
+            "locality_id":1310323105,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1310323105,
+    "wof:lastmodified":1537699198,
+    "wof:name":"Al Madhah",
+    "wof:parent_id":1108720717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2563,
+    18.85157,
+    43.2563,
+    18.85157
+],
+  "geometry": {"coordinates":[43.2563,18.85157],"type":"Point"}
+}

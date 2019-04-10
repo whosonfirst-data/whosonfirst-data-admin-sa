@@ -1,0 +1,70 @@
+{
+  "id": 1243252515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.00972,23.44722,47.00972,23.44722",
+    "geom:latitude":23.44722,
+    "geom:longitude":47.00972,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dahl Hit",
+    "gn:country_code":"SA",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107158,
+    "gn:latitude":23.44722,
+    "gn:longitude":47.00972,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Da\u1e29l H\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da\u1e29l H\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107158
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"51817aa11d791d09f52ac1b2ebb656a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720707,
+            "locality_id":1243252515,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1243252515,
+    "wof:lastmodified":1537699219,
+    "wof:name":"Dahl Hit",
+    "wof:parent_id":1108720707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.00972,
+    23.44722,
+    47.00972,
+    23.44722
+],
+  "geometry": {"coordinates":[47.00972,23.44722],"type":"Point"}
+}

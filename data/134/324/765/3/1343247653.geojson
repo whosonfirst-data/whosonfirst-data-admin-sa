@@ -1,0 +1,73 @@
+{
+  "id": 1343247653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84603,25.48652,43.84603,25.48652",
+    "geom:latitude":25.48652,
+    "geom:longitude":43.84603,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"`Alba'",
+    "gn:country_code":"SA",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397625,
+    "gn:latitude":25.48652,
+    "gn:longitude":43.84603,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"\u2018Alb\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Alb\u0101\u2019"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u064e\u0644\u0628\u064e\u0627\u0621"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397625
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c982297a50562b0fdaa687cbe4eea834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720565,
+            "locality_id":1343247653,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1343247653,
+    "wof:lastmodified":1537699320,
+    "wof:name":"`Alba'",
+    "wof:parent_id":1108720565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84603,
+    25.48652,
+    43.84603,
+    25.48652
+],
+  "geometry": {"coordinates":[43.84603,25.48652],"type":"Point"}
+}

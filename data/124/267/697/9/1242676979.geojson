@@ -1,0 +1,71 @@
+{
+  "id": 1242676979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.25,25.11667,38.25,25.11667",
+    "geom:latitude":25.11667,
+    "geom:longitude":38.25,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Abu Markhah",
+    "gn:country_code":"SA",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110513,
+    "gn:latitude":25.11667,
+    "gn:longitude":38.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ab\u016b Markhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Markha",
+        "Ab\u016b Markhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110513
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c32d3699be7a744d427a8fb7ea43c0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720795,
+            "locality_id":1242676979,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1242676979,
+    "wof:lastmodified":1537699279,
+    "wof:name":"Abu Markhah",
+    "wof:parent_id":1108720795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.25,
+    25.11667000000001,
+    38.25,
+    25.11667000000001
+],
+  "geometry": {"coordinates":[38.25,25.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209830063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2515,27.41032,43.2515,27.41032",
+    "geom:latitude":27.41032,
+    "geom:longitude":43.2515,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"At Tulayhah",
+    "gn:country_code":"SA",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396220,
+    "gn:latitude":27.41032,
+    "gn:longitude":43.2515,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"A\u0163 \u0162ulay\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0651\u064f\u0644\u064e\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162ulay\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396220
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c5e28638edc4b428bb59a6141f96d3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1209830063,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1209830063,
+    "wof:lastmodified":1537699306,
+    "wof:name":"At Tulayhah",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2515,
+    27.41032,
+    43.2515,
+    27.41032
+],
+  "geometry": {"coordinates":[43.2515,27.41032],"type":"Point"}
+}

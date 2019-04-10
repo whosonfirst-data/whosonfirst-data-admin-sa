@@ -1,0 +1,71 @@
+{
+  "id": 1293015541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1708,22.72461,42.1708,22.72461",
+    "geom:latitude":22.72461,
+    "geom:longitude":42.1708,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Zalim",
+    "gn:country_code":"SA",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100369,
+    "gn:latitude":22.72461,
+    "gn:longitude":42.1708,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u0327alim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zulm",
+        "Z\u0327alim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100369
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b7f7b50a30fe8fe0bf34d62a33be7b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1293015541,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1293015541,
+    "wof:lastmodified":1537699162,
+    "wof:name":"Zalim",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1708,
+    22.72461,
+    42.1708,
+    22.72461
+],
+  "geometry": {"coordinates":[42.1708,22.72461],"type":"Point"}
+}

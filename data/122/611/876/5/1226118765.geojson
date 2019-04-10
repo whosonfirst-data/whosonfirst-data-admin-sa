@@ -1,0 +1,70 @@
+{
+  "id": 1226118765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.80444,16.87972,42.80444,16.87972",
+    "geom:latitude":16.87972,
+    "geom:longitude":42.80444,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Umm Hasan ar Rajhi",
+    "gn:country_code":"SA",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100985,
+    "gn:latitude":16.87972,
+    "gn:longitude":42.80444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm \u1e28asan ar Raj\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm \u1e28asan ar Raj\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100985
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d2497a277cdd6155c5dfa54b4f0aab02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720535,
+            "locality_id":1226118765,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1226118765,
+    "wof:lastmodified":1537699167,
+    "wof:name":"Umm Hasan ar Rajhi",
+    "wof:parent_id":1108720535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.80444,
+    16.87972,
+    42.80444,
+    16.87972
+],
+  "geometry": {"coordinates":[42.80444,16.87972],"type":"Point"}
+}

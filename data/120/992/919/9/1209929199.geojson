@@ -1,0 +1,72 @@
+{
+  "id": 1209929199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.68333,18.1,42.68333,18.1",
+    "geom:latitude":18.1,
+    "geom:longitude":42.68333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Qadhf",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":2213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108980,
+    "gn:latitude":18.1,
+    "gn:longitude":42.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Qadhf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qadhif",
+        "Al Qadhf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108980
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"63dd5002e659efb643152dd189b3399f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1209929199,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1209929199,
+    "wof:lastmodified":1537699248,
+    "wof:name":"Al Qadhf",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.68333,
+    18.1,
+    42.68333,
+    18.1
+],
+  "geometry": {"coordinates":[42.68333,18.1],"type":"Point"}
+}

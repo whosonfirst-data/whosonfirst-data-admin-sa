@@ -1,0 +1,113 @@
+{
+  "id": 85903013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7505996.362488,
+    "geom:bbox":"50.217329,26.188187,50.217329,26.188187",
+    "geom:latitude":26.188187,
+    "geom:longitude":50.217329,
+    "gn:id":"",
+    "iso:country":"SA",
+    "lbl:latitude":26.188187,
+    "lbl:longitude":50.217329,
+    "mps:latitude":26.191936,
+    "mps:longitude":50.217859,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_colloquial":[
+        "Mina' al Aziziyah"
+    ],
+    "name:eng_x_preferred":[
+        "Al Aziziyah"
+    ],
+    "name:eng_x_variant":[
+        "Al \u2018Aziziyah",
+        "Al \u2018Az\u012bz\u012byah",
+        "Aziziyah Terminal",
+        "Mina' al \u2018Aziziyah",
+        "M\u012bn\u0101' al \u2018Az\u012bz\u012byah"
+    ],
+    "name:unk_x_variant":[
+        "Al Aziziyah"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":293,
+    "qs:local_sum":1312,
+    "qs:localhoods":12,
+    "qs:name":"Al Aziziyah",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:name_adm2":"\u0627\u0644\u062f\u0645\u0627\u0645",
+    "qs:name_local":"\u0627\u0644\u062e\u0628\u0631",
+    "qs:photo_max":9,
+    "qs:photo_sum":21,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424938,
+    "qs:woe_adm1":2346954,
+    "qs:woe_adm2":56120200,
+    "qs:woe_lau":0,
+    "qs:woe_local":1939645,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1939595,
+        "qs:id":1119476,
+        "qs_pg:id":1119476
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2671ff62eba1c154476e77829f2bb6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":-1,
+            "neighbourhood_id":85903013,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":85903013,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935986,
+    "wof:name":"Al Aziziyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.217329,
+    26.188187,
+    50.217329,
+    26.188187
+],
+  "geometry": {"coordinates":[50.217329,26.188187],"type":"Point"}
+}

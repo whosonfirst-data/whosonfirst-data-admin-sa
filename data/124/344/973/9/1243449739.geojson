@@ -1,0 +1,75 @@
+{
+  "id": 1243449739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.81431,25.41281,42.81431,25.41281",
+    "geom:latitude":25.41281,
+    "geom:longitude":42.81431,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mihayyidah",
+    "gn:country_code":"SA",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395627,
+    "gn:latitude":25.41281,
+    "gn:longitude":42.81431,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Mihayyi\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0647\u064a\u0651\u0650\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mihayyi\u1e11ah",
+        "Muhayyi\u1e11ah",
+        "Muhay\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395627
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"65dfc890b5a74123bdc7e5bd654e4891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1243449739,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1243449739,
+    "wof:lastmodified":1537699301,
+    "wof:name":"Mihayyidah",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.81431,
+    25.41281,
+    42.81431,
+    25.41281
+],
+  "geometry": {"coordinates":[42.81431,25.41281],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277092217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.46667,18.55,42.46667,18.55",
+    "geom:latitude":18.55,
+    "geom:longitude":42.46667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Masqarah",
+    "gn:country_code":"SA",
+    "gn:dem":2143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104265,
+    "gn:latitude":18.55,
+    "gn:longitude":42.46667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ma\u015fqarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u015fqarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104265
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a6e105faba43ddf055f96f880b1c4255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1277092217,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1277092217,
+    "wof:lastmodified":1537699195,
+    "wof:name":"Masqarah",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.46667,
+    18.55,
+    42.46667,
+    18.55
+],
+  "geometry": {"coordinates":[42.46667,18.55],"type":"Point"}
+}

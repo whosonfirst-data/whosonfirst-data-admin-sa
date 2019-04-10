@@ -1,0 +1,73 @@
+{
+  "id": 1309730449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.17666,27.27544,43.17666,27.27544",
+    "geom:latitude":27.27544,
+    "geom:longitude":43.17666,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"As Si`ayyirah",
+    "gn:country_code":"SA",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395674,
+    "gn:latitude":27.27544,
+    "gn:longitude":43.17666,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"As Si\u2018ayyirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0651\u0650\u0639\u064e\u064a\u0651\u0650\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "As Si\u2018ayyirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395674
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1109f664bd6f2733562708bb3c6bab1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1309730449,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1309730449,
+    "wof:lastmodified":1537699301,
+    "wof:name":"As Si`ayyirah",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.17666,
+    27.27544,
+    43.17666,
+    27.27544
+],
+  "geometry": {"coordinates":[43.17666,27.27544],"type":"Point"}
+}

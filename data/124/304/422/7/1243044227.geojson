@@ -1,0 +1,73 @@
+{
+  "id": 1243044227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.81491,16.85048,41.81491,16.85048",
+    "geom:latitude":16.85048,
+    "geom:longitude":41.81491,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sayr",
+    "gn:country_code":"SA",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102309,
+    "gn:latitude":16.85048,
+    "gn:longitude":41.81491,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sayy\u0101l",
+        "Sair",
+        "Seir",
+        "Sayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102309
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3bcc4da316abb642a7ddd80cc78cb17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720697,
+            "locality_id":1243044227,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1243044227,
+    "wof:lastmodified":1537699177,
+    "wof:name":"Sayr",
+    "wof:parent_id":1108720697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.81491,
+    16.85047999999999,
+    41.81491,
+    16.85047999999999
+],
+  "geometry": {"coordinates":[41.81491,16.85047999999999],"type":"Point"}
+}

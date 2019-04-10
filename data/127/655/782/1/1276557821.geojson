@@ -1,0 +1,70 @@
+{
+  "id": 1276557821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53333,22.16667,39.53333,22.16667",
+    "geom:latitude":22.16667,
+    "geom:longitude":39.53333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Hajar",
+    "gn:country_code":"SA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106269,
+    "gn:latitude":22.16667,
+    "gn:longitude":39.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106269
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ac682e50e4c1f8ae750e231913e1a93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720725,
+            "locality_id":1276557821,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1276557821,
+    "wof:lastmodified":1537699212,
+    "wof:name":"Hajar",
+    "wof:parent_id":1108720725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53333,
+    22.16667,
+    39.53333,
+    22.16667
+],
+  "geometry": {"coordinates":[39.53333,22.16667],"type":"Point"}
+}

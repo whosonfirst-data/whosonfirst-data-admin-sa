@@ -1,0 +1,73 @@
+{
+  "id": 1226241761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.92237,24.03829,38.92237,24.03829",
+    "geom:latitude":24.03829,
+    "geom:longitude":38.92237,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Umm `Amayin",
+    "gn:country_code":"SA",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101075,
+    "gn:latitude":24.03829,
+    "gn:longitude":38.92237,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm \u2018Am\u0101yin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Umm \u2018Am\u0101yin"
+    ],
+    "name:und_x_variant":[
+        "Umm Am\u0101\u2019in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101075
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9af826889bfb44da8347362cb6c9f768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720671,
+            "locality_id":1226241761,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1226241761,
+    "wof:lastmodified":1537699167,
+    "wof:name":"Umm `Amayin",
+    "wof:parent_id":1108720671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.92237,
+    24.03829,
+    38.92237,
+    24.03829
+],
+  "geometry": {"coordinates":[38.92237,24.03829],"type":"Point"}
+}

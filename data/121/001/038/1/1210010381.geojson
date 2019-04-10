@@ -1,0 +1,73 @@
+{
+  "id": 1210010381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.58725,24.28436,45.58725,24.28436",
+    "geom:latitude":24.28436,
+    "geom:longitude":45.58725,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Umm as Siba`",
+    "gn:country_code":"SA",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396940,
+    "gn:latitude":24.28436,
+    "gn:longitude":45.58725,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Umm as Sib\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u0633\u0628\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Umm as Sib\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396940
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"659bdaff6821384702182820d8f29fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1210010381,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1210010381,
+    "wof:lastmodified":1537699313,
+    "wof:name":"Umm as Siba`",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.58725,
+    24.28436,
+    45.58725,
+    24.28436
+],
+  "geometry": {"coordinates":[45.58725,24.28436],"type":"Point"}
+}

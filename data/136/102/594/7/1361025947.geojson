@@ -1,0 +1,77 @@
+{
+  "id": 1361025947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.22995,17.53123,44.22995,17.53123",
+    "geom:latitude":17.53123,
+    "geom:longitude":44.22995,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zubayd",
+    "gn:country_code":"SA",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9864646,
+    "gn:latitude":17.53123,
+    "gn:longitude":44.22995,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Zubayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0632\u0628\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Zabid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676809,
+        102191569,
+        85632253,
+        1209998743,
+        1108720731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9864646
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"41c9907387257f6250fae4b4c9da2c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720731,
+            "locality_id":1209998743,
+            "neighbourhood_id":1361025947,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":1361025947,
+    "wof:lastmodified":1548452891,
+    "wof:name":"Zubayd",
+    "wof:parent_id":1108720731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209998743
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.22995,
+    17.53122999999999,
+    44.22995,
+    17.53122999999999
+],
+  "geometry": {"coordinates":[44.22995,17.53122999999999],"type":"Point"}
+}

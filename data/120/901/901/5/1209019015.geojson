@@ -1,0 +1,73 @@
+{
+  "id": 1209019015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74023,28.88497,44.74023,28.88497",
+    "geom:latitude":28.88497,
+    "geom:longitude":44.74023,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ash Shu`bah",
+    "gn:country_code":"SA",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394322,
+    "gn:latitude":28.88497,
+    "gn:longitude":44.74023,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Ash Shu\u2018bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Shu\u2018bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394322
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4d6a97d8474d0b251014f1f57b13e2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720741,
+            "locality_id":1209019015,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1209019015,
+    "wof:lastmodified":1548455900,
+    "wof:name":"Ash Shu`bah",
+    "wof:parent_id":1108720741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74023,
+    28.88497000000001,
+    44.74023,
+    28.88497000000001
+],
+  "geometry": {"coordinates":[44.74023,28.88497000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309730187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.15079,17.93756,43.15079,17.93756",
+    "geom:latitude":17.93756,
+    "geom:longitude":43.15079,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al ad Daramah",
+    "gn:country_code":"SA",
+    "gn:dem":2416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110125,
+    "gn:latitude":17.93756,
+    "gn:longitude":43.15079,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100l ad Dar\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100l ad Dar\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110125
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3459266a6d798ffae465e957e4eafcab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720761,
+            "locality_id":1309730187,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1309730187,
+    "wof:lastmodified":1537699275,
+    "wof:name":"Al ad Daramah",
+    "wof:parent_id":1108720761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.15079,
+    17.93756,
+    43.15079,
+    17.93756
+],
+  "geometry": {"coordinates":[43.15079,17.93756],"type":"Point"}
+}

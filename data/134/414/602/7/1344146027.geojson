@@ -1,0 +1,70 @@
+{
+  "id": 1344146027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6475,25.56889,45.6475,25.56889",
+    "geom:latitude":25.56889,
+    "geom:longitude":45.6475,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ash Sharikhiyah",
+    "gn:country_code":"SA",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413101,
+    "gn:latitude":25.56889,
+    "gn:longitude":45.6475,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Sh\u0101rikh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sh\u0101rikh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413101
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"102404f03bca8d7b11be980f25a0ff48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1344146027,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1344146027,
+    "wof:lastmodified":1537699339,
+    "wof:name":"Ash Sharikhiyah",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6475,
+    25.56889,
+    45.6475,
+    25.56889
+],
+  "geometry": {"coordinates":[45.6475,25.56889],"type":"Point"}
+}

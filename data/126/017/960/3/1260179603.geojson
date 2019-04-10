@@ -1,0 +1,77 @@
+{
+  "id": 1260179603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.99944,26.53889,49.99944,26.53889",
+    "geom:latitude":26.53889,
+    "geom:longitude":49.99944,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Hillat Muhish",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106217,
+    "gn:latitude":26.53889,
+    "gn:longitude":49.99944,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28illat Mu\u1e29\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Hall\u0101t",
+        "Hellat",
+        "Hellat Imhaish",
+        "\u1e28illat Mu\u1e29\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106217
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"16b7613cfdac07f40b0ca341fce08c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1260179603,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1260179603,
+    "wof:lastmodified":1548452888,
+    "wof:name":"Hillat Muhish",
+    "wof:parent_id":1108720627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361026041
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.99944,
+    26.53889,
+    49.99944,
+    26.53889
+],
+  "geometry": {"coordinates":[49.99944,26.53889],"type":"Point"}
+}

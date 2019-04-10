@@ -1,0 +1,70 @@
+{
+  "id": 1226527811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.95528,24.74299,42.95528,24.74299",
+    "geom:latitude":24.74299,
+    "geom:longitude":42.95528,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Alrmtheiah",
+    "gn:country_code":"SA",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9031043,
+    "gn:latitude":24.74299,
+    "gn:longitude":42.95528,
+    "gn:modification_date":"2014-05-07",
+    "gn:name":"Alrmtheiah",
+    "gn:population":1000,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9031043
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d0c9b0ed1c87d01133935dbc114ccd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720653,
+            "locality_id":1226527811,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1226527811,
+    "wof:lastmodified":1537022907,
+    "wof:name":"Alrmtheiah",
+    "wof:parent_id":1108720653,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.95528,
+    24.74299,
+    42.95528,
+    24.74299
+],
+  "geometry": {"coordinates":[42.95528,24.74299],"type":"Point"}
+}

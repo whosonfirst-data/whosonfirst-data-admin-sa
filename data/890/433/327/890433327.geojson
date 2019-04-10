@@ -1,0 +1,66 @@
+{
+  "id": 890433327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.91111,19.12361,41.91111,19.12361",
+    "geom:latitude":19.12361,
+    "geom:longitude":41.91111,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
+    "gn:pop":14830,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Al Maj\u0101ridah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399518,
+        "gp:id":56120999,
+        "qs:id":124566
+    },
+    "wof:country":"SA",
+    "wof:created":1469051976,
+    "wof:geomhash":"dfd5f387ef22d3a0056d145d7212cb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720609,
+            "locality_id":890433327,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":890433327,
+    "wof:lastmodified":1505343534,
+    "wof:name":"Al Maj\u0101ridah",
+    "wof:parent_id":1108720609,
+    "wof:placetype":"locality",
+    "wof:population":14830,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.91111,
+    19.12361,
+    41.91111,
+    19.12361
+],
+  "geometry": {"coordinates":[41.91111,19.12361],"type":"Point"}
+}

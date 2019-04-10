@@ -1,0 +1,73 @@
+{
+  "id": 1343576085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.27984,18.22016,42.27984,18.22016",
+    "geom:latitude":18.22016,
+    "geom:longitude":42.27984,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ash Sha`bayn",
+    "gn:country_code":"SA",
+    "gn:dem":1393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019521,
+    "gn:latitude":18.22016,
+    "gn:longitude":42.27984,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ash Sha\u2018bayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u0628\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ash Sha\u2018bayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019521
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1ceb8726e012eb01edfa5d612027f60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720747,
+            "locality_id":1343576085,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1343576085,
+    "wof:lastmodified":1537699344,
+    "wof:name":"Ash Sha`bayn",
+    "wof:parent_id":1108720747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.27984,
+    18.22016,
+    42.27984,
+    18.22016
+],
+  "geometry": {"coordinates":[42.27984,18.22016],"type":"Point"}
+}

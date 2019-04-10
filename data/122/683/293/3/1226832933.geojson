@@ -1,0 +1,70 @@
+{
+  "id": 1226832933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.81416,23.49694,46.81416,23.49694",
+    "geom:latitude":23.49694,
+    "geom:longitude":46.81416,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al Far`ah",
+    "gn:country_code":"SA",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413252,
+    "gn:latitude":23.49694,
+    "gn:longitude":46.81416,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Far\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Far\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413252
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"fb4027c28a7462a0d7f054abc2c69bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720707,
+            "locality_id":1226832933,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1226832933,
+    "wof:lastmodified":1537699339,
+    "wof:name":"Al Far`ah",
+    "wof:parent_id":1108720707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.81416,
+    23.49694,
+    46.81416,
+    23.49694
+],
+  "geometry": {"coordinates":[46.81416,23.49694],"type":"Point"}
+}

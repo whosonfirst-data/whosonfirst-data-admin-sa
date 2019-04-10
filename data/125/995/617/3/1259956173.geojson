@@ -1,0 +1,74 @@
+{
+  "id": 1259956173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.27017,17.64078,42.27017,17.64078",
+    "geom:latitude":17.64078,
+    "geom:longitude":42.27017,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ramlan",
+    "gn:country_code":"SA",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102938,
+    "gn:latitude":17.64078,
+    "gn:longitude":42.27017,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Raml\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018ashsh Ramlan",
+        "Raml\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102938
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8c12bf4ed1a83494013a15091bd1a780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720631,
+            "locality_id":1259956173,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1259956173,
+    "wof:lastmodified":1537699183,
+    "wof:name":"Ramlan",
+    "wof:parent_id":1108720631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.27017,
+    17.64078,
+    42.27017,
+    17.64078
+],
+  "geometry": {"coordinates":[42.27017,17.64078],"type":"Point"}
+}

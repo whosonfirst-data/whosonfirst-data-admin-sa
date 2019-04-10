@@ -1,0 +1,78 @@
+{
+  "id": 1209092567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.457,27.33115,41.457,27.33115",
+    "geom:latitude":27.33115,
+    "geom:longitude":41.457,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Qasr al `Ishruwwat",
+    "gn:country_code":"SA",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108930,
+    "gn:latitude":27.33115,
+    "gn:longitude":41.457,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Qa\u015fr al \u2018Ishr\u016bww\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0627\u0644\u0639\u0634\u0631\u0648\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ka\u1e63r \u2018Asraw\u00e2t",
+        "Qasr \u2018Ashraw\u00e0t",
+        "Al-Ka\u1e63r",
+        "Ashruwat",
+        "Al Qa\u015fr",
+        "Qa\u015fr al \u2018Ishr\u016bww\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108930
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9762bc9079ea1b6ec7532130c38df6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1209092567,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1209092567,
+    "wof:lastmodified":1548455903,
+    "wof:name":"Qasr al `Ishruwwat",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.457,
+    27.33115,
+    41.457,
+    27.33115
+],
+  "geometry": {"coordinates":[41.457,27.33115],"type":"Point"}
+}

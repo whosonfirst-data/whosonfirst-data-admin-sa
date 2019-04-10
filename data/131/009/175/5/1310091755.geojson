@@ -1,0 +1,73 @@
+{
+  "id": 1310091755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.27117,27.27033,41.27117,27.27033",
+    "geom:latitude":27.27033,
+    "geom:longitude":41.27117,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sahayy",
+    "gn:country_code":"SA",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395882,
+    "gn:latitude":27.27033,
+    "gn:longitude":41.27117,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"\u015ea\u1e29ayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u015ea\u1e29ayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395882
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"23ee68a946187e3ebee5d47b4f9ce411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1310091755,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1310091755,
+    "wof:lastmodified":1537699303,
+    "wof:name":"Sahayy",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.27117,
+    27.27033,
+    41.27117,
+    27.27033
+],
+  "geometry": {"coordinates":[41.27117,27.27033],"type":"Point"}
+}

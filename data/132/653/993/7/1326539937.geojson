@@ -1,0 +1,73 @@
+{
+  "id": 1326539937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.80694,19.37111,41.80694,19.37111",
+    "geom:latitude":19.37111,
+    "geom:longitude":41.80694,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"An Nu`man",
+    "gn:country_code":"SA",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108605,
+    "gn:latitude":19.37111,
+    "gn:longitude":41.80694,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"An Nu\u2018m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "An Nu\u2018m\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Na\u2019aman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108605
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f0e3013fb94911559346491e31c60fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":1326539937,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1326539937,
+    "wof:lastmodified":1537699239,
+    "wof:name":"An Nu`man",
+    "wof:parent_id":1108720633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.80694,
+    19.37111,
+    41.80694,
+    19.37111
+],
+  "geometry": {"coordinates":[41.80694,19.37111],"type":"Point"}
+}

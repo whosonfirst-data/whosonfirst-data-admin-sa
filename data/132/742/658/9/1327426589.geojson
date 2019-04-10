@@ -1,0 +1,78 @@
+{
+  "id": 1327426589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.92896,26.62026,49.92896,26.62026",
+    "geom:latitude":26.62026,
+    "geom:longitude":49.92896,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Khatrashiyah",
+    "gn:country_code":"SA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":105013,
+    "gn:latitude":26.62026,
+    "gn:longitude":49.92896,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Al Khatrash\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u062a\u0631\u0634\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u062a\u064a\u0634\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khataishiya",
+        "Al Khataysh\u012byah",
+        "Al Khatrash\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":105013
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"03c027fb6b91166a7f5df774a9effde4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1327426589,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1327426589,
+    "wof:lastmodified":1537699202,
+    "wof:name":"Al Khatrashiyah",
+    "wof:parent_id":1108720627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.92896,
+    26.62026,
+    49.92896,
+    26.62026
+],
+  "geometry": {"coordinates":[49.92896,26.62026],"type":"Point"}
+}

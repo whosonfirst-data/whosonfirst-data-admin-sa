@@ -1,0 +1,81 @@
+{
+  "id": 1125925013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.06194,26.70791,50.06194,26.70791",
+    "geom:latitude":26.70791,
+    "geom:longitude":50.06194,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":41188,
+    "gn:population":41188,
+    "iso:country":"SA",
+    "lbl:latitude":26.70791,
+    "lbl:longitude":50.06194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Rahaima"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":102985,
+    "qs_pg:gn_pop":41188,
+    "qs_pg:name":"Ra\u1e29\u012bmah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":65124,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102985,
+        "qs_pg:id":65124
+    },
+    "wof:country":"SA",
+    "wof:created":1497296610,
+    "wof:geomhash":"f3b4185c3ddbb0927787279207ce2dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720745,
+            "locality_id":1125925013,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1125925013,
+    "wof:lastmodified":1509401041,
+    "wof:name":"Ra\u1e29\u012bmah",
+    "wof:parent_id":1108720745,
+    "wof:placetype":"locality",
+    "wof:population":41188,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.06194,
+    26.70791,
+    50.06194,
+    26.70791
+],
+  "geometry": {"coordinates":[50.06194,26.70791],"type":"Point"}
+}

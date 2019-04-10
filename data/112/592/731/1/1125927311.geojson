@@ -1,0 +1,106 @@
+{
+  "id": 1125927311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.69806,21.61694,39.69806,21.61694",
+    "geom:latitude":21.61694,
+    "geom:longitude":39.69806,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":22207,
+    "gn:population":22207,
+    "iso:country":"SA",
+    "lbl:latitude":21.61694,
+    "lbl:longitude":39.69806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Al Jum\u016bm"
+    ],
+    "name:dut_x_preferred":[
+        "Al Jumum"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jumum"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bb \u03a4\u03b6\u03bf\u03c5\u03bc\u03bf\u03cd\u03bc"
+    ],
+    "name:nno_x_preferred":[
+        "Al Jumum"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062c\u0645\u0648\u0645"
+    ],
+    "name:tur_x_preferred":[
+        "El Cumum"
+    ],
+    "name:unk_x_variant":[
+        "Jumum"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062c\u0645\u0648\u0645"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":109417,
+    "qs_pg:gn_pop":22207,
+    "qs_pg:name":"Al Jum\u016bm",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":66286,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109417,
+        "qs_pg:id":66286,
+        "wd:id":"Q12185747"
+    },
+    "wof:country":"SA",
+    "wof:created":1497296684,
+    "wof:geomhash":"da2f1c71d35ab4d296cbbbf2823d6542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720587,
+            "locality_id":1125927311,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1125927311,
+    "wof:lastmodified":1514504347,
+    "wof:name":"Al Jum\u016bm",
+    "wof:parent_id":1108720587,
+    "wof:placetype":"locality",
+    "wof:population":22207,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.69806,
+    21.61694,
+    39.69806,
+    21.61694
+],
+  "geometry": {"coordinates":[39.69806,21.61694],"type":"Point"}
+}

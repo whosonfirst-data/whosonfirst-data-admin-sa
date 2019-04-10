@@ -1,0 +1,70 @@
+{
+  "id": 1293599213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.73523,26.59682,42.73523,26.59682",
+    "geom:latitude":26.59682,
+    "geom:longitude":42.73523,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"An Nijibah",
+    "gn:country_code":"SA",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397913,
+    "gn:latitude":26.59682,
+    "gn:longitude":42.73523,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"An Nijibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062c\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397913
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1e0166aa441839b4e7828127970e41d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720569,
+            "locality_id":1293599213,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1293599213,
+    "wof:lastmodified":1537699321,
+    "wof:name":"An Nijibah",
+    "wof:parent_id":1108720569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.73523,
+    26.59682,
+    42.73523,
+    26.59682
+],
+  "geometry": {"coordinates":[42.73523,26.59682],"type":"Point"}
+}

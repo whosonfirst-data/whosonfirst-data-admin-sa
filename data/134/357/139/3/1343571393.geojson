@@ -1,0 +1,70 @@
+{
+  "id": 1343571393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.23333,20.21667,41.23333,20.21667",
+    "geom:latitude":20.21667,
+    "geom:longitude":41.23333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Hadram",
+    "gn:country_code":"SA",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106305,
+    "gn:latitude":20.21667,
+    "gn:longitude":41.23333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28a\u1e11ram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28a\u1e11ram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106305
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"abe54b4a42336dd31cfe44ce2d6d6114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720615,
+            "locality_id":1343571393,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1343571393,
+    "wof:lastmodified":1537699213,
+    "wof:name":"Hadram",
+    "wof:parent_id":1108720615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.23333,
+    20.21667,
+    41.23333,
+    20.21667
+],
+  "geometry": {"coordinates":[41.23333,20.21667],"type":"Point"}
+}

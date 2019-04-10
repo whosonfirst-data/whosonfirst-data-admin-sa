@@ -1,0 +1,81 @@
+{
+  "id": 1361025961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.00207,24.45984,47.00207,24.45984",
+    "geom:latitude":24.45984,
+    "geom:longitude":47.00207,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dahl Hit",
+    "gn:country_code":"SA",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414168,
+    "gn:latitude":24.45984,
+    "gn:longitude":47.00207,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Da\u1e29l H\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "H\u012bt"
+    ],
+    "name:ara_x_variant":[
+        "\u0647\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Da\u1e29l H\u012bt",
+        "Hit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676813,
+        102191569,
+        85632253,
+        1276639619,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414168
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"412198e86312055d81b808a2d2c27207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":1276639619,
+            "neighbourhood_id":1361025961,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1361025961,
+    "wof:lastmodified":1548452891,
+    "wof:name":"Dahl Hit",
+    "wof:parent_id":1108720657,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276639619
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.00207,
+    24.45984,
+    47.00207,
+    24.45984
+],
+  "geometry": {"coordinates":[47.00207,24.45984],"type":"Point"}
+}

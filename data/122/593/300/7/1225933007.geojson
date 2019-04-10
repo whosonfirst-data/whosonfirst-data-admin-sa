@@ -1,0 +1,76 @@
+{
+  "id": 1225933007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.14175,25.87457,45.14175,25.87457",
+    "geom:latitude":25.87457,
+    "geom:longitude":45.14175,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ar Ruwaydah",
+    "gn:country_code":"SA",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108370,
+    "gn:latitude":25.87457,
+    "gn:longitude":45.14175,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ar Ruway\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ruwaidha",
+        "Ruwaidhah",
+        "Ruway\u1e11ah",
+        "Ar Ruway\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108370
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6d6799200a3799c302f0e0d90c1defdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1225933007,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1225933007,
+    "wof:lastmodified":1537699235,
+    "wof:name":"Ar Ruwaydah",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.14175,
+    25.87457,
+    45.14175,
+    25.87457
+],
+  "geometry": {"coordinates":[45.14175,25.87457],"type":"Point"}
+}

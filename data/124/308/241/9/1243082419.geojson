@@ -1,0 +1,70 @@
+{
+  "id": 1243082419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.2,20.6,41.2,20.6",
+    "geom:latitude":20.6,
+    "geom:longitude":41.2,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Haddad",
+    "gn:country_code":"SA",
+    "gn:dem":1740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106338,
+    "gn:latitude":20.6,
+    "gn:longitude":41.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28add\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28add\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106338
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"35ad1218c62660929e4890ebceabdd86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1243082419,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1243082419,
+    "wof:lastmodified":1537699213,
+    "wof:name":"Haddad",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.2,
+    20.6,
+    41.2,
+    20.6
+],
+  "geometry": {"coordinates":[41.2,20.6],"type":"Point"}
+}

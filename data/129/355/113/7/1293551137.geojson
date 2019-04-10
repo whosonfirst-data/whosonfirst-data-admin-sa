@@ -1,0 +1,70 @@
+{
+  "id": 1293551137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.31749,30.14138,40.31749,30.14138",
+    "geom:latitude":30.14138,
+    "geom:longitude":40.31749,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"An Nazayim",
+    "gn:country_code":"SA",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392762,
+    "gn:latitude":30.14138,
+    "gn:longitude":40.31749,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An Naz\u0327\u0101yim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Naz\u0327\u0101yim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392762
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e24008233e1dd9e146d0cb90b91e515c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720757,
+            "locality_id":1293551137,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1293551137,
+    "wof:lastmodified":1537699288,
+    "wof:name":"An Nazayim",
+    "wof:parent_id":1108720757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.31749,
+    30.14138,
+    40.31749,
+    30.14138
+],
+  "geometry": {"coordinates":[40.31749,30.14138],"type":"Point"}
+}

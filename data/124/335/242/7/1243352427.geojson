@@ -1,0 +1,71 @@
+{
+  "id": 1243352427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9,20.46667,44.9,20.46667",
+    "geom:latitude":20.46667,
+    "geom:longitude":44.9,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bilad Hanabijah",
+    "gn:country_code":"SA",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107437,
+    "gn:latitude":20.46667,
+    "gn:longitude":44.9,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bil\u0101d \u1e28an\u0101bijah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanabiya",
+        "Bil\u0101d \u1e28an\u0101bijah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107437
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"30377e2e246b6d9cc6038a2dcfc855ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720789,
+            "locality_id":1243352427,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1243352427,
+    "wof:lastmodified":1537699221,
+    "wof:name":"Bilad Hanabijah",
+    "wof:parent_id":1108720789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9,
+    20.46667,
+    44.9,
+    20.46667
+],
+  "geometry": {"coordinates":[44.9,20.46667],"type":"Point"}
+}

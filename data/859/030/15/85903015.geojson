@@ -1,0 +1,154 @@
+{
+  "id": 85903015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4825242.293673,
+    "geom:bbox":"39.127808,21.792658,39.127808,21.792658",
+    "geom:latitude":21.792658,
+    "geom:longitude":39.127808,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:latitude":21.80389,
+    "gn:longitude":39.13667,
+    "iso:country":"SA",
+    "lbl:latitude":21.792658,
+    "lbl:longitude":39.127808,
+    "mps:latitude":21.792657,
+    "mps:longitude":39.127808,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "Al Kur\u0101\u2018"
+    ],
+    "name:eng_x_colloquial":[
+        "Al-Kira"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kura"
+    ],
+    "name:eng_x_variant":[
+        "Al Kur\u0101\u2019",
+        "Al-Kira\u2019",
+        "Al-Kir\u00e2\u2019",
+        "Al Kura\u2019"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06a9\u0648\u0631\u0627\u0639"
+    ],
+    "name:nno_x_preferred":[
+        "Al Kura`"
+    ],
+    "name:unk_x_variant":[
+        "Al-Kir\u00e2\u2018",
+        "Al Kura"
+    ],
+    "qs:gn_adm0_cc":"SA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":105343,
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Al Kur\u0101\u2018",
+    "qs:local_max":748,
+    "qs:local_sum":3146,
+    "qs:localhoods":21,
+    "qs:name":"Al Kura",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0645\u0643\u0629",
+    "qs:name_adm2":"\u062c\u062f\u0629",
+    "qs:name_local":"\u062c\u062f\u0629",
+    "qs:photo_max":2,
+    "qs:photo_sum":4,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424938,
+    "qs:woe_adm1":2346959,
+    "qs:woe_adm2":56120204,
+    "qs:woe_lau":0,
+    "qs:woe_local":1939873,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":109280,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Al Kura",
+    "qs_pg:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs_pg:name_adm1":"\u0645\u0643\u0629",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":44411,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424938,
+    "qs_pg:woe_id":1939646,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        85676857,
+        102191569,
+        85632253,
+        1108720715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109280,
+        "gp:id":1939646,
+        "qs:id":44411,
+        "qs_pg:id":44411,
+        "wd:id":"Q4704265",
+        "wk:page":"Al Kura`"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2aed59b39786a04a5d1a5e0d5701aa02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":-1,
+            "neighbourhood_id":85903015,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":85903015,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379459,
+    "wof:name":"Al Kura",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126102607
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.127808,
+    21.792658,
+    39.127808,
+    21.792658
+],
+  "geometry": {"coordinates":[39.127808,21.792658],"type":"Point"}
+}

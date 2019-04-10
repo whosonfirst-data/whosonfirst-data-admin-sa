@@ -1,0 +1,78 @@
+{
+  "id": 1260074103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.68652,25.55439,45.68652,25.55439",
+    "geom:latitude":25.55439,
+    "geom:longitude":45.68652,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Awdat Sudayr",
+    "gn:country_code":"SA",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109995,
+    "gn:latitude":25.55439,
+    "gn:longitude":45.68652,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"\u2018Awdat Sudayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0648\u062f\u0629 \u0633\u062f\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al-\u2018Awda",
+        "\u2019Audah",
+        "Al \u2018Awdah",
+        "\u2018Auda",
+        "\u2018Awdah",
+        "\u2018Awdat Sudayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109995
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"68c5ac4ce000f49e875607017d7e6e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1260074103,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1260074103,
+    "wof:lastmodified":1537699272,
+    "wof:name":"`Awdat Sudayr",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.68652,
+    25.55439,
+    45.68652,
+    25.55439
+],
+  "geometry": {"coordinates":[45.68652,25.55439],"type":"Point"}
+}

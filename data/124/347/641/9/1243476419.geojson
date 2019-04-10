@@ -1,0 +1,73 @@
+{
+  "id": 1243476419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81514,26.0023,48.81514,26.0023",
+    "geom:latitude":26.0023,
+    "geom:longitude":48.81514,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Umm al Hamam",
+    "gn:country_code":"SA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391619,
+    "gn:latitude":26.0023,
+    "gn:longitude":48.81514,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Umm al \u1e28am\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u062d\u064e\u0645\u064e\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Umm al \u1e28am\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391619
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c1a582296b5bd6c708879494d71318c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1243476419,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1243476419,
+    "wof:lastmodified":1537699282,
+    "wof:name":"Umm al Hamam",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81514,
+    26.0023,
+    48.81514,
+    26.0023
+],
+  "geometry": {"coordinates":[48.81514,26.0023],"type":"Point"}
+}

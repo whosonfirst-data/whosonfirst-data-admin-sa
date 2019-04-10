@@ -1,0 +1,70 @@
+{
+  "id": 1293098111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.55263,22.87031,40.55263,22.87031",
+    "geom:latitude":22.87031,
+    "geom:longitude":40.55263,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mashuqah as Sufla",
+    "gn:country_code":"SA",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409875,
+    "gn:latitude":22.87031,
+    "gn:longitude":40.55263,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mash\u016bqah as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mash\u016bqah as Sufl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409875
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"73e5b2677bd1f0c9b09a26964cebed2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720607,
+            "locality_id":1293098111,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1293098111,
+    "wof:lastmodified":1537699331,
+    "wof:name":"Mashuqah as Sufla",
+    "wof:parent_id":1108720607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.55263,
+    22.87031,
+    40.55263,
+    22.87031
+],
+  "geometry": {"coordinates":[40.55263,22.87031],"type":"Point"}
+}

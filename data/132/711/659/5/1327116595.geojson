@@ -1,0 +1,74 @@
+{
+  "id": 1327116595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25078,17.59157,44.25078,17.59157",
+    "geom:latitude":17.59157,
+    "geom:longitude":44.25078,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Aba al Rashash",
+    "gn:country_code":"SA",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9865254,
+    "gn:latitude":17.59157,
+    "gn:longitude":44.25078,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Aba al Rashash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0627 \u0627\u0644\u0631\u0634\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Ab\u0101 ar Rash\u0101sh",
+        "Aba al Rashash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676809,
+        1108720731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865254
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2928c08c4a98be6ab785ad14a7d27421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720731,
+            "locality_id":1327116595,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":1327116595,
+    "wof:lastmodified":1537699347,
+    "wof:name":"Aba al Rashash",
+    "wof:parent_id":1108720731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25078,
+    17.59157,
+    44.25078,
+    17.59157
+],
+  "geometry": {"coordinates":[44.25078,17.59157],"type":"Point"}
+}

@@ -1,0 +1,218 @@
+{
+  "id": 1141907107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-24",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3120369047,24.1555656118,47.3120369047,24.1555656118",
+    "geom:latitude":24.155566,
+    "geom:longitude":47.312037,
+    "iso:country":"SA",
+    "lbl:latitude":24.155566,
+    "lbl:longitude":47.312037,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0631\u062c"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Kharj"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u723e\u5361"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Kharj"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Kharj"
+    ],
+    "name:fre_x_preferred":[
+        "Al Khardj"
+    ],
+    "name:ger_x_preferred":[
+        "al-Chardsch"
+    ],
+    "name:ita_x_preferred":[
+        "al kharj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30ab\u30eb\u30b8"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d7d \u0d16\u0d7c\u0d1c\u0d4d\u200c"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Kharj"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Chard\u017c"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u0440\u0434\u0436"
+    ],
+    "name:spa_x_preferred":[
+        "Al-Kharj"
+    ],
+    "name:tgl_x_preferred":[
+        "Al Kharj"
+    ],
+    "name:tur_x_preferred":[
+        "El-Harc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0425\u0430\u0440\u0434\u0436"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Saudi Arabia",
+    "ne:ADM0_A3":"SAU",
+    "ne:ADM1NAME":"Ar Riyad",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"SA",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":24.155566,
+    "ne:LONGITUDE":47.312037,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Al Kharj",
+    "ne:MAX_AREAKM":52.0,
+    "ne:MAX_AREAMI":20.0,
+    "ne:MAX_BBXMAX":47.375,
+    "ne:MAX_BBXMIN":47.258333,
+    "ne:MAX_BBYMAX":24.191667,
+    "ne:MAX_BBYMIN":24.108333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":45.0,
+    "ne:MAX_PERMI":28.0,
+    "ne:MAX_POP10":298428,
+    "ne:MAX_POP20":298428,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":47.321086,
+    "ne:MEAN_BBYC":24.14899,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":52.0,
+    "ne:MIN_AREAMI":20.0,
+    "ne:MIN_BBXMAX":47.375,
+    "ne:MIN_BBXMIN":47.258333,
+    "ne:MIN_BBYMAX":24.191667,
+    "ne:MIN_BBYMIN":24.108333,
+    "ne:MIN_PERKM":45.0,
+    "ne:MIN_PERMI":28.0,
+    "ne:NAME":"Al Kharj",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Al Kharj",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":298428,
+    "ne:POP_MIN":298428,
+    "ne:POP_OTHER":298428,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Saudi Arabia",
+    "ne:SOV_A3":"SAU",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
+    "reversegeo:latitude":24.155566,
+    "reversegeo:longitude":47.312037,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2162128"
+    },
+    "wof:country":"SA",
+    "wof:created":1499130682,
+    "wof:geomhash":"f0aa9a247aee12fbe08dac9acd77e447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1141907107,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1141907107,
+    "wof:lastmodified":1548452886,
+    "wof:name":"Al Kharj",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        421195071
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.31203690469908,
+    24.1555656117668,
+    47.31203690469908,
+    24.1555656117668
+],
+  "geometry": {"coordinates":[47.31203690469908,24.1555656117668],"type":"Point"}
+}

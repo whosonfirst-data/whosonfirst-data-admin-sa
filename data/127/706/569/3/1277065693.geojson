@@ -1,0 +1,73 @@
+{
+  "id": 1277065693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23718,24.99537,46.23718,24.99537",
+    "geom:latitude":24.99537,
+    "geom:longitude":46.23718,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hizwa",
+    "gn:country_code":"SA",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397628,
+    "gn:latitude":24.99537,
+    "gn:longitude":46.23718,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"\u1e28izw\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28izw\u00e1"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0632\u0648\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397628
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b058016034521bb52d36f094ea56550c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720543,
+            "locality_id":1277065693,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1277065693,
+    "wof:lastmodified":1537699320,
+    "wof:name":"Hizwa",
+    "wof:parent_id":1108720543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23718,
+    24.99537,
+    46.23718,
+    24.99537
+],
+  "geometry": {"coordinates":[46.23718,24.99537],"type":"Point"}
+}

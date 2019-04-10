@@ -1,0 +1,75 @@
+{
+  "id": 1361026171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.94611,21.46306,39.94611,21.46306",
+    "geom:latitude":21.46306,
+    "geom:longitude":39.94611,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ash Shara'i`",
+    "gn:country_code":"SA",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448624,
+    "gn:latitude":21.46306,
+    "gn:longitude":39.94611,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ash Shar\u0101\u2019i\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Ash Shar\u0101\u2019i\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676857,
+        102191569,
+        85632253,
+        1259958651,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448624,
+        "wk:page":"Ash_Shara%27i%60"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5aa7256405fa86ccd2d6fa103e43376e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1259958651,
+            "neighbourhood_id":1361026171,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1361026171,
+    "wof:lastmodified":1548452896,
+    "wof:name":"Ash Shara'i`",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259958651
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.94611,
+    21.46306,
+    39.94611,
+    21.46306
+],
+  "geometry": {"coordinates":[39.94611,21.46306],"type":"Point"}
+}

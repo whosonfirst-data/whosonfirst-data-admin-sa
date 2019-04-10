@@ -1,0 +1,110 @@
+{
+  "id": 85932841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6724352.1203,
+    "geom:bbox":"49.997406,26.557003,49.997406,26.557003",
+    "geom:latitude":26.557003,
+    "geom:longitude":49.997406,
+    "gn:id":"",
+    "iso:country":"SA",
+    "lbl:latitude":26.557003,
+    "lbl:longitude":49.997406,
+    "mps:latitude":26.557111,
+    "mps:longitude":49.998225,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0642\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Tuqa"
+    ],
+    "name:eng_x_variant":[
+        "Al Tuqa"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u062a\u0642\u0649"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":49,
+    "qs:local_sum":102,
+    "qs:localhoods":5,
+    "qs:name":"\u0627\u0644\u062a\u0642\u0649",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:name_adm2":"\u0627\u0644\u0642\u0637\u064a\u0641",
+    "qs:name_en":"Al Tuqa",
+    "qs:name_local":"\u0627\u0644\u0642\u0637\u064a\u0641",
+    "qs:photo_max":7,
+    "qs:photo_sum":12,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424938,
+    "qs:woe_adm1":2346954,
+    "qs:woe_adm2":56120202,
+    "qs:woe_lau":0,
+    "qs:woe_local":1939673,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948317,
+        "qs:id":1346183,
+        "qs_pg:id":1346183
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"534bf8d51ae73a0233b65659df07a2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":-1,
+            "neighbourhood_id":85932841,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":85932841,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531939529,
+    "wof:name":"\u0627\u0644\u062a\u0642\u0649",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.997406,
+    26.557003,
+    49.997406,
+    26.557003
+],
+  "geometry": {"coordinates":[49.997406,26.557003],"type":"Point"}
+}

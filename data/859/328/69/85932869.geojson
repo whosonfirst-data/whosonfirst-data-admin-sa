@@ -1,0 +1,113 @@
+{
+  "id": 85932869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7621146.599531,
+    "geom:bbox":"43.938446,26.362343,43.938446,26.362343",
+    "geom:latitude":26.362343,
+    "geom:longitude":43.938446,
+    "gn:id":"",
+    "iso:country":"SA",
+    "lbl:latitude":26.362343,
+    "lbl:longitude":43.938446,
+    "mps:latitude":26.359881,
+    "mps:longitude":43.939061,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u062a\u0632\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Almuntazah"
+    ],
+    "name:eng_x_variant":[
+        "Almuntazah"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0645\u0646\u062a\u0632\u0629"
+    ],
+    "qs:gn_adm0_cc":"SA",
+    "qs:gn_id":0,
+    "qs:gn_local":107304,
+    "qs:gn_nam_loc":"buraydah",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":8,
+    "qs:local_sum":8,
+    "qs:localhoods":1,
+    "qs:name":"\u0627\u0644\u0645\u0646\u062a\u0632\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0642\u0635\u064a\u0645",
+    "qs:name_adm2":"\u0631\u064a\u0627\u0636 \u0627\u0644\u062e\u0628\u0631\u0627\u0621",
+    "qs:name_en":"Almuntazah",
+    "qs:name_local":"\u0628\u0631\u064a\u062f\u0629",
+    "qs:photo_max":5,
+    "qs:photo_sum":8,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424938,
+    "qs:woe_adm1":2346952,
+    "qs:woe_adm2":56120173,
+    "qs:woe_lau":0,
+    "qs:woe_local":1939818,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948418,
+        "qs:id":991497,
+        "qs_pg:id":991497
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ec25458e4f80cf899147986db69385c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":-1,
+            "neighbourhood_id":85932869,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":85932869,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531939534,
+    "wof:name":"\u0627\u0644\u0645\u0646\u062a\u0632\u0629",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.938446,
+    26.362343,
+    43.938446,
+    26.362343
+],
+  "geometry": {"coordinates":[43.938446,26.362343],"type":"Point"}
+}

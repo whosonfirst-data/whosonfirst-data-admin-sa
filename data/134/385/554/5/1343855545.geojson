@@ -1,0 +1,78 @@
+{
+  "id": 1343855545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.61755,25.47366,49.61755,25.47366",
+    "geom:latitude":25.47366,
+    "geom:longitude":49.61755,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ash Shi`bah",
+    "gn:country_code":"SA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108280,
+    "gn:latitude":25.47366,
+    "gn:longitude":49.61755,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Ash Shi\u2018bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0639\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sha\u2018aba",
+        "Ash Sha\u2018bah",
+        "Sha\u2018bah",
+        "Al-Sha\u2018bah",
+        "Sha\u2019abah",
+        "Ash Shi\u2018bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108280
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4f889fa24b5865a27cc5e8c2724862b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1343855545,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1343855545,
+    "wof:lastmodified":1537699234,
+    "wof:name":"Ash Shi`bah",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.61755,
+    25.47366,
+    49.61755,
+    25.47366
+],
+  "geometry": {"coordinates":[49.61755,25.47366],"type":"Point"}
+}

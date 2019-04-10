@@ -1,0 +1,73 @@
+{
+  "id": 1344256223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.32488,23.28564,40.32488,23.28564",
+    "geom:latitude":23.28564,
+    "geom:longitude":40.32488,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Qiran",
+    "gn:country_code":"SA",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103211,
+    "gn:latitude":23.28564,
+    "gn:longitude":40.32488,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qir\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Qir\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Qar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103211
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"444b1cd359c8fafd41603006316b894c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720607,
+            "locality_id":1344256223,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1344256223,
+    "wof:lastmodified":1537699186,
+    "wof:name":"Qiran",
+    "wof:parent_id":1108720607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.32488,
+    23.28564,
+    40.32488,
+    23.28564
+],
+  "geometry": {"coordinates":[40.32488,23.28564],"type":"Point"}
+}

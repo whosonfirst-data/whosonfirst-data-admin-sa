@@ -1,0 +1,71 @@
+{
+  "id": 1209398603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.68721,23.70476,44.68721,23.70476",
+    "geom:latitude":23.70476,
+    "geom:longitude":44.68721,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tuhayyi",
+    "gn:country_code":"SA",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101335,
+    "gn:latitude":23.70476,
+    "gn:longitude":44.68721,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tu\u1e29ayyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuhaiy",
+        "Tu\u1e29ayyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101335
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5341c36e3a9431d4a69c9b19fd4af1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1209398603,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209398603,
+    "wof:lastmodified":1548455919,
+    "wof:name":"Tuhayyi",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.68721,
+    23.70476,
+    44.68721,
+    23.70476
+],
+  "geometry": {"coordinates":[44.68721,23.70476],"type":"Point"}
+}

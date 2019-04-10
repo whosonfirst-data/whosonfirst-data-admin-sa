@@ -1,0 +1,73 @@
+{
+  "id": 1327249677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.43778,19.92556,41.43778,19.92556",
+    "geom:latitude":19.92556,
+    "geom:longitude":41.43778,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al `Alyan",
+    "gn:country_code":"SA",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109979,
+    "gn:latitude":19.92556,
+    "gn:longitude":41.43778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100l \u2018Aly\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l \u2018Aly\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109979
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7f09d7497da0567e1a91cc0c5b612ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720619,
+            "locality_id":1327249677,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1327249677,
+    "wof:lastmodified":1537699271,
+    "wof:name":"Al `Alyan",
+    "wof:parent_id":1108720619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.43778,
+    19.92556,
+    41.43778,
+    19.92556
+],
+  "geometry": {"coordinates":[41.43778,19.92556],"type":"Point"}
+}

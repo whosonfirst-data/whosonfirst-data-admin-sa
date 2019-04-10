@@ -1,0 +1,78 @@
+{
+  "id": 1226257639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11488,17.48946,47.11488,17.48946",
+    "geom:latitude":17.48946,
+    "geom:longitude":47.11488,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sharurah",
+    "gn:country_code":"SA",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019123,
+    "gn:latitude":17.48946,
+    "gn:longitude":47.11488,
+    "gn:modification_date":"2013-05-20",
+    "gn:name":"Sharurah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0648\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Sharurah"
+    ],
+    "name:und_x_variant":[
+        "Shar\u016brah",
+        "Sharorah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676809,
+        1108720765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019123,
+        "wk:page":"Sharurah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"160fab594981d779abc1ee88eb2dadca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720765,
+            "locality_id":1226257639,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":1226257639,
+    "wof:lastmodified":1537699343,
+    "wof:name":"Sharurah",
+    "wof:parent_id":1108720765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11488,
+    17.48946,
+    47.11488,
+    17.48946
+],
+  "geometry": {"coordinates":[47.11488,17.48946],"type":"Point"}
+}

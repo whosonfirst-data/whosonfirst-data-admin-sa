@@ -1,0 +1,73 @@
+{
+  "id": 1209398509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26949,25.42486,45.26949,25.42486",
+    "geom:latitude":25.42486,
+    "geom:longitude":45.26949,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Umm Tulayhah",
+    "gn:country_code":"SA",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397449,
+    "gn:latitude":25.42486,
+    "gn:longitude":45.26949,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Umm \u0162ulay\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0637\u0644\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm \u0162ulay\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397449
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1014b64e3e9a7ddffeb4cc4a2d2784d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720763,
+            "locality_id":1209398509,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209398509,
+    "wof:lastmodified":1548455919,
+    "wof:name":"Umm Tulayhah",
+    "wof:parent_id":1108720763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26949000000001,
+    25.42486,
+    45.26949000000001,
+    25.42486
+],
+  "geometry": {"coordinates":[45.26949000000001,25.42486],"type":"Point"}
+}

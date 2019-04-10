@@ -1,0 +1,73 @@
+{
+  "id": 1259894355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.10858,26.96306,42.10858,26.96306",
+    "geom:latitude":26.96306,
+    "geom:longitude":42.10858,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Madabi`",
+    "gn:country_code":"SA",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394969,
+    "gn:latitude":26.96306,
+    "gn:longitude":42.10858,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Ma\u1e11\u0101b\u012b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0636\u0627\u0628\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u1e11\u0101b\u012b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394969
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"44451237f86ad8f8e4935cd72d4adbd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1259894355,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1259894355,
+    "wof:lastmodified":1537699293,
+    "wof:name":"Al Madabi`",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.10858,
+    26.96306,
+    42.10858,
+    26.96306
+],
+  "geometry": {"coordinates":[42.10858,26.96306],"type":"Point"}
+}

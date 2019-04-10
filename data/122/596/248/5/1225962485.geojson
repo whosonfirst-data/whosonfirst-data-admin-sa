@@ -1,0 +1,67 @@
+{
+  "id": 1225962485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.1079,17.2735,43.1079,17.2735",
+    "geom:latitude":17.2735,
+    "geom:longitude":43.1079,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Marwah",
+    "gn:country_code":"SA",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104316,
+    "gn:latitude":17.2735,
+    "gn:longitude":43.1079,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Marwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104316
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"44f49c2c6810ddfc77a4b75c342615cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720713,
+            "locality_id":1225962485,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1225962485,
+    "wof:lastmodified":1536844076,
+    "wof:name":"Marwah",
+    "wof:parent_id":1108720713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.1079,
+    17.2735,
+    43.1079,
+    17.2735
+],
+  "geometry": {"coordinates":[43.1079,17.2735],"type":"Point"}
+}

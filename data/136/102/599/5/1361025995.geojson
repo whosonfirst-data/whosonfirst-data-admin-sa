@@ -1,0 +1,74 @@
+{
+  "id": 1361025995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.17103,26.1431,50.17103,26.1431",
+    "geom:latitude":26.1431,
+    "geom:longitude":50.17103,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ra's Munaysif",
+    "gn:country_code":"SA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413161,
+    "gn:latitude":26.1431,
+    "gn:longitude":50.17103,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ra\u2019s Munaysif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Ra\u2019s Munaysif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676819,
+        102191569,
+        85632253,
+        1193010827,
+        1108720599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413161
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9c2de2dde621faade40a637b382fdadf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1193010827,
+            "neighbourhood_id":1361025995,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1361025995,
+    "wof:lastmodified":1548452892,
+    "wof:name":"Ra's Munaysif",
+    "wof:parent_id":1108720599,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193010827
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.17103,
+    26.1431,
+    50.17103,
+    26.1431
+],
+  "geometry": {"coordinates":[50.17103,26.1431],"type":"Point"}
+}

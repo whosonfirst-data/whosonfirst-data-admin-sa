@@ -1,0 +1,70 @@
+{
+  "id": 1326745213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.05,19.33333,42.05,19.33333",
+    "geom:latitude":19.33333,
+    "geom:longitude":42.05,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al `Ateefah",
+    "gn:country_code":"SA",
+    "gn:dem":2438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110010,
+    "gn:latitude":19.33333,
+    "gn:longitude":42.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018Ateefah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Ateefah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110010
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f0165d37d660e8a8516cb554139a1770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720649,
+            "locality_id":1326745213,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1326745213,
+    "wof:lastmodified":1537699273,
+    "wof:name":"Al `Ateefah",
+    "wof:parent_id":1108720649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.05,
+    19.33333,
+    42.05,
+    19.33333
+],
+  "geometry": {"coordinates":[42.05,19.33333],"type":"Point"}
+}

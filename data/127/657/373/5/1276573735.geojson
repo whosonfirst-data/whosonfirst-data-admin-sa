@@ -1,0 +1,76 @@
+{
+  "id": 1276573735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6382,29.08199,46.6382,29.08199",
+    "geom:latitude":29.08199,
+    "geom:longitude":46.6382,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ar Ruq`i",
+    "gn:country_code":"SA",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108383,
+    "gn:latitude":29.08199,
+    "gn:longitude":46.6382,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Ruq\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ar Ruq\u2018\u012b"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn Riqq",
+        "Riqa\u2019i",
+        "Ar Raga\u2018i",
+        "Ain Rig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108383
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"351258736c6a14f6bba8f98badb3e477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":1276573735,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1276573735,
+    "wof:lastmodified":1537699235,
+    "wof:name":"Ar Ruq`i",
+    "wof:parent_id":1108720699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6382,
+    29.08199,
+    46.6382,
+    29.08199
+],
+  "geometry": {"coordinates":[46.6382,29.08199],"type":"Point"}
+}

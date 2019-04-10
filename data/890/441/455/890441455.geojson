@@ -1,0 +1,224 @@
+{
+  "id": 890441455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45248,26.24551,36.45248,26.24551",
+    "geom:latitude":26.24551,
+    "geom:longitude":36.45248,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
+    "gn:pop":26636,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u062c\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Al Wajh"
+    ],
+    "name:chi_x_preferred":[
+        "\u6c83\u5b63\u8d6b"
+    ],
+    "name:dut_x_preferred":[
+        "Al Wajh"
+    ],
+    "name:eng_x_historical":[
+        "Wej"
+    ],
+    "name:eng_x_preferred":[
+        "Wej"
+    ],
+    "name:fin_x_preferred":[
+        "Al Wajh"
+    ],
+    "name:fre_x_preferred":[
+        "Al Wajh"
+    ],
+    "name:ger_x_preferred":[
+        "al-Wadschh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30ef\u30b8\u30e5"
+    ],
+    "name:nno_x_preferred":[
+        "Al Wajh"
+    ],
+    "name:nob_x_preferred":[
+        "Al Wajh"
+    ],
+    "name:oci_x_preferred":[
+        "Al Wajh"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u062c\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Wad\u017ch"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0412\u0430\u0434\u0436\u0445"
+    ],
+    "name:tgl_x_preferred":[
+        "Al Wajh"
+    ],
+    "name:tur_x_preferred":[
+        "El Vecih"
+    ],
+    "name:unk_x_variant":[
+        "Wajj"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0648\u062c\u06c1"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Saudi Arabia",
+    "ne:ADM0_A3":"SAU",
+    "ne:ADM1NAME":"Tabuk",
+    "ne:ADMIN1_COD":19,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":108773,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Al Wajh",
+    "ne:GN_POP":26636,
+    "ne:GTOPO30":1.0,
+    "ne:ISO_A2":"SA",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":26.232416,
+    "ne:LONGITUDE":36.463552,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Al Wajh",
+    "ne:MAX_AREAKM":8.0,
+    "ne:MAX_AREAMI":3.0,
+    "ne:MAX_BBXMAX":36.475,
+    "ne:MAX_BBXMIN":36.441667,
+    "ne:MAX_BBYMAX":26.266667,
+    "ne:MAX_BBYMIN":26.225,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":16.0,
+    "ne:MAX_PERMI":10.0,
+    "ne:MAX_POP10":43237,
+    "ne:MAX_POP20":43237,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":36.4575,
+    "ne:MEAN_BBYC":26.245833,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":8.0,
+    "ne:MIN_AREAMI":3.0,
+    "ne:MIN_BBXMAX":36.475,
+    "ne:MIN_BBXMIN":36.441667,
+    "ne:MIN_BBYMAX":26.266667,
+    "ne:MIN_BBYMIN":26.225,
+    "ne:MIN_PERKM":16.0,
+    "ne:MIN_PERMI":10.0,
+    "ne:NAME":"Al Wajh",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Al Wajh",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":43237,
+    "ne:POP_MIN":26636,
+    "ne:POP_OTHER":43237,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Saudi Arabia",
+    "ne:SOV_A3":"SAU",
+    "ne:TIMEZONE":"Asia/Riyadh",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Al Wajh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:latitude":"26.283333333",
+    "wd:longitude":"36.416666666",
+    "wd:wordcount":167,
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676833,
+        1108720643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108773,
+        "gp:id":1939688,
+        "qs:id":65943,
+        "wd:id":"Q27251",
+        "wk:page":"Al Wajh"
+    },
+    "wof:country":"SA",
+    "wof:created":1469052324,
+    "wof:geomhash":"452eb6ec400873397f9420fcd12a2162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720643,
+            "locality_id":890441455,
+            "region_id":85676833
+        }
+    ],
+    "wof:id":890441455,
+    "wof:lastmodified":1527727228,
+    "wof:name":"Al Wajh",
+    "wof:parent_id":1108720643,
+    "wof:placetype":"locality",
+    "wof:population":26636,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45248,
+    26.24551,
+    36.45248,
+    26.24551
+],
+  "geometry": {"coordinates":[36.45248,26.24551],"type":"Point"}
+}

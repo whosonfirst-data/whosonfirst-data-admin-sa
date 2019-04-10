@@ -1,0 +1,76 @@
+{
+  "id": 1361026011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.68333,27.65,41.68333,27.65",
+    "geom:latitude":27.65,
+    "geom:longitude":41.68333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Waqid",
+    "gn:country_code":"SA",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108768,
+    "gn:latitude":27.65,
+    "gn:longitude":41.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Waq\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Al Wuq\u012bd",
+        "Al-Wu\u017e\u00eed",
+        "Al Waq\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676831,
+        102191569,
+        85632253,
+        1293080469,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108768
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ba1c8039382733875fae00d113e20f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1293080469,
+            "neighbourhood_id":1361026011,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1361026011,
+    "wof:lastmodified":1548452892,
+    "wof:name":"Al Waqid",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293080469
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.68333,
+    27.65,
+    41.68333,
+    27.65
+],
+  "geometry": {"coordinates":[41.68333,27.65],"type":"Point"}
+}

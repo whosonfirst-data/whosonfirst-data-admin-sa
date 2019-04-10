@@ -1,0 +1,79 @@
+{
+  "id": 1226028297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.89472,21.41333,39.89472,21.41333",
+    "geom:latitude":21.41333,
+    "geom:longitude":39.89472,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mina",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103915,
+    "gn:latitude":21.41333,
+    "gn:longitude":39.89472,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Min\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "Min\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Mena",
+        "Mun\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103915,
+        "wk:page":"Mina%2C_Saudi_Arabia"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b3cf27287fe4b327d3f4155a1ad33051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1226028297,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1226028297,
+    "wof:lastmodified":1548452888,
+    "wof:name":"Mina",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361025883
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.89472,
+    21.41333,
+    39.89472,
+    21.41333
+],
+  "geometry": {"coordinates":[39.89472,21.41333],"type":"Point"}
+}

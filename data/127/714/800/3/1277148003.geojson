@@ -1,0 +1,70 @@
+{
+  "id": 1277148003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.58871,21.15151,40.58871,21.15151",
+    "geom:latitude":21.15151,
+    "geom:longitude":40.58871,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ghurabah",
+    "gn:country_code":"SA",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106420,
+    "gn:latitude":21.15151,
+    "gn:longitude":40.58871,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ghur\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghur\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106420
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"64492c461e6ea360d4ad68ec28202687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1277148003,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1277148003,
+    "wof:lastmodified":1537699214,
+    "wof:name":"Ghurabah",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.58871,
+    21.15151,
+    40.58871,
+    21.15151
+],
+  "geometry": {"coordinates":[40.58871,21.15151],"type":"Point"}
+}

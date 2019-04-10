@@ -1,0 +1,71 @@
+{
+  "id": 1226231243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23333,22.76667,46.23333,22.76667",
+    "geom:latitude":22.76667,
+    "geom:longitude":46.23333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Harahha",
+    "gn:country_code":"SA",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106087,
+    "gn:latitude":22.76667,
+    "gn:longitude":46.23333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Harahha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Har\u0101dhah",
+        "\u1e28ar\u0101\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106087
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"471f0b2d4d3c45c5ac8f242ae97c40da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720553,
+            "locality_id":1226231243,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1226231243,
+    "wof:lastmodified":1537699210,
+    "wof:name":"Harahha",
+    "wof:parent_id":1108720553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23333,
+    22.76667,
+    46.23333,
+    22.76667
+],
+  "geometry": {"coordinates":[46.23333,22.76667],"type":"Point"}
+}

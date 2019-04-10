@@ -1,0 +1,74 @@
+{
+  "id": 1343547449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.38898,27.90647,42.38898,27.90647",
+    "geom:latitude":27.90647,
+    "geom:longitude":42.38898,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Baq`a'",
+    "gn:country_code":"SA",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107588,
+    "gn:latitude":27.90647,
+    "gn:longitude":42.38898,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Baq\u2018\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064e\u0642\u0639\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Baqa\u2019a",
+        "Baq\u2018\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107588
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7f74eba5f13e74cf121714932536eab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720675,
+            "locality_id":1343547449,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1343547449,
+    "wof:lastmodified":1537699223,
+    "wof:name":"Baq`a'",
+    "wof:parent_id":1108720675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.38898,
+    27.90647,
+    42.38898,
+    27.90647
+],
+  "geometry": {"coordinates":[42.38898,27.90647],"type":"Point"}
+}

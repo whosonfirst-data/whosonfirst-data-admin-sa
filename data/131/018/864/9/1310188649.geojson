@@ -1,0 +1,72 @@
+{
+  "id": 1310188649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.30984,18.97381,41.30984,18.97381",
+    "geom:latitude":18.97381,
+    "geom:longitude":41.30984,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Qawz",
+    "gn:country_code":"SA",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103044,
+    "gn:latitude":18.97381,
+    "gn:longitude":41.30984,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qawz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u016bz",
+        "Qawz Bal\u2018ayr",
+        "Qawz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103044
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a75639f0a5c33ffd30bd9656b9c08d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":1310188649,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1310188649,
+    "wof:lastmodified":1537699184,
+    "wof:name":"Qawz",
+    "wof:parent_id":1108720633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.30984,
+    18.97381,
+    41.30984,
+    18.97381
+],
+  "geometry": {"coordinates":[41.30984,18.97381],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226161195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.51667,20.05,41.51667,20.05",
+    "geom:latitude":20.05,
+    "geom:longitude":41.51667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ash Shuqra",
+    "gn:country_code":"SA",
+    "gn:dem":2108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108193,
+    "gn:latitude":20.05,
+    "gn:longitude":41.51667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ash Shuqra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108193
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"20b00dbf77b4964321bc8267d2f38258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720567,
+            "locality_id":1226161195,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1226161195,
+    "wof:lastmodified":1537053162,
+    "wof:name":"Ash Shuqra",
+    "wof:parent_id":1108720567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.51667,
+    20.05,
+    41.51667,
+    20.05
+],
+  "geometry": {"coordinates":[41.51667,20.05],"type":"Point"}
+}

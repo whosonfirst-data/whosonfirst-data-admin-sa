@@ -1,0 +1,73 @@
+{
+  "id": 1226252901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03333,27.0,43.03333,27.0",
+    "geom:latitude":27.0,
+    "geom:longitude":43.03333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Umm Khashabah",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100940,
+    "gn:latitude":27.0,
+    "gn:longitude":43.03333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm Khashabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm al Khashabah",
+        "Umm Khashaba",
+        "Umm Khashabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100940
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0d361edb62b4fd176314bc936214ab45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1226252901,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1226252901,
+    "wof:lastmodified":1537699167,
+    "wof:name":"Umm Khashabah",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03333,
+    27.0,
+    43.03333,
+    27.0
+],
+  "geometry": {"coordinates":[43.03333,27.0],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344050915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.065,25.57722,44.065,25.57722",
+    "geom:latitude":25.57722,
+    "geom:longitude":44.065,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Kharma'",
+    "gn:country_code":"SA",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":397374,
+    "gn:latitude":25.57722,
+    "gn:longitude":44.065,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Al Kharm\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064e\u0631\u0645\u064e\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Kharm\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397374
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4aed890192899c662d8b2893c0d0b1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720617,
+            "locality_id":1344050915,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1344050915,
+    "wof:lastmodified":1537699317,
+    "wof:name":"Al Kharma'",
+    "wof:parent_id":1108720617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.065,
+    25.57722,
+    44.065,
+    25.57722
+],
+  "geometry": {"coordinates":[44.065,25.57722],"type":"Point"}
+}

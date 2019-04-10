@@ -1,0 +1,70 @@
+{
+  "id": 1209924125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.98917,24.43917,41.98917,24.43917",
+    "geom:latitude":24.43917,
+    "geom:longitude":41.98917,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Maham",
+    "gn:country_code":"SA",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399928,
+    "gn:latitude":24.43917,
+    "gn:longitude":41.98917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ma\u1e29\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399928
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d66edf569ca60d804a3390d3308e9a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720607,
+            "locality_id":1209924125,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1209924125,
+    "wof:lastmodified":1537699327,
+    "wof:name":"Maham",
+    "wof:parent_id":1108720607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.98917,
+    24.43917,
+    41.98917,
+    24.43917
+],
+  "geometry": {"coordinates":[41.98917,24.43917],"type":"Point"}
+}

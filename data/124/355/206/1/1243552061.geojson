@@ -1,0 +1,75 @@
+{
+  "id": 1243552061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.87772,25.97323,48.87772,25.97323",
+    "geom:latitude":25.97323,
+    "geom:longitude":48.87772,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"`Uray`irah",
+    "gn:country_code":"SA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100723,
+    "gn:latitude":25.97323,
+    "gn:longitude":48.87772,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"\u2018Uray\u2018irah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u064a\u0639\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Arai\u2018ra",
+        "\u2018Uway\u2018irah",
+        "\u2018Uray\u2018irah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100723
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9439f1761cf8a6849fdea08cb35a1645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1243552061,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1243552061,
+    "wof:lastmodified":1537699165,
+    "wof:name":"`Uray`irah",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.87772,
+    25.97323,
+    48.87772,
+    25.97323
+],
+  "geometry": {"coordinates":[48.87772,25.97323],"type":"Point"}
+}

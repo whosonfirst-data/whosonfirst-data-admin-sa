@@ -1,0 +1,73 @@
+{
+  "id": 1310619479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.9,19.65,41.9,19.65",
+    "geom:latitude":19.65,
+    "geom:longitude":41.9,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Shaqiq",
+    "gn:country_code":"SA",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102178,
+    "gn:latitude":19.65,
+    "gn:longitude":41.9,
+    "gn:modification_date":"2018-07-22",
+    "gn:name":"Shaq\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0642\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Shaq\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102178
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ae2b6d853df28181d3a18d8c4218b89f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720673,
+            "locality_id":1310619479,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1310619479,
+    "wof:lastmodified":1537699176,
+    "wof:name":"Shaqiq",
+    "wof:parent_id":1108720673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.9,
+    19.65,
+    41.9,
+    19.65
+],
+  "geometry": {"coordinates":[41.9,19.65],"type":"Point"}
+}

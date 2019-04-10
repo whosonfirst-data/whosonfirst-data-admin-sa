@@ -1,0 +1,75 @@
+{
+  "id": 1310684933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58743,25.26888,44.58743,25.26888",
+    "geom:latitude":25.26888,
+    "geom:longitude":44.58743,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"As Sakran",
+    "gn:country_code":"SA",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395478,
+    "gn:latitude":25.26888,
+    "gn:longitude":44.58743,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"As Sakr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0651\u064e\u0643\u0631\u064e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "As Sakr\u0101n",
+        "Qasr ibn Sakran",
+        "Bal\u0101d\u012bn as Sakr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395478
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a1f6f98b0defda8c700610b349797833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1310684933,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310684933,
+    "wof:lastmodified":1537699299,
+    "wof:name":"As Sakran",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58743,
+    25.26888,
+    44.58743,
+    25.26888
+],
+  "geometry": {"coordinates":[44.58743,25.26888],"type":"Point"}
+}

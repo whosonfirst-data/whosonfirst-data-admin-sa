@@ -1,0 +1,71 @@
+{
+  "id": 1242695873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.35,20.06667,41.35,20.06667",
+    "geom:latitude":20.06667,
+    "geom:longitude":41.35,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ash Sha`af",
+    "gn:country_code":"SA",
+    "gn:dem":2188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108283,
+    "gn:latitude":20.06667,
+    "gn:longitude":41.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ash Sha\u2018af",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sha\u2018f",
+        "Ash Sha\u2018af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108283
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a16efc39274f74b5e2c67cf73a660a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720615,
+            "locality_id":1242695873,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1242695873,
+    "wof:lastmodified":1537699234,
+    "wof:name":"Ash Sha`af",
+    "wof:parent_id":1108720615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.35,
+    20.06667,
+    41.35,
+    20.06667
+],
+  "geometry": {"coordinates":[41.35,20.06667],"type":"Point"}
+}

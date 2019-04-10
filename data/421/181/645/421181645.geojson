@@ -1,0 +1,83 @@
+{
+  "id": 421181645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.68556,24.60472,46.68556,24.60472",
+    "geom:latitude":24.60472,
+    "geom:longitude":46.68556,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u062a\u0627\u0646\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Sul\u0163\u0101nah"
+    ],
+    "qs:gn_country":"SA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":400670,
+    "qs:gn_pop":0,
+    "qs:name":"\u0633\u0644\u0637\u0627\u0646\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":496850,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":1939351,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400670,
+        "gp:id":1939351,
+        "qs:id":496850
+    },
+    "wof:country":"SA",
+    "wof:created":1459009302,
+    "wof:geomhash":"f42ea0e894d84ee528a7482fe60e935d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":-1,
+            "neighbourhood_id":421181645,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":421181645,
+    "wof:lastmodified":1531858471,
+    "wof:name":"\u0633\u0644\u0637\u0627\u0646\u0629",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.68556,
+    24.60472,
+    46.68556,
+    24.60472
+],
+  "geometry": {"coordinates":[46.68556,24.60472],"type":"Point"}
+}

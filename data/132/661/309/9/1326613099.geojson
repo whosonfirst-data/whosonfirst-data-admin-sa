@@ -1,0 +1,73 @@
+{
+  "id": 1326613099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.78527,31.06805,40.78527,31.06805",
+    "geom:latitude":31.06805,
+    "geom:longitude":40.78527,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ibn Su`ayyid",
+    "gn:country_code":"SA",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391189,
+    "gn:latitude":31.06805,
+    "gn:longitude":40.78527,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ibn Su\u2018ayyid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0646 \u0633\u0639\u064a\u0651\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ibn Su\u2018ayyid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391189
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2c85ca01e8bb31ad98b06d7863c2ca47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720651,
+            "locality_id":1326613099,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1326613099,
+    "wof:lastmodified":1537699282,
+    "wof:name":"Ibn Su`ayyid",
+    "wof:parent_id":1108720651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.78527,
+    31.06805,
+    40.78527,
+    31.06805
+],
+  "geometry": {"coordinates":[40.78527,31.06805],"type":"Point"}
+}

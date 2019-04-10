@@ -1,0 +1,71 @@
+{
+  "id": 1209777419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.53333,29.7,37.53333,29.7",
+    "geom:latitude":29.7,
+    "geom:longitude":37.53333,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kulwah",
+    "gn:country_code":"SA",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104794,
+    "gn:latitude":29.7,
+    "gn:longitude":37.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kulwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilwa",
+        "Kulwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676833,
+        1108720767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104794
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4ceb16b07df49aeda22b68cd867402e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720767,
+            "locality_id":1209777419,
+            "region_id":85676833
+        }
+    ],
+    "wof:id":1209777419,
+    "wof:lastmodified":1537699200,
+    "wof:name":"Kulwah",
+    "wof:parent_id":1108720767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.53333,
+    29.7,
+    37.53333,
+    29.7
+],
+  "geometry": {"coordinates":[37.53333,29.7],"type":"Point"}
+}

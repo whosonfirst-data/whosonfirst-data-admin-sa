@@ -1,0 +1,73 @@
+{
+  "id": 1292989853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85302,23.48945,46.85302,23.48945",
+    "geom:latitude":23.48945,
+    "geom:longitude":46.85302,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Hillah",
+    "gn:country_code":"SA",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109598,
+    "gn:latitude":23.48945,
+    "gn:longitude":46.85302,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28illah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hillah",
+        "Al Hilla",
+        "Hilla",
+        "Al \u1e28illah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109598
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"aeead2010fea764e3c0e895f734b943f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720707,
+            "locality_id":1292989853,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1292989853,
+    "wof:lastmodified":1537699263,
+    "wof:name":"Al Hillah",
+    "wof:parent_id":1108720707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85302,
+    23.48945,
+    46.85302,
+    23.48945
+],
+  "geometry": {"coordinates":[46.85302,23.48945],"type":"Point"}
+}

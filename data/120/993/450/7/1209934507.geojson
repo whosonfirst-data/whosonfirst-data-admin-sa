@@ -1,0 +1,70 @@
+{
+  "id": 1209934507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41667,25.5,44.41667,25.5",
+    "geom:latitude":25.5,
+    "geom:longitude":44.41667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qasr Badawi",
+    "gn:country_code":"SA",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103258,
+    "gn:latitude":25.5,
+    "gn:longitude":44.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qa\u015fr Badaw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fr Badaw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103258
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7f2fad9ab58c6500d81b92763877cdaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1209934507,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209934507,
+    "wof:lastmodified":1537699187,
+    "wof:name":"Qasr Badawi",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41667,
+    25.5,
+    44.41667,
+    25.5
+],
+  "geometry": {"coordinates":[44.41667,25.5],"type":"Point"}
+}

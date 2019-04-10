@@ -1,0 +1,76 @@
+{
+  "id": 1226723163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.74317,29.82365,42.74317,29.82365",
+    "geom:latitude":29.82365,
+    "geom:longitude":42.74317,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lawqah",
+    "gn:country_code":"SA",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104721,
+    "gn:latitude":29.82365,
+    "gn:longitude":42.74317,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Lawqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u064e\u0648\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Lauqa",
+        "Lauga",
+        "Lowka",
+        "Lawqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104721
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"de59a5417b8e3028e95f3716006c09cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720741,
+            "locality_id":1226723163,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1226723163,
+    "wof:lastmodified":1537699199,
+    "wof:name":"Lawqah",
+    "wof:parent_id":1108720741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.74317,
+    29.82365,
+    42.74317,
+    29.82365
+],
+  "geometry": {"coordinates":[42.74317,29.82365],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310096055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03333,25.61667,43.03333,25.61667",
+    "geom:latitude":25.61667,
+    "geom:longitude":43.03333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Humaymah",
+    "gn:country_code":"SA",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109558,
+    "gn:latitude":25.61667,
+    "gn:longitude":43.03333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28umaymah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28umaymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109558
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"686123584767d02e469422cea55eef3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1310096055,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1310096055,
+    "wof:lastmodified":1537699262,
+    "wof:name":"Al Humaymah",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03333,
+    25.61667000000001,
+    43.03333,
+    25.61667000000001
+],
+  "geometry": {"coordinates":[43.03333,25.61667000000001],"type":"Point"}
+}

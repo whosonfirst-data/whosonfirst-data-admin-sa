@@ -1,0 +1,71 @@
+{
+  "id": 1292996309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68333,25.96667,43.68333,25.96667",
+    "geom:latitude":25.96667,
+    "geom:longitude":43.68333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Munayzilah",
+    "gn:country_code":"SA",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103904,
+    "gn:latitude":25.96667,
+    "gn:longitude":43.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Munayzilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munaizila",
+        "Munayzilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103904
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a1044557709d33190cb1aed5744d9da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720565,
+            "locality_id":1292996309,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1292996309,
+    "wof:lastmodified":1537699192,
+    "wof:name":"Munayzilah",
+    "wof:parent_id":1108720565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68333,
+    25.96667,
+    43.68333,
+    25.96667
+],
+  "geometry": {"coordinates":[43.68333,25.96667],"type":"Point"}
+}

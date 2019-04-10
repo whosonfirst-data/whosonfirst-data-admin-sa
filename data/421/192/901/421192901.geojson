@@ -1,0 +1,80 @@
+{
+  "id": 421192901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.62611,24.50139,46.62611,24.50139",
+    "geom:latitude":24.50139,
+    "geom:longitude":46.62611,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "D\u012br\u0101b"
+    ],
+    "qs:gn_country":"SA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":448671,
+    "qs:gn_pop":0,
+    "qs:name":"\u0636\u0631\u0627\u0628",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1182870,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":55948462,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448671,
+        "gp:id":55948462,
+        "qs:id":1182870
+    },
+    "wof:country":"SA",
+    "wof:created":1459009752,
+    "wof:geomhash":"d7dd717566c851ef2f41f795d38f67d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":-1,
+            "neighbourhood_id":421192901,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":421192901,
+    "wof:lastmodified":1531858706,
+    "wof:name":"\u0636\u0631\u0627\u0628",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.62611,
+    24.50139,
+    46.62611,
+    24.50139
+],
+  "geometry": {"coordinates":[46.62611,24.50139],"type":"Point"}
+}

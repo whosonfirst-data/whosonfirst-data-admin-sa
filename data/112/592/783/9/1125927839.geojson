@@ -1,0 +1,81 @@
+{
+  "id": 1125927839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65933,26.14422,43.65933,26.14422",
+    "geom:latitude":26.14422,
+    "geom:longitude":43.65933,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":25153,
+    "gn:population":25153,
+    "iso:country":"SA",
+    "lbl:latitude":26.14422,
+    "lbl:longitude":43.65933,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Keriya"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":109878,
+    "qs_pg:gn_pop":25153,
+    "qs_pg:name":"Al Bukayr\u012byah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":66438,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109878,
+        "qs_pg:id":66438
+    },
+    "wof:country":"SA",
+    "wof:created":1497296702,
+    "wof:geomhash":"d46371ef63683ef32e58b0fb67eec324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720569,
+            "locality_id":1125927839,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1125927839,
+    "wof:lastmodified":1509401203,
+    "wof:name":"Al Bukayr\u012byah",
+    "wof:parent_id":1108720569,
+    "wof:placetype":"locality",
+    "wof:population":25153,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65933,
+    26.14422,
+    43.65933,
+    26.14422
+],
+  "geometry": {"coordinates":[43.65933,26.14422],"type":"Point"}
+}

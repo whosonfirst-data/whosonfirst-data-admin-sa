@@ -1,0 +1,81 @@
+{
+  "id": 1125927019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.28337,20.1588,41.28337,20.1588",
+    "geom:latitude":20.1588,
+    "geom:longitude":41.28337,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9218,
+    "gn:population":9218,
+    "iso:country":"SA",
+    "lbl:latitude":20.1588,
+    "lbl:longitude":41.28337,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Mendak"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":109118,
+    "qs_pg:gn_pop":9218,
+    "qs_pg:name":"Al Mindak",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":66178,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109118,
+        "qs_pg:id":66178
+    },
+    "wof:country":"SA",
+    "wof:created":1497296674,
+    "wof:geomhash":"42d9e881a2c841cb9708541960dde645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720615,
+            "locality_id":1125927019,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1125927019,
+    "wof:lastmodified":1509401149,
+    "wof:name":"Al Mindak",
+    "wof:parent_id":1108720615,
+    "wof:placetype":"locality",
+    "wof:population":9218,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.28337,
+    20.1588,
+    41.28337,
+    20.1588
+],
+  "geometry": {"coordinates":[41.28337,20.1588],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309994907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54667,24.89083,44.54667,24.89083",
+    "geom:latitude":24.89083,
+    "geom:longitude":44.54667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Maghib",
+    "gn:country_code":"SA",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104608,
+    "gn:latitude":24.89083,
+    "gn:longitude":44.54667,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Magh\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magh\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104608
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0bbbc62ce23467a346591454f2c86b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1309994907,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1309994907,
+    "wof:lastmodified":1537699198,
+    "wof:name":"Maghib",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54667,
+    24.89083,
+    44.54667,
+    24.89083
+],
+  "geometry": {"coordinates":[44.54667,24.89083],"type":"Point"}
+}

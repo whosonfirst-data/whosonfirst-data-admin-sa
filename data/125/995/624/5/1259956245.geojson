@@ -1,0 +1,74 @@
+{
+  "id": 1259956245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.42946,27.80926,41.42946,27.80926",
+    "geom:latitude":27.80926,
+    "geom:longitude":41.42946,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Umm al Qulban",
+    "gn:country_code":"SA",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101079,
+    "gn:latitude":27.80926,
+    "gn:longitude":41.42946,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Umm al Qulb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0642\u0644\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Umm al-Kulb\u00e2n",
+        "Umm al Qulb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101079
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"aacab02ff39cc9852fbdfebf582ec189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1259956245,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1259956245,
+    "wof:lastmodified":1537699167,
+    "wof:name":"Umm al Qulban",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.42946,
+    27.80926,
+    41.42946,
+    27.80926
+],
+  "geometry": {"coordinates":[41.42946,27.80926],"type":"Point"}
+}

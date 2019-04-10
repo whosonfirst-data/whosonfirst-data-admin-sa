@@ -1,0 +1,74 @@
+{
+  "id": 1310376917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.06817,17.73398,42.06817,17.73398",
+    "geom:latitude":17.73398,
+    "geom:longitude":42.06817,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Al Qa`",
+    "gn:country_code":"SA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7353642,
+    "gn:latitude":17.73398,
+    "gn:longitude":42.06817,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Q\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0627\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Q\u0101\u2018",
+        "\u0627\u0644\u0642\u0627\u0639"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7353642
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a1dfc6ea801e18e842f2ba6db0c64558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720631,
+            "locality_id":1310376917,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1310376917,
+    "wof:lastmodified":1537699342,
+    "wof:name":"Al Qa`",
+    "wof:parent_id":1108720631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.06817,
+    17.73398,
+    42.06817,
+    17.73398
+],
+  "geometry": {"coordinates":[42.06817,17.73398],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226460813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.78333,18.23333,42.78333,18.23333",
+    "geom:latitude":18.23333,
+    "geom:longitude":42.78333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Harayr",
+    "gn:country_code":"SA",
+    "gn:dem":2038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109656,
+    "gn:latitude":18.23333,
+    "gn:longitude":42.78333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Harayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109656
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8b7543d36affcb1e1428f188ce055035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720717,
+            "locality_id":1226460813,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1226460813,
+    "wof:lastmodified":1536621715,
+    "wof:name":"Al Harayr",
+    "wof:parent_id":1108720717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.78333,
+    18.23333,
+    42.78333,
+    18.23333
+],
+  "geometry": {"coordinates":[42.78333,18.23333],"type":"Point"}
+}

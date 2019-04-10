@@ -1,0 +1,111 @@
+{
+  "id": 421180475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.95223,26.64986,49.95223,26.64986",
+    "geom:latitude":26.64986,
+    "geom:longitude":49.95223,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0635\u0641\u0648\u0649"
+    ],
+    "name:chi_x_preferred":[
+        "\u585e\u592b\u74e6"
+    ],
+    "name:dut_x_preferred":[
+        "Safwa City"
+    ],
+    "name:eng_x_preferred":[
+        "Safwa City"
+    ],
+    "name:fre_x_preferred":[
+        "Safwa"
+    ],
+    "name:ger_x_preferred":[
+        "Safwa"
+    ],
+    "name:nno_x_preferred":[
+        "Safwa"
+    ],
+    "name:pol_x_preferred":[
+        "Safwa"
+    ],
+    "name:tur_x_preferred":[
+        "Safva"
+    ],
+    "name:unk_x_variant":[
+        "\u015eafwah"
+    ],
+    "qs:gn_country":"SA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":102585,
+    "qs:gn_pop":45876,
+    "qs:name":"\u0635\u0641\u0648\u0649",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":433180,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":1939244,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102585,
+        "gp:id":1939244,
+        "qs:id":433180,
+        "wd:id":"Q27234",
+        "wk:page":"Safwa City"
+    },
+    "wof:country":"SA",
+    "wof:created":1459009260,
+    "wof:geomhash":"a9df1df77accf44b2d7248e22c1faca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":421180475,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":421180475,
+    "wof:lastmodified":1514504489,
+    "wof:name":"\u0635\u0641\u0648\u0649",
+    "wof:parent_id":1108720627,
+    "wof:placetype":"locality",
+    "wof:population":45876,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.95223,
+    26.64986,
+    49.95223,
+    26.64986
+],
+  "geometry": {"coordinates":[49.95223,26.64986],"type":"Point"}
+}

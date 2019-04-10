@@ -1,0 +1,65 @@
+{
+  "id": 1310116035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06667,26.76667,36.06667,26.76667",
+    "geom:latitude":26.76667,
+    "geom:longitude":36.06667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Taraf Shaqq al `Abd",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101574,
+    "gn:latitude":26.76667,
+    "gn:longitude":36.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0162araf Shaqq al \u2018Abd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sekk al- \u2018Abd",
+        "\u0162araf Shaqq al \u2018Abd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101574
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ab56ee4a83116c1ddb360cbf0246b6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310116035,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310116035,
+    "wof:lastmodified":1537699171,
+    "wof:name":"Taraf Shaqq al `Abd",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06667,
+    26.76667,
+    36.06667,
+    26.76667
+],
+  "geometry": {"coordinates":[36.06667,26.76667],"type":"Point"}
+}

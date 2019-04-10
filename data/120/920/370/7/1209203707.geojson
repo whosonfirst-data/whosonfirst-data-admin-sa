@@ -1,0 +1,74 @@
+{
+  "id": 1209203707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.75,24.56667,46.75,24.56667",
+    "geom:latitude":24.56667,
+    "geom:longitude":46.75,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Jaz`ah",
+    "gn:country_code":"SA",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109462,
+    "gn:latitude":24.56667,
+    "gn:longitude":46.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Jaz\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Jiza",
+        "Al Jaz\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109462
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9ad8f49f9cf8ecbe7f614eba9caec153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":1209203707,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209203707,
+    "wof:lastmodified":1548455913,
+    "wof:name":"Al Jaz`ah",
+    "wof:parent_id":1108720657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361026139
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.75,
+    24.56667,
+    46.75,
+    24.56667
+],
+  "geometry": {"coordinates":[46.75,24.56667],"type":"Point"}
+}

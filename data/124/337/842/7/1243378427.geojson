@@ -1,0 +1,70 @@
+{
+  "id": 1243378427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88378,17.66561,43.88378,17.66561",
+    "geom:latitude":17.66561,
+    "geom:longitude":43.88378,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Harshaf",
+    "gn:country_code":"SA",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106046,
+    "gn:latitude":17.66561,
+    "gn:longitude":43.88378,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28arshaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28arshaf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676809,
+        1108720709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106046
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7fb85cebd7f765dbf48307a3161010a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720709,
+            "locality_id":1243378427,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":1243378427,
+    "wof:lastmodified":1537699210,
+    "wof:name":"Harshaf",
+    "wof:parent_id":1108720709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88378,
+    17.66561,
+    43.88378,
+    17.66561
+],
+  "geometry": {"coordinates":[43.88378,17.66561],"type":"Point"}
+}

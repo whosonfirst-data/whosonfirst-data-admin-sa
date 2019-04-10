@@ -1,0 +1,110 @@
+{
+  "id": 85932865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6512031.537566,
+    "geom:bbox":"50.193002,26.331048,50.193002,26.331048",
+    "geom:latitude":26.331048,
+    "geom:longitude":50.193002,
+    "gn:id":"",
+    "iso:country":"SA",
+    "lbl:latitude":26.331048,
+    "lbl:longitude":50.193002,
+    "mps:latitude":26.329183,
+    "mps:longitude":50.193012,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0648\u0647\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Joharah"
+    ],
+    "name:eng_x_variant":[
+        "Al Joharah"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u062c\u0648\u0647\u0631\u0629"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":293,
+    "qs:local_sum":1312,
+    "qs:localhoods":12,
+    "qs:name":"\u0627\u0644\u062c\u0648\u0647\u0631\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:name_adm2":"\u0627\u0644\u062f\u0645\u0627\u0645",
+    "qs:name_en":"Al Joharah",
+    "qs:name_local":"\u0627\u0644\u062e\u0628\u0631",
+    "qs:photo_max":10,
+    "qs:photo_sum":35,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424938,
+    "qs:woe_adm1":2346954,
+    "qs:woe_adm2":56120200,
+    "qs:woe_lau":0,
+    "qs:woe_local":1939645,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948415,
+        "qs:id":1001035,
+        "qs_pg:id":1001035
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"942b5c3b778e295bb292cc76e0dbbf17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":-1,
+            "neighbourhood_id":85932865,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":85932865,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531939533,
+    "wof:name":"\u0627\u0644\u062c\u0648\u0647\u0631\u0629",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.193002,
+    26.331048,
+    50.193002,
+    26.331048
+],
+  "geometry": {"coordinates":[50.193002,26.331048],"type":"Point"}
+}

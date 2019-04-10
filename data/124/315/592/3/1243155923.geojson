@@ -1,0 +1,71 @@
+{
+  "id": 1243155923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43394,20.40843,45.43394,20.40843",
+    "geom:latitude":20.40843,
+    "geom:longitude":45.43394,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tamrah",
+    "gn:country_code":"SA",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101591,
+    "gn:latitude":20.40843,
+    "gn:longitude":45.43394,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tamrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamra",
+        "Tamrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101591
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"071814d3264b38fe4a2389dc4b5dcaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720663,
+            "locality_id":1243155923,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1243155923,
+    "wof:lastmodified":1537699171,
+    "wof:name":"Tamrah",
+    "wof:parent_id":1108720663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43394,
+    20.40843,
+    45.43394,
+    20.40843
+],
+  "geometry": {"coordinates":[45.43394,20.40843],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226418943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.18275,27.034,42.18275,27.034",
+    "geom:latitude":27.034,
+    "geom:longitude":42.18275,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tabah",
+    "gn:country_code":"SA",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101635,
+    "gn:latitude":27.034,
+    "gn:longitude":42.18275,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"\u0162\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "T\u0101ba",
+        "\u0162\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101635
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8a706b6ec5a869c6019dcb3371f8428c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1226418943,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1226418943,
+    "wof:lastmodified":1537699171,
+    "wof:name":"Tabah",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.18275,
+    27.034,
+    42.18275,
+    27.034
+],
+  "geometry": {"coordinates":[42.18275,27.034],"type":"Point"}
+}

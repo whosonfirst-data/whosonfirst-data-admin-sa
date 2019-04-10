@@ -1,0 +1,72 @@
+{
+  "id": 1209533657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.73333,16.98333,42.73333,16.98333",
+    "geom:latitude":16.98333,
+    "geom:longitude":42.73333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Shuwayyah",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101943,
+    "gn:latitude":16.98333,
+    "gn:longitude":42.73333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shuwayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shoowaya",
+        "Shuwayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101943
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7ea156d85367f1d9112b86dabe3aab58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720535,
+            "locality_id":1209533657,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1209533657,
+    "wof:lastmodified":1548455923,
+    "wof:name":"Shuwayyah",
+    "wof:parent_id":1108720535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.73333,
+    16.98333,
+    42.73333,
+    16.98333
+],
+  "geometry": {"coordinates":[42.73333,16.98333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1361025907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.58333,18.25,42.58333,18.25",
+    "geom:latitude":18.25,
+    "geom:longitude":42.58333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Assan",
+    "gn:country_code":"SA",
+    "gn:dem":2130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110017,
+    "gn:latitude":18.25,
+    "gn:longitude":42.58333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Assan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676851,
+        102191569,
+        85632253,
+        1193155183,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110017
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8be95e5f82f5f2b3d320000aa8998d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1193155183,
+            "neighbourhood_id":1361025907,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1361025907,
+    "wof:lastmodified":1548452891,
+    "wof:name":"Al Assan",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193155183
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.58333,
+    18.25,
+    42.58333,
+    18.25
+],
+  "geometry": {"coordinates":[42.58333,18.25],"type":"Point"}
+}

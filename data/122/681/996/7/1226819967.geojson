@@ -1,0 +1,65 @@
+{
+  "id": 1226819967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.23333,18.81667,41.23333,18.81667",
+    "geom:latitude":18.81667,
+    "geom:longitude":41.23333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Anda",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108658,
+    "gn:latitude":18.81667,
+    "gn:longitude":41.23333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Anda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andah",
+        "Anda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108658
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"303b743af983525d0954834d8811bb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226819967,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226819967,
+    "wof:lastmodified":1537699240,
+    "wof:name":"Anda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.23333,
+    18.81667,
+    41.23333,
+    18.81667
+],
+  "geometry": {"coordinates":[41.23333,18.81667],"type":"Point"}
+}

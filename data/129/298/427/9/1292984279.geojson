@@ -1,0 +1,71 @@
+{
+  "id": 1292984279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46152,21.9561,39.46152,21.9561",
+    "geom:latitude":21.9561,
+    "geom:longitude":39.46152,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Umm al Jurm",
+    "gn:country_code":"SA",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410058,
+    "gn:latitude":21.9561,
+    "gn:longitude":39.46152,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm al Jurm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm al Jirm",
+        "Umm al Jurm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410058
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6a816b42ada4fc163b7f9d7fdb4b44ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720725,
+            "locality_id":1292984279,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1292984279,
+    "wof:lastmodified":1537699333,
+    "wof:name":"Umm al Jurm",
+    "wof:parent_id":1108720725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46152,
+    21.9561,
+    39.46152,
+    21.9561
+],
+  "geometry": {"coordinates":[39.46152,21.9561],"type":"Point"}
+}

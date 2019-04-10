@@ -1,0 +1,70 @@
+{
+  "id": 1276537823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11698,23.96129,47.11698,23.96129",
+    "geom:latitude":23.96129,
+    "geom:longitude":47.11698,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ar Raghib",
+    "gn:country_code":"SA",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414856,
+    "gn:latitude":23.96129,
+    "gn:longitude":47.11698,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Ragh\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Ragh\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414856
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f6912cdb295ce510b1b566ca8a38662d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1276537823,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1276537823,
+    "wof:lastmodified":1537699341,
+    "wof:name":"Ar Raghib",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11698,
+    23.96129,
+    47.11698,
+    23.96129
+],
+  "geometry": {"coordinates":[47.11698,23.96129],"type":"Point"}
+}

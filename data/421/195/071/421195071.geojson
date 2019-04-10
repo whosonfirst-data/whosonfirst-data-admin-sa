@@ -1,0 +1,253 @@
+{
+  "id": 421195071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.080488,
+    "geom:area_square_m":908677492.782941,
+    "geom:bbox":"47.190833919,23.9088472612,47.7520265304,24.2515660025",
+    "geom:latitude":24.078716,
+    "geom:longitude":47.480027,
+    "iso:country":"SA",
+    "lbl:latitude":24.054055,
+    "lbl:longitude":47.507628,
+    "mps:latitude":24.054055,
+    "mps:longitude":47.507628,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Kharj"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u723e\u5361"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Kharj"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kharj"
+    ],
+    "name:eng_x_variant":[
+        "Al-Kharj"
+    ],
+    "name:fre_x_preferred":[
+        "Al Khardj"
+    ],
+    "name:ger_x_preferred":[
+        "al-Chardsch"
+    ],
+    "name:ita_x_preferred":[
+        "al kharj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30ab\u30eb\u30b8"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d7d \u0d16\u0d7c\u0d1c\u0d4d\u200c"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Kharj"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Chard\u017c"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u0440\u0434\u0436"
+    ],
+    "name:spa_x_preferred":[
+        "Al-Kharj"
+    ],
+    "name:tgl_x_preferred":[
+        "Al Kharj"
+    ],
+    "name:tur_x_preferred":[
+        "El-Harc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0425\u0430\u0440\u0434\u0436"
+    ],
+    "name:unk_x_variant":[
+        "Al Kharj"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Saudi Arabia",
+    "ne:ADM0_A3":"SAU",
+    "ne:ADM1NAME":"Ar Riyad",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"SA",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":24.155566,
+    "ne:LONGITUDE":47.312037,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Al Kharj",
+    "ne:MAX_AREAKM":52.0,
+    "ne:MAX_AREAMI":20.0,
+    "ne:MAX_BBXMAX":47.375,
+    "ne:MAX_BBXMIN":47.258333,
+    "ne:MAX_BBYMAX":24.191667,
+    "ne:MAX_BBYMIN":24.108333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":45.0,
+    "ne:MAX_PERMI":28.0,
+    "ne:MAX_POP10":298428,
+    "ne:MAX_POP20":298428,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":47.321086,
+    "ne:MEAN_BBYC":24.14899,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":52.0,
+    "ne:MIN_AREAMI":20.0,
+    "ne:MIN_BBXMAX":47.375,
+    "ne:MIN_BBXMIN":47.258333,
+    "ne:MIN_BBYMAX":24.191667,
+    "ne:MIN_BBYMIN":24.108333,
+    "ne:MIN_PERKM":45.0,
+    "ne:MIN_PERMI":28.0,
+    "ne:NAME":"Al Kharj",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Al Kharj",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":298428,
+    "ne:POP_MIN":298428,
+    "ne:POP_OTHER":298428,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Saudi Arabia",
+    "ne:SOV_A3":"SAU",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
+    "qs:gn_country":"SA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":109353,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u062e\u0631\u062c",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:photos":204,
+    "qs:photos_1k":41,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":281,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "qs:qs_id":241153,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":1939717,
+    "reversegeo:latitude":24.054055,
+    "reversegeo:longitude":47.507628,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109353,
+        "gp:id":1939717,
+        "qs:id":241153,
+        "wd:id":"Q2162128",
+        "wk:page":"Al-Kharj"
+    },
+    "wof:country":"SA",
+    "wof:created":1459009830,
+    "wof:geomhash":"2fb3cd824299635791ae9188ad753097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":421195071,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":421195071,
+    "wof:lastmodified":1548452886,
+    "wof:name":"Al Kharj",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141907107
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.19083391900214,
+    23.90884726118296,
+    47.7520265303564,
+    24.25156600246197
+],
+  "geometry": {"coordinates":[[[47.19083391900214,24.11010980385469],[47.20856705184541,24.13081132137639],[47.25063169254339,24.1240366479609],[47.25310608317269,24.17069933958016],[47.28486076291527,24.17972885973882],[47.28156157540955,24.18499578480729],[47.29970710669104,24.192519586293],[47.32733780205148,24.19139104436233],[47.33517337237758,24.22787550634848],[47.3281625989279,24.22712335488692],[47.32156422391646,24.22712335488692],[47.31166666139929,24.23088406776116],[47.31908983328717,24.25156600246197],[47.42631342722321,24.23502072361162],[47.44899534132506,24.23652492877186],[47.44899534132506,24.23163619700545],[47.44858294288684,24.22787550634848],[47.44775814601041,24.22486687384381],[47.44363416162826,24.22524295679451],[47.44198456787539,24.2218581702538],[47.43249940379644,24.21922549630553],[47.40528110687421,24.19176722611545],[47.40445630999778,24.15903526411039],[47.40239431780671,24.15677757806701],[47.39950752873919,24.14435959167015],[47.40156952093027,24.13833831544032],[47.40033232561563,24.13608026374108],[47.40115712249206,24.12892950363942],[47.39868273186276,24.12441302811843],[47.40363151312135,24.12177834376427],[47.42773260500839,24.1109020663586],[47.52540614056435,24.1826496668473],[47.60153085465657,24.09822066714749],[47.74437040329509,24.10821199547404],[47.7520265303564,23.99940492289548],[47.60970532110575,23.9886802618809],[47.50201051300984,23.90884726118296],[47.34935999531371,24.07805638223427],[47.33929735675972,24.07359169710474],[47.30960466920821,24.0547638672958],[47.27949958321848,24.05325752156637],[47.27949958321848,24.06568434511439],[47.27949958321848,24.06944981161868],[47.27867478634204,24.07095596727126],[47.27702519258919,24.07246210523738],[47.26754002851023,24.07509780411756],[47.25434327848733,24.08262807383368],[47.2164026221715,24.06304845279994],[47.20774225496898,24.08149856157178],[47.20196867683396,24.09693436760864],[47.1978446924518,24.10408691547847],[47.19083391900214,24.11010980385469]]],"type":"Polygon"}
+}

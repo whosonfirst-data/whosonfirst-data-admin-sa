@@ -1,0 +1,74 @@
+{
+  "id": 1193132543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45603,24.87721,46.45603,24.87721",
+    "geom:latitude":24.87721,
+    "geom:longitude":46.45603,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Hani",
+    "gn:country_code":"SA",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109669,
+    "gn:latitude":24.87721,
+    "gn:longitude":46.45603,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Al \u1e28an\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28an\u012b",
+        "Al Hani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109669
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3f90f497243f1f6e1c9b7f8fb74cad34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720543,
+            "locality_id":1193132543,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1193132543,
+    "wof:lastmodified":1537699264,
+    "wof:name":"Al Hani",
+    "wof:parent_id":1108720543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45603,
+    24.87721,
+    46.45603,
+    24.87721
+],
+  "geometry": {"coordinates":[46.45603,24.87721],"type":"Point"}
+}

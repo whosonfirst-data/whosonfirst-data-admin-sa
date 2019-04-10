@@ -1,0 +1,73 @@
+{
+  "id": 1343757985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.69115,25.83026,45.69115,25.83026",
+    "geom:latitude":25.83026,
+    "geom:longitude":45.69115,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bawda'",
+    "gn:country_code":"SA",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396357,
+    "gn:latitude":25.83026,
+    "gn:longitude":45.69115,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Baw\u1e11\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0636\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Baw\u1e11\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396357
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"39f81fb27ae3934b88f0abcaa971faa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1343757985,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1343757985,
+    "wof:lastmodified":1537699308,
+    "wof:name":"Bawda'",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.69115,
+    25.83026,
+    45.69115,
+    25.83026
+],
+  "geometry": {"coordinates":[45.69115,25.83026],"type":"Point"}
+}

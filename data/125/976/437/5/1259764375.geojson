@@ -1,0 +1,75 @@
+{
+  "id": 1259764375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.89129,18.11145,42.89129,18.11145",
+    "geom:latitude":18.11145,
+    "geom:longitude":42.89129,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Qarha'",
+    "gn:country_code":"SA",
+    "gn:dem":2118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108949,
+    "gn:latitude":18.11145,
+    "gn:longitude":42.89129,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Al Qar\u1e29\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u062d\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Qarha",
+        "Al Qarah",
+        "Al Qar\u1e29\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108949
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e730d07e42ef3745ed590e18436188c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1259764375,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1259764375,
+    "wof:lastmodified":1537699247,
+    "wof:name":"Al Qarha'",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.89129000000001,
+    18.11145,
+    42.89129000000001,
+    18.11145
+],
+  "geometry": {"coordinates":[42.89129000000001,18.11145],"type":"Point"}
+}

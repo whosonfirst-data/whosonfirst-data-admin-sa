@@ -1,0 +1,70 @@
+{
+  "id": 1243090219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.36228,23.42803,39.36228,23.42803",
+    "geom:latitude":23.42803,
+    "geom:longitude":39.36228,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Qifaf",
+    "gn:country_code":"SA",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410159,
+    "gn:latitude":23.42803,
+    "gn:longitude":39.36228,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qif\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qif\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410159
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"76723d2d7db972ea2157798d3a8495c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720671,
+            "locality_id":1243090219,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1243090219,
+    "wof:lastmodified":1537699334,
+    "wof:name":"Al Qifaf",
+    "wof:parent_id":1108720671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.36228,
+    23.42803,
+    39.36228,
+    23.42803
+],
+  "geometry": {"coordinates":[39.36228,23.42803],"type":"Point"}
+}

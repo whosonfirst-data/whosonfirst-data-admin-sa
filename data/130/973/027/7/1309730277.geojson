@@ -1,0 +1,70 @@
+{
+  "id": 1309730277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.84889,19.37845,41.84889,19.37845",
+    "geom:latitude":19.37845,
+    "geom:longitude":41.84889,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Sahil",
+    "gn:country_code":"SA",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102568,
+    "gn:latitude":19.37845,
+    "gn:longitude":41.84889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101\u1e29il",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u0101\u1e29il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102568
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"660d2f2703bf8eaf9a602dc08a22d58e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":1309730277,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1309730277,
+    "wof:lastmodified":1537699179,
+    "wof:name":"Sahil",
+    "wof:parent_id":1108720633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.84889,
+    19.37845,
+    41.84889,
+    19.37845
+],
+  "geometry": {"coordinates":[41.84889,19.37845],"type":"Point"}
+}

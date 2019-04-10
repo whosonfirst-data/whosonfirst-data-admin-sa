@@ -1,0 +1,71 @@
+{
+  "id": 1276458355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.07891,21.97266,42.07891,21.97266",
+    "geom:latitude":21.97266,
+    "geom:longitude":42.07891,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Sulaymiyah",
+    "gn:country_code":"SA",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101770,
+    "gn:latitude":21.97266,
+    "gn:longitude":42.07891,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sulaym\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sulaimiya",
+        "Sulaym\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101770
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1fcc43430f7c7a0a70db5fc6cf99a46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720601,
+            "locality_id":1276458355,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1276458355,
+    "wof:lastmodified":1537699174,
+    "wof:name":"Sulaymiyah",
+    "wof:parent_id":1108720601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.07891,
+    21.97266,
+    42.07891,
+    21.97266
+],
+  "geometry": {"coordinates":[42.07891,21.97266],"type":"Point"}
+}

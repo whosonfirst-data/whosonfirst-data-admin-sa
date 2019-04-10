@@ -1,0 +1,73 @@
+{
+  "id": 1293187279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.24329,27.96877,42.24329,27.96877",
+    "geom:latitude":27.96877,
+    "geom:longitude":42.24329,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Jabriyah",
+    "gn:country_code":"SA",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396564,
+    "gn:latitude":27.96877,
+    "gn:longitude":42.24329,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Al Jabr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u064e\u0628\u0631\u064a\u0651\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jabr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396564
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"32c7d925e9bbdbf103cde34006fecfb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720675,
+            "locality_id":1293187279,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1293187279,
+    "wof:lastmodified":1537699309,
+    "wof:name":"Al Jabriyah",
+    "wof:parent_id":1108720675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.24329,
+    27.96877000000001,
+    42.24329,
+    27.96877000000001
+],
+  "geometry": {"coordinates":[42.24329,27.96877000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226534883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.98417,27.61361,48.98417,27.61361",
+    "geom:latitude":27.61361,
+    "geom:longitude":48.98417,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Munifah",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":104431,
+    "gn:latitude":27.61361,
+    "gn:longitude":48.98417,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mun\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man\u012bfah",
+        "Manifa",
+        "Mun\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104431
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"683518bbc01c04690eb7994024b6253d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720591,
+            "locality_id":1226534883,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1226534883,
+    "wof:lastmodified":1537699196,
+    "wof:name":"Munifah",
+    "wof:parent_id":1108720591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.98417,
+    27.61361,
+    48.98417,
+    27.61361
+],
+  "geometry": {"coordinates":[48.98417,27.61361],"type":"Point"}
+}

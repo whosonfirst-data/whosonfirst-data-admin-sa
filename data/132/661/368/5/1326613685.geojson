@@ -1,0 +1,71 @@
+{
+  "id": 1326613685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76192,21.64547,39.76192,21.64547",
+    "geom:latitude":21.64547,
+    "geom:longitude":39.76192,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Ayn Shams",
+    "gn:country_code":"SA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102187,
+    "gn:latitude":21.64547,
+    "gn:longitude":39.76192,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Ayn Shams",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shams",
+        "\u2018Ayn Shams"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102187
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1859d1f4f50a33c9a8e4f5f312d21581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720587,
+            "locality_id":1326613685,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1326613685,
+    "wof:lastmodified":1537699176,
+    "wof:name":"`Ayn Shams",
+    "wof:parent_id":1108720587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76192,
+    21.64547,
+    39.76192,
+    21.64547
+],
+  "geometry": {"coordinates":[39.76192,21.64547],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309789459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51833,24.90389,43.51833,24.90389",
+    "geom:latitude":24.90389,
+    "geom:longitude":43.51833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Badayi Bin Najm",
+    "gn:country_code":"SA",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400013,
+    "gn:latitude":24.90389,
+    "gn:longitude":43.51833,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bad\u0101y\u012b Bin Najm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bad\u0101y\u012b Bin Najm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400013
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"77ada7bd60de13b105c207a2145b9228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1309789459,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1309789459,
+    "wof:lastmodified":1537699328,
+    "wof:name":"Badayi Bin Najm",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51833,
+    24.90389,
+    43.51833,
+    24.90389
+],
+  "geometry": {"coordinates":[43.51833,24.90389],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293802003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.6,26.15,40.6,26.15",
+    "geom:latitude":26.15,
+    "geom:longitude":40.6,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Hayit",
+    "gn:country_code":"SA",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106273,
+    "gn:latitude":26.15,
+    "gn:longitude":40.6,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hayit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28\u0101\u2019i\u0163"
+    ],
+    "name:und_x_variant":[
+        "H\u0101yat",
+        "Hayit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106273
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e37690ec9a8b87bb463ff7482b287d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720573,
+            "locality_id":1293802003,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1293802003,
+    "wof:lastmodified":1537699212,
+    "wof:name":"Hayit",
+    "wof:parent_id":1108720573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.6,
+    26.15,
+    40.6,
+    26.15
+],
+  "geometry": {"coordinates":[40.6,26.15],"type":"Point"}
+}

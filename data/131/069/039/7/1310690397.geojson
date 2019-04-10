@@ -1,0 +1,70 @@
+{
+  "id": 1310690397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41667,25.53333,44.41667,25.53333",
+    "geom:latitude":25.53333,
+    "geom:longitude":44.41667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qasr Lahiya",
+    "gn:country_code":"SA",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103249,
+    "gn:latitude":25.53333,
+    "gn:longitude":44.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qa\u015fr Lahiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u015fr Lahiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103249
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ba2a0e285756a951588b23d9b48ad31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1310690397,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310690397,
+    "wof:lastmodified":1537699186,
+    "wof:name":"Qasr Lahiya",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41667,
+    25.53333,
+    44.41667,
+    25.53333
+],
+  "geometry": {"coordinates":[44.41667,25.53333],"type":"Point"}
+}

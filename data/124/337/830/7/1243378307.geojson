@@ -1,0 +1,72 @@
+{
+  "id": 1243378307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98333,26.18333,43.98333,26.18333",
+    "geom:latitude":26.18333,
+    "geom:longitude":43.98333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Jasr",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":105391,
+    "gn:latitude":26.18333,
+    "gn:longitude":43.98333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jasr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jasar",
+        "Jasr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":105391
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7f06357306be16b62035da4c5e358a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720785,
+            "locality_id":1243378307,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1243378307,
+    "wof:lastmodified":1537699205,
+    "wof:name":"Jasr",
+    "wof:parent_id":1108720785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98333,
+    26.18333,
+    43.98333,
+    26.18333
+],
+  "geometry": {"coordinates":[43.98333,26.18333],"type":"Point"}
+}

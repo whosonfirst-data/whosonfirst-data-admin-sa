@@ -1,0 +1,73 @@
+{
+  "id": 1277064825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.81996,18.05344,42.81996,18.05344",
+    "geom:latitude":18.05344,
+    "geom:longitude":42.81996,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Al hadilah",
+    "gn:country_code":"SA",
+    "gn:dem":2385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7371000,
+    "gn:latitude":18.05344,
+    "gn:longitude":42.81996,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"\u0100l \u1e29ad\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644 \u062d\u062f\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0100l \u1e29ad\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7371000
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"56a0e14fc37e8da281c22d3d5df3c6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1277064825,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1277064825,
+    "wof:lastmodified":1537699343,
+    "wof:name":"Al hadilah",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.81996,
+    18.05344,
+    42.81996,
+    18.05344
+],
+  "geometry": {"coordinates":[42.81996,18.05344],"type":"Point"}
+}

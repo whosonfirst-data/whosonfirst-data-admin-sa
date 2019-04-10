@@ -1,0 +1,70 @@
+{
+  "id": 1260266639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58222,24.53194,43.58222,24.53194",
+    "geom:latitude":24.53194,
+    "geom:longitude":43.58222,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Abu `Ashirah",
+    "gn:country_code":"SA",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399981,
+    "gn:latitude":24.53194,
+    "gn:longitude":43.58222,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ab\u016b \u2018Ash\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b \u2018Ash\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399981
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"11d614f9a58bd48e3a3e420e6fb5d48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1260266639,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1260266639,
+    "wof:lastmodified":1537699327,
+    "wof:name":"Abu `Ashirah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58222,
+    24.53194,
+    43.58222,
+    24.53194
+],
+  "geometry": {"coordinates":[43.58222,24.53194],"type":"Point"}
+}

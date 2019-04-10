@@ -1,0 +1,72 @@
+{
+  "id": 1327008707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.63757,21.47637,40.63757,21.47637",
+    "geom:latitude":21.47637,
+    "geom:longitude":40.63757,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Khaydar",
+    "gn:country_code":"SA",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109332,
+    "gn:latitude":21.47637,
+    "gn:longitude":40.63757,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Khay\u1e11ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ukhaidhar",
+        "Al Khay\u1e11ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109332,
+        "wk:page":"Al_Khaydar"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"cab70f3ed9140cf9d737d4d432224dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1327008707,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1327008707,
+    "wof:lastmodified":1537699256,
+    "wof:name":"Al Khaydar",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.63757,
+    21.47637000000001,
+    40.63757,
+    21.47637000000001
+],
+  "geometry": {"coordinates":[40.63757,21.47637000000001],"type":"Point"}
+}

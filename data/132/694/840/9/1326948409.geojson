@@ -1,0 +1,70 @@
+{
+  "id": 1326948409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.46667,20.05,41.46667,20.05",
+    "geom:latitude":20.05,
+    "geom:longitude":41.46667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Habashi",
+    "gn:country_code":"SA",
+    "gn:dem":2263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109747,
+    "gn:latitude":20.05,
+    "gn:longitude":41.46667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28abash\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28abash\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109747
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1ad96ffa2b380441d5dbf4ee424ccba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720567,
+            "locality_id":1326948409,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1326948409,
+    "wof:lastmodified":1537699266,
+    "wof:name":"Al Habashi",
+    "wof:parent_id":1108720567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.46667,
+    20.05,
+    41.46667,
+    20.05
+],
+  "geometry": {"coordinates":[41.46667,20.05],"type":"Point"}
+}

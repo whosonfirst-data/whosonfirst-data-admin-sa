@@ -1,0 +1,77 @@
+{
+  "id": 1193009015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37505,25.77647,43.37505,25.77647",
+    "geom:latitude":25.77647,
+    "geom:longitude":43.37505,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Ar Rudaymah",
+    "gn:country_code":"SA",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102779,
+    "gn:latitude":25.77647,
+    "gn:longitude":43.37505,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Ar Ru\u1e11aymah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0651\u064f\u0636\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Ruway\u1e11\u0101t",
+        "Ra\u1e11aymah",
+        "Radhaima",
+        "Ru\u1e11aymah",
+        "Ar Ru\u1e11aymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102779
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4174965ed6aca308119c96626a6302fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720653,
+            "locality_id":1193009015,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1193009015,
+    "wof:lastmodified":1537699181,
+    "wof:name":"Ar Rudaymah",
+    "wof:parent_id":1108720653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37505,
+    25.77647,
+    43.37505,
+    25.77647
+],
+  "geometry": {"coordinates":[43.37505,25.77647],"type":"Point"}
+}

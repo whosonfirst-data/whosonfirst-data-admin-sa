@@ -1,0 +1,70 @@
+{
+  "id": 1226452489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.25,18.61667,42.25,18.61667",
+    "geom:latitude":18.61667,
+    "geom:longitude":42.25,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"`Ar`arah",
+    "gn:country_code":"SA",
+    "gn:dem":2747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108511,
+    "gn:latitude":18.61667,
+    "gn:longitude":42.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Ar\u2018arah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ar\u2018arah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108511
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"833d983145438a2e9766931270b5e098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1226452489,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1226452489,
+    "wof:lastmodified":1537699238,
+    "wof:name":"`Ar`arah",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.25,
+    18.61667000000001,
+    42.25,
+    18.61667000000001
+],
+  "geometry": {"coordinates":[42.25,18.61667000000001],"type":"Point"}
+}

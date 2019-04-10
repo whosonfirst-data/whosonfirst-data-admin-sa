@@ -1,0 +1,71 @@
+{
+  "id": 1310376361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.48461,21.50418,40.48461,21.50418",
+    "geom:latitude":21.50418,
+    "geom:longitude":40.48461,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"As Sayl as Saghir",
+    "gn:country_code":"SA",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410088,
+    "gn:latitude":21.50418,
+    "gn:longitude":40.48461,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sayl a\u015f \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Sayl a\u015f \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410088,
+        "wk:page":"As_Sayl_as_Saghir"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1fd74bf9edda1d4b5c3bd91c2fb1c1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1310376361,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1310376361,
+    "wof:lastmodified":1537699334,
+    "wof:name":"As Sayl as Saghir",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.48461,
+    21.50418,
+    40.48461,
+    21.50418
+],
+  "geometry": {"coordinates":[40.48461,21.50418],"type":"Point"}
+}

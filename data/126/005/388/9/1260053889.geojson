@@ -1,0 +1,68 @@
+{
+  "id": 1260053889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.46111,21.37028,40.46111,21.37028",
+    "geom:latitude":21.37028,
+    "geom:longitude":40.46111,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Masarrah",
+    "gn:country_code":"SA",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410089,
+    "gn:latitude":21.37028,
+    "gn:longitude":40.46111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Masarrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410089,
+        "wk:page":"Al_Masarrah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e640517cb6dfa8d3abc594d8a5d96dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1260053889,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1260053889,
+    "wof:lastmodified":1537573266,
+    "wof:name":"Al Masarrah",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.46111,
+    21.37028,
+    40.46111,
+    21.37028
+],
+  "geometry": {"coordinates":[40.46111,21.37028],"type":"Point"}
+}

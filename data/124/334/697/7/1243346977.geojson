@@ -1,0 +1,68 @@
+{
+  "id": 1243346977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.37648,21.99858,39.37648,21.99858",
+    "geom:latitude":21.99858,
+    "geom:longitude":39.37648,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Muqr",
+    "gn:country_code":"SA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413799,
+    "gn:latitude":21.99858,
+    "gn:longitude":39.37648,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Muqr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413799,
+        "wk:page":"Al_Muqr"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b7b4cc5a40e53832ef10adc3ba7a9b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720725,
+            "locality_id":1243346977,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1243346977,
+    "wof:lastmodified":1537573268,
+    "wof:name":"Al Muqr",
+    "wof:parent_id":1108720725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.37648,
+    21.99858,
+    39.37648,
+    21.99858
+],
+  "geometry": {"coordinates":[39.37648,21.99858],"type":"Point"}
+}

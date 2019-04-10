@@ -1,0 +1,70 @@
+{
+  "id": 1326825305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71583,24.33083,43.71583,24.33083",
+    "geom:latitude":24.33083,
+    "geom:longitude":43.71583,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al `Ukayshah",
+    "gn:country_code":"SA",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399102,
+    "gn:latitude":24.33083,
+    "gn:longitude":43.71583,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al \u2018Ukayshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Ukayshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399102
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1d3bd5b540c6ea02853b13e0d15ce68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1326825305,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1326825305,
+    "wof:lastmodified":1537699324,
+    "wof:name":"Al `Ukayshah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71583,
+    24.33083,
+    43.71583,
+    24.33083
+],
+  "geometry": {"coordinates":[43.71583,24.33083],"type":"Point"}
+}

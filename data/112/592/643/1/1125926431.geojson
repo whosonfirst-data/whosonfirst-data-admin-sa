@@ -1,0 +1,93 @@
+{
+  "id": 1125926431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.03808,30.97531,41.03808,30.97531",
+    "geom:latitude":30.97531,
+    "geom:longitude":41.03808,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":148540,
+    "gn:population":148540,
+    "iso:country":"SA",
+    "lbl:latitude":30.97531,
+    "lbl:longitude":41.03808,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0639\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Arar"
+    ],
+    "name:fra_x_preferred":[
+        "Arar"
+    ],
+    "name:nor_x_preferred":[
+        "Arar"
+    ],
+    "name:unk_x_variant":[
+        "Ara\u2018ar"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":108512,
+    "qs_pg:gn_pop":148540,
+    "qs_pg:name":"\u2018Ar\u2018ar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":65837,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108512,
+        "qs_pg:id":65837
+    },
+    "wof:country":"SA",
+    "wof:created":1497296652,
+    "wof:geomhash":"dbbae6313525fa9e71951bbd1ab46050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720651,
+            "locality_id":1125926431,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1125926431,
+    "wof:lastmodified":1509401112,
+    "wof:name":"\u2018Ar\u2018ar",
+    "wof:parent_id":1108720651,
+    "wof:placetype":"locality",
+    "wof:population":148540,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.03808,
+    30.97531,
+    41.03808,
+    30.97531
+],
+  "geometry": {"coordinates":[41.03808,30.97531],"type":"Point"}
+}

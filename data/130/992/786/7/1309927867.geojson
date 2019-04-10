@@ -1,0 +1,70 @@
+{
+  "id": 1309927867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7166,28.11008,46.7166,28.11008",
+    "geom:latitude":28.11008,
+    "geom:longitude":46.7166,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"As Sadawi",
+    "gn:country_code":"SA",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108153,
+    "gn:latitude":28.11008,
+    "gn:longitude":46.7166,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"A\u015f \u015ead\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015ead\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108153
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d9dfd74c9f7fcdae5539b8da04fc2148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":1309927867,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1309927867,
+    "wof:lastmodified":1537699230,
+    "wof:name":"As Sadawi",
+    "wof:parent_id":1108720699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7166,
+    28.11008,
+    46.7166,
+    28.11008
+],
+  "geometry": {"coordinates":[46.7166,28.11008],"type":"Point"}
+}

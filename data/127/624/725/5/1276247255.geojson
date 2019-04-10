@@ -1,0 +1,71 @@
+{
+  "id": 1276247255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.43333,20.1,41.43333,20.1",
+    "geom:latitude":20.1,
+    "geom:longitude":41.43333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al `Amirah",
+    "gn:country_code":"SA",
+    "gn:dem":2226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110075,
+    "gn:latitude":20.1,
+    "gn:longitude":41.43333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018\u0100mirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Amira",
+        "Al \u2018\u0100mirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110075
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b18e3eb717ff30dc07c73c98768f501c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720567,
+            "locality_id":1276247255,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1276247255,
+    "wof:lastmodified":1537699274,
+    "wof:name":"Al `Amirah",
+    "wof:parent_id":1108720567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.43333,
+    20.1,
+    41.43333,
+    20.1
+],
+  "geometry": {"coordinates":[41.43333,20.1],"type":"Point"}
+}

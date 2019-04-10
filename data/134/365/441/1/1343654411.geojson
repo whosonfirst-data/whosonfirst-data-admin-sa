@@ -1,0 +1,94 @@
+{
+  "id": 1343654411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-24",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.62251,27.0174,49.62251,27.0174",
+    "geom:latitude":27.0174,
+    "geom:longitude":49.62251,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Jubayl",
+    "gn:country_code":"SA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109435,
+    "gn:latitude":27.0174,
+    "gn:longitude":49.62251,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Al Jubayl",
+    "gn:population":237274,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Jubail"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c-\u0414\u0436\u0443\u0431\u0430\u0439\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "\u2018Aynayn",
+        "Ainain",
+        "Jubail al Bahri",
+        "Ainan",
+        "Jubayl",
+        "Jubail",
+        "Jubayl \u2018Aynayw",
+        "Jubayl al Ba\u1e29ri",
+        "Al Jubayl"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109435,
+        "wk:page":"Jubail"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ee01f007f87d35afe655e8482dc077f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720585,
+            "locality_id":1343654411,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1343654411,
+    "wof:lastmodified":1548452886,
+    "wof:name":"Al Jubayl",
+    "wof:parent_id":1108720585,
+    "wof:placetype":"locality",
+    "wof:population":237274,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        890439855
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.62251,
+    27.0174,
+    49.62251,
+    27.0174
+],
+  "geometry": {"coordinates":[49.62251,27.0174],"type":"Point"}
+}

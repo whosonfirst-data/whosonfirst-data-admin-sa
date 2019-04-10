@@ -1,0 +1,71 @@
+{
+  "id": 1226752535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.59884,24.38862,38.59884,24.38862",
+    "geom:latitude":24.38862,
+    "geom:longitude":38.59884,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Biqa`",
+    "gn:country_code":"SA",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409369,
+    "gn:latitude":24.38862,
+    "gn:longitude":38.59884,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Biq\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Biq\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409369,
+        "wk:page":"Al_Biqa%27"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c3a132a73951f2f7d63f1c642e6c0978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720795,
+            "locality_id":1226752535,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1226752535,
+    "wof:lastmodified":1537699329,
+    "wof:name":"Al Biqa`",
+    "wof:parent_id":1108720795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.59884,
+    24.38862,
+    38.59884,
+    24.38862
+],
+  "geometry": {"coordinates":[38.59884,24.38862],"type":"Point"}
+}

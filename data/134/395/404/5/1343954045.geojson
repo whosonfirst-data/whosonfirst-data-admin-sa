@@ -1,0 +1,76 @@
+{
+  "id": 1343954045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.66294,24.39376,46.66294,24.39376",
+    "geom:latitude":24.39376,
+    "geom:longitude":46.66294,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dirab",
+    "gn:country_code":"SA",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9642389,
+    "gn:latitude":24.39376,
+    "gn:longitude":46.66294,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Dirab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "D\u012br\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0631\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9642389
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c3cc1e931d5fa02790b643ef44e2c6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":1343954045,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1343954045,
+    "wof:lastmodified":1548452890,
+    "wof:name":"Dirab",
+    "wof:parent_id":1108720657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361025911
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.66294,
+    24.39376,
+    46.66294,
+    24.39376
+],
+  "geometry": {"coordinates":[46.66294,24.39376],"type":"Point"}
+}

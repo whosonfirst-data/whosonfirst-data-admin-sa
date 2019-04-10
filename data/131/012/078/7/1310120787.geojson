@@ -1,0 +1,66 @@
+{
+  "id": 1310120787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43333,20.7,39.43333,20.7",
+    "geom:latitude":20.7,
+    "geom:longitude":39.43333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Shu`aybah",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102018,
+    "gn:latitude":20.7,
+    "gn:longitude":39.43333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shu\u2018aybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shu\u2018aiba",
+        "Sha\u2019aibah",
+        "Shu\u2018aybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102018
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6785c5fb1f7102b1e391d47a4e3cb609",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310120787,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310120787,
+    "wof:lastmodified":1537699175,
+    "wof:name":"Shu`aybah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43333,
+    20.7,
+    39.43333,
+    20.7
+],
+  "geometry": {"coordinates":[39.43333,20.7],"type":"Point"}
+}

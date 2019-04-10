@@ -1,0 +1,71 @@
+{
+  "id": 1310684867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77148,23.50998,43.77148,23.50998",
+    "geom:latitude":23.50998,
+    "geom:longitude":43.77148,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Khasirah",
+    "gn:country_code":"SA",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109341,
+    "gn:latitude":23.50998,
+    "gn:longitude":43.77148,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Kh\u0101\u015firah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28a\u015farah",
+        "Al Kh\u0101\u015firah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109341
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1d01600ca4807a9da6601583ed67f33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1310684867,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310684867,
+    "wof:lastmodified":1537699256,
+    "wof:name":"Al Khasirah",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77148,
+    23.50998,
+    43.77148,
+    23.50998
+],
+  "geometry": {"coordinates":[43.77148,23.50998],"type":"Point"}
+}

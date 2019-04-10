@@ -1,0 +1,67 @@
+{
+  "id": 1293776499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.32361,27.30722,48.32361,27.30722",
+    "geom:latitude":27.30722,
+    "geom:longitude":48.32361,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"As Sudayrah",
+    "gn:country_code":"SA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397811,
+    "gn:latitude":27.30722,
+    "gn:longitude":48.32361,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"As Sudayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397811
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a54928e203a1824ecb71bac178c3ea24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720623,
+            "locality_id":1293776499,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1293776499,
+    "wof:lastmodified":1536866224,
+    "wof:name":"As Sudayrah",
+    "wof:parent_id":1108720623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.32361,
+    27.30722,
+    48.32361,
+    27.30722
+],
+  "geometry": {"coordinates":[48.32361,27.30722],"type":"Point"}
+}

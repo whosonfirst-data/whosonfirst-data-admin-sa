@@ -1,0 +1,71 @@
+{
+  "id": 1310115907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.8041,26.02564,41.8041,26.02564",
+    "geom:latitude":26.02564,
+    "geom:longitude":41.8041,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Ba`a'ith",
+    "gn:country_code":"SA",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109968,
+    "gn:latitude":26.02564,
+    "gn:longitude":41.8041,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ba\u2018\u0101\u2019ith",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ba\u2018\u0101yith",
+        "Al Ba\u2018\u0101\u2019ith"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109968
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1ebecfc237e1edbd89eb498393527964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720573,
+            "locality_id":1310115907,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1310115907,
+    "wof:lastmodified":1537699271,
+    "wof:name":"Al Ba`a'ith",
+    "wof:parent_id":1108720573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.8041,
+    26.02564,
+    41.8041,
+    26.02564
+],
+  "geometry": {"coordinates":[41.8041,26.02564],"type":"Point"}
+}

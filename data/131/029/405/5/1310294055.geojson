@@ -1,0 +1,73 @@
+{
+  "id": 1310294055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.82915,24.39411,45.82915,24.39411",
+    "geom:latitude":24.39411,
+    "geom:longitude":45.82915,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Mani`iyah",
+    "gn:country_code":"SA",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396994,
+    "gn:latitude":24.39411,
+    "gn:longitude":45.82915,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al M\u0101ni\u2018\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0627\u0646\u0639\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al M\u0101ni\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396994
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8d6c2b77705e5d0345232e5b23ada9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1310294055,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310294055,
+    "wof:lastmodified":1537699314,
+    "wof:name":"Al Mani`iyah",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.82915,
+    24.39411,
+    45.82915,
+    24.39411
+],
+  "geometry": {"coordinates":[45.82915,24.39411],"type":"Point"}
+}

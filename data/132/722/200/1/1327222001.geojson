@@ -1,0 +1,72 @@
+{
+  "id": 1327222001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.90694,18.94722,41.90694,18.94722",
+    "geom:latitude":18.94722,
+    "geom:longitude":41.90694,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Murayba",
+    "gn:country_code":"SA",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103868,
+    "gn:latitude":18.94722,
+    "gn:longitude":41.90694,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Murayb\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muraybi\u2018",
+        "Murayba\u2018",
+        "Al Murayb\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103868
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"82e2625761b8fb934ce377d2a181f56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720609,
+            "locality_id":1327222001,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1327222001,
+    "wof:lastmodified":1537699192,
+    "wof:name":"Al Murayba",
+    "wof:parent_id":1108720609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.90694000000001,
+    18.94722,
+    41.90694000000001,
+    18.94722
+],
+  "geometry": {"coordinates":[41.90694000000001,18.94722],"type":"Point"}
+}

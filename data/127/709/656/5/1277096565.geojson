@@ -1,0 +1,74 @@
+{
+  "id": 1277096565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.19913,25.64123,43.19913,25.64123",
+    "geom:latitude":25.64123,
+    "geom:longitude":43.19913,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"As Siwaytiyah",
+    "gn:country_code":"SA",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395973,
+    "gn:latitude":25.64123,
+    "gn:longitude":43.19913,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"A\u015f \u015eiwayt\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0651\u0650\u0648\u064a\u062a\u064a\u0651\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eiwayt\u012byah",
+        "A\u015f \u015euwayt\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395973
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e70bb7f5df9067f4e555edc90acc780d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1277096565,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1277096565,
+    "wof:lastmodified":1537699304,
+    "wof:name":"As Siwaytiyah",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19913,
+    25.64123,
+    43.19913,
+    25.64123
+],
+  "geometry": {"coordinates":[43.19913,25.64123],"type":"Point"}
+}

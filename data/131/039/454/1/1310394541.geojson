@@ -1,0 +1,76 @@
+{
+  "id": 1310394541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03614,24.05732,45.03614,24.05732",
+    "geom:latitude":24.05732,
+    "geom:longitude":45.03614,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Abu Rijum",
+    "gn:country_code":"SA",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396598,
+    "gn:latitude":24.05732,
+    "gn:longitude":45.03614,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ab\u016b Rij\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ab\u016b Rij\u016bm"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0628\u0648 \u0631\u062c\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Ruj\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396598
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4b9fb3a0c07742b6ab4dbd5ebf03bc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1310394541,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310394541,
+    "wof:lastmodified":1537699309,
+    "wof:name":"Abu Rijum",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03614,
+    24.05732,
+    45.03614,
+    24.05732
+],
+  "geometry": {"coordinates":[45.03614,24.05732],"type":"Point"}
+}

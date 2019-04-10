@@ -1,0 +1,75 @@
+{
+  "id": 1361025933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53831,24.41328,39.53831,24.41328",
+    "geom:latitude":24.41328,
+    "geom:longitude":39.53831,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Abyar `Ali",
+    "gn:country_code":"SA",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110367,
+    "gn:latitude":24.41328,
+    "gn:longitude":39.53831,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Aby\u0101r \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Aby\u0101r \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676825,
+        102191569,
+        85632253,
+        1259984465,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110367,
+        "wk:page":"Abyar_%27Ali"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4bd01a2e4184c599cd8980df52ede263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1259984465,
+            "neighbourhood_id":1361025933,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1361025933,
+    "wof:lastmodified":1548452891,
+    "wof:name":"Abyar `Ali",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259984465
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53831,
+    24.41328,
+    39.53831,
+    24.41328
+],
+  "geometry": {"coordinates":[39.53831,24.41328],"type":"Point"}
+}

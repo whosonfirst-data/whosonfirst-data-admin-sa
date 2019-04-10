@@ -1,0 +1,73 @@
+{
+  "id": 1259858787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.9785,27.44684,42.9785,27.44684",
+    "geom:latitude":27.44684,
+    "geom:longitude":42.9785,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Bada'i`",
+    "gn:country_code":"SA",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396210,
+    "gn:latitude":27.44684,
+    "gn:longitude":42.9785,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Al Bad\u0101\u2019i\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064e\u062f\u0627\u0626\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Bad\u0101\u2019i\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396210
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"264b6c22dd52e710f89a8705a6c1d278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720675,
+            "locality_id":1259858787,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1259858787,
+    "wof:lastmodified":1537699306,
+    "wof:name":"Al Bada'i`",
+    "wof:parent_id":1108720675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.9785,
+    27.44684,
+    42.9785,
+    27.44684
+],
+  "geometry": {"coordinates":[42.9785,27.44684],"type":"Point"}
+}

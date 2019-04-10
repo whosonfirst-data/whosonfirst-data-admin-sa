@@ -1,0 +1,73 @@
+{
+  "id": 1242857391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96999,29.1777,42.96999,29.1777",
+    "geom:latitude":29.1777,
+    "geom:longitude":42.96999,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Qaysumat Fayhan",
+    "gn:country_code":"SA",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393751,
+    "gn:latitude":29.1777,
+    "gn:longitude":42.96999,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Qay\u015f\u016bmat Fay\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0635\u0648\u0645\u0629 \u0641\u064a\u062d\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qay\u015f\u016bmat Fay\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393751
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3c0b35858d2c6d796d89ee9a579469e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720741,
+            "locality_id":1242857391,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1242857391,
+    "wof:lastmodified":1537699291,
+    "wof:name":"Qaysumat Fayhan",
+    "wof:parent_id":1108720741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96999,
+    29.1777,
+    42.96999,
+    29.1777
+],
+  "geometry": {"coordinates":[42.96999,29.1777],"type":"Point"}
+}

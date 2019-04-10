@@ -1,0 +1,71 @@
+{
+  "id": 1209989677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.1037,31.28269,40.1037,31.28269",
+    "geom:latitude":31.28269,
+    "geom:longitude":40.1037,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hazm al Jalamid",
+    "gn:country_code":"SA",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391226,
+    "gn:latitude":31.28269,
+    "gn:longitude":40.1037,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28azm al Jal\u0101m\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Jal\u0101m\u012bd",
+        "\u1e28azm al Jal\u0101m\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391226
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e23eb62d5e73c795b4eef3365adb003b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720651,
+            "locality_id":1209989677,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1209989677,
+    "wof:lastmodified":1537699282,
+    "wof:name":"Hazm al Jalamid",
+    "wof:parent_id":1108720651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.1037,
+    31.28269,
+    40.1037,
+    31.28269
+],
+  "geometry": {"coordinates":[40.1037,31.28269],"type":"Point"}
+}

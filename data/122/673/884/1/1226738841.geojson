@@ -1,0 +1,73 @@
+{
+  "id": 1226738841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08333,23.83333,45.08333,23.83333",
+    "geom:latitude":23.83333,
+    "geom:longitude":45.08333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al `Amar",
+    "gn:country_code":"SA",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110085,
+    "gn:latitude":23.83333,
+    "gn:longitude":45.08333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al \u2018Am\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Am\u0101r"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ammar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110085
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"bd31deb0144b84a05d326a9aaafc25bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1226738841,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1226738841,
+    "wof:lastmodified":1537699274,
+    "wof:name":"Al `Amar",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08333,
+    23.83333,
+    45.08333,
+    23.83333
+],
+  "geometry": {"coordinates":[45.08333,23.83333],"type":"Point"}
+}

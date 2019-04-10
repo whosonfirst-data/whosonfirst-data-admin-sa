@@ -1,0 +1,67 @@
+{
+  "id": 1242795827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.94348,18.05937,42.94348,18.05937",
+    "geom:latitude":18.05937,
+    "geom:longitude":42.94348,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al an Nanisah",
+    "gn:country_code":"SA",
+    "gn:dem":2313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110069,
+    "gn:latitude":18.05937,
+    "gn:longitude":42.94348,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al an Nanisah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110069
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5bc5e65b81efb7ffe4af0c3775d682e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1242795827,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1242795827,
+    "wof:lastmodified":1536749178,
+    "wof:name":"Al an Nanisah",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.94348,
+    18.05937,
+    42.94348,
+    18.05937
+],
+  "geometry": {"coordinates":[42.94348,18.05937],"type":"Point"}
+}

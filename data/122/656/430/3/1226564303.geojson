@@ -1,0 +1,72 @@
+{
+  "id": 1226564303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.50906,28.42371,48.50906,28.42371",
+    "geom:latitude":28.42371,
+    "geom:longitude":48.50906,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ra's al Khafji",
+    "gn:country_code":"SA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102912,
+    "gn:latitude":28.42371,
+    "gn:longitude":48.50906,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ra\u2019s al Khafj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khafji",
+        "Ra\u2019s al Khafj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102912,
+        "wk:page":"Khafji"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"bebde8547472e1a38b401255ee116fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720591,
+            "locality_id":1226564303,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1226564303,
+    "wof:lastmodified":1537699183,
+    "wof:name":"Ra's al Khafji",
+    "wof:parent_id":1108720591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50906,
+    28.42371,
+    48.50906,
+    28.42371
+],
+  "geometry": {"coordinates":[48.50906,28.42371],"type":"Point"}
+}

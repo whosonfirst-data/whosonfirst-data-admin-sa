@@ -1,0 +1,80 @@
+{
+  "id": 1209814589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.57973,24.55002,39.57973,24.55002",
+    "geom:latitude":24.55002,
+    "geom:longitude":39.57973,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Al `Uyun",
+    "gn:country_code":"SA",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108784,
+    "gn:latitude":24.55002,
+    "gn:longitude":39.57973,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Al \u2018Uy\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "Al \u2018Uy\u016bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u064a\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Uyun",
+        "Al \u2019Ayun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108784
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6f481740a94885a0569413e52c2b049e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1209814589,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1209814589,
+    "wof:lastmodified":1548452887,
+    "wof:name":"Al `Uyun",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361026129
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.57973,
+    24.55002,
+    39.57973,
+    24.55002
+],
+  "geometry": {"coordinates":[39.57973,24.55002],"type":"Point"}
+}

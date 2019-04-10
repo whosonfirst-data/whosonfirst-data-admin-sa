@@ -1,0 +1,74 @@
+{
+  "id": 1309706359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.57027,25.28528,44.57027,25.28528",
+    "geom:latitude":25.28528,
+    "geom:longitude":44.57027,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Jifin",
+    "gn:country_code":"SA",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":105495,
+    "gn:latitude":25.28528,
+    "gn:longitude":44.57027,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Jifin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0650\u0641\u0650\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jafn",
+        "Jifin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":105495
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2c2e7668bec5ce16ffbfc8fca2229041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1309706359,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1309706359,
+    "wof:lastmodified":1537699206,
+    "wof:name":"Jifin",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.57027,
+    25.28528,
+    44.57027,
+    25.28528
+],
+  "geometry": {"coordinates":[44.57027,25.28528],"type":"Point"}
+}

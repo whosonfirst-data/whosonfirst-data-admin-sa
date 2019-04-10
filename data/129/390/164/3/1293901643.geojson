@@ -1,0 +1,70 @@
+{
+  "id": 1293901643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.7,18.1,42.7,18.1",
+    "geom:latitude":18.1,
+    "geom:longitude":42.7,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Dibah",
+    "gn:country_code":"SA",
+    "gn:dem":2194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109850,
+    "gn:latitude":18.1,
+    "gn:longitude":42.7,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100l Dibah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100l Dibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109850
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"75ae524a18681b1752efef5e972e8e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1293901643,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1293901643,
+    "wof:lastmodified":1537699268,
+    "wof:name":"Al Dibah",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.7,
+    18.1,
+    42.7,
+    18.1
+],
+  "geometry": {"coordinates":[42.7,18.1],"type":"Point"}
+}

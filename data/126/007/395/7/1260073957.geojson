@@ -1,0 +1,67 @@
+{
+  "id": 1260073957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78722,24.93306,43.78722,24.93306",
+    "geom:latitude":24.93306,
+    "geom:longitude":43.78722,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mushrifah",
+    "gn:country_code":"SA",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400018,
+    "gn:latitude":24.93306,
+    "gn:longitude":43.78722,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Mushrifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400018
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2c70dea00e9f4c0a2f56cc4dd2c5504a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1260073957,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1260073957,
+    "wof:lastmodified":1537001031,
+    "wof:name":"Mushrifah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78722,
+    24.93306,
+    43.78722,
+    24.93306
+],
+  "geometry": {"coordinates":[43.78722,24.93306],"type":"Point"}
+}

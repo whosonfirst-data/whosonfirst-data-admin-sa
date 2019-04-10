@@ -1,0 +1,75 @@
+{
+  "id": 1293560107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.06347,21.51603,40.06347,21.51603",
+    "geom:latitude":21.51603,
+    "geom:longitude":40.06347,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ash Shara'i` al `Ulya",
+    "gn:country_code":"SA",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108246,
+    "gn:latitude":21.51603,
+    "gn:longitude":40.06347,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ash Shar\u0101\u2019i\u2018 al \u2018Uly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharaya",
+        "El-Shar\u00e2yi",
+        "Ash Shar\u0101\u2019i\u2018",
+        "Ash Shar\u0101yi\u2018",
+        "Ash Shar\u0101\u2019i\u2018 al \u2018Uly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108246,
+        "wk:page":"Ash_Shara%27i%60_al_%60Ulya"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"138ffe3ec43d991b400f00bacf1d80f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1293560107,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1293560107,
+    "wof:lastmodified":1537699233,
+    "wof:name":"Ash Shara'i` al `Ulya",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.06347,
+    21.51603,
+    40.06347,
+    21.51603
+],
+  "geometry": {"coordinates":[40.06347,21.51603],"type":"Point"}
+}

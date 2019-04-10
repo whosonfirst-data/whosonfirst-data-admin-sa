@@ -1,0 +1,74 @@
+{
+  "id": 1259480845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.49666,25.9452,49.49666,25.9452",
+    "geom:latitude":25.9452,
+    "geom:longitude":49.49666,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Fudah",
+    "gn:country_code":"SA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":106634,
+    "gn:latitude":25.9452,
+    "gn:longitude":49.49666,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"F\u016bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Foda",
+        "F\u016bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106634
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2488364024265088558da312d077bcd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720685,
+            "locality_id":1259480845,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1259480845,
+    "wof:lastmodified":1537699216,
+    "wof:name":"Fudah",
+    "wof:parent_id":1108720685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.49666,
+    25.9452,
+    49.49666,
+    25.9452
+],
+  "geometry": {"coordinates":[49.49666,25.9452],"type":"Point"}
+}

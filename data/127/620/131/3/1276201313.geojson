@@ -1,0 +1,67 @@
+{
+  "id": 1276201313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23138,24.79461,37.23138,24.79461",
+    "geom:latitude":24.79461,
+    "geom:longitude":37.23138,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Shaban",
+    "gn:country_code":"SA",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400167,
+    "gn:latitude":24.79461,
+    "gn:longitude":37.23138,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676833,
+        1108720783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400167
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5836d8408c824aee4b40fd2516d5fcae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720783,
+            "locality_id":1276201313,
+            "region_id":85676833
+        }
+    ],
+    "wof:id":1276201313,
+    "wof:lastmodified":1536956009,
+    "wof:name":"Shaban",
+    "wof:parent_id":1108720783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23138,
+    24.79461,
+    37.23138,
+    24.79461
+],
+  "geometry": {"coordinates":[37.23138,24.79461],"type":"Point"}
+}

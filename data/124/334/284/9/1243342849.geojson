@@ -1,0 +1,73 @@
+{
+  "id": 1243342849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.54021,27.06262,41.54021,27.06262",
+    "geom:latitude":27.06262,
+    "geom:longitude":41.54021,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sarra'",
+    "gn:country_code":"SA",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394850,
+    "gn:latitude":27.06262,
+    "gn:longitude":41.54021,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Sarr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Sarr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394850
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e838daa2d4729c3bf77acf28a2c3c468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1243342849,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1243342849,
+    "wof:lastmodified":1537699292,
+    "wof:name":"Sarra'",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.54021,
+    27.06262000000001,
+    41.54021,
+    27.06262000000001
+],
+  "geometry": {"coordinates":[41.54021,27.06262000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327249637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55486,18.36992,43.55486,18.36992",
+    "geom:latitude":18.36992,
+    "geom:longitude":43.55486,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Hasat al Khaniqah",
+    "gn:country_code":"SA",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399531,
+    "gn:latitude":18.36992,
+    "gn:longitude":43.55486,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28a\u015f\u0101t al Kh\u0101niqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28a\u015f\u0101t al Kh\u0101niqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399531
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1b01fb82154d73d69aa2dcf6cb26d23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1327249637,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1327249637,
+    "wof:lastmodified":1537699325,
+    "wof:name":"Al Hasat al Khaniqah",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55486,
+    18.36992,
+    43.55486,
+    18.36992
+],
+  "geometry": {"coordinates":[43.55486,18.36992],"type":"Point"}
+}

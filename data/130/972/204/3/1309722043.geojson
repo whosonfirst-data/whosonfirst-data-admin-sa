@@ -1,0 +1,70 @@
+{
+  "id": 1309722043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21637,17.94348,43.21637,17.94348",
+    "geom:latitude":17.94348,
+    "geom:longitude":43.21637,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Dahrah",
+    "gn:country_code":"SA",
+    "gn:dem":2342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109853,
+    "gn:latitude":17.94348,
+    "gn:longitude":43.21637,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100l \u1e10ahrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100l \u1e10ahrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109853
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"06d172bcd779cbde73c79222b63aab34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720761,
+            "locality_id":1309722043,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1309722043,
+    "wof:lastmodified":1537699268,
+    "wof:name":"Al Dahrah",
+    "wof:parent_id":1108720761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21637,
+    17.94347999999999,
+    43.21637,
+    17.94347999999999
+],
+  "geometry": {"coordinates":[43.21637,17.94347999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326848531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.84992,21.25361,42.84992,21.25361",
+    "geom:latitude":21.25361,
+    "geom:longitude":42.84992,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ar Rawdah",
+    "gn:country_code":"SA",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108428,
+    "gn:latitude":21.25361,
+    "gn:longitude":42.84992,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Raw\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raudhah",
+        "Raudha",
+        "Raw\u1e11ah",
+        "Ar Raw\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108428
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"00037101e74e94a3c9a515e39de76d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720743,
+            "locality_id":1326848531,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1326848531,
+    "wof:lastmodified":1537699237,
+    "wof:name":"Ar Rawdah",
+    "wof:parent_id":1108720743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.84992,
+    21.25361,
+    42.84992,
+    21.25361
+],
+  "geometry": {"coordinates":[42.84992,21.25361],"type":"Point"}
+}

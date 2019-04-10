@@ -1,0 +1,70 @@
+{
+  "id": 1243082265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.38333,17.93333,43.38333,17.93333",
+    "geom:latitude":17.93333,
+    "geom:longitude":43.38333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Basra",
+    "gn:country_code":"SA",
+    "gn:dem":2272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107520,
+    "gn:latitude":17.93333,
+    "gn:longitude":43.38333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ba\u015fr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u015fr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107520
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8d8c3c9c4542e93c8f2929ac7dfb7320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720797,
+            "locality_id":1243082265,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1243082265,
+    "wof:lastmodified":1537699222,
+    "wof:name":"Basra",
+    "wof:parent_id":1108720797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.38333,
+    17.93332999999999,
+    43.38333,
+    17.93332999999999
+],
+  "geometry": {"coordinates":[43.38333,17.93332999999999],"type":"Point"}
+}

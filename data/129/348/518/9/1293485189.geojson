@@ -1,0 +1,71 @@
+{
+  "id": 1293485189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.68333,25.93333,49.68333,25.93333",
+    "geom:latitude":25.93333,
+    "geom:longitude":49.68333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mansur",
+    "gn:country_code":"SA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104416,
+    "gn:latitude":25.93333,
+    "gn:longitude":49.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monsour Camp",
+        "Man\u015f\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104416
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c322ef7ad85a1ed182f1bf24871f4dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720685,
+            "locality_id":1293485189,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1293485189,
+    "wof:lastmodified":1537699196,
+    "wof:name":"Mansur",
+    "wof:parent_id":1108720685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.68333,
+    25.93333,
+    49.68333,
+    25.93333
+],
+  "geometry": {"coordinates":[49.68333,25.93333],"type":"Point"}
+}

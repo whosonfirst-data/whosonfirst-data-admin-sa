@@ -1,0 +1,70 @@
+{
+  "id": 1225867645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.12006,24.92676,40.12006,24.92676",
+    "geom:latitude":24.92676,
+    "geom:longitude":40.12006,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Ad Dathir",
+    "gn:country_code":"SA",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399527,
+    "gn:latitude":24.92676,
+    "gn:longitude":40.12006,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ad Dath\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Dath\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399527
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f21bcd1208628bdf8516704ca801568f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1225867645,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1225867645,
+    "wof:lastmodified":1537699325,
+    "wof:name":"Ad Dathir",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.12006,
+    24.92676,
+    40.12006,
+    24.92676
+],
+  "geometry": {"coordinates":[40.12006,24.92676],"type":"Point"}
+}

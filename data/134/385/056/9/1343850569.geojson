@@ -1,0 +1,73 @@
+{
+  "id": 1343850569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.62408,27.6951,46.62408,27.6951",
+    "geom:latitude":27.6951,
+    "geom:longitude":46.62408,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Hayra",
+    "gn:country_code":"SA",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392283,
+    "gn:latitude":27.6951,
+    "gn:longitude":46.62408,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al \u1e28ayr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ayr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392283
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0eccce74e77fd34c9823a7b8a232a5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720733,
+            "locality_id":1343850569,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1343850569,
+    "wof:lastmodified":1537699286,
+    "wof:name":"Al Hayra",
+    "wof:parent_id":1108720733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.62408,
+    27.6951,
+    46.62408,
+    27.6951
+],
+  "geometry": {"coordinates":[46.62408,27.6951],"type":"Point"}
+}

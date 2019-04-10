@@ -1,0 +1,74 @@
+{
+  "id": 1344171803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.6,19.83333,41.6,19.83333",
+    "geom:latitude":19.83333,
+    "geom:longitude":41.6,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Humran",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":2051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":105721,
+    "gn:latitude":19.83333,
+    "gn:longitude":41.6,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28umr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28umr\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Hamran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":105721
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"88f4987647bc662194d75392adcba1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720679,
+            "locality_id":1344171803,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1344171803,
+    "wof:lastmodified":1537699208,
+    "wof:name":"Humran",
+    "wof:parent_id":1108720679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.6,
+    19.83333,
+    41.6,
+    19.83333
+],
+  "geometry": {"coordinates":[41.6,19.83333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1242687721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,20.95,39.28333,20.95",
+    "geom:latitude":20.95,
+    "geom:longitude":39.28333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Damrur",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107098,
+    "gn:latitude":20.95,
+    "gn:longitude":39.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Damr\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damr\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107098
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"781d532c521dc9c726f69d78e90a545a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1242687721,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242687721,
+    "wof:lastmodified":1537699219,
+    "wof:name":"Damrur",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    20.95,
+    39.28333,
+    20.95
+],
+  "geometry": {"coordinates":[39.28333,20.95],"type":"Point"}
+}

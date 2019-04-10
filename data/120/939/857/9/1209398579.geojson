@@ -1,0 +1,71 @@
+{
+  "id": 1209398579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70901,24.44845,44.70901,24.44845",
+    "geom:latitude":24.44845,
+    "geom:longitude":44.70901,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hufayrah",
+    "gn:country_code":"SA",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109576,
+    "gn:latitude":24.44845,
+    "gn:longitude":44.70901,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"\u1e28ufayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28ufayyirah",
+        "\u1e28ufayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109576
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7f5d8bda3fe47e4081ffe092f05d2393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1209398579,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209398579,
+    "wof:lastmodified":1548455919,
+    "wof:name":"Hufayrah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70901,
+    24.44845,
+    44.70901,
+    24.44845
+],
+  "geometry": {"coordinates":[44.70901,24.44845],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327044687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20889,18.59534,43.20889,18.59534",
+    "geom:latitude":18.59534,
+    "geom:longitude":43.20889,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Hadba'",
+    "gn:country_code":"SA",
+    "gn:dem":1794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109734,
+    "gn:latitude":18.59534,
+    "gn:longitude":43.20889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28adb\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hadba",
+        "Al \u1e28adb\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109734
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"22c597726b807f75671d78dffbe8adfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1327044687,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1327044687,
+    "wof:lastmodified":1537699266,
+    "wof:name":"Al Hadba'",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20889,
+    18.59534,
+    43.20889,
+    18.59534
+],
+  "geometry": {"coordinates":[43.20889,18.59534],"type":"Point"}
+}

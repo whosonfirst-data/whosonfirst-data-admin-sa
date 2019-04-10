@@ -1,0 +1,73 @@
+{
+  "id": 1193010789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.17369,26.97495,49.17369,26.97495",
+    "geom:latitude":26.97495,
+    "geom:longitude":49.17369,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Fadili",
+    "gn:country_code":"SA",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392343,
+    "gn:latitude":26.97495,
+    "gn:longitude":49.17369,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al F\u0101\u1e11il\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al F\u0101\u1e11il\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u0627\u0636\u0650\u0644\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392343
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"45d5c287150d46f7eac4cf436715cda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720585,
+            "locality_id":1193010789,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1193010789,
+    "wof:lastmodified":1537699286,
+    "wof:name":"Al Fadili",
+    "wof:parent_id":1108720585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.17369,
+    26.97495,
+    49.17369,
+    26.97495
+],
+  "geometry": {"coordinates":[49.17369,26.97495],"type":"Point"}
+}

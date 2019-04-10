@@ -1,0 +1,67 @@
+{
+  "id": 1243564417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7,17.91667,43.7,17.91667",
+    "geom:latitude":17.91667,
+    "geom:longitude":43.7,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Sanad",
+    "gn:country_code":"SA",
+    "gn:dem":2133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102416,
+    "gn:latitude":17.91667,
+    "gn:longitude":43.7,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sanad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676809,
+        1108720669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102416
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ffafc531c4a81a1c5ed521334d653c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720669,
+            "locality_id":1243564417,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":1243564417,
+    "wof:lastmodified":1536634111,
+    "wof:name":"Sanad",
+    "wof:parent_id":1108720669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7,
+    17.91667,
+    43.7,
+    17.91667
+],
+  "geometry": {"coordinates":[43.7,17.91667],"type":"Point"}
+}

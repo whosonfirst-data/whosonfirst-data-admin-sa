@@ -1,0 +1,71 @@
+{
+  "id": 1243572375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.99027,18.08976,42.99027,18.08976",
+    "geom:latitude":18.08976,
+    "geom:longitude":42.99027,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al `Adhabah",
+    "gn:country_code":"SA",
+    "gn:dem":2298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110122,
+    "gn:latitude":18.08976,
+    "gn:longitude":42.99027,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018Adhabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Adh\u2019dhah",
+        "Al \u2018Adhabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110122
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"285c61d756bedc03cfc43e2154352610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1243572375,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1243572375,
+    "wof:lastmodified":1537699275,
+    "wof:name":"Al `Adhabah",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.99027,
+    18.08976,
+    42.99027,
+    18.08976
+],
+  "geometry": {"coordinates":[42.99027,18.08976],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343354041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.85506,24.65351,50.85506,24.65351",
+    "geom:latitude":24.65351,
+    "geom:longitude":50.85506,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"As Sikak",
+    "gn:country_code":"SA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108076,
+    "gn:latitude":24.65351,
+    "gn:longitude":50.85506,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"As Sikak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0651\u0650\u0643\u0643"
+    ],
+    "name:und_x_variant":[
+        "Skuk",
+        "As Sikak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108076
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e402a505bf73fa7b0d25768c4095d42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1343354041,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1343354041,
+    "wof:lastmodified":1537699229,
+    "wof:name":"As Sikak",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.85506,
+    24.65351,
+    50.85506,
+    24.65351
+],
+  "geometry": {"coordinates":[50.85506,24.65351],"type":"Point"}
+}

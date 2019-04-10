@@ -1,0 +1,71 @@
+{
+  "id": 1226554697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.87243,18.79686,42.87243,18.79686",
+    "geom:latitude":18.79686,
+    "geom:longitude":42.87243,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Khaybar",
+    "gn:country_code":"SA",
+    "gn:dem":1750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104977,
+    "gn:latitude":18.79686,
+    "gn:longitude":42.87243,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khaybar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaibar",
+        "Khaybar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104977
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9445cbb665e5f3245fa36e8138d49570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720717,
+            "locality_id":1226554697,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1226554697,
+    "wof:lastmodified":1537699201,
+    "wof:name":"Khaybar",
+    "wof:parent_id":1108720717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.87243,
+    18.79686,
+    42.87243,
+    18.79686
+],
+  "geometry": {"coordinates":[42.87243,18.79686],"type":"Point"}
+}

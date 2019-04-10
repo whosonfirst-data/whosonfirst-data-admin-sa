@@ -1,0 +1,73 @@
+{
+  "id": 1243063013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.20872,24.67092,45.20872,24.67092",
+    "geom:latitude":24.67092,
+    "geom:longitude":45.20872,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"At Tawilah",
+    "gn:country_code":"SA",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397195,
+    "gn:latitude":24.67092,
+    "gn:longitude":45.20872,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"A\u0163 \u0162aw\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162aw\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397195
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"94bdc1aa2cffce92dd4af371b88c5f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":1243063013,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1243063013,
+    "wof:lastmodified":1537699316,
+    "wof:name":"At Tawilah",
+    "wof:parent_id":1108720657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.20872,
+    24.67092,
+    45.20872,
+    24.67092
+],
+  "geometry": {"coordinates":[45.20872,24.67092],"type":"Point"}
+}

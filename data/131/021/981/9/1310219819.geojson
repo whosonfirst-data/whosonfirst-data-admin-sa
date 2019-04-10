@@ -1,0 +1,73 @@
+{
+  "id": 1310219819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.55,18.21667,42.55,18.21667",
+    "geom:latitude":18.21667,
+    "geom:longitude":42.55,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ad Dar as Sufla",
+    "gn:country_code":"SA",
+    "gn:dem":2166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110329,
+    "gn:latitude":18.21667,
+    "gn:longitude":42.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ad D\u0101r as Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ad D\u0101r as Sufl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110329
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"10cc924729d72dd5e729238a0be89e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1310219819,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1310219819,
+    "wof:lastmodified":1548452889,
+    "wof:name":"Ad Dar as Sufla",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361026045
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.55,
+    18.21667,
+    42.55,
+    18.21667
+],
+  "geometry": {"coordinates":[42.55,18.21667],"type":"Point"}
+}

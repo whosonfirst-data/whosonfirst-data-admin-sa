@@ -1,0 +1,73 @@
+{
+  "id": 1293679829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.67334,25.01415,42.67334,25.01415",
+    "geom:latitude":25.01415,
+    "geom:longitude":42.67334,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Najikh ash Shamali",
+    "gn:country_code":"SA",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395082,
+    "gn:latitude":25.01415,
+    "gn:longitude":42.67334,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Naj\u012bkh ash Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062c\u064a\u062e \u0627\u0644\u0634\u0651\u064e\u0645\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Naj\u012bkh ash Sham\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395082
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0e8128e876147d28801d73d1f433b881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720653,
+            "locality_id":1293679829,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1293679829,
+    "wof:lastmodified":1537699294,
+    "wof:name":"Najikh ash Shamali",
+    "wof:parent_id":1108720653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.67334,
+    25.01415,
+    42.67334,
+    25.01415
+],
+  "geometry": {"coordinates":[42.67334,25.01415],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209293887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.67939,27.65658,41.67939,27.65658",
+    "geom:latitude":27.65658,
+    "geom:longitude":41.67939,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Laqitah",
+    "gn:country_code":"SA",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109265,
+    "gn:latitude":27.65658,
+    "gn:longitude":41.67939,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al Laq\u012b\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0642\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Laqita",
+        "Al-Lak\u00ee\u1e6da",
+        "Al Laq\u012b\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109265
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"96c92483dfdf87a086cc90d59c103eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1209293887,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1209293887,
+    "wof:lastmodified":1548455912,
+    "wof:name":"Al Laqitah",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361026085
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.67939000000001,
+    27.65658,
+    41.67939000000001,
+    27.65658
+],
+  "geometry": {"coordinates":[41.67939000000001,27.65658],"type":"Point"}
+}

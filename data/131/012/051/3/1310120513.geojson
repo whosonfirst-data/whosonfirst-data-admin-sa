@@ -1,0 +1,67 @@
+{
+  "id": 1310120513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28234,25.70708,39.28234,25.70708",
+    "geom:latitude":25.70708,
+    "geom:longitude":39.28234,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ash Shurayf",
+    "gn:country_code":"SA",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108190,
+    "gn:latitude":25.70708,
+    "gn:longitude":39.28234,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ash Shurayf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108190
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8eee2bc0c4c121ed63a13568fe793d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720721,
+            "locality_id":1310120513,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1310120513,
+    "wof:lastmodified":1536974282,
+    "wof:name":"Ash Shurayf",
+    "wof:parent_id":1108720721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28234000000001,
+    25.70708,
+    39.28234000000001,
+    25.70708
+],
+  "geometry": {"coordinates":[39.28234000000001,25.70708],"type":"Point"}
+}

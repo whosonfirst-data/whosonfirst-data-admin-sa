@@ -1,0 +1,84 @@
+{
+  "id": 1125926527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1201,19.14547,42.1201,19.14547",
+    "geom:latitude":19.14547,
+    "geom:longitude":42.1201,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":24153,
+    "gn:population":24153,
+    "iso:country":"SA",
+    "lbl:latitude":19.14547,
+    "lbl:longitude":42.1201,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "An Nim\u0101\u015f"
+    ],
+    "name:unk_x_variant":[
+        "Num\u0101s"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":108617,
+    "qs_pg:gn_pop":24153,
+    "qs_pg:name":"An Nim\u0101\u015f",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":65866,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108617,
+        "qs_pg:id":65866
+    },
+    "wof:country":"SA",
+    "wof:created":1497296659,
+    "wof:geomhash":"ca942a297047f85731a03b51a15cd3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720649,
+            "locality_id":1125926527,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1125926527,
+    "wof:lastmodified":1509401117,
+    "wof:name":"An Nim\u0101\u015f",
+    "wof:parent_id":1108720649,
+    "wof:placetype":"locality",
+    "wof:population":24153,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1201,
+    19.14547,
+    42.1201,
+    19.14547
+],
+  "geometry": {"coordinates":[42.1201,19.14547],"type":"Point"}
+}

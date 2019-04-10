@@ -1,0 +1,70 @@
+{
+  "id": 1310495475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.67227,22.05877,46.67227,22.05877",
+    "geom:latitude":22.05877,
+    "geom:longitude":46.67227,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Marwan",
+    "gn:country_code":"SA",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104314,
+    "gn:latitude":22.05877,
+    "gn:longitude":46.67227,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Marw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104314
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6a127933756ccef817fdc34798fc31cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720553,
+            "locality_id":1310495475,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310495475,
+    "wof:lastmodified":1537699195,
+    "wof:name":"Marwan",
+    "wof:parent_id":1108720553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.67227000000001,
+    22.05877000000001,
+    46.67227000000001,
+    22.05877000000001
+],
+  "geometry": {"coordinates":[46.67227000000001,22.05877000000001],"type":"Point"}
+}

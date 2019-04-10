@@ -1,0 +1,73 @@
+{
+  "id": 1293198037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35164,26.95026,48.35164,26.95026",
+    "geom:latitude":26.95026,
+    "geom:longitude":48.35164,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Rizhan",
+    "gn:country_code":"SA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392289,
+    "gn:latitude":26.95026,
+    "gn:longitude":48.35164,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Riz\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Riz\u1e29\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0650\u0632\u0652\u062d\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392289
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"777c3be4243f6a8fd15ffc1825544893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720623,
+            "locality_id":1293198037,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1293198037,
+    "wof:lastmodified":1537699286,
+    "wof:name":"Rizhan",
+    "wof:parent_id":1108720623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35164,
+    26.95026,
+    48.35164,
+    26.95026
+],
+  "geometry": {"coordinates":[48.35164,26.95026],"type":"Point"}
+}

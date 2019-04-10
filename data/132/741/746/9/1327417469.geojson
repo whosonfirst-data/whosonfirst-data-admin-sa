@@ -1,0 +1,76 @@
+{
+  "id": 1327417469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38665,24.47995,46.38665,24.47995",
+    "geom:latitude":24.47995,
+    "geom:longitude":46.38665,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Fayhaq",
+    "gn:country_code":"SA",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106661,
+    "gn:latitude":24.47995,
+    "gn:longitude":46.38665,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Fayhaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0647\u0642"
+    ],
+    "name:und_x_variant":[
+        "Fayhiq",
+        "Faihiq",
+        "Qa\u015fr Fayhaq",
+        "Fayhaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106661
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"947a5be2a7ea82961d513ecf3556954f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720621,
+            "locality_id":1327417469,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1327417469,
+    "wof:lastmodified":1537699216,
+    "wof:name":"Fayhaq",
+    "wof:parent_id":1108720621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38665,
+    24.47995,
+    46.38665,
+    24.47995
+],
+  "geometry": {"coordinates":[46.38665,24.47995],"type":"Point"}
+}

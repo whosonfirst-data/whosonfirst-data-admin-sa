@@ -1,0 +1,70 @@
+{
+  "id": 1277060203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66056,24.1775,44.66056,24.1775",
+    "geom:latitude":24.1775,
+    "geom:longitude":44.66056,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Masil",
+    "gn:country_code":"SA",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399366,
+    "gn:latitude":24.1775,
+    "gn:longitude":44.66056,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"M\u0101sil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u0101sil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399366
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"47693a441b639c078601329c69be9df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1277060203,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1277060203,
+    "wof:lastmodified":1537699325,
+    "wof:name":"Masil",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66056,
+    24.1775,
+    44.66056,
+    24.1775
+],
+  "geometry": {"coordinates":[44.66056,24.1775],"type":"Point"}
+}

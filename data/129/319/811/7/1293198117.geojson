@@ -1,0 +1,64 @@
+{
+  "id": 1293198117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.87844,27.76972,48.87844,27.76972",
+    "geom:latitude":27.76972,
+    "geom:longitude":48.87844,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Khawwari",
+    "gn:country_code":"SA",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":388304,
+    "gn:latitude":27.76972,
+    "gn:longitude":48.87844,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Khaww\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Khaww\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388304
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4e5fbc94bea75a1ad15bb1e74957b89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293198117,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293198117,
+    "wof:lastmodified":1537699282,
+    "wof:name":"Al Khawwari",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.87844000000001,
+    27.76972,
+    48.87844000000001,
+    27.76972
+],
+  "geometry": {"coordinates":[48.87844000000001,27.76972],"type":"Point"}
+}

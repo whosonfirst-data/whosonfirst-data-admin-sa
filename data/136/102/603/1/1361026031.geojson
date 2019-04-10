@@ -1,0 +1,71 @@
+{
+  "id": 1361026031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.57885,24.48027,39.57885,24.48027",
+    "geom:latitude":24.48027,
+    "geom:longitude":39.57885,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"alQiblatyn alqbltyn",
+    "gn:country_code":"SA",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":8436681,
+    "gn:latitude":24.48027,
+    "gn:longitude":39.57885,
+    "gn:modification_date":"2013-01-20",
+    "gn:name":"alQiblatyn \u0627\u0644\u0642\u0628\u0644\u062a\u064a\u0646",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676825,
+        102191569,
+        85632253,
+        1209814537,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436681
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ae29f8780bee1571c478d96933b02126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1209814537,
+            "neighbourhood_id":1361026031,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1361026031,
+    "wof:lastmodified":1548452892,
+    "wof:name":"alQiblatyn alqbltyn",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209814537
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.57885,
+    24.48027,
+    39.57885,
+    24.48027
+],
+  "geometry": {"coordinates":[39.57885,24.48027],"type":"Point"}
+}

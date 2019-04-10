@@ -1,0 +1,73 @@
+{
+  "id": 1310225171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.09522,25.51071,43.09522,25.51071",
+    "geom:latitude":25.51071,
+    "geom:longitude":43.09522,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Rafa'i` al Humaymah",
+    "gn:country_code":"SA",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395959,
+    "gn:latitude":25.51071,
+    "gn:longitude":43.09522,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Raf\u0101\u2019i\u2018 al \u1e28umaymah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0641\u0627\u0626\u0639 \u0627\u0644\u062d\u0645\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Raf\u0101\u2019i\u2018 al \u1e28umaymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395959
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"da57301446e40005b2cfe2e13b2b28aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1310225171,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1310225171,
+    "wof:lastmodified":1537699304,
+    "wof:name":"Rafa'i` al Humaymah",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.09522,
+    25.51071,
+    43.09522,
+    25.51071
+],
+  "geometry": {"coordinates":[43.09522,25.51071],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310403319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4,27.91667,45.4,27.91667",
+    "geom:latitude":27.91667,
+    "geom:longitude":45.4,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Masjid Ibn Rashid",
+    "gn:country_code":"SA",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104270,
+    "gn:latitude":27.91667,
+    "gn:longitude":45.4,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Masjid Ibn Rash\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masjid ar Rash\u012bd",
+        "Masjid Ibn Rash\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104270
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ef053a5ef2dc9e4768bce5eca1f41253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":1310403319,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1310403319,
+    "wof:lastmodified":1537699195,
+    "wof:name":"Masjid Ibn Rashid",
+    "wof:parent_id":1108720699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4,
+    27.91667,
+    45.4,
+    27.91667
+],
+  "geometry": {"coordinates":[45.4,27.91667],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1361026135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.36889,23.87703,38.36889,23.87703",
+    "geom:latitude":23.87703,
+    "geom:longitude":38.36889,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Abu Shaytanah",
+    "gn:country_code":"SA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110425,
+    "gn:latitude":23.87703,
+    "gn:longitude":38.36889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ab\u016b Shay\u0163\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Abu Shaibana",
+        "Abu Sheitana",
+        "Abu Shaitana",
+        "Ab\u016b Shay\u0163\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676825,
+        102191569,
+        85632253,
+        1293588371,
+        1108720795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110425,
+        "wk:page":"Ab%C5%AB_Shay%C5%A3%C4%81nah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f3e4ff28381d37144c0bd022235fd561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720795,
+            "locality_id":1293588371,
+            "neighbourhood_id":1361026135,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1361026135,
+    "wof:lastmodified":1548452893,
+    "wof:name":"Abu Shaytanah",
+    "wof:parent_id":1108720795,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293588371
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.36889,
+    23.87703,
+    38.36889,
+    23.87703
+],
+  "geometry": {"coordinates":[38.36889,23.87703],"type":"Point"}
+}

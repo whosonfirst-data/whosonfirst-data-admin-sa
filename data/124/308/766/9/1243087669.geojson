@@ -1,0 +1,73 @@
+{
+  "id": 1243087669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.59034,25.83034,44.59034,25.83034",
+    "geom:latitude":25.83034,
+    "geom:longitude":44.59034,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Umm Hazm",
+    "gn:country_code":"SA",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396418,
+    "gn:latitude":25.83034,
+    "gn:longitude":44.59034,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Umm \u1e28azm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062d\u064e\u0632\u0645"
+    ],
+    "name:und_x_variant":[
+        "Umm \u1e28azm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396418
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a88822fd1cd169db1c865b472a26d650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720659,
+            "locality_id":1243087669,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1243087669,
+    "wof:lastmodified":1537699308,
+    "wof:name":"Umm Hazm",
+    "wof:parent_id":1108720659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.59034000000001,
+    25.83034,
+    44.59034000000001,
+    25.83034
+],
+  "geometry": {"coordinates":[44.59034000000001,25.83034],"type":"Point"}
+}

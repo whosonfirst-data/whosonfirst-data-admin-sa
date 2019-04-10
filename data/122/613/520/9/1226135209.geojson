@@ -1,0 +1,81 @@
+{
+  "id": 1226135209,
+  "type": "Feature",
+  "properties": {
+    "abrv:eng_x_preferred":[
+        "KKMC"
+    ],
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.55326,27.90509,45.55326,27.90509",
+    "geom:latitude":27.90509,
+    "geom:longitude":45.55326,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"King Khalid Military City",
+    "gn:country_code":"SA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8449855,
+    "gn:latitude":27.90509,
+    "gn:longitude":45.55326,
+    "gn:modification_date":"2013-02-02",
+    "gn:name":"King Khalid Military City",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0644\u0643 \u062e\u0627\u0644\u062f \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "King Khalid Military City"
+    ],
+    "name:und_x_variant":[
+        "Medinat Al Malek Khaled Al Askariyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8449855,
+        "wk:page":"King_Khalid_Military_City"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4a90b689ac033dc8b8ca81ca3da66a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":1226135209,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1226135209,
+    "wof:lastmodified":1537699344,
+    "wof:name":"King Khalid Military City",
+    "wof:parent_id":1108720699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:shortcode":"KKMC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.55326,
+    27.90509,
+    45.55326,
+    27.90509
+],
+  "geometry": {"coordinates":[45.55326,27.90509],"type":"Point"}
+}

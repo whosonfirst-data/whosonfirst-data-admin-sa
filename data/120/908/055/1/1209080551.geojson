@@ -1,0 +1,73 @@
+{
+  "id": 1209080551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93513,29.23438,34.93513,29.23438",
+    "geom:latitude":29.23438,
+    "geom:longitude":34.93513,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Al Humaydah",
+    "gn:country_code":"SA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109561,
+    "gn:latitude":29.23438,
+    "gn:longitude":34.93513,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28umay\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Himeida",
+        "Al Humaidha",
+        "Al Humayzah",
+        "Al \u1e28umay\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676833,
+        1108720705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109561
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d26b9d2b8dfef5cee89b13063f9ca5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720705,
+            "locality_id":1209080551,
+            "region_id":85676833
+        }
+    ],
+    "wof:id":1209080551,
+    "wof:lastmodified":1548455902,
+    "wof:name":"Al Humaydah",
+    "wof:parent_id":1108720705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93513,
+    29.23438,
+    34.93513,
+    29.23438
+],
+  "geometry": {"coordinates":[34.93513,29.23438],"type":"Point"}
+}

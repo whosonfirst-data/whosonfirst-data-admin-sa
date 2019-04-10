@@ -1,0 +1,73 @@
+{
+  "id": 1310194119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00371,24.07524,45.00371,24.07524",
+    "geom:latitude":24.07524,
+    "geom:longitude":45.00371,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Li`li`",
+    "gn:country_code":"SA",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396604,
+    "gn:latitude":24.07524,
+    "gn:longitude":45.00371,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Li\u2018li\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Li\u2018li\u2018"
+    ],
+    "name:ara_x_variant":[
+        "\u0644\u0639\u0644\u0639"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396604
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a72a9a2cb8cfc6b26e39f966e11e0d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1310194119,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310194119,
+    "wof:lastmodified":1537699310,
+    "wof:name":"Li`li`",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00371,
+    24.07524,
+    45.00371,
+    24.07524
+],
+  "geometry": {"coordinates":[45.00371,24.07524],"type":"Point"}
+}

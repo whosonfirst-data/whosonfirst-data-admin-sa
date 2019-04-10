@@ -1,0 +1,70 @@
+{
+  "id": 1293772811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.94333,24.95861,44.94333,24.95861",
+    "geom:latitude":24.95861,
+    "geom:longitude":44.94333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Musaybir",
+    "gn:country_code":"SA",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399724,
+    "gn:latitude":24.95861,
+    "gn:longitude":44.94333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Musayb\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Musayb\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399724
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"190facb14411f4f332d7e3004af199b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1293772811,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1293772811,
+    "wof:lastmodified":1537699326,
+    "wof:name":"Al Musaybir",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.94333,
+    24.95861,
+    44.94333,
+    24.95861
+],
+  "geometry": {"coordinates":[44.94333,24.95861],"type":"Point"}
+}

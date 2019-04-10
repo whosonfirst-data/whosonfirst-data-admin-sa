@@ -1,0 +1,76 @@
+{
+  "id": 1209809185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.20799,24.58824,46.20799,24.58824",
+    "geom:latitude":24.58824,
+    "geom:longitude":46.20799,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Wusta",
+    "gn:country_code":"SA",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108745,
+    "gn:latitude":24.58824,
+    "gn:longitude":46.20799,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Al Wus\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Wus\u0163\u00e1"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
+    "name:und_x_variant":[
+        "Al Wust\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108745
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5e9099873d6f128862e79ed9d511c54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720695,
+            "locality_id":1209809185,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209809185,
+    "wof:lastmodified":1537699241,
+    "wof:name":"Al Wusta",
+    "wof:parent_id":1108720695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.20799,
+    24.58824,
+    46.20799,
+    24.58824
+],
+  "geometry": {"coordinates":[46.20799,24.58824],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260072655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.68333,25.41667,49.68333,25.41667",
+    "geom:latitude":25.41667,
+    "geom:longitude":49.68333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Tuwaythir",
+    "gn:country_code":"SA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101280,
+    "gn:latitude":25.41667,
+    "gn:longitude":49.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tuwayth\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Tuwaithir",
+        "Tuwaithir",
+        "Tuwayth\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101280
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1dc7e1a1a247d2892769b95bc22b9d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1260072655,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1260072655,
+    "wof:lastmodified":1537699168,
+    "wof:name":"Tuwaythir",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.68333,
+    25.41667,
+    49.68333,
+    25.41667
+],
+  "geometry": {"coordinates":[49.68333,25.41667],"type":"Point"}
+}

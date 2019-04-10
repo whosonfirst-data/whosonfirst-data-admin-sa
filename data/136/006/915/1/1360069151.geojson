@@ -1,0 +1,70 @@
+{
+  "id": 1360069151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2121,24.24163,47.2121,24.24163",
+    "geom:latitude":24.24163,
+    "geom:longitude":47.2121,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Halaqat al `Afraj",
+    "gn:country_code":"SA",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414175,
+    "gn:latitude":24.24163,
+    "gn:longitude":47.2121,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28alaqat al \u2018Afraj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28alaqat al \u2018Afraj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414175
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"932a2afd1685514c5d6ab7fdddd21e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1360069151,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1360069151,
+    "wof:lastmodified":1537699341,
+    "wof:name":"Halaqat al `Afraj",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2121,
+    24.24163,
+    47.2121,
+    24.24163
+],
+  "geometry": {"coordinates":[47.2121,24.24163],"type":"Point"}
+}

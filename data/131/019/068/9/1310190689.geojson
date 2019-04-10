@@ -1,0 +1,70 @@
+{
+  "id": 1310190689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.57716,25.29531,42.57716,25.29531",
+    "geom:latitude":25.29531,
+    "geom:longitude":42.57716,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Ar Ruknah",
+    "gn:country_code":"SA",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395528,
+    "gn:latitude":25.29531,
+    "gn:longitude":42.57716,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ar Ruknah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0651\u064f\u0643\u0646\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395528
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"04906f76d7ea45d364fd46b848bc922a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1310190689,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1310190689,
+    "wof:lastmodified":1537699300,
+    "wof:name":"Ar Ruknah",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.57716,
+    25.29531,
+    42.57716,
+    25.29531
+],
+  "geometry": {"coordinates":[42.57716,25.29531],"type":"Point"}
+}

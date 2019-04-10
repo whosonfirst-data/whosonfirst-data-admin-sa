@@ -1,0 +1,73 @@
+{
+  "id": 1327422919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2228,26.82921,45.2228,26.82921",
+    "geom:latitude":26.82921,
+    "geom:longitude":45.2228,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mishlah",
+    "gn:country_code":"SA",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392643,
+    "gn:latitude":26.82921,
+    "gn:longitude":45.2228,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mishla\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0634\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Mishla\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392643
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3e1e758466d1a9b41fd753e0566e3c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1327422919,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1327422919,
+    "wof:lastmodified":1537699287,
+    "wof:name":"Mishlah",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2228,
+    26.82921,
+    45.2228,
+    26.82921
+],
+  "geometry": {"coordinates":[45.2228,26.82921],"type":"Point"}
+}

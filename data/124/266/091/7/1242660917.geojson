@@ -1,0 +1,70 @@
+{
+  "id": 1242660917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.92399,21.70727,39.92399,21.70727",
+    "geom:latitude":21.70727,
+    "geom:longitude":39.92399,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"`Ayn al Khufayji",
+    "gn:country_code":"SA",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411310,
+    "gn:latitude":21.70727,
+    "gn:longitude":39.92399,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Ayn al Khufayj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn al Khufayj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411310
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b0422e62ec68189a20441c803c8db1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720587,
+            "locality_id":1242660917,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1242660917,
+    "wof:lastmodified":1537699337,
+    "wof:name":"`Ayn al Khufayji",
+    "wof:parent_id":1108720587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.92399,
+    21.70727,
+    39.92399,
+    21.70727
+],
+  "geometry": {"coordinates":[39.92399,21.70727],"type":"Point"}
+}

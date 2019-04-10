@@ -1,0 +1,70 @@
+{
+  "id": 1343444389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63733,21.65149,39.63733,21.65149",
+    "geom:latitude":21.65149,
+    "geom:longitude":39.63733,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ghuziyyat",
+    "gn:country_code":"SA",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410056,
+    "gn:latitude":21.65149,
+    "gn:longitude":39.63733,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ghuziyy\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ghuziyy\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410056
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3828a46d79becbcc3a143bcd7039b836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720587,
+            "locality_id":1343444389,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1343444389,
+    "wof:lastmodified":1537699333,
+    "wof:name":"Ghuziyyat",
+    "wof:parent_id":1108720587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63733,
+    21.65149,
+    39.63733,
+    21.65149
+],
+  "geometry": {"coordinates":[39.63733,21.65149],"type":"Point"}
+}

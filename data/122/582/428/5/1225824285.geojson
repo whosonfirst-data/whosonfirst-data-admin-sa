@@ -1,0 +1,70 @@
+{
+  "id": 1225824285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.82056,22.86583,40.82056,22.86583",
+    "geom:latitude":22.86583,
+    "geom:longitude":40.82056,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Umm al Ghiran",
+    "gn:country_code":"SA",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409886,
+    "gn:latitude":22.86583,
+    "gn:longitude":40.82056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm al Gh\u012bran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm al Gh\u012bran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409886
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d4048594846be724826e88e311d73d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720607,
+            "locality_id":1225824285,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1225824285,
+    "wof:lastmodified":1537699332,
+    "wof:name":"Umm al Ghiran",
+    "wof:parent_id":1108720607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.82056,
+    22.86583,
+    40.82056,
+    22.86583
+],
+  "geometry": {"coordinates":[40.82056,22.86583],"type":"Point"}
+}

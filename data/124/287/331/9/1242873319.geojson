@@ -1,0 +1,74 @@
+{
+  "id": 1242873319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81242,24.70269,39.81242,24.70269",
+    "geom:latitude":24.70269,
+    "geom:longitude":39.81242,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ar Rasi`ah",
+    "gn:country_code":"SA",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9613628,
+    "gn:latitude":24.70269,
+    "gn:longitude":39.81242,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Ar Ra\u015f\u012b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0635\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Ra\u015f\u012b\u2018ah",
+        "Ar Rasi\u2019ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9613628
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ac528464ec9eb341742d8df6f2fb74da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1242873319,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1242873319,
+    "wof:lastmodified":1537699345,
+    "wof:name":"Ar Rasi`ah",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81242,
+    24.70269,
+    39.81242,
+    24.70269
+],
+  "geometry": {"coordinates":[39.81242,24.70269],"type":"Point"}
+}

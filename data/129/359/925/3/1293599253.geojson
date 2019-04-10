@@ -1,0 +1,70 @@
+{
+  "id": 1293599253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9,26.3,43.9,26.3",
+    "geom:latitude":26.3,
+    "geom:longitude":43.9,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ilbaras",
+    "gn:country_code":"SA",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":105609,
+    "gn:latitude":26.3,
+    "gn:longitude":43.9,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ilbaras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":105609
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ca65354dc4b4056821ab8213650d68fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":1293599253,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1293599253,
+    "wof:lastmodified":1548452889,
+    "wof:name":"Ilbaras",
+    "wof:parent_id":1108720687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361025889
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9,
+    26.3,
+    43.9,
+    26.3
+],
+  "geometry": {"coordinates":[43.9,26.3],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293877321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.29381,24.02361,46.29381,24.02361",
+    "geom:latitude":24.02361,
+    "geom:longitude":46.29381,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Jufayr",
+    "gn:country_code":"SA",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109425,
+    "gn:latitude":24.02361,
+    "gn:longitude":46.29381,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Al Jufayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0641\u064a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109425
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4e3d0cbe9fe5b6c6e46cb1602952e520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720621,
+            "locality_id":1293877321,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1293877321,
+    "wof:lastmodified":1537699258,
+    "wof:name":"Al Jufayr",
+    "wof:parent_id":1108720621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.29381,
+    24.02361,
+    46.29381,
+    24.02361
+],
+  "geometry": {"coordinates":[46.29381,24.02361],"type":"Point"}
+}

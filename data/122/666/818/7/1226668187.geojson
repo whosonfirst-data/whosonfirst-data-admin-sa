@@ -1,0 +1,70 @@
+{
+  "id": 1226668187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.52823,27.10601,48.52823,27.10601",
+    "geom:latitude":27.10601,
+    "geom:longitude":48.52823,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Husayy",
+    "gn:country_code":"SA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397841,
+    "gn:latitude":27.10601,
+    "gn:longitude":48.52823,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al \u1e28usayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28usayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397841
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"68b5312ed22a54616db25a8e1278060f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720623,
+            "locality_id":1226668187,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1226668187,
+    "wof:lastmodified":1537699321,
+    "wof:name":"Al Husayy",
+    "wof:parent_id":1108720623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.52823,
+    27.10601,
+    48.52823,
+    27.10601
+],
+  "geometry": {"coordinates":[48.52823,27.10601],"type":"Point"}
+}

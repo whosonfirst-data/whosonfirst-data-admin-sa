@@ -1,0 +1,71 @@
+{
+  "id": 1242687783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51501,17.76249,43.51501,17.76249",
+    "geom:latitude":17.76249,
+    "geom:longitude":43.51501,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Talhah",
+    "gn:country_code":"SA",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101610,
+    "gn:latitude":17.76249,
+    "gn:longitude":43.51501,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0162al\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talha",
+        "\u0162al\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101610
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a629cca108c036fd3ccc352cf014ba13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720797,
+            "locality_id":1242687783,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1242687783,
+    "wof:lastmodified":1537699171,
+    "wof:name":"Talhah",
+    "wof:parent_id":1108720797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51501,
+    17.76249,
+    43.51501,
+    17.76249
+],
+  "geometry": {"coordinates":[43.51501,17.76249],"type":"Point"}
+}

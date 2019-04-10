@@ -1,0 +1,72 @@
+{
+  "id": 1310319953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.80917,19.34861,41.80917,19.34861",
+    "geom:latitude":19.34861,
+    "geom:longitude":41.80917,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Hafnah",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106286,
+    "gn:latitude":19.34861,
+    "gn:longitude":41.80917,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28afnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hafnan",
+        "Al \u1e28afnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106286
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0d6e0a5fd33486484b2ff19b8a4be737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":1310319953,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1310319953,
+    "wof:lastmodified":1537699212,
+    "wof:name":"Al Hafnah",
+    "wof:parent_id":1108720633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.80917,
+    19.34861,
+    41.80917,
+    19.34861
+],
+  "geometry": {"coordinates":[41.80917,19.34861],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193007263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.41212,24.46663,46.41212,24.46663",
+    "geom:latitude":24.46663,
+    "geom:longitude":46.41212,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Faydah",
+    "gn:country_code":"SA",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397161,
+    "gn:latitude":24.46663,
+    "gn:longitude":46.41212,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Al Fay\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Fay\u1e11ah",
+        "Al Faydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397161
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c6f31756f109417ffc8c44b07a7baa1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720621,
+            "locality_id":1193007263,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1193007263,
+    "wof:lastmodified":1537699315,
+    "wof:name":"Al Faydah",
+    "wof:parent_id":1108720621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.41212,
+    24.46663,
+    46.41212,
+    24.46663
+],
+  "geometry": {"coordinates":[46.41212,24.46663],"type":"Point"}
+}

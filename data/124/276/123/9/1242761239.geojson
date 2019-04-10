@@ -1,0 +1,73 @@
+{
+  "id": 1242761239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.83333,20.3,40.83333,20.3",
+    "geom:latitude":20.3,
+    "geom:longitude":40.83333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"As Sirar",
+    "gn:country_code":"SA",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108072,
+    "gn:latitude":20.3,
+    "gn:longitude":40.83333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"As Sir\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As Sir\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Sirar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108072
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ebdad0b537c1663044562a1e42780e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720603,
+            "locality_id":1242761239,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1242761239,
+    "wof:lastmodified":1537699228,
+    "wof:name":"As Sirar",
+    "wof:parent_id":1108720603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.83333,
+    20.3,
+    40.83333,
+    20.3
+],
+  "geometry": {"coordinates":[40.83333,20.3],"type":"Point"}
+}

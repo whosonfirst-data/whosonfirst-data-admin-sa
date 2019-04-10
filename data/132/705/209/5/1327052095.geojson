@@ -1,0 +1,70 @@
+{
+  "id": 1327052095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.20943,28.46056,48.20943,28.46056",
+    "geom:latitude":28.46056,
+    "geom:longitude":48.20943,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Qusayr",
+    "gn:country_code":"SA",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393948,
+    "gn:latitude":28.46056,
+    "gn:longitude":48.20943,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Al Qu\u015fayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qu\u015fayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393948
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"fed5eb99d12460048642c6703bddcd70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720591,
+            "locality_id":1327052095,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1327052095,
+    "wof:lastmodified":1537699291,
+    "wof:name":"Al Qusayr",
+    "wof:parent_id":1108720591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.20943,
+    28.46056,
+    48.20943,
+    28.46056
+],
+  "geometry": {"coordinates":[48.20943,28.46056],"type":"Point"}
+}

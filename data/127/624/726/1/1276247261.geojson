@@ -1,0 +1,67 @@
+{
+  "id": 1276247261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24901,16.78082,43.24901,16.78082",
+    "geom:latitude":16.78082,
+    "geom:longitude":43.24901,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Buthal",
+    "gn:country_code":"SA",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107258,
+    "gn:latitude":16.78082,
+    "gn:longitude":43.24901,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Buthal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107258
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"187909342fa012149838290917b86a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720579,
+            "locality_id":1276247261,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1276247261,
+    "wof:lastmodified":1536893705,
+    "wof:name":"Buthal",
+    "wof:parent_id":1108720579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24901,
+    16.78082,
+    43.24901,
+    16.78082
+],
+  "geometry": {"coordinates":[43.24901,16.78082],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242696075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.33333,18.63333,42.33333,18.63333",
+    "geom:latitude":18.63333,
+    "geom:longitude":42.33333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Subh",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":2539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101840,
+    "gn:latitude":18.63333,
+    "gn:longitude":42.33333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u015eub\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u015eub\u1e29"
+    ],
+    "name:und_x_variant":[
+        "\u015eobh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101840
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9013304f9836fd2fcf362dc9287dd6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1242696075,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1242696075,
+    "wof:lastmodified":1537699174,
+    "wof:name":"Subh",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.33333,
+    18.63333,
+    42.33333,
+    18.63333
+],
+  "geometry": {"coordinates":[42.33333,18.63333],"type":"Point"}
+}

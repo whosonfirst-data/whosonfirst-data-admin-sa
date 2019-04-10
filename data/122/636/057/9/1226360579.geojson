@@ -1,0 +1,67 @@
+{
+  "id": 1226360579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.9,21.28333,42.9,21.28333",
+    "geom:latitude":21.28333,
+    "geom:longitude":42.9,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Uthaithi",
+    "gn:country_code":"SA",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100642,
+    "gn:latitude":21.28333,
+    "gn:longitude":42.9,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Uthaithi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100642
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"352158c4d3582263b75268319a7f1728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720743,
+            "locality_id":1226360579,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1226360579,
+    "wof:lastmodified":1536768623,
+    "wof:name":"Uthaithi",
+    "wof:parent_id":1108720743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.9,
+    21.28333,
+    42.9,
+    21.28333
+],
+  "geometry": {"coordinates":[42.9,21.28333],"type":"Point"}
+}

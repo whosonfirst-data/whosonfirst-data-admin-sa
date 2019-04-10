@@ -1,0 +1,78 @@
+{
+  "id": 1361025851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.80181,24.4641,46.80181,24.4641",
+    "geom:latitude":24.4641,
+    "geom:longitude":46.80181,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ibn Ghannam",
+    "gn:country_code":"SA",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9642384,
+    "gn:latitude":24.4641,
+    "gn:longitude":46.80181,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Ibn Ghannam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0646 \u063a\u0646\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ibn Ghann\u0101m",
+        "Ibn Ghannam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676813,
+        102191569,
+        85632253,
+        1260164807,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9642384
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"cf26d95aefdbdf6b75a0296dd9ab9bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":1260164807,
+            "neighbourhood_id":1361025851,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1361025851,
+    "wof:lastmodified":1548452890,
+    "wof:name":"Ibn Ghannam",
+    "wof:parent_id":1108720657,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260164807
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.80181,
+    24.4641,
+    46.80181,
+    24.4641
+],
+  "geometry": {"coordinates":[46.80181,24.4641],"type":"Point"}
+}

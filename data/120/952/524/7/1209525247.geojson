@@ -1,0 +1,70 @@
+{
+  "id": 1209525247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95428,30.83698,37.95428,30.83698",
+    "geom:latitude":30.83698,
+    "geom:longitude":37.95428,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Amghar",
+    "gn:country_code":"SA",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392726,
+    "gn:latitude":30.83698,
+    "gn:longitude":37.95428,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Amghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0645\u063a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392726
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"15da703ad6fd0cba3ed39a9d76276814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720635,
+            "locality_id":1209525247,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1209525247,
+    "wof:lastmodified":1548455924,
+    "wof:name":"Al Amghar",
+    "wof:parent_id":1108720635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95428,
+    30.83698,
+    37.95428,
+    30.83698
+],
+  "geometry": {"coordinates":[37.95428,30.83698],"type":"Point"}
+}

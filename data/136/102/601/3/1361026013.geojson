@@ -1,0 +1,76 @@
+{
+  "id": 1361026013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.21611,24.01776,38.21611,24.01776",
+    "geom:latitude":24.01776,
+    "geom:longitude":38.21611,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Suwadah",
+    "gn:country_code":"SA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101675,
+    "gn:latitude":24.01776,
+    "gn:longitude":38.21611,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Suw\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Suwada",
+        "Suw\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676825,
+        102191569,
+        85632253,
+        1209913213,
+        1108720795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101675,
+        "wk:page":"Suwadah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"277a8f147e5ac51952353c74e6006f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720795,
+            "locality_id":1209913213,
+            "neighbourhood_id":1361026013,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1361026013,
+    "wof:lastmodified":1548452892,
+    "wof:name":"Suwadah",
+    "wof:parent_id":1108720795,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209913213
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.21611,
+    24.01776,
+    38.21611,
+    24.01776
+],
+  "geometry": {"coordinates":[38.21611,24.01776],"type":"Point"}
+}

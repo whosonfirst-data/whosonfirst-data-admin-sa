@@ -1,0 +1,70 @@
+{
+  "id": 1225840169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.83333,20.46667,44.83333,20.46667",
+    "geom:latitude":20.46667,
+    "geom:longitude":44.83333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Muqabil",
+    "gn:country_code":"SA",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103890,
+    "gn:latitude":20.46667,
+    "gn:longitude":44.83333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Muq\u0101bil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Muq\u0101bil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103890
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6e8d07a108b00e856a133f20b0f5cde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720789,
+            "locality_id":1225840169,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1225840169,
+    "wof:lastmodified":1537699192,
+    "wof:name":"Muqabil",
+    "wof:parent_id":1108720789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.83333,
+    20.46667,
+    44.83333,
+    20.46667
+],
+  "geometry": {"coordinates":[44.83333,20.46667],"type":"Point"}
+}

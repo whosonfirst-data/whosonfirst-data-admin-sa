@@ -1,0 +1,66 @@
+{
+  "id": 1276187293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78333,27.15,35.78333,27.15",
+    "geom:latitude":27.15,
+    "geom:longitude":35.78333,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Abu Salma",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110445,
+    "gn:latitude":27.15,
+    "gn:longitude":35.78333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ab\u016b Salm\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salma",
+        "Abu Salama",
+        "Ab\u016b Salm\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110445
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3f9a2f0f693b673dbbf2aa8875fc5505",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276187293,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276187293,
+    "wof:lastmodified":1537699279,
+    "wof:name":"Abu Salma",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78333,
+    27.15,
+    35.78333,
+    27.15
+],
+  "geometry": {"coordinates":[35.78333,27.15],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326906725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.03121,16.73863,43.03121,16.73863",
+    "geom:latitude":16.73863,
+    "geom:longitude":43.03121,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Umm `Araj",
+    "gn:country_code":"SA",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101069,
+    "gn:latitude":16.73863,
+    "gn:longitude":43.03121,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm \u2018Araj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm \u2018Araj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101069
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"12a6170dbd4483a9441551c018187fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720549,
+            "locality_id":1326906725,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1326906725,
+    "wof:lastmodified":1537699167,
+    "wof:name":"Umm `Araj",
+    "wof:parent_id":1108720549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.03121,
+    16.73863,
+    43.03121,
+    16.73863
+],
+  "geometry": {"coordinates":[43.03121,16.73863],"type":"Point"}
+}

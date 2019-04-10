@@ -1,0 +1,70 @@
+{
+  "id": 1259973473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90556,24.53,43.90556,24.53",
+    "geom:latitude":24.53,
+    "geom:longitude":43.90556,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ar Rafi`ah",
+    "gn:country_code":"SA",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399960,
+    "gn:latitude":24.53,
+    "gn:longitude":43.90556,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ar Raf\u012b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Raf\u012b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399960
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c792bc48fc8a6e71fd64673cbf792a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1259973473,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1259973473,
+    "wof:lastmodified":1537699327,
+    "wof:name":"Ar Rafi`ah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90556,
+    24.53,
+    43.90556,
+    24.53
+],
+  "geometry": {"coordinates":[43.90556,24.53],"type":"Point"}
+}

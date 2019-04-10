@@ -1,0 +1,66 @@
+{
+  "id": 1277084309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51667,20.66667,39.51667,20.66667",
+    "geom:latitude":20.66667,
+    "geom:longitude":39.51667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Raghwan",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103002,
+    "gn:latitude":20.66667,
+    "gn:longitude":39.51667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Raghw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rughw\u0101n",
+        "Raghw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103002
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3e13df5b7fd49e68f31b08d589974e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277084309,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277084309,
+    "wof:lastmodified":1537699183,
+    "wof:name":"Raghwan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51667,
+    20.66667,
+    39.51667,
+    20.66667
+],
+  "geometry": {"coordinates":[39.51667,20.66667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343757025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.90155,26.85364,49.90155,26.85364",
+    "geom:latitude":26.85364,
+    "geom:longitude":49.90155,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ghizlan",
+    "gn:country_code":"SA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392626,
+    "gn:latitude":26.85364,
+    "gn:longitude":49.90155,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ghizl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ghizl\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0632\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392626
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"db759b7d321b633d646af093838aa73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720745,
+            "locality_id":1343757025,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1343757025,
+    "wof:lastmodified":1537699287,
+    "wof:name":"Ghizlan",
+    "wof:parent_id":1108720745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.90155,
+    26.85364,
+    49.90155,
+    26.85364
+],
+  "geometry": {"coordinates":[49.90155,26.85364],"type":"Point"}
+}

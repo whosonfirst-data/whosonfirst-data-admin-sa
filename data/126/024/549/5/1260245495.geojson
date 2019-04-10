@@ -1,0 +1,70 @@
+{
+  "id": 1260245495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.01825,17.74871,42.01825,17.74871",
+    "geom:latitude":17.74871,
+    "geom:longitude":42.01825,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"`Arid",
+    "gn:country_code":"SA",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108493,
+    "gn:latitude":17.74871,
+    "gn:longitude":42.01825,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"\u2018\u0100ri\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018\u0100ri\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108493
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d2eec6ac078bd775c0dd664873a875af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720631,
+            "locality_id":1260245495,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1260245495,
+    "wof:lastmodified":1537699238,
+    "wof:name":"`Arid",
+    "wof:parent_id":1108720631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.01825,
+    17.74871,
+    42.01825,
+    17.74871
+],
+  "geometry": {"coordinates":[42.01825,17.74871],"type":"Point"}
+}

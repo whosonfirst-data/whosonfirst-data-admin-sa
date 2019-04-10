@@ -1,0 +1,70 @@
+{
+  "id": 1243352405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13333,23.96667,45.13333,23.96667",
+    "geom:latitude":23.96667,
+    "geom:longitude":45.13333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ibn Sa`dan",
+    "gn:country_code":"SA",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":105635,
+    "gn:latitude":23.96667,
+    "gn:longitude":45.13333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ibn Sa\u2018d\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibn Sa\u2018d\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":105635
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"cf713a4d244747f4a8035d0e93b895a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1243352405,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1243352405,
+    "wof:lastmodified":1537699207,
+    "wof:name":"Ibn Sa`dan",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13333,
+    23.96667,
+    45.13333,
+    23.96667
+],
+  "geometry": {"coordinates":[45.13333,23.96667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310315095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.44565,20.03277,41.44565,20.03277",
+    "geom:latitude":20.03277,
+    "geom:longitude":41.44565,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Raghdan",
+    "gn:country_code":"SA",
+    "gn:dem":2198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103006,
+    "gn:latitude":20.03277,
+    "gn:longitude":41.44565,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Raghd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raghad\u0101n",
+        "Ar Raghdan",
+        "Raghd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103006
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"32d4cae27276fc078dcaec4ba233cb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720567,
+            "locality_id":1310315095,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1310315095,
+    "wof:lastmodified":1537699184,
+    "wof:name":"Raghdan",
+    "wof:parent_id":1108720567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.44565,
+    20.03277000000001,
+    41.44565,
+    20.03277000000001
+],
+  "geometry": {"coordinates":[41.44565,20.03277000000001],"type":"Point"}
+}

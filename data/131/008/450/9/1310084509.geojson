@@ -1,0 +1,65 @@
+{
+  "id": 1310084509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58333,20.5,39.58333,20.5",
+    "geom:latitude":20.5,
+    "geom:longitude":39.58333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Umayr",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101193,
+    "gn:latitude":20.5,
+    "gn:longitude":39.58333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Umayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Umair",
+        "\u2018Umayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101193
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a45ad19a8a162c0a3742c09450e7dab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310084509,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310084509,
+    "wof:lastmodified":1537699168,
+    "wof:name":"`Umayr",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58333,
+    20.5,
+    39.58333,
+    20.5
+],
+  "geometry": {"coordinates":[39.58333,20.5],"type":"Point"}
+}

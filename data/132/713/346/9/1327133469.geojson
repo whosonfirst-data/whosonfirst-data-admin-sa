@@ -1,0 +1,71 @@
+{
+  "id": 1327133469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.55287,22.60985,40.55287,22.60985",
+    "geom:latitude":22.60985,
+    "geom:longitude":40.55287,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Fara`",
+    "gn:country_code":"SA",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106758,
+    "gn:latitude":22.60985,
+    "gn:longitude":40.55287,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Fara\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Far\u2018\u012byah",
+        "Fara\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106758
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2f69bab515f403b363f2c34ce952a1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1327133469,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1327133469,
+    "wof:lastmodified":1537699217,
+    "wof:name":"Fara`",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.55287,
+    22.60985,
+    40.55287,
+    22.60985
+],
+  "geometry": {"coordinates":[40.55287,22.60985],"type":"Point"}
+}

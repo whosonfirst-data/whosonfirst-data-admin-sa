@@ -1,0 +1,78 @@
+{
+  "id": 1361026075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.67833,24.5499,39.67833,24.5499",
+    "geom:latitude":24.5499,
+    "geom:longitude":39.67833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Wu'ayrah",
+    "gn:country_code":"SA",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9616339,
+    "gn:latitude":24.5499,
+    "gn:longitude":39.67833,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Al Wu\u2019ayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0639\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Wu\u2019ayrah",
+        "Al Wa\u2018\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676825,
+        102191569,
+        85632253,
+        1293097983,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9616339
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e1eb9d69e41992d194f545d58d9c151c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1293097983,
+            "neighbourhood_id":1361026075,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1361026075,
+    "wof:lastmodified":1548452893,
+    "wof:name":"Al Wu'ayrah",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293097983
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.67833,
+    24.5499,
+    39.67833,
+    24.5499
+],
+  "geometry": {"coordinates":[39.67833,24.5499],"type":"Point"}
+}

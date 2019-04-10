@@ -1,0 +1,73 @@
+{
+  "id": 1360202765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.48333,26.53333,40.48333,26.53333",
+    "geom:latitude":26.53333,
+    "geom:longitude":40.48333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Zarghat",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100347,
+    "gn:latitude":26.53333,
+    "gn:longitude":40.48333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zargha\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thurghud",
+        "Tharghad",
+        "Zargha\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100347
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"48ae97949beb83387d6a1cf2425b177c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720573,
+            "locality_id":1360202765,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1360202765,
+    "wof:lastmodified":1537699162,
+    "wof:name":"Zarghat",
+    "wof:parent_id":1108720573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.48333,
+    26.53333,
+    40.48333,
+    26.53333
+],
+  "geometry": {"coordinates":[40.48333,26.53333],"type":"Point"}
+}

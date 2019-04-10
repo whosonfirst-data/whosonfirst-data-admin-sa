@@ -1,0 +1,74 @@
+{
+  "id": 1225834097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42404,25.45,44.42404,25.45",
+    "geom:latitude":25.45,
+    "geom:longitude":44.42404,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Ayn as Suwayni`",
+    "gn:country_code":"SA",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102692,
+    "gn:latitude":25.45,
+    "gn:longitude":44.42404,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"\u2018Ayn a\u015f \u015euwayni\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0635\u0651\u064f\u0648\u064e\u064a\u0646\u0650\u0639"
+    ],
+    "name:und_x_variant":[
+        "Sa\u2018aibi",
+        "\u2018Ayn a\u015f \u015euwayni\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102692
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2a71051510c9f3c943a85c01df0bc566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1225834097,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1225834097,
+    "wof:lastmodified":1537699180,
+    "wof:name":"`Ayn as Suwayni`",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42404000000001,
+    25.45,
+    44.42404000000001,
+    25.45
+],
+  "geometry": {"coordinates":[44.42404000000001,25.45],"type":"Point"}
+}

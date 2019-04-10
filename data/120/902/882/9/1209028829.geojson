@@ -1,0 +1,73 @@
+{
+  "id": 1209028829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.04238,25.08685,48.04238,25.08685",
+    "geom:latitude":25.08685,
+    "geom:longitude":48.04238,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Khurays",
+    "gn:country_code":"SA",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104896,
+    "gn:latitude":25.08685,
+    "gn:longitude":48.04238,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Khuray\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u064a\u0635"
+    ],
+    "name:und_x_variant":[
+        "Khuray\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104896
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3901260a0c112c3725d7a6efa25025d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1209028829,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1209028829,
+    "wof:lastmodified":1548455903,
+    "wof:name":"Khurays",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.04238,
+    25.08685,
+    48.04238,
+    25.08685
+],
+  "geometry": {"coordinates":[48.04238,25.08685],"type":"Point"}
+}

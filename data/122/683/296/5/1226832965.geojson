@@ -1,0 +1,70 @@
+{
+  "id": 1226832965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85819,24.8071,46.85819,24.8071",
+    "geom:latitude":24.8071,
+    "geom:longitude":46.85819,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Janadiriyah",
+    "gn:country_code":"SA",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400689,
+    "gn:latitude":24.8071,
+    "gn:longitude":46.85819,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jan\u0101dir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Jan\u0101dir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400689
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"09b5c56a0e5a52fdd99956c8bfbd999d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720751,
+            "locality_id":1226832965,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1226832965,
+    "wof:lastmodified":1537699329,
+    "wof:name":"Al Janadiriyah",
+    "wof:parent_id":1108720751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85819,
+    24.8071,
+    46.85819,
+    24.8071
+],
+  "geometry": {"coordinates":[46.85819,24.8071],"type":"Point"}
+}

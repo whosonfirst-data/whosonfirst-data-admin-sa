@@ -1,0 +1,70 @@
+{
+  "id": 1242989135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.45,20.11667,41.45,20.11667",
+    "geom:latitude":20.11667,
+    "geom:longitude":41.45,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Hamdah",
+    "gn:country_code":"SA",
+    "gn:dem":2268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109690,
+    "gn:latitude":20.11667,
+    "gn:longitude":41.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100l \u1e28amdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100l \u1e28amdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109690
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4531a3e3cfcfa282d830a26e541d84f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720559,
+            "locality_id":1242989135,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1242989135,
+    "wof:lastmodified":1537699265,
+    "wof:name":"Al Hamdah",
+    "wof:parent_id":1108720559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.45,
+    20.11667000000001,
+    41.45,
+    20.11667000000001
+],
+  "geometry": {"coordinates":[41.45,20.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343550111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.80257,26.11159,45.80257,26.11159",
+    "geom:latitude":26.11159,
+    "geom:longitude":45.80257,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ash Shahmah",
+    "gn:country_code":"SA",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":391673,
+    "gn:latitude":26.11159,
+    "gn:longitude":45.80257,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ash Sha\u1e29mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u062d\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Sha\u1e29mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391673
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0c4b206fc3d2b50b12b084c4f3b0b0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1343550111,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1343550111,
+    "wof:lastmodified":1537699283,
+    "wof:name":"Ash Shahmah",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.80257,
+    26.11159,
+    45.80257,
+    26.11159
+],
+  "geometry": {"coordinates":[45.80257,26.11159],"type":"Point"}
+}

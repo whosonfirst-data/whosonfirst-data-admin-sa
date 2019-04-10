@@ -1,0 +1,77 @@
+{
+  "id": 1209599113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47565,24.80926,46.47565,24.80926",
+    "geom:latitude":24.80926,
+    "geom:longitude":46.47565,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Umm al Kabash",
+    "gn:country_code":"SA",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110630,
+    "gn:latitude":24.80926,
+    "gn:longitude":46.47565,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Umm al Kabash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u0643\u0628\u0634"
+    ],
+    "name:und_x_variant":[
+        "Abul Kab\u0101sh",
+        "\u2018Umm Alkabash",
+        "Ab\u016b al Kib\u0101sh",
+        "Ab\u0101 al Kib\u0101sh",
+        "Umm al Kabash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110630
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"554bb5aeae04874f9aeff7ec6806aa6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720543,
+            "locality_id":1209599113,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209599113,
+    "wof:lastmodified":1548455927,
+    "wof:name":"Umm al Kabash",
+    "wof:parent_id":1108720543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47565,
+    24.80926,
+    46.47565,
+    24.80926
+],
+  "geometry": {"coordinates":[46.47565,24.80926],"type":"Point"}
+}

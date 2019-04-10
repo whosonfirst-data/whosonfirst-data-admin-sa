@@ -1,0 +1,70 @@
+{
+  "id": 1226660713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.97145,18.1162,42.97145,18.1162",
+    "geom:latitude":18.1162,
+    "geom:longitude":42.97145,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al as Sawat",
+    "gn:country_code":"SA",
+    "gn:dem":2249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110016,
+    "gn:latitude":18.1162,
+    "gn:longitude":42.97145,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100l as Saw\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100l as Saw\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110016
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"bdb9de4a54050b69aaafcd66a26dcbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1226660713,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1226660713,
+    "wof:lastmodified":1537699273,
+    "wof:name":"Al as Sawat",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.97145,
+    18.1162,
+    42.97145,
+    18.1162
+],
+  "geometry": {"coordinates":[42.97145,18.1162],"type":"Point"}
+}

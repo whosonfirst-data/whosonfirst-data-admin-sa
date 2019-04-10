@@ -1,0 +1,80 @@
+{
+  "id": 1209298259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4914,25.11876,45.4914,25.11876",
+    "geom:latitude":25.11876,
+    "geom:longitude":45.4914,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tharmada'",
+    "gn:country_code":"SA",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101434,
+    "gn:latitude":25.11876,
+    "gn:longitude":45.4914,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Tharmad\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u0631\u0645\u062f\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Ath Tharmida",
+        "Tharmudah",
+        "Tharmid\u0101",
+        "Tharmidah",
+        "Thamida",
+        "Thurmida",
+        "Tharmad\u0101",
+        "Tharmad\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101434
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"86c0c7134ccb38f2845aca10f8df9727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":1209298259,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209298259,
+    "wof:lastmodified":1548455915,
+    "wof:name":"Tharmada'",
+    "wof:parent_id":1108720657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4914,
+    25.11876,
+    45.4914,
+    25.11876
+],
+  "geometry": {"coordinates":[45.4914,25.11876],"type":"Point"}
+}

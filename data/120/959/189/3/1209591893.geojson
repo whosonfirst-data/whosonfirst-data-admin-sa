@@ -1,0 +1,71 @@
+{
+  "id": 1209591893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.60448,17.33142,42.60448,17.33142",
+    "geom:latitude":17.33142,
+    "geom:longitude":42.60448,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mahla",
+    "gn:country_code":"SA",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104571,
+    "gn:latitude":17.33142,
+    "gn:longitude":42.60448,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Mahl\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malh\u0101",
+        "Mahl\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104571
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"517d61308ea357b68bf7a71ec6d033ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720753,
+            "locality_id":1209591893,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1209591893,
+    "wof:lastmodified":1548455921,
+    "wof:name":"Mahla",
+    "wof:parent_id":1108720753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.60448,
+    17.33142,
+    42.60448,
+    17.33142
+],
+  "geometry": {"coordinates":[42.60448,17.33142],"type":"Point"}
+}

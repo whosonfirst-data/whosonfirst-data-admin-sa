@@ -1,0 +1,74 @@
+{
+  "id": 1310695743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.33833,24.48373,46.33833,24.48373",
+    "geom:latitude":24.48373,
+    "geom:longitude":46.33833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Faysaliyah",
+    "gn:country_code":"SA",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109805,
+    "gn:latitude":24.48373,
+    "gn:longitude":46.33833,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Al Fay\u015fal\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u064a\u0635\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Faisaliyah",
+        "Al Fay\u015fal\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109805
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"386b1f7673013e5c6f78631f90deb375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720621,
+            "locality_id":1310695743,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310695743,
+    "wof:lastmodified":1537699267,
+    "wof:name":"Al Faysaliyah",
+    "wof:parent_id":1108720621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.33833,
+    24.48373,
+    46.33833,
+    24.48373
+],
+  "geometry": {"coordinates":[46.33833,24.48373],"type":"Point"}
+}

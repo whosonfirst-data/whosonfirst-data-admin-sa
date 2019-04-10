@@ -1,0 +1,73 @@
+{
+  "id": 1310115823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.23549,19.77862,42.23549,19.77862",
+    "geom:latitude":19.77862,
+    "geom:longitude":42.23549,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Jallal",
+    "gn:country_code":"SA",
+    "gn:dem":1467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8020222,
+    "gn:latitude":19.77862,
+    "gn:longitude":42.23549,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Jall\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Jall\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8020222
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e9ea64a0f9ebf4217a1f3efd22a4fc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720681,
+            "locality_id":1310115823,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1310115823,
+    "wof:lastmodified":1537699344,
+    "wof:name":"Jallal",
+    "wof:parent_id":1108720681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.23549000000001,
+    19.77862,
+    42.23549000000001,
+    19.77862
+],
+  "geometry": {"coordinates":[42.23549000000001,19.77862],"type":"Point"}
+}

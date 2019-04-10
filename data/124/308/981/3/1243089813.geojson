@@ -1,0 +1,73 @@
+{
+  "id": 1243089813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23449,25.99125,43.23449,25.99125",
+    "geom:latitude":25.99125,
+    "geom:longitude":43.23449,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"As Sayh",
+    "gn:country_code":"SA",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396449,
+    "gn:latitude":25.99125,
+    "gn:longitude":43.23449,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"As Say\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0651\u064e\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "As Say\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396449
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a0ef58665c0ca80d9b32809900560cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720749,
+            "locality_id":1243089813,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1243089813,
+    "wof:lastmodified":1537699308,
+    "wof:name":"As Sayh",
+    "wof:parent_id":1108720749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23449,
+    25.99125,
+    43.23449,
+    25.99125
+],
+  "geometry": {"coordinates":[43.23449,25.99125],"type":"Point"}
+}

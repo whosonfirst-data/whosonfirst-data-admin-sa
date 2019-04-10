@@ -1,0 +1,77 @@
+{
+  "id": 1259863207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.95464,25.28761,45.95464,25.28761",
+    "geom:latitude":25.28761,
+    "geom:longitude":45.95464,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Bir",
+    "gn:country_code":"SA",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109892,
+    "gn:latitude":25.28761,
+    "gn:longitude":45.95464,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al B\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al B\u012br"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "B\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109892,
+        "wk:page":"Al_Bir"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9dc2bcbea08292b4273073fe67c6daa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720775,
+            "locality_id":1259863207,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1259863207,
+    "wof:lastmodified":1537699269,
+    "wof:name":"Al Bir",
+    "wof:parent_id":1108720775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.95464000000001,
+    25.28761,
+    45.95464000000001,
+    25.28761
+],
+  "geometry": {"coordinates":[45.95464000000001,25.28761],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344233261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.19516,17.61908,42.19516,17.61908",
+    "geom:latitude":17.61908,
+    "geom:longitude":42.19516,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"`Itwad",
+    "gn:country_code":"SA",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":105561,
+    "gn:latitude":17.61908,
+    "gn:longitude":42.19516,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Itwad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u062a\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Itwad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":105561
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"addf4af902c8b3d2ce735809ebb82142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720631,
+            "locality_id":1344233261,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1344233261,
+    "wof:lastmodified":1537699206,
+    "wof:name":"`Itwad",
+    "wof:parent_id":1108720631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.19516,
+    17.61908,
+    42.19516,
+    17.61908
+],
+  "geometry": {"coordinates":[42.19516,17.61908],"type":"Point"}
+}

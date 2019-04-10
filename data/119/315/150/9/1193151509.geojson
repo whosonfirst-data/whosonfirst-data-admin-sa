@@ -1,0 +1,70 @@
+{
+  "id": 1193151509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.13333,18.0,43.13333,18.0",
+    "geom:latitude":18.0,
+    "geom:longitude":43.13333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Farhan",
+    "gn:country_code":"SA",
+    "gn:dem":2385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109832,
+    "gn:latitude":18.0,
+    "gn:longitude":43.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100l Far\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100l Far\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109832
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"aeb3b4e3ee679837c9e94e8d1f4f8aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720761,
+            "locality_id":1193151509,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1193151509,
+    "wof:lastmodified":1537699268,
+    "wof:name":"Al Farhan",
+    "wof:parent_id":1108720761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13333,
+    18.0,
+    43.13333,
+    18.0
+],
+  "geometry": {"coordinates":[43.13333,18.0],"type":"Point"}
+}

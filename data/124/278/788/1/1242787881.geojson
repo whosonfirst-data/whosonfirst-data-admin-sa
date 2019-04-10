@@ -1,0 +1,74 @@
+{
+  "id": 1242787881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15091,26.86382,44.15091,26.86382",
+    "geom:latitude":26.86382,
+    "geom:longitude":44.15091,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Burud",
+    "gn:country_code":"SA",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109925,
+    "gn:latitude":26.86382,
+    "gn:longitude":44.15091,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al Bur\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064f\u0631\u064f\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Al Bar\u016bd",
+        "Al Bur\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109925
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2c47f47a913215977e880b9c7aae4528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720563,
+            "locality_id":1242787881,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1242787881,
+    "wof:lastmodified":1537699270,
+    "wof:name":"Al Burud",
+    "wof:parent_id":1108720563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15091,
+    26.86382,
+    44.15091,
+    26.86382
+],
+  "geometry": {"coordinates":[44.15091,26.86382],"type":"Point"}
+}

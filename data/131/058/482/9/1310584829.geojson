@@ -1,0 +1,77 @@
+{
+  "id": 1310584829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.39698,25.16685,45.39698,25.16685",
+    "geom:latitude":25.16685,
+    "geom:longitude":45.39698,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Uthaythiyah",
+    "gn:country_code":"SA",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100635,
+    "gn:latitude":25.16685,
+    "gn:longitude":45.39698,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Uthaythiyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u062b\u064a\u062b\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Uthaith\u012bya",
+        "Wuthaithiya",
+        "Wuthayth\u012byah",
+        "Wathaithiyah",
+        "Uthaythiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100635
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b6f74dbb3602346112ec574b158d4c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":1310584829,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310584829,
+    "wof:lastmodified":1537699164,
+    "wof:name":"Uthaythiyah",
+    "wof:parent_id":1108720657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.39698,
+    25.16685,
+    45.39698,
+    25.16685
+],
+  "geometry": {"coordinates":[45.39698,25.16685],"type":"Point"}
+}

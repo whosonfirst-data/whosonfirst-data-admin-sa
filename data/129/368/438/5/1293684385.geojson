@@ -1,0 +1,70 @@
+{
+  "id": 1293684385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.9,26.13333,49.9,26.13333",
+    "geom:latitude":26.13333,
+    "geom:longitude":49.9,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ghunan",
+    "gn:country_code":"SA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106435,
+    "gn:latitude":26.13333,
+    "gn:longitude":49.9,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ghun\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ghun\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106435
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"231c9ca0ab90e74047a82f4e208bb854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720685,
+            "locality_id":1293684385,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1293684385,
+    "wof:lastmodified":1537699214,
+    "wof:name":"Ghunan",
+    "wof:parent_id":1108720685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.9,
+    26.13333,
+    49.9,
+    26.13333
+],
+  "geometry": {"coordinates":[49.9,26.13333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276453345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.19649,29.91542,40.19649,29.91542",
+    "geom:latitude":29.91542,
+    "geom:longitude":40.19649,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"At Tuwayr",
+    "gn:country_code":"SA",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107919,
+    "gn:latitude":29.91542,
+    "gn:longitude":40.19649,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"A\u0163 \u0162uwayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tuwair",
+        "At Tuwair",
+        "A\u1e6d-\u1e6cw\u00ear",
+        "A\u1e6d-\u1e6cj\u00ear",
+        "A\u0163 \u0162uwayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107919
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5d47121277c32073b3c67d63ed15d530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720757,
+            "locality_id":1276453345,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1276453345,
+    "wof:lastmodified":1537699226,
+    "wof:name":"At Tuwayr",
+    "wof:parent_id":1108720757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.19649,
+    29.91542,
+    40.19649,
+    29.91542
+],
+  "geometry": {"coordinates":[40.19649,29.91542],"type":"Point"}
+}

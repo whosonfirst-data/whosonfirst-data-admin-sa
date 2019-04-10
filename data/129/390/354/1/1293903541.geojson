@@ -1,0 +1,78 @@
+{
+  "id": 1293903541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31298,26.20468,44.31298,26.20468",
+    "geom:latitude":26.20468,
+    "geom:longitude":44.31298,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Barjasiyah",
+    "gn:country_code":"SA",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107553,
+    "gn:latitude":26.20468,
+    "gn:longitude":44.31298,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al Barjas\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064e\u0631\u062c\u064e\u0633\u0650\u064a\u0651\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Birj\u012bs\u012byah",
+        "Barjisiyya",
+        "Barj\u012bs\u012byah",
+        "Al Barjas\u012byah",
+        "Duwaihara",
+        "Ad Duway\u1e29irah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107553
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"355b9acc039e603f615cdc8930c28f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720659,
+            "locality_id":1293903541,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1293903541,
+    "wof:lastmodified":1537699222,
+    "wof:name":"Al Barjasiyah",
+    "wof:parent_id":1108720659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31298,
+    26.20468,
+    44.31298,
+    26.20468
+],
+  "geometry": {"coordinates":[44.31298,26.20468],"type":"Point"}
+}

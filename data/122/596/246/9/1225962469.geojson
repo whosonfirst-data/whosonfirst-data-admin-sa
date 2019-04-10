@@ -1,0 +1,70 @@
+{
+  "id": 1225962469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.87681,30.79038,37.87681,30.79038",
+    "geom:latitude":30.79038,
+    "geom:longitude":37.87681,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Fiyad Qulayyib Khudr",
+    "gn:country_code":"SA",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":392725,
+    "gn:latitude":30.79038,
+    "gn:longitude":37.87681,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fiy\u0101\u1e11 Qulayyib Khu\u1e11r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fiy\u0101\u1e11 Qulayyib Khu\u1e11r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392725
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"271743a9e94d2e735b3a83d7ed3e95c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720635,
+            "locality_id":1225962469,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1225962469,
+    "wof:lastmodified":1537699287,
+    "wof:name":"Fiyad Qulayyib Khudr",
+    "wof:parent_id":1108720635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.87681,
+    30.79038,
+    37.87681,
+    30.79038
+],
+  "geometry": {"coordinates":[37.87681,30.79038],"type":"Point"}
+}

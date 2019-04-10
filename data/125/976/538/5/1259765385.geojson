@@ -1,0 +1,70 @@
+{
+  "id": 1259765385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.12801,18.85984,51.12801,18.85984",
+    "geom:latitude":18.85984,
+    "geom:longitude":51.12801,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Al Kharkhayr",
+    "gn:country_code":"SA",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498509,
+    "gn:latitude":18.85984,
+    "gn:longitude":51.12801,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Al Kharkhayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062e\u064a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676809,
+        1108720597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498509
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"00c61b172a229a97743aba3be051567e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720597,
+            "locality_id":1259765385,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":1259765385,
+    "wof:lastmodified":1537699347,
+    "wof:name":"Al Kharkhayr",
+    "wof:parent_id":1108720597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.12801,
+    18.85984,
+    51.12801,
+    18.85984
+],
+  "geometry": {"coordinates":[51.12801,18.85984],"type":"Point"}
+}

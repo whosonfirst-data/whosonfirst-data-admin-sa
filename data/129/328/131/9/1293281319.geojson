@@ -1,0 +1,71 @@
+{
+  "id": 1293281319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.52239,24.80396,46.52239,24.80396",
+    "geom:latitude":24.80396,
+    "geom:longitude":46.52239,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Mughaydir",
+    "gn:country_code":"SA",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109093,
+    "gn:latitude":24.80396,
+    "gn:longitude":46.52239,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mughaydir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mugheidir",
+        "Al Mughaydir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109093
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e1c2577180e7bc0e43a34c3ca083796f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720543,
+            "locality_id":1293281319,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1293281319,
+    "wof:lastmodified":1537699251,
+    "wof:name":"Al Mughaydir",
+    "wof:parent_id":1108720543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.52239,
+    24.80396,
+    46.52239,
+    24.80396
+],
+  "geometry": {"coordinates":[46.52239,24.80396],"type":"Point"}
+}

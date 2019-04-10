@@ -1,0 +1,70 @@
+{
+  "id": 1242839245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.24126,30.04868,40.24126,30.04868",
+    "geom:latitude":30.04868,
+    "geom:longitude":40.24126,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Al Qal`ah",
+    "gn:country_code":"SA",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":392911,
+    "gn:latitude":30.04868,
+    "gn:longitude":40.24126,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qal\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392911
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"694829ecfca2f285f5a5fb8a67ec56d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720757,
+            "locality_id":1242839245,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1242839245,
+    "wof:lastmodified":1537699288,
+    "wof:name":"Al Qal`ah",
+    "wof:parent_id":1108720757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.24126,
+    30.04868,
+    40.24126,
+    30.04868
+],
+  "geometry": {"coordinates":[40.24126,30.04868],"type":"Point"}
+}

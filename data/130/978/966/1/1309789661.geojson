@@ -1,0 +1,74 @@
+{
+  "id": 1309789661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71667,22.28333,46.71667,22.28333",
+    "geom:latitude":22.28333,
+    "geom:longitude":46.71667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Jufaydiriyah",
+    "gn:country_code":"SA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109427,
+    "gn:latitude":22.28333,
+    "gn:longitude":46.71667,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Jufaydir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jafaidr\u012byah",
+        "Al Djufaydiriyya",
+        "Jufaidariya",
+        "Jufaydir\u012byah",
+        "Al Jufaydir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109427
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d3c433812ed7351a2ff6b9b50cb009a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720553,
+            "locality_id":1309789661,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1309789661,
+    "wof:lastmodified":1537699259,
+    "wof:name":"Al Jufaydiriyah",
+    "wof:parent_id":1108720553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71667,
+    22.28333,
+    46.71667,
+    22.28333
+],
+  "geometry": {"coordinates":[46.71667,22.28333],"type":"Point"}
+}

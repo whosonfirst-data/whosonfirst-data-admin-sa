@@ -1,0 +1,74 @@
+{
+  "id": 1243576351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.4,24.61667,51.4,24.61667",
+    "geom:latitude":24.61667,
+    "geom:longitude":51.4,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al `Udayd",
+    "gn:country_code":"SA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":292758,
+    "gn:latitude":24.61667,
+    "gn:longitude":51.4,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Al \u2018Udayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2019Odaid",
+        "Al-\u2019Udaid",
+        "Al Odeid",
+        "Al-\u2018Udeid",
+        "Al \u2018Udayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":292758
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"714c58e0bc71a56c3c423976ca272e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1243576351,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1243576351,
+    "wof:lastmodified":1537699281,
+    "wof:name":"Al `Udayd",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.4,
+    24.61667000000001,
+    51.4,
+    24.61667000000001
+],
+  "geometry": {"coordinates":[51.4,24.61667000000001],"type":"Point"}
+}

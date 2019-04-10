@@ -1,0 +1,70 @@
+{
+  "id": 1226528575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.92457,28.25849,42.92457,28.25849",
+    "geom:latitude":28.25849,
+    "geom:longitude":42.92457,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Turubah",
+    "gn:country_code":"SA",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393275,
+    "gn:latitude":28.25849,
+    "gn:longitude":42.92457,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Turubah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393275
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8a2d4149caec756463ffc56159d293a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720675,
+            "locality_id":1226528575,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1226528575,
+    "wof:lastmodified":1537699290,
+    "wof:name":"Turubah",
+    "wof:parent_id":1108720675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.92457,
+    28.25849,
+    42.92457,
+    28.25849
+],
+  "geometry": {"coordinates":[42.92457,28.25849],"type":"Point"}
+}

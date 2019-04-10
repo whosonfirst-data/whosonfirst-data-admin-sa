@@ -1,0 +1,70 @@
+{
+  "id": 1259597823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9,26.28333,43.9,26.28333",
+    "geom:latitude":26.28333,
+    "geom:longitude":43.9,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Nakhalat",
+    "gn:country_code":"SA",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103620,
+    "gn:latitude":26.28333,
+    "gn:longitude":43.9,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Nakhalat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103620
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2d26dc176af64e738b67abc4f191870c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":1259597823,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1259597823,
+    "wof:lastmodified":1548452888,
+    "wof:name":"Nakhalat",
+    "wof:parent_id":1108720687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361026173
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9,
+    26.28333,
+    43.9,
+    26.28333
+],
+  "geometry": {"coordinates":[43.9,26.28333],"type":"Point"}
+}

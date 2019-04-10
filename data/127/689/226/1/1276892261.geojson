@@ -1,0 +1,71 @@
+{
+  "id": 1276892261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.60771,17.27137,42.60771,17.27137",
+    "geom:latitude":17.27137,
+    "geom:longitude":42.60771,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Abu al Qa`a'id",
+    "gn:country_code":"SA",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110625,
+    "gn:latitude":17.27137,
+    "gn:longitude":42.60771,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ab\u016b al Qa\u2018\u0101\u2019id",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b al Qa\u2018\u0101yid",
+        "Ab\u016b al Qa\u2018\u0101\u2019id"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110625
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1adfb5636414fde09a1136c3158073bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720753,
+            "locality_id":1276892261,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1276892261,
+    "wof:lastmodified":1537699280,
+    "wof:name":"Abu al Qa`a'id",
+    "wof:parent_id":1108720753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.60771,
+    17.27137,
+    42.60771,
+    17.27137
+],
+  "geometry": {"coordinates":[42.60771,17.27137],"type":"Point"}
+}

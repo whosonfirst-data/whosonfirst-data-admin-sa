@@ -1,0 +1,70 @@
+{
+  "id": 1260303971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2,17.98333,43.2,17.98333",
+    "geom:latitude":17.98333,
+    "geom:longitude":43.2,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Zarib",
+    "gn:country_code":"SA",
+    "gn:dem":2331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108734,
+    "gn:latitude":17.98333,
+    "gn:longitude":43.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100l Z\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0100l Z\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108734
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6ea865ffbb859e2bd4750b32714bf7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720761,
+            "locality_id":1260303971,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1260303971,
+    "wof:lastmodified":1537699240,
+    "wof:name":"Al Zarib",
+    "wof:parent_id":1108720761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2,
+    17.98333,
+    43.2,
+    17.98333
+],
+  "geometry": {"coordinates":[43.2,17.98333],"type":"Point"}
+}

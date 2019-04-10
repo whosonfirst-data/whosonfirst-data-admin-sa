@@ -1,0 +1,75 @@
+{
+  "id": 1343463595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.62095,23.32196,39.62095,23.32196",
+    "geom:latitude":23.32196,
+    "geom:longitude":39.62095,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Al Madiq",
+    "gn:country_code":"SA",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109221,
+    "gn:latitude":23.32196,
+    "gn:longitude":39.62095,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ma\u1e11\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Ma\u1e11\u012bq",
+        "Madhiq",
+        "Al Madh\u012bq",
+        "Ma\u1e11\u012bq",
+        "Al Ma\u1e11\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109221,
+        "wk:page":"Al_Madiq%2C_Al_Madinah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3a65a0620922304de7c07b29af7bdca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1343463595,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1343463595,
+    "wof:lastmodified":1537699254,
+    "wof:name":"Al Madiq",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.62095,
+    23.32196,
+    39.62095,
+    23.32196
+],
+  "geometry": {"coordinates":[39.62095,23.32196],"type":"Point"}
+}

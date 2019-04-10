@@ -1,0 +1,76 @@
+{
+  "id": 1361026037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.55,18.2,42.55,18.2",
+    "geom:latitude":18.2,
+    "geom:longitude":42.55,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Hisn al Adshfar",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":2197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109591,
+    "gn:latitude":18.2,
+    "gn:longitude":42.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u1e28i\u015fn al Adshfar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Al Husn al Adshfar",
+        "Al \u1e28i\u015fn al Adshfar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676851,
+        102191569,
+        85632253,
+        1310719937,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109591
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"bc9557acd143f48e967bbea9a1fb4dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1310719937,
+            "neighbourhood_id":1361026037,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1361026037,
+    "wof:lastmodified":1548452892,
+    "wof:name":"Al Hisn al Adshfar",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310719937
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.55,
+    18.2,
+    42.55,
+    18.2
+],
+  "geometry": {"coordinates":[42.55,18.2],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243569009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.75,19.13333,41.75,19.13333",
+    "geom:latitude":19.13333,
+    "geom:longitude":41.75,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Suq al Khamis",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101719,
+    "gn:latitude":19.13333,
+    "gn:longitude":41.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bq al Kham\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suk Khamis",
+        "Suk-el-Khamis",
+        "S\u016bq al Kham\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101719
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d1f9f9d67ecdbdbcc10c3f5eadc13616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720609,
+            "locality_id":1243569009,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1243569009,
+    "wof:lastmodified":1537699173,
+    "wof:name":"Suq al Khamis",
+    "wof:parent_id":1108720609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.75,
+    19.13333,
+    41.75,
+    19.13333
+],
+  "geometry": {"coordinates":[41.75,19.13333],"type":"Point"}
+}

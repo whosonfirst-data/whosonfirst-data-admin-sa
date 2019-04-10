@@ -1,0 +1,70 @@
+{
+  "id": 1226723753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6997,21.60452,39.6997,21.60452",
+    "geom:latitude":21.60452,
+    "geom:longitude":39.6997,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Umm Hamla",
+    "gn:country_code":"SA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100991,
+    "gn:latitude":21.60452,
+    "gn:longitude":39.6997,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm Haml\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Haml\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100991
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d128949b8b7f0d29a291726083d7b5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720587,
+            "locality_id":1226723753,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1226723753,
+    "wof:lastmodified":1537699167,
+    "wof:name":"Umm Hamla",
+    "wof:parent_id":1108720587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6997,
+    21.60452,
+    39.6997,
+    21.60452
+],
+  "geometry": {"coordinates":[39.6997,21.60452],"type":"Point"}
+}

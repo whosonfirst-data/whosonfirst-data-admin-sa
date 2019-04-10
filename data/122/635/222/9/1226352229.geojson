@@ -1,0 +1,70 @@
+{
+  "id": 1226352229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90083,17.76389,43.90083,17.76389",
+    "geom:latitude":17.76389,
+    "geom:longitude":43.90083,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Umm al Hawd",
+    "gn:country_code":"SA",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101125,
+    "gn:latitude":17.76389,
+    "gn:longitude":43.90083,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm al \u1e28aw\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm al \u1e28aw\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676809,
+        1108720709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101125
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9dccb73fae84845d524bd56da982cca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720709,
+            "locality_id":1226352229,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":1226352229,
+    "wof:lastmodified":1537699168,
+    "wof:name":"Umm al Hawd",
+    "wof:parent_id":1108720709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90083,
+    17.76389,
+    43.90083,
+    17.76389
+],
+  "geometry": {"coordinates":[43.90083,17.76389],"type":"Point"}
+}

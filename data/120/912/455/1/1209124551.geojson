@@ -1,0 +1,70 @@
+{
+  "id": 1209124551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.97281,16.71878,42.97281,16.71878",
+    "geom:latitude":16.71878,
+    "geom:longitude":42.97281,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Baytariyah",
+    "gn:country_code":"SA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107466,
+    "gn:latitude":16.71878,
+    "gn:longitude":42.97281,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Bay\u0163\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bay\u0163\u0101r\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107466
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"41b34727e7a1b00801c1b1674db73173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720549,
+            "locality_id":1209124551,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1209124551,
+    "wof:lastmodified":1548455907,
+    "wof:name":"Baytariyah",
+    "wof:parent_id":1108720549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.97281,
+    16.71878,
+    42.97281,
+    16.71878
+],
+  "geometry": {"coordinates":[42.97281,16.71878],"type":"Point"}
+}

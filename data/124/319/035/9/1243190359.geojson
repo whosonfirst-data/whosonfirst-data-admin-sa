@@ -1,0 +1,75 @@
+{
+  "id": 1243190359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.9419,17.23337,42.9419,17.23337",
+    "geom:latitude":17.23337,
+    "geom:longitude":42.9419,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al `Aydabi",
+    "gn:country_code":"SA",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110281,
+    "gn:latitude":17.23337,
+    "gn:longitude":42.9419,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al \u2018Ayd\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u062f\u0627\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "A\u2018dabi",
+        "A\u2018dhab\u012b",
+        "Al \u2018Ayd\u0101b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110281
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b9809bb3a721bd05daee164d0ada359d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720583,
+            "locality_id":1243190359,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1243190359,
+    "wof:lastmodified":1537699276,
+    "wof:name":"Al `Aydabi",
+    "wof:parent_id":1108720583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.9419,
+    17.23337,
+    42.9419,
+    17.23337
+],
+  "geometry": {"coordinates":[42.9419,17.23337],"type":"Point"}
+}

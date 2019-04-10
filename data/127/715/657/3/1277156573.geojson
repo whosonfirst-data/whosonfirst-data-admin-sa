@@ -1,0 +1,73 @@
+{
+  "id": 1277156573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.31981,27.02366,41.31981,27.02366",
+    "geom:latitude":27.02366,
+    "geom:longitude":41.31981,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Huwaydi",
+    "gn:country_code":"SA",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395888,
+    "gn:latitude":27.02366,
+    "gn:longitude":41.31981,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Huwayd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0648\u064a\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Huwayd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395888
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9cb7b591dd9930315d777ad112c11344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720573,
+            "locality_id":1277156573,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1277156573,
+    "wof:lastmodified":1537699303,
+    "wof:name":"Al Huwaydi",
+    "wof:parent_id":1108720573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.31981,
+    27.02366,
+    41.31981,
+    27.02366
+],
+  "geometry": {"coordinates":[41.31981,27.02366],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260281297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.93966,21.98417,50.93966,21.98417",
+    "geom:latitude":21.98417,
+    "geom:longitude":50.93966,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al `Ubaylah",
+    "gn:country_code":"SA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108855,
+    "gn:latitude":21.98417,
+    "gn:longitude":50.93966,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Al \u2018Ubaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0628\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ubaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108855
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e85b2473424a6efac5a0c59f4501d483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1260281297,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1260281297,
+    "wof:lastmodified":1537699244,
+    "wof:name":"Al `Ubaylah",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.93966,
+    21.98417,
+    50.93966,
+    21.98417
+],
+  "geometry": {"coordinates":[50.93966,21.98417],"type":"Point"}
+}

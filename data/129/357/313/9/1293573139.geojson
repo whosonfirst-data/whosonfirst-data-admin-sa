@@ -1,0 +1,70 @@
+{
+  "id": 1293573139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02823,24.06394,45.02823,24.06394",
+    "geom:latitude":24.06394,
+    "geom:longitude":45.02823,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Qaltah",
+    "gn:country_code":"SA",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396605,
+    "gn:latitude":24.06394,
+    "gn:longitude":45.02823,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al Qaltah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0644\u062a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396605
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c60d6853f62ea2c8a9ac3d5edf8ee6db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1293573139,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1293573139,
+    "wof:lastmodified":1537699310,
+    "wof:name":"Al Qaltah",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02823,
+    24.06394,
+    45.02823,
+    24.06394
+],
+  "geometry": {"coordinates":[45.02823,24.06394],"type":"Point"}
+}

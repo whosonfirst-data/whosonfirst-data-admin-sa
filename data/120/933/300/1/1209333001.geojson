@@ -1,0 +1,74 @@
+{
+  "id": 1209333001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62601,31.08098,37.62601,31.08098",
+    "geom:latitude":31.08098,
+    "geom:longitude":37.62601,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"An Nasifah",
+    "gn:country_code":"SA",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391924,
+    "gn:latitude":31.08098,
+    "gn:longitude":37.62601,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An N\u0101\u015fifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0635\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "An N\u0101\u015ffah",
+        "An N\u0101\u015fifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391924
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c2beb190b5f9f49e23cc6e8db8942117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720635,
+            "locality_id":1209333001,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1209333001,
+    "wof:lastmodified":1548455911,
+    "wof:name":"An Nasifah",
+    "wof:parent_id":1108720635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62601,
+    31.08098,
+    37.62601,
+    31.08098
+],
+  "geometry": {"coordinates":[37.62601,31.08098],"type":"Point"}
+}

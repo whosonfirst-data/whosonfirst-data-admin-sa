@@ -1,0 +1,73 @@
+{
+  "id": 1293198179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33583,26.80728,48.33583,26.80728",
+    "geom:latitude":26.80728,
+    "geom:longitude":48.33583,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al `Uyaynah",
+    "gn:country_code":"SA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392284,
+    "gn:latitude":26.80728,
+    "gn:longitude":48.33583,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al \u2018Uyaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Uyaynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392284
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"28de492036b57edf7f058d3d61abfbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720623,
+            "locality_id":1293198179,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1293198179,
+    "wof:lastmodified":1537699286,
+    "wof:name":"Al `Uyaynah",
+    "wof:parent_id":1108720623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33583,
+    26.80728,
+    48.33583,
+    26.80728
+],
+  "geometry": {"coordinates":[48.33583,26.80728],"type":"Point"}
+}

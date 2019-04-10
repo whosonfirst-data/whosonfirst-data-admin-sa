@@ -1,0 +1,73 @@
+{
+  "id": 1209530207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3333,28.46303,44.3333,28.46303",
+    "geom:latitude":28.46303,
+    "geom:longitude":44.3333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Hadaqah",
+    "gn:country_code":"SA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393662,
+    "gn:latitude":28.46303,
+    "gn:longitude":44.3333,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Al \u1e28adaqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28adaqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393662
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f1f93ff1fce1358c9f7bca786de5e76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720741,
+            "locality_id":1209530207,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1209530207,
+    "wof:lastmodified":1548455920,
+    "wof:name":"Al Hadaqah",
+    "wof:parent_id":1108720741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3333,
+    28.46303,
+    44.3333,
+    28.46303
+],
+  "geometry": {"coordinates":[44.3333,28.46303],"type":"Point"}
+}

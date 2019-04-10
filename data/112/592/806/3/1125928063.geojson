@@ -1,0 +1,103 @@
+{
+  "id": 1125928063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.94331,26.56324,49.94331,26.56324",
+    "geom:latitude":26.56324,
+    "geom:longitude":49.94331,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11460,
+    "gn:population":11460,
+    "iso:country":"SA",
+    "lbl:latitude":26.56324,
+    "lbl:longitude":49.94331,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Al Awj\u0101m"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Awjam"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Awjam"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Awjam"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0627\u0648\u062c\u0627\u0645"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0410\u0432\u0434\u0436\u0430\u043c"
+    ],
+    "name:tur_x_preferred":[
+        "El Evcem"
+    ],
+    "name:unk_x_variant":[
+        "El Ajam"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":110107,
+    "qs_pg:gn_pop":11460,
+    "qs_pg:name":"Al Awj\u0101m",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":66562,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110107,
+        "qs_pg:id":66562,
+        "wd:id":"Q4164621"
+    },
+    "wof:country":"SA",
+    "wof:created":1497296713,
+    "wof:geomhash":"71579ad11feb41b0a31355d6e15eeac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1125928063,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1125928063,
+    "wof:lastmodified":1514504327,
+    "wof:name":"Al Awj\u0101m",
+    "wof:parent_id":1108720627,
+    "wof:placetype":"locality",
+    "wof:population":11460,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.94331,
+    26.56324,
+    49.94331,
+    26.56324
+],
+  "geometry": {"coordinates":[49.94331,26.56324],"type":"Point"}
+}

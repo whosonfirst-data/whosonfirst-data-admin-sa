@@ -1,0 +1,72 @@
+{
+  "id": 1276798989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.22835,23.43156,39.22835,23.43156",
+    "geom:latitude":23.43156,
+    "geom:longitude":39.22835,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Umm al Birak",
+    "gn:country_code":"SA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101145,
+    "gn:latitude":23.43156,
+    "gn:longitude":39.22835,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm al Birak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm el Birak",
+        "Umm Birak",
+        "Umm al Birak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101145
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"bda96bc0b6960cab8922294ea48e98e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720671,
+            "locality_id":1276798989,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1276798989,
+    "wof:lastmodified":1537699168,
+    "wof:name":"Umm al Birak",
+    "wof:parent_id":1108720671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.22835,
+    23.43156,
+    39.22835,
+    23.43156
+],
+  "geometry": {"coordinates":[39.22835,23.43156],"type":"Point"}
+}

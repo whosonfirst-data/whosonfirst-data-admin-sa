@@ -1,0 +1,73 @@
+{
+  "id": 1343468899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98814,18.04649,43.98814,18.04649",
+    "geom:latitude":18.04649,
+    "geom:longitude":43.98814,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Al Ghafiyah",
+    "gn:country_code":"SA",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019516,
+    "gn:latitude":18.04649,
+    "gn:longitude":43.98814,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Al Gh\u0101f\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0627\u0641\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Gh\u0101f\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676809,
+        1108720777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019516
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2a816afb8324a1716a64165f00f2cff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720777,
+            "locality_id":1343468899,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":1343468899,
+    "wof:lastmodified":1537699343,
+    "wof:name":"Al Ghafiyah",
+    "wof:parent_id":1108720777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98814,
+    18.04649,
+    43.98814,
+    18.04649
+],
+  "geometry": {"coordinates":[43.98814,18.04649],"type":"Point"}
+}

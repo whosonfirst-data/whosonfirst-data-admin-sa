@@ -1,0 +1,70 @@
+{
+  "id": 1277050001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.11694,30.06278,40.11694,30.06278",
+    "geom:latitude":30.06278,
+    "geom:longitude":40.11694,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Ad Dab`iyah",
+    "gn:country_code":"SA",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":392931,
+    "gn:latitude":30.06278,
+    "gn:longitude":40.11694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u1e11 \u1e10ab\u2018\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10ab\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392931
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"29947f50ec600ef71a134ef26be2848d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720757,
+            "locality_id":1277050001,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1277050001,
+    "wof:lastmodified":1537699288,
+    "wof:name":"Ad Dab`iyah",
+    "wof:parent_id":1108720757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.11694,
+    30.06278,
+    40.11694,
+    30.06278
+],
+  "geometry": {"coordinates":[40.11694,30.06278],"type":"Point"}
+}

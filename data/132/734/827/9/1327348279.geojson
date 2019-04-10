@@ -1,0 +1,67 @@
+{
+  "id": 1327348279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.8,18.06667,42.8,18.06667",
+    "geom:latitude":18.06667,
+    "geom:longitude":42.8,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Bathah",
+    "gn:country_code":"SA",
+    "gn:dem":2268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109919,
+    "gn:latitude":18.06667,
+    "gn:longitude":42.8,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Bathah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109919
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"195d18932d28d34f58b0b8a53fb0b8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1327348279,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1327348279,
+    "wof:lastmodified":1536802222,
+    "wof:name":"Al Bathah",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.8,
+    18.06667,
+    42.8,
+    18.06667
+],
+  "geometry": {"coordinates":[42.8,18.06667],"type":"Point"}
+}

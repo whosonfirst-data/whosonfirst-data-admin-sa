@@ -1,0 +1,70 @@
+{
+  "id": 1310478125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.54635,27.01195,41.54635,27.01195",
+    "geom:latitude":27.01195,
+    "geom:longitude":41.54635,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Muwaykir",
+    "gn:country_code":"SA",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394837,
+    "gn:latitude":27.01195,
+    "gn:longitude":41.54635,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Muwaykir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u064a\u0643\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394837
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"cad8506342d3e66b5f2073395be18cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1310478125,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1310478125,
+    "wof:lastmodified":1537699292,
+    "wof:name":"Al Muwaykir",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.54635,
+    27.01195,
+    41.54635,
+    27.01195
+],
+  "geometry": {"coordinates":[41.54635,27.01195],"type":"Point"}
+}

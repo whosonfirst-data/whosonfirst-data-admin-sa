@@ -1,0 +1,72 @@
+{
+  "id": 1310519815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.7664,20.26711,42.7664,20.26711",
+    "geom:latitude":20.26711,
+    "geom:longitude":42.7664,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Naji`ah",
+    "gn:country_code":"SA",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103639,
+    "gn:latitude":20.26711,
+    "gn:longitude":42.7664,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u0101ji\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naji\u2018a",
+        "Naji",
+        "N\u0101ji\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103639
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a763ce3385bee63d1ed9a1c4b90bec9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720681,
+            "locality_id":1310519815,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1310519815,
+    "wof:lastmodified":1537699191,
+    "wof:name":"Naji`ah",
+    "wof:parent_id":1108720681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.7664,
+    20.26711,
+    42.7664,
+    20.26711
+],
+  "geometry": {"coordinates":[42.7664,20.26711],"type":"Point"}
+}

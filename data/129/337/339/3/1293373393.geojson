@@ -1,0 +1,74 @@
+{
+  "id": 1293373393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.99188,21.98295,39.99188,21.98295",
+    "geom:latitude":21.98295,
+    "geom:longitude":39.99188,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Madrakah",
+    "gn:country_code":"SA",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104622,
+    "gn:latitude":21.98295,
+    "gn:longitude":39.99188,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Madrakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Madrakah",
+        "Madraqah",
+        "Madraqa",
+        "Madrakah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104622,
+        "wk:page":"Madrakah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9e8520e755a24f933cb2adf6f5ee0d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720587,
+            "locality_id":1293373393,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1293373393,
+    "wof:lastmodified":1537699198,
+    "wof:name":"Madrakah",
+    "wof:parent_id":1108720587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.99188,
+    21.98295,
+    39.99188,
+    21.98295
+],
+  "geometry": {"coordinates":[39.99188,21.98295],"type":"Point"}
+}

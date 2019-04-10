@@ -1,0 +1,65 @@
+{
+  "id": 1209229489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4,20.8,39.4,20.8",
+    "geom:latitude":20.8,
+    "geom:longitude":39.4,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Maqta` ar Rujmah",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104387,
+    "gn:latitude":20.8,
+    "gn:longitude":39.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Maq\u0163a\u2018 ar Rujmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maqta\u2018 ar Rijma",
+        "Maq\u0163a\u2018 ar Rujmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104387
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7faec19af23bcefeae760b9f34a43604",
+    "wof:hierarchy":[
+        {
+            "country_id":85632253,
+            "locality_id":1209229489
+        }
+    ],
+    "wof:id":1209229489,
+    "wof:lastmodified":1537699196,
+    "wof:name":"Maqta` ar Rujmah",
+    "wof:parent_id":85632253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4,
+    20.8,
+    39.4,
+    20.8
+],
+  "geometry": {"coordinates":[39.4,20.8],"type":"Point"}
+}

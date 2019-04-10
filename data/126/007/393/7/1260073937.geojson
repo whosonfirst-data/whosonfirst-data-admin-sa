@@ -1,0 +1,73 @@
+{
+  "id": 1260073937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26819,26.63928,45.26819,26.63928",
+    "geom:latitude":26.63928,
+    "geom:longitude":45.26819,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"As Suhaymi",
+    "gn:country_code":"SA",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392259,
+    "gn:latitude":26.63928,
+    "gn:longitude":45.26819,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"As Su\u1e29aym\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u062d\u064a\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "As Su\u1e29aym\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392259
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1b0ffd6e7f79b07675c8c01a5394a645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1260073937,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1260073937,
+    "wof:lastmodified":1537699285,
+    "wof:name":"As Suhaymi",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26819,
+    26.63928,
+    45.26819,
+    26.63928
+],
+  "geometry": {"coordinates":[45.26819,26.63928],"type":"Point"}
+}

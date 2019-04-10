@@ -1,0 +1,76 @@
+{
+  "id": 1293271429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.75873,27.51314,41.75873,27.51314",
+    "geom:latitude":27.51314,
+    "geom:longitude":41.75873,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Khuraymi",
+    "gn:country_code":"SA",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395244,
+    "gn:latitude":27.51314,
+    "gn:longitude":41.75873,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Khuraym\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u064a\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Khuraym\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395244
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2ea337c6d3248eb97ca9f5adb581d2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1293271429,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1293271429,
+    "wof:lastmodified":1548452889,
+    "wof:name":"Al Khuraymi",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361026027
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.75873,
+    27.51314,
+    41.75873,
+    27.51314
+],
+  "geometry": {"coordinates":[41.75873,27.51314],"type":"Point"}
+}

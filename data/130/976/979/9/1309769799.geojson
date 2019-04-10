@@ -1,0 +1,75 @@
+{
+  "id": 1309769799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.84306,16.58417,42.84306,16.58417",
+    "geom:latitude":16.58417,
+    "geom:longitude":42.84306,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ad Duray`iyah",
+    "gn:country_code":"SA",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411002,
+    "gn:latitude":16.58417,
+    "gn:longitude":42.84306,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Ad Duray\u2018\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u064a\u0639\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad Duray\u2018\u012byah",
+        "Ad Dur\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411002,
+        "wk:page":"Ad_Dur%60iyah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c66c94b691b5f6bb028d1d853a156bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720759,
+            "locality_id":1309769799,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1309769799,
+    "wof:lastmodified":1537699336,
+    "wof:name":"Ad Duray`iyah",
+    "wof:parent_id":1108720759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.84306,
+    16.58417,
+    42.84306,
+    16.58417
+],
+  "geometry": {"coordinates":[42.84306,16.58417],"type":"Point"}
+}

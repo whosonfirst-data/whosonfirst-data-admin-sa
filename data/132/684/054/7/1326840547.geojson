@@ -1,0 +1,70 @@
+{
+  "id": 1326840547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.0,17.0,43.0,17.0",
+    "geom:latitude":17.0,
+    "geom:longitude":43.0,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Qa`ima",
+    "gn:country_code":"SA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103378,
+    "gn:latitude":17.0,
+    "gn:longitude":43.0,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Qa\u2018ima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u2018ima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103378
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"95942a2252c165b14e7d603d56129832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720561,
+            "locality_id":1326840547,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1326840547,
+    "wof:lastmodified":1537699188,
+    "wof:name":"Qa`ima",
+    "wof:parent_id":1108720561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.0,
+    17.0,
+    43.0,
+    17.0
+],
+  "geometry": {"coordinates":[43.0,17.0],"type":"Point"}
+}

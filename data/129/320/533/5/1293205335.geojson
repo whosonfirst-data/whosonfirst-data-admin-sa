@@ -1,0 +1,74 @@
+{
+  "id": 1293205335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23246,24.02777,38.23246,24.02777",
+    "geom:latitude":24.02777,
+    "geom:longitude":38.23246,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Masahili",
+    "gn:country_code":"SA",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104308,
+    "gn:latitude":24.02777,
+    "gn:longitude":38.23246,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mas\u0101\u1e29il\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Mas\u0101\u1e29il\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104308,
+        "wk:page":"Masahili"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9e271533be74f8b3faa12f2e33e82ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720795,
+            "locality_id":1293205335,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1293205335,
+    "wof:lastmodified":1548452889,
+    "wof:name":"Masahili",
+    "wof:parent_id":1108720795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361025969
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23246,
+    24.02777,
+    38.23246,
+    24.02777
+],
+  "geometry": {"coordinates":[38.23246,24.02777],"type":"Point"}
+}

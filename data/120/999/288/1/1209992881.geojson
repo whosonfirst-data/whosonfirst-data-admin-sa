@@ -1,0 +1,75 @@
+{
+  "id": 1209992881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.51814,27.11368,42.51814,27.11368",
+    "geom:latitude":27.11368,
+    "geom:longitude":42.51814,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Fayd",
+    "gn:country_code":"SA",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106673,
+    "gn:latitude":27.11368,
+    "gn:longitude":42.51814,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Fayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064e\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Fejd",
+        "Faid",
+        "Fayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106673
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"de5f0e6ced63027369eacebadfc413c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1209992881,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1209992881,
+    "wof:lastmodified":1537699216,
+    "wof:name":"Fayd",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.51814,
+    27.11368,
+    42.51814,
+    27.11368
+],
+  "geometry": {"coordinates":[42.51814,27.11368],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259472045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8424,23.91808,46.8424,23.91808",
+    "geom:latitude":23.91808,
+    "geom:longitude":46.8424,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mawan",
+    "gn:country_code":"SA",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104213,
+    "gn:latitude":23.91808,
+    "gn:longitude":46.8424,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u0101w\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u0101w\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104213
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"febe8eff15a0d9f7b5cda4733648f666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1259472045,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1259472045,
+    "wof:lastmodified":1537699194,
+    "wof:name":"Mawan",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8424,
+    23.91808,
+    46.8424,
+    23.91808
+],
+  "geometry": {"coordinates":[46.8424,23.91808],"type":"Point"}
+}

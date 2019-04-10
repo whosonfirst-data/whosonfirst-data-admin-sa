@@ -1,0 +1,75 @@
+{
+  "id": 1193034309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75661,26.54578,43.75661,26.54578",
+    "geom:latitude":26.54578,
+    "geom:longitude":43.75661,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Ghat",
+    "gn:country_code":"SA",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109784,
+    "gn:latitude":26.54578,
+    "gn:longitude":43.75661,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al Gh\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Gh\u0101\u0163"
+    ],
+    "name:und_x_variant":[
+        "Ghaf",
+        "Al Ghaff",
+        "Al Gh\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109784
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b06847cbf331763549b65e4227f7eaae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720787,
+            "locality_id":1193034309,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1193034309,
+    "wof:lastmodified":1537699267,
+    "wof:name":"Al Ghat",
+    "wof:parent_id":1108720787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75661,
+    26.54578,
+    43.75661,
+    26.54578
+],
+  "geometry": {"coordinates":[43.75661,26.54578],"type":"Point"}
+}

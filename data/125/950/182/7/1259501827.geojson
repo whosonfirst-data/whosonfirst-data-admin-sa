@@ -1,0 +1,72 @@
+{
+  "id": 1259501827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.88333,18.3,42.88333,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":42.88333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Qararah",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103312,
+    "gn:latitude":18.3,
+    "gn:longitude":42.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qar\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qarara",
+        "Qar\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103312
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"abaee3a8a8944e6ae780471d8b4209e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720717,
+            "locality_id":1259501827,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1259501827,
+    "wof:lastmodified":1537699188,
+    "wof:name":"Qararah",
+    "wof:parent_id":1108720717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.88333,
+    18.3,
+    42.88333,
+    18.3
+],
+  "geometry": {"coordinates":[42.88333,18.3],"type":"Point"}
+}

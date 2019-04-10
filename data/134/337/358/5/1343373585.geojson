@@ -1,0 +1,76 @@
+{
+  "id": 1343373585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95512,26.8061,37.95512,26.8061",
+    "geom:latitude":26.8061,
+    "geom:longitude":37.95512,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Mada'in Salih",
+    "gn:country_code":"SA",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104645,
+    "gn:latitude":26.8061,
+    "gn:longitude":37.95512,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mad\u0101\u2019in \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al H\u0331egr",
+        "Medain Saleh",
+        "Al \u1e28ijr",
+        "Med\u00e2jen-\u1e62\u00e2le\u1e25",
+        "Al-Hajar",
+        "Mad\u0101\u2019in \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104645,
+        "wk:page":"Mada%27in_Saleh"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"563714f416784f541f25733299a9497a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720641,
+            "locality_id":1343373585,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1343373585,
+    "wof:lastmodified":1537699199,
+    "wof:name":"Mada'in Salih",
+    "wof:parent_id":1108720641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95512,
+    26.8061,
+    37.95512,
+    26.8061
+],
+  "geometry": {"coordinates":[37.95512,26.8061],"type":"Point"}
+}

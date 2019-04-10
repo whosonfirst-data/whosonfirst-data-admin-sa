@@ -1,0 +1,70 @@
+{
+  "id": 1276306293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.06833,23.10194,39.06833,23.10194",
+    "geom:latitude":23.10194,
+    "geom:longitude":39.06833,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"At Tandabiyah",
+    "gn:country_code":"SA",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410130,
+    "gn:latitude":23.10194,
+    "gn:longitude":39.06833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At Tan\u1e11ab\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At Tan\u1e11ab\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410130
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b3151e1ba2280651264c52ec36cede45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720739,
+            "locality_id":1276306293,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1276306293,
+    "wof:lastmodified":1537699334,
+    "wof:name":"At Tandabiyah",
+    "wof:parent_id":1108720739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.06833,
+    23.10194,
+    39.06833,
+    23.10194
+],
+  "geometry": {"coordinates":[39.06833,23.10194],"type":"Point"}
+}

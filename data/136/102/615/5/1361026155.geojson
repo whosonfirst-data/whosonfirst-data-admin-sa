@@ -1,0 +1,74 @@
+{
+  "id": 1361026155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.9571,28.38434,45.9571,28.38434",
+    "geom:latitude":28.38434,
+    "geom:longitude":45.9571,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Abu Qa`ar",
+    "gn:country_code":"SA",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393681,
+    "gn:latitude":28.38434,
+    "gn:longitude":45.9571,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Ab\u016b Qa\u2018ar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Ab\u016b Qa\u2018ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676819,
+        102191569,
+        85632253,
+        1343784075,
+        1108720699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393681
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"252afd86e307a9c9864fd45e69e6afd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":1343784075,
+            "neighbourhood_id":1361026155,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1361026155,
+    "wof:lastmodified":1548452896,
+    "wof:name":"Abu Qa`ar",
+    "wof:parent_id":1108720699,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343784075
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.9571,
+    28.38434,
+    45.9571,
+    28.38434
+],
+  "geometry": {"coordinates":[45.9571,28.38434],"type":"Point"}
+}

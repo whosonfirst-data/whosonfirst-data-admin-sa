@@ -1,0 +1,102 @@
+{
+  "id": 1125924439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.66374,31.67252,38.66374,31.67252",
+    "geom:latitude":31.67252,
+    "geom:longitude":38.66374,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":40819,
+    "gn:population":40819,
+    "iso:country":"SA",
+    "lbl:latitude":31.67252,
+    "lbl:longitude":38.66374,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Ma\u1e29a\u0163\u0163at a\u0163 \u0162urayf"
+    ],
+    "name:ara_x_variant":[
+        "A\u0163 \u0162urayf",
+        "Ma\u1e29a\u0163\u0163at al \u0162urayf",
+        "\u0162urayf",
+        "\u0637\u0631\u064a\u0641\u200e\u200e"
+    ],
+    "name:eng_x_preferred":[
+        "Turaif"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0631\u06cc\u0641"
+    ],
+    "name:tur_x_preferred":[
+        "Tureyf"
+    ],
+    "name:unk_x_variant":[
+        "E\u1e6d \u1e6curaif"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u8cf4\u592b"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":101312,
+    "qs_pg:gn_pop":40819,
+    "qs_pg:name":"\u0162urayf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":64747,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101312,
+        "qs_pg:id":64747
+    },
+    "wof:country":"SA",
+    "wof:created":1497296593,
+    "wof:geomhash":"c8bd510e2066b6030d83e5af6ad3a2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720779,
+            "locality_id":1125924439,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1125924439,
+    "wof:lastmodified":1509401010,
+    "wof:name":"\u0162urayf",
+    "wof:parent_id":1108720779,
+    "wof:placetype":"locality",
+    "wof:population":40819,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.66374,
+    31.67252,
+    38.66374,
+    31.67252
+],
+  "geometry": {"coordinates":[38.66374,31.67252],"type":"Point"}
+}

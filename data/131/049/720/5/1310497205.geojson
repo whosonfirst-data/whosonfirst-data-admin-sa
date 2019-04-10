@@ -1,0 +1,76 @@
+{
+  "id": 1310497205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.56667,25.35,49.56667,25.35",
+    "geom:latitude":25.35,
+    "geom:longitude":49.56667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ar Ruqayyiqah",
+    "gn:country_code":"SA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108384,
+    "gn:latitude":25.35,
+    "gn:longitude":49.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Ruqayyiqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ruqaiqah",
+        "Ar Ruqaiqa",
+        "Al Ruqayyiqah",
+        "Ar Ruqayyiqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108384
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8eb8771d9fe9b1868249e9990ac44ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1310497205,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1310497205,
+    "wof:lastmodified":1548452889,
+    "wof:name":"Ar Ruqayyiqah",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361026201
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.56667,
+    25.35,
+    49.56667,
+    25.35
+],
+  "geometry": {"coordinates":[49.56667,25.35],"type":"Point"}
+}

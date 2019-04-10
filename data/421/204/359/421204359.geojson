@@ -1,0 +1,80 @@
+{
+  "id": 421204359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.11528,26.43389,50.11528,26.43389",
+    "geom:latitude":26.43389,
+    "geom:longitude":50.11528,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ash Shu\u2018aybah"
+    ],
+    "qs:gn_country":"SA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":389860,
+    "qs:gn_pop":0,
+    "qs:name":"Ash Shu\u2019aybah",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1189745,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":1938364,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389860,
+        "gp:id":1938364,
+        "qs:id":1189745
+    },
+    "wof:country":"SA",
+    "wof:created":1459010183,
+    "wof:geomhash":"465da0146751ab98314883854f63a4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":-1,
+            "neighbourhood_id":421204359,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":421204359,
+    "wof:lastmodified":1531858844,
+    "wof:name":"Ash Shu\u2019aybah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.11528,
+    26.43389,
+    50.11528,
+    26.43389
+],
+  "geometry": {"coordinates":[50.11528,26.43389],"type":"Point"}
+}

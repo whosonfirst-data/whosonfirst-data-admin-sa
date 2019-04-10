@@ -1,0 +1,73 @@
+{
+  "id": 1259974943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.54487,25.18444,42.54487,25.18444",
+    "geom:latitude":25.18444,
+    "geom:longitude":42.54487,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Su`aynin",
+    "gn:country_code":"SA",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395122,
+    "gn:latitude":25.18444,
+    "gn:longitude":42.54487,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"\u015eu\u2018ayn\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0639\u064a\u0646\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u015eu\u2018ayn\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395122
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"213ded27cdb8a9deb8cf9ba4fd12202b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1259974943,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1259974943,
+    "wof:lastmodified":1537699295,
+    "wof:name":"Su`aynin",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.54487,
+    25.18444,
+    42.54487,
+    25.18444
+],
+  "geometry": {"coordinates":[42.54487,25.18444],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293497511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.64412,26.60981,42.64412,26.60981",
+    "geom:latitude":26.60981,
+    "geom:longitude":42.64412,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kihlah",
+    "gn:country_code":"SA",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396889,
+    "gn:latitude":26.60981,
+    "gn:longitude":42.64412,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ki\u1e29lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u062d\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ki\u1e29lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396889
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9c4c273edf74c9c32b8013f46e390bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720569,
+            "locality_id":1293497511,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1293497511,
+    "wof:lastmodified":1537699312,
+    "wof:name":"Kihlah",
+    "wof:parent_id":1108720569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.64412,
+    26.60981,
+    42.64412,
+    26.60981
+],
+  "geometry": {"coordinates":[42.64412,26.60981],"type":"Point"}
+}

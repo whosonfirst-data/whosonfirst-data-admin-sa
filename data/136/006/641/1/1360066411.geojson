@@ -1,0 +1,68 @@
+{
+  "id": 1360066411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.955,18.92556,41.955,18.92556",
+    "geom:latitude":18.92556,
+    "geom:longitude":41.955,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Qahab",
+    "gn:country_code":"SA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400043,
+    "gn:latitude":18.92556,
+    "gn:longitude":41.955,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qahab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400043,
+        "wk:page":"Al_Qahab"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c7622c2ba852fac9ca38d84ec01e6274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720609,
+            "locality_id":1360066411,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1360066411,
+    "wof:lastmodified":1537573265,
+    "wof:name":"Al Qahab",
+    "wof:parent_id":1108720609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.955,
+    18.92556,
+    41.955,
+    18.92556
+],
+  "geometry": {"coordinates":[41.955,18.92556],"type":"Point"}
+}

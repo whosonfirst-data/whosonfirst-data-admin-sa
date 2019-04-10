@@ -1,0 +1,78 @@
+{
+  "id": 1209391143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.07889,16.67333,43.07889,16.67333",
+    "geom:latitude":16.67333,
+    "geom:longitude":43.07889,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Qufl",
+    "gn:country_code":"SA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103162,
+    "gn:latitude":16.67333,
+    "gn:longitude":43.07889,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Al Qufl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Quf\u016bl"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0641\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qufl",
+        "Al Qufl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103162,
+        "wk:page":"Al_Quful"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2c812abc2f76871dd296d7e24194b0b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720759,
+            "locality_id":1209391143,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1209391143,
+    "wof:lastmodified":1548455916,
+    "wof:name":"Al Qufl",
+    "wof:parent_id":1108720759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.07889,
+    16.67333,
+    43.07889,
+    16.67333
+],
+  "geometry": {"coordinates":[43.07889,16.67333],"type":"Point"}
+}

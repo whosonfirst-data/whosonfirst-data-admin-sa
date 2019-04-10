@@ -1,0 +1,71 @@
+{
+  "id": 1226733645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85,26.21667,44.85,26.21667",
+    "geom:latitude":26.21667,
+    "geom:longitude":44.85,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Thumayn",
+    "gn:country_code":"SA",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101399,
+    "gn:latitude":26.21667,
+    "gn:longitude":44.85,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Thumayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thamayn",
+        "Thumayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101399
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"db2cd70e65c26c29f0bd602250286a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720667,
+            "locality_id":1226733645,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1226733645,
+    "wof:lastmodified":1537699169,
+    "wof:name":"Thumayn",
+    "wof:parent_id":1108720667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85,
+    26.21667,
+    44.85,
+    26.21667
+],
+  "geometry": {"coordinates":[44.85,26.21667],"type":"Point"}
+}

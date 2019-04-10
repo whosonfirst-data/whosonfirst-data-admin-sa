@@ -1,0 +1,73 @@
+{
+  "id": 1242893773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.85582,25.45046,42.85582,25.45046",
+    "geom:latitude":25.45046,
+    "geom:longitude":42.85582,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"An Na`imah",
+    "gn:country_code":"SA",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395641,
+    "gn:latitude":25.45046,
+    "gn:longitude":42.85582,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"An N\u0101\u2018imah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0639\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "An N\u0101\u2018imah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395641
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e1c4d7401813046eb47c8b9630fc9f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1242893773,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1242893773,
+    "wof:lastmodified":1537699301,
+    "wof:name":"An Na`imah",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.85582,
+    25.45046,
+    42.85582,
+    25.45046
+],
+  "geometry": {"coordinates":[42.85582,25.45046],"type":"Point"}
+}

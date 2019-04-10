@@ -1,0 +1,73 @@
+{
+  "id": 1310281259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.62669,17.57805,42.62669,17.57805",
+    "geom:latitude":17.57805,
+    "geom:longitude":42.62669,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Al Fatihah",
+    "gn:country_code":"SA",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7357833,
+    "gn:latitude":17.57805,
+    "gn:longitude":42.62669,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Al Fa\u0163\u012b\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0637\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Fa\u0163\u012b\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7357833
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"27431afb6093813678fbd01a46338798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720677,
+            "locality_id":1310281259,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1310281259,
+    "wof:lastmodified":1537699342,
+    "wof:name":"Al Fatihah",
+    "wof:parent_id":1108720677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.62669,
+    17.57805,
+    42.62669,
+    17.57805
+],
+  "geometry": {"coordinates":[42.62669,17.57805],"type":"Point"}
+}

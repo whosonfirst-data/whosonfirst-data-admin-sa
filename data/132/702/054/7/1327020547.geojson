@@ -1,0 +1,76 @@
+{
+  "id": 1327020547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16622,26.15415,44.16622,26.15415",
+    "geom:latitude":26.15415,
+    "geom:longitude":44.16622,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Ghuwaymid",
+    "gn:country_code":"SA",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107772,
+    "gn:latitude":26.15415,
+    "gn:longitude":44.16622,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ghuwaymi\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u064f\u0648\u064e\u064a\u0645\u0650\u0636"
+    ],
+    "name:und_x_variant":[
+        "Z\u0327ulayyim",
+        "Az\u0327 Z\u0327ulayyim",
+        "Dhulaiyim",
+        "Ghuwaymi\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107772
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"592bcd80c50b422dca9272b8229f3aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720785,
+            "locality_id":1327020547,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1327020547,
+    "wof:lastmodified":1537699225,
+    "wof:name":"Ghuwaymid",
+    "wof:parent_id":1108720785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16622,
+    26.15415,
+    44.16622,
+    26.15415
+],
+  "geometry": {"coordinates":[44.16622,26.15415],"type":"Point"}
+}

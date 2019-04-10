@@ -1,0 +1,72 @@
+{
+  "id": 1226832697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6034,21.50329,39.6034,21.50329",
+    "geom:latitude":21.50329,
+    "geom:longitude":39.6034,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tharwah",
+    "gn:country_code":"SA",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101433,
+    "gn:latitude":21.50329,
+    "gn:longitude":39.6034,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tharwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tharwa",
+        "Tharwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101433,
+        "wk:page":"Tharwah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"adb75c2de380a4d5173bbe698f5d2f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720587,
+            "locality_id":1226832697,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1226832697,
+    "wof:lastmodified":1537699170,
+    "wof:name":"Tharwah",
+    "wof:parent_id":1108720587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6034,
+    21.50329,
+    39.6034,
+    21.50329
+],
+  "geometry": {"coordinates":[39.6034,21.50329],"type":"Point"}
+}

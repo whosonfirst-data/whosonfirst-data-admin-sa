@@ -1,0 +1,73 @@
+{
+  "id": 1242757265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.27944,27.10213,41.27944,27.10213",
+    "geom:latitude":27.10213,
+    "geom:longitude":41.27944,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al `Uqlah",
+    "gn:country_code":"SA",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395895,
+    "gn:latitude":27.10213,
+    "gn:longitude":41.27944,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al \u2018Uqlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0642\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Uqlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395895
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2727e2d3fecd4dc073a18e4add5a6b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720573,
+            "locality_id":1242757265,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1242757265,
+    "wof:lastmodified":1537699303,
+    "wof:name":"Al `Uqlah",
+    "wof:parent_id":1108720573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.27944,
+    27.10213,
+    41.27944,
+    27.10213
+],
+  "geometry": {"coordinates":[41.27944,27.10213],"type":"Point"}
+}

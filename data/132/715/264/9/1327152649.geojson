@@ -1,0 +1,67 @@
+{
+  "id": 1327152649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1,19.21667,42.1,19.21667",
+    "geom:latitude":19.21667,
+    "geom:longitude":42.1,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Mislanah",
+    "gn:country_code":"SA",
+    "gn:dem":2517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109108,
+    "gn:latitude":19.21667,
+    "gn:longitude":42.1,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mislanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109108
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3b5f9f91564a5b9f0f35191d1e47ea4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720649,
+            "locality_id":1327152649,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1327152649,
+    "wof:lastmodified":1537081563,
+    "wof:name":"Al Mislanah",
+    "wof:parent_id":1108720649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1,
+    19.21667,
+    42.1,
+    19.21667
+],
+  "geometry": {"coordinates":[42.1,19.21667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243339755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.94821,16.78434,42.94821,16.78434",
+    "geom:latitude":16.78434,
+    "geom:longitude":42.94821,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Umm al Qasariyah",
+    "gn:country_code":"SA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101084,
+    "gn:latitude":16.78434,
+    "gn:longitude":42.94821,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm al Qa\u015far\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm al Qa\u015far\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101084
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e7c9e63bdeb24580d3d655b4de1ddcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720549,
+            "locality_id":1243339755,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1243339755,
+    "wof:lastmodified":1537699167,
+    "wof:name":"Umm al Qasariyah",
+    "wof:parent_id":1108720549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.94821,
+    16.78434,
+    42.94821,
+    16.78434
+],
+  "geometry": {"coordinates":[42.94821,16.78434],"type":"Point"}
+}

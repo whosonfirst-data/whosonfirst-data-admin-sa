@@ -1,0 +1,72 @@
+{
+  "id": 1293366601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.89333,18.25556,41.89333,18.25556",
+    "geom:latitude":18.25556,
+    "geom:longitude":41.89333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mahdumah",
+    "gn:country_code":"SA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104573,
+    "gn:latitude":18.25556,
+    "gn:longitude":41.89333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mahd\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahdawa",
+        "Mahduwah",
+        "Mahd\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104573
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3388a278fc22d202bcbe73bac5ba9971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720729,
+            "locality_id":1293366601,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1293366601,
+    "wof:lastmodified":1537699197,
+    "wof:name":"Mahdumah",
+    "wof:parent_id":1108720729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.89333,
+    18.25556,
+    41.89333,
+    18.25556
+],
+  "geometry": {"coordinates":[41.89333,18.25556],"type":"Point"}
+}

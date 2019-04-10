@@ -1,0 +1,71 @@
+{
+  "id": 1343276729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08116,18.16516,43.08116,18.16516",
+    "geom:latitude":18.16516,
+    "geom:longitude":43.08116,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Wahbah",
+    "gn:country_code":"SA",
+    "gn:dem":2251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108776,
+    "gn:latitude":18.16516,
+    "gn:longitude":43.08116,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Wahbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Wah\u0101bah",
+        "Al Wahbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108776
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d9d825a4d2c3607e53a27d58eaba53e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720761,
+            "locality_id":1343276729,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1343276729,
+    "wof:lastmodified":1537699242,
+    "wof:name":"Al Wahbah",
+    "wof:parent_id":1108720761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08116,
+    18.16516,
+    43.08116,
+    18.16516
+],
+  "geometry": {"coordinates":[43.08116,18.16516],"type":"Point"}
+}

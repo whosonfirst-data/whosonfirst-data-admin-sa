@@ -1,0 +1,72 @@
+{
+  "id": 1310124133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.5,18.36667,42.5,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":42.5,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Malahah",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":2128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109188,
+    "gn:latitude":18.36667,
+    "gn:longitude":42.5,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mal\u0101\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malaha",
+        "Al Mal\u0101\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109188
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5161b55847cee1b4e13e9c5655310c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1310124133,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1310124133,
+    "wof:lastmodified":1537699253,
+    "wof:name":"Al Malahah",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.5,
+    18.36667000000001,
+    42.5,
+    18.36667000000001
+],
+  "geometry": {"coordinates":[42.5,18.36667000000001],"type":"Point"}
+}

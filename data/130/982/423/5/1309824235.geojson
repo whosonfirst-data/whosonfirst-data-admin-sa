@@ -1,0 +1,70 @@
+{
+  "id": 1309824235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63361,24.48333,43.63361,24.48333",
+    "geom:latitude":24.48333,
+    "geom:longitude":43.63361,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Muhawal",
+    "gn:country_code":"SA",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399973,
+    "gn:latitude":24.48333,
+    "gn:longitude":43.63361,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Mu\u1e29\u0101wal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mu\u1e29\u0101wal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399973
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"30652d766f308a01d31c4d744e75a4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1309824235,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1309824235,
+    "wof:lastmodified":1537699327,
+    "wof:name":"Al Muhawal",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63361,
+    24.48333,
+    43.63361,
+    24.48333
+],
+  "geometry": {"coordinates":[43.63361,24.48333],"type":"Point"}
+}

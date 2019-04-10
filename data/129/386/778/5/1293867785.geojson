@@ -1,0 +1,74 @@
+{
+  "id": 1293867785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.281,24.47152,46.281,24.47152",
+    "geom:latitude":24.47152,
+    "geom:longitude":46.281,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Muzahimiyah",
+    "gn:country_code":"SA",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108994,
+    "gn:latitude":24.47152,
+    "gn:longitude":46.281,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Al Muz\u0101\u1e29im\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0632\u0627\u062d\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Muz\u0101\u1e29im\u012byah",
+        "Al Muz\u0101him\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108994
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9442f5c5e6e94dad9b4bbc4ed9869b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720621,
+            "locality_id":1293867785,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1293867785,
+    "wof:lastmodified":1537699249,
+    "wof:name":"Al Muzahimiyah",
+    "wof:parent_id":1108720621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.28100000000001,
+    24.47152,
+    46.28100000000001,
+    24.47152
+],
+  "geometry": {"coordinates":[46.28100000000001,24.47152],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225842443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46876,25.1969,48.46876,25.1969",
+    "geom:latitude":25.1969,
+    "geom:longitude":48.46876,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Qusaybi",
+    "gn:country_code":"SA",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":398157,
+    "gn:latitude":25.1969,
+    "gn:longitude":48.46876,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Qu\u015fayb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u064a\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Qu\u015fayb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":398157
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5e16de10deeca87b109ad801ebabc84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1225842443,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1225842443,
+    "wof:lastmodified":1537699322,
+    "wof:name":"Al Qusaybi",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46876,
+    25.1969,
+    48.46876,
+    25.1969
+],
+  "geometry": {"coordinates":[48.46876,25.1969],"type":"Point"}
+}

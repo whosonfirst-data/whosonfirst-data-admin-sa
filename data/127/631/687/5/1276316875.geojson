@@ -1,0 +1,77 @@
+{
+  "id": 1276316875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.49808,25.95581,46.49808,25.95581",
+    "geom:latitude":25.95581,
+    "geom:longitude":46.49808,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hafar al `Atk",
+    "gn:country_code":"SA",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396038,
+    "gn:latitude":25.95581,
+    "gn:longitude":46.49808,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"\u1e28afar al \u2018Atk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0641\u0631 \u0627\u0644\u0639\u062a\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u064e\u0641\u064e\u0631 \u0627\u0644\u0639\u064e\u062a\u0652\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u1e28afar al \u2018Atsh",
+        "\u1e28afar al \u2018Atk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396038
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"37855410ace9a1fa4c533e7639e761f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720751,
+            "locality_id":1276316875,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1276316875,
+    "wof:lastmodified":1537699305,
+    "wof:name":"Hafar al `Atk",
+    "wof:parent_id":1108720751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.49808,
+    25.95581,
+    46.49808,
+    25.95581
+],
+  "geometry": {"coordinates":[46.49808,25.95581],"type":"Point"}
+}

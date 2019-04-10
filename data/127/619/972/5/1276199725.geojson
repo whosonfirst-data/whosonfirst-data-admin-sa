@@ -1,0 +1,74 @@
+{
+  "id": 1276199725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.99055,21.66083,39.99055,21.66083",
+    "geom:latitude":21.66083,
+    "geom:longitude":39.99055,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Qawba`iyah",
+    "gn:country_code":"SA",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108908,
+    "gn:latitude":21.66083,
+    "gn:longitude":39.99055,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Qawba\u2018\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az Zir\u0101\u2018",
+        "Al Q\u016bb\u2018\u012byah",
+        "Al Qab\u2018\u012byah",
+        "Al Qawba\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108908,
+        "wk:page":"Al_Qawba%60iyah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4a7513df310c9dce67127eb59ece51c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1276199725,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1276199725,
+    "wof:lastmodified":1537699246,
+    "wof:name":"Al Qawba`iyah",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.99055,
+    21.66083,
+    39.99055,
+    21.66083
+],
+  "geometry": {"coordinates":[39.99055,21.66083],"type":"Point"}
+}

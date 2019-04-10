@@ -1,0 +1,70 @@
+{
+  "id": 1309976403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1057,29.68741,42.1057,29.68741",
+    "geom:latitude":29.68741,
+    "geom:longitude":42.1057,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Zahwah",
+    "gn:country_code":"SA",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393358,
+    "gn:latitude":29.68741,
+    "gn:longitude":42.1057,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Zahwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0647\u0648\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393358
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3548e312735be9b6e1769cef6f499858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720651,
+            "locality_id":1309976403,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1309976403,
+    "wof:lastmodified":1537699290,
+    "wof:name":"Zahwah",
+    "wof:parent_id":1108720651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1057,
+    29.68741,
+    42.1057,
+    29.68741
+],
+  "geometry": {"coordinates":[42.1057,29.68741],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310127989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.71667,25.43333,49.71667,25.43333",
+    "geom:latitude":25.43333,
+    "geom:longitude":49.71667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bani `Awad",
+    "gn:country_code":"SA",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107673,
+    "gn:latitude":25.43333,
+    "gn:longitude":49.71667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban\u012b \u2018Awa\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bani \u2018Awadh",
+        "Ban\u012b \u2018Awa\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107673
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"66365fe64591fe85d42eee030e9236b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1310127989,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1310127989,
+    "wof:lastmodified":1537699223,
+    "wof:name":"Bani `Awad",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.71667,
+    25.43333,
+    49.71667,
+    25.43333
+],
+  "geometry": {"coordinates":[49.71667,25.43333],"type":"Point"}
+}

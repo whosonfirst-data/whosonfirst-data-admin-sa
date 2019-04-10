@@ -1,0 +1,78 @@
+{
+  "id": 1209190605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22186,16.78871,43.22186,16.78871",
+    "geom:latitude":16.78871,
+    "geom:longitude":43.22186,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Khawbah",
+    "gn:country_code":"SA",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104813,
+    "gn:latitude":16.78871,
+    "gn:longitude":43.22186,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Al Khawbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khauba",
+        "K\u016bb\u0101",
+        "K\u016bbah",
+        "Al Kh\u016bbah",
+        "Al Khawbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104813,
+        "wk:page":"Al_Khubah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"595e5a02365e8cc879a70bc6bfa20424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720579,
+            "locality_id":1209190605,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1209190605,
+    "wof:lastmodified":1548455910,
+    "wof:name":"Al Khawbah",
+    "wof:parent_id":1108720579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22186,
+    16.78871,
+    43.22186,
+    16.78871
+],
+  "geometry": {"coordinates":[43.22186,16.78871],"type":"Point"}
+}

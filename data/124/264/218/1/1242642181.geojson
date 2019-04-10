@@ -1,0 +1,71 @@
+{
+  "id": 1242642181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68133,29.28731,37.68133,29.28731",
+    "geom:latitude":29.28731,
+    "geom:longitude":37.68133,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Mughayra'",
+    "gn:country_code":"SA",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104009,
+    "gn:latitude":29.28731,
+    "gn:longitude":37.68133,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mughayr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mughayr\u0101\u2019",
+        "Mughayr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676833,
+        1108720767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104009
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"249c5081a03d86a2e6b8b019258f316e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720767,
+            "locality_id":1242642181,
+            "region_id":85676833
+        }
+    ],
+    "wof:id":1242642181,
+    "wof:lastmodified":1537699193,
+    "wof:name":"Mughayra'",
+    "wof:parent_id":1108720767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68133,
+    29.28731,
+    37.68133,
+    29.28731
+],
+  "geometry": {"coordinates":[37.68133,29.28731],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310427965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22614,25.64364,43.22614,25.64364",
+    "geom:latitude":25.64364,
+    "geom:longitude":43.22614,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Asamir",
+    "gn:country_code":"SA",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395974,
+    "gn:latitude":25.64364,
+    "gn:longitude":43.22614,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al As\u0101mir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al As\u0101mir"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0633\u0627\u0645\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395974
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ee77c0f66367bbef4b547b93476ca1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1310427965,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1310427965,
+    "wof:lastmodified":1537699304,
+    "wof:name":"Al Asamir",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22614,
+    25.64364,
+    43.22614,
+    25.64364
+],
+  "geometry": {"coordinates":[43.22614,25.64364],"type":"Point"}
+}

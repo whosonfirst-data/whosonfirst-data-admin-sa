@@ -1,0 +1,70 @@
+{
+  "id": 1243161169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.55444,25.66111,45.55444,25.66111",
+    "geom:latitude":25.66111,
+    "geom:longitude":45.55444,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Al `Awd",
+    "gn:country_code":"SA",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413096,
+    "gn:latitude":25.66111,
+    "gn:longitude":45.55444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Awd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Awd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413096
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"11a19e15aa4a4cb1ca5fe00ba8daa1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1243161169,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1243161169,
+    "wof:lastmodified":1537699339,
+    "wof:name":"Al `Awd",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.55444,
+    25.66111,
+    45.55444,
+    25.66111
+],
+  "geometry": {"coordinates":[45.55444,25.66111],"type":"Point"}
+}

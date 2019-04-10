@@ -1,0 +1,73 @@
+{
+  "id": 1209090153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52406,24.80407,43.52406,24.80407",
+    "geom:latitude":24.80407,
+    "geom:longitude":43.52406,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Mushash",
+    "gn:country_code":"SA",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109112,
+    "gn:latitude":24.80407,
+    "gn:longitude":43.52406,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Mush\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mush\u0101sh"
+    ],
+    "name:und_x_variant":[
+        "Al Mish\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109112
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"dfa63d00f4f54b44ef2f4325bbf76e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1209090153,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209090153,
+    "wof:lastmodified":1548455902,
+    "wof:name":"Al Mushash",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52406,
+    24.80407,
+    43.52406,
+    24.80407
+],
+  "geometry": {"coordinates":[43.52406,24.80407],"type":"Point"}
+}

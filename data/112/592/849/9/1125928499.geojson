@@ -1,0 +1,125 @@
+{
+  "id": 1125928499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.83251,16.96887,42.83251,16.96887",
+    "geom:latitude":16.96887,
+    "geom:longitude":42.83251,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":49171,
+    "gn:population":49171,
+    "iso:country":"SA",
+    "lbl:latitude":16.96887,
+    "lbl:longitude":42.83251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Ab\u016b \u2018Ar\u012bsh"
+    ],
+    "name:ara_x_variant":[
+        "\u0672\u0628\u0648 \u0639\u0631\u064a\u0634",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0628\u064a \u0639\u0631\u064a\u0634"
+    ],
+    "name:cat_x_preferred":[
+        "Abu Arix"
+    ],
+    "name:dut_x_preferred":[
+        "Abu `Arish"
+    ],
+    "name:eng_x_preferred":[
+        "Abu `Arish"
+    ],
+    "name:fre_x_preferred":[
+        "Abou Arish"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d6\u30fb\u30a2\u30ea\u30b7\u30e5"
+    ],
+    "name:nno_x_preferred":[
+        "Abu `Arish"
+    ],
+    "name:nob_x_preferred":[
+        "Abu Arish"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0628\u06cc \u0639\u0631\u06cc\u0634"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Arisz"
+    ],
+    "name:spa_x_preferred":[
+        "Abu Arish"
+    ],
+    "name:swe_x_preferred":[
+        "Abu Arish"
+    ],
+    "name:tur_x_preferred":[
+        "Ebu Eri\u015f"
+    ],
+    "name:unk_x_variant":[
+        "Ab\u012b \u2018Ar\u012bsh"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":110619,
+    "qs_pg:gn_pop":49171,
+    "qs_pg:name":"Ab\u016b \u2018Ar\u012bsh",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":66795,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110619,
+        "qs_pg:id":66795,
+        "wd:id":"Q2821731"
+    },
+    "wof:country":"SA",
+    "wof:created":1497296726,
+    "wof:geomhash":"a4f33fa05e833d5cb00a4ed6051bb1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720535,
+            "locality_id":1125928499,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1125928499,
+    "wof:lastmodified":1514504326,
+    "wof:name":"Ab\u016b \u2018Ar\u012bsh",
+    "wof:parent_id":1108720535,
+    "wof:placetype":"locality",
+    "wof:population":49171,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.83251,
+    16.96887,
+    42.83251,
+    16.96887
+],
+  "geometry": {"coordinates":[42.83251,16.96887],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260268473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35372,25.56376,43.35372,25.56376",
+    "geom:latitude":25.56376,
+    "geom:longitude":43.35372,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Khushaybi",
+    "gn:country_code":"SA",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109302,
+    "gn:latitude":25.56376,
+    "gn:longitude":43.35372,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Al Khushayb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0634\u064a\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Khushayb\u012b",
+        "Al Khishayb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109302
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f56ef4799080c66c35aa0d61667e7948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":1260268473,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1260268473,
+    "wof:lastmodified":1537699255,
+    "wof:name":"Al Khushaybi",
+    "wof:parent_id":1108720687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35372,
+    25.56376,
+    43.35372,
+    25.56376
+],
+  "geometry": {"coordinates":[43.35372,25.56376],"type":"Point"}
+}

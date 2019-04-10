@@ -1,0 +1,75 @@
+{
+  "id": 421190327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.132659,17.490552,44.132659,17.490552",
+    "geom:latitude":17.490552,
+    "geom:longitude":44.132659,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0628\u0627 \u0627\u0644\u0633\u0639\u0648\u062f",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0646\u062c\u0631\u0627\u0646",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":147,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119494,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":1939932,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676809,
+        1108720731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1939932,
+        "qs:id":1119494
+    },
+    "wof:country":"SA",
+    "wof:created":1459009654,
+    "wof:geomhash":"aafd2c2ffcb0d078282763aa5f6c9ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720731,
+            "locality_id":421190327,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":421190327,
+    "wof:lastmodified":1500025177,
+    "wof:name":"\u0627\u0628\u0627 \u0627\u0644\u0633\u0639\u0648\u062f",
+    "wof:parent_id":1108720731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.132659,
+    17.490552,
+    44.132659,
+    17.490552
+],
+  "geometry": {"coordinates":[44.132659,17.490552],"type":"Point"}
+}

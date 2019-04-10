@@ -1,0 +1,74 @@
+{
+  "id": 1361026059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.72885,27.57409,41.72885,27.57409",
+    "geom:latitude":27.57409,
+    "geom:longitude":41.72885,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"As Suwayfilah",
+    "gn:country_code":"SA",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395248,
+    "gn:latitude":27.57409,
+    "gn:longitude":41.72885,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"As Suwayfilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u064a\u0641\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676831,
+        102191569,
+        85632253,
+        1310680371,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395248
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"94c1f087b9c45caed2c8ca39cceb50de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1310680371,
+            "neighbourhood_id":1361026059,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1361026059,
+    "wof:lastmodified":1548452892,
+    "wof:name":"As Suwayfilah",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310680371
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.72885,
+    27.57409,
+    41.72885,
+    27.57409
+],
+  "geometry": {"coordinates":[41.72885,27.57409],"type":"Point"}
+}

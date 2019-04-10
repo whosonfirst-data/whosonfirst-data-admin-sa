@@ -1,0 +1,73 @@
+{
+  "id": 1343257741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.66114,24.24317,45.66114,24.24317",
+    "geom:latitude":24.24317,
+    "geom:longitude":45.66114,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Jafn Dabb",
+    "gn:country_code":"SA",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396707,
+    "gn:latitude":24.24317,
+    "gn:longitude":45.66114,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Jafn \u1e10abb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0641\u0646 \u0636\u0628"
+    ],
+    "name:und_x_variant":[
+        "Jafn \u1e10abb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396707
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"919e492cd897b3f3088105e4a803fc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1343257741,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1343257741,
+    "wof:lastmodified":1537699311,
+    "wof:name":"Jafn Dabb",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.66114,
+    24.24317000000001,
+    45.66114,
+    24.24317000000001
+],
+  "geometry": {"coordinates":[45.66114,24.24317000000001],"type":"Point"}
+}

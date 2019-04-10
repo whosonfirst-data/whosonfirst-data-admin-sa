@@ -1,0 +1,67 @@
+{
+  "id": 1242696045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03889,17.84278,44.03889,17.84278",
+    "geom:latitude":17.84278,
+    "geom:longitude":44.03889,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Qushayya",
+    "gn:country_code":"SA",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400078,
+    "gn:latitude":17.84278,
+    "gn:longitude":44.03889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qushayya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676809,
+        1108720709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400078
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"db6aea89eb6c0b3c0e6bd7826cf3cd28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720709,
+            "locality_id":1242696045,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":1242696045,
+    "wof:lastmodified":1536892868,
+    "wof:name":"Qushayya",
+    "wof:parent_id":1108720709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03889,
+    17.84277999999999,
+    44.03889,
+    17.84277999999999
+],
+  "geometry": {"coordinates":[44.03889,17.84277999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343392869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.34157,23.29425,40.34157,23.29425",
+    "geom:latitude":23.29425,
+    "geom:longitude":40.34157,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Huwaymidah",
+    "gn:country_code":"SA",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410030,
+    "gn:latitude":23.29425,
+    "gn:longitude":40.34157,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28uwaymi\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28uwaymi\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410030
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d6f10314a3bdc006633bd1cd09878d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720607,
+            "locality_id":1343392869,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1343392869,
+    "wof:lastmodified":1537699332,
+    "wof:name":"Al Huwaymidah",
+    "wof:parent_id":1108720607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.34157,
+    23.29425,
+    40.34157,
+    23.29425
+],
+  "geometry": {"coordinates":[40.34157,23.29425],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276251289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01468,27.06966,47.01468,27.06966",
+    "geom:latitude":27.06966,
+    "geom:longitude":47.01468,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ash Shihiyah",
+    "gn:country_code":"SA",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391446,
+    "gn:latitude":27.06966,
+    "gn:longitude":47.01468,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ash Sh\u012b\u1e29\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Sh\u012b\u1e29\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391446
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9132a41d56ddf9da597aa5c1a272f8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720733,
+            "locality_id":1276251289,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1276251289,
+    "wof:lastmodified":1537699282,
+    "wof:name":"Ash Shihiyah",
+    "wof:parent_id":1108720733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01468,
+    27.06966,
+    47.01468,
+    27.06966
+],
+  "geometry": {"coordinates":[47.01468,27.06966],"type":"Point"}
+}

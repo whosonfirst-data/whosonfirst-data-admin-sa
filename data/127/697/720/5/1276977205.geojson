@@ -1,0 +1,73 @@
+{
+  "id": 1276977205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.38383,25.976,42.38383,25.976",
+    "geom:latitude":25.976,
+    "geom:longitude":42.38383,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Qitan al Qadimah",
+    "gn:country_code":"SA",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396163,
+    "gn:latitude":25.976,
+    "gn:longitude":42.38383,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Qi\u0163an al Qad\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u0646 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qi\u0163an al Qad\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396163
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e087b39bf7c7d4cfed74ceef7197db47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720749,
+            "locality_id":1276977205,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1276977205,
+    "wof:lastmodified":1537699306,
+    "wof:name":"Qitan al Qadimah",
+    "wof:parent_id":1108720749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.38383,
+    25.976,
+    42.38383,
+    25.976
+],
+  "geometry": {"coordinates":[42.38383,25.976],"type":"Point"}
+}

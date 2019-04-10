@@ -1,0 +1,70 @@
+{
+  "id": 1242766625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.61667,24.25,42.61667,24.25",
+    "geom:latitude":24.25,
+    "geom:longitude":42.61667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dalqan",
+    "gn:country_code":"SA",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107123,
+    "gn:latitude":24.25,
+    "gn:longitude":42.61667,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Dalq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107123
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"86c90176fb486cea61d29dce500af838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720547,
+            "locality_id":1242766625,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1242766625,
+    "wof:lastmodified":1537699219,
+    "wof:name":"Dalqan",
+    "wof:parent_id":1108720547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.61667,
+    24.25,
+    42.61667,
+    24.25
+],
+  "geometry": {"coordinates":[42.61667,24.25],"type":"Point"}
+}

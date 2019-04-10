@@ -1,0 +1,72 @@
+{
+  "id": 1243226145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.43167,24.77333,37.43167,24.77333",
+    "geom:latitude":24.77333,
+    "geom:longitude":37.43167,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Umm Qabr",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":400252,
+    "gn:latitude":24.77333,
+    "gn:longitude":37.43167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Umm Qabr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Qabir",
+        "Umm Qabr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676833,
+        1108720783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400252
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f8f74b23590b0df5582db40eae8390fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720783,
+            "locality_id":1243226145,
+            "region_id":85676833
+        }
+    ],
+    "wof:id":1243226145,
+    "wof:lastmodified":1537699329,
+    "wof:name":"Umm Qabr",
+    "wof:parent_id":1108720783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.43167,
+    24.77333,
+    37.43167,
+    24.77333
+],
+  "geometry": {"coordinates":[37.43167,24.77333],"type":"Point"}
+}

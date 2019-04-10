@@ -1,0 +1,70 @@
+{
+  "id": 1327445981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.33333,20.28333,41.33333,20.28333",
+    "geom:latitude":20.28333,
+    "geom:longitude":41.33333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ar Rayhah",
+    "gn:country_code":"SA",
+    "gn:dem":2175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108420,
+    "gn:latitude":20.28333,
+    "gn:longitude":41.33333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Ray\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Ray\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108420
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"830c2d8b0fda4b686f214a227e24916e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720625,
+            "locality_id":1327445981,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1327445981,
+    "wof:lastmodified":1537699236,
+    "wof:name":"Ar Rayhah",
+    "wof:parent_id":1108720625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.33333,
+    20.28333,
+    41.33333,
+    20.28333
+],
+  "geometry": {"coordinates":[41.33333,20.28333],"type":"Point"}
+}

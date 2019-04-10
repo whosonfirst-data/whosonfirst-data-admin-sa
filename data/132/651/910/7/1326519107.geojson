@@ -1,0 +1,77 @@
+{
+  "id": 1326519107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78266,26.33874,44.78266,26.33874",
+    "geom:latitude":26.33874,
+    "geom:longitude":44.78266,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Iliqah",
+    "gn:country_code":"SA",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109255,
+    "gn:latitude":26.33874,
+    "gn:longitude":44.78266,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"\u2018Iliqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Liq\u0101\u2019"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0650\u0644\u0650\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Liqa",
+        "\u2018Iliqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109255
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"fc9618b6daec4afaf73c779a69a155cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720667,
+            "locality_id":1326519107,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1326519107,
+    "wof:lastmodified":1537699254,
+    "wof:name":"`Iliqah",
+    "wof:parent_id":1108720667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78266,
+    26.33874,
+    44.78266,
+    26.33874
+],
+  "geometry": {"coordinates":[44.78266,26.33874],"type":"Point"}
+}

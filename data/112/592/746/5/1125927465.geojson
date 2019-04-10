@@ -1,0 +1,100 @@
+{
+  "id": 1125927465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.9124,16.57946,42.9124,16.57946",
+    "geom:latitude":16.57946,
+    "geom:longitude":42.9124,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7396,
+    "gn:population":7396,
+    "iso:country":"SA",
+    "lbl:latitude":16.57946,
+    "lbl:longitude":42.9124,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0627\u062f\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Al Jaradiyah"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jaradiyah"
+    ],
+    "name:nno_x_preferred":[
+        "Al Jaradiyah"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0627\u062f\u06cc\u0629"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0414\u0436\u0430\u0440\u0430\u0434\u0438\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0631\u0627\u062f\u06cc\u06c1"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":109481,
+    "qs_pg:gn_pop":7396,
+    "qs_pg:name":"Al Jar\u0101d\u012byah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":66341,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109481,
+        "qs_pg:id":66341,
+        "wd:id":"Q4704123"
+    },
+    "wof:country":"SA",
+    "wof:created":1497296689,
+    "wof:geomhash":"9a050cce79f12c1ae3cf91391bd1a486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720759,
+            "locality_id":1125927465,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1125927465,
+    "wof:lastmodified":1514504337,
+    "wof:name":"Al Jar\u0101d\u012byah",
+    "wof:parent_id":1108720759,
+    "wof:placetype":"locality",
+    "wof:population":7396,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.9124,
+    16.57946,
+    42.9124,
+    16.57946
+],
+  "geometry": {"coordinates":[42.9124,16.57946],"type":"Point"}
+}

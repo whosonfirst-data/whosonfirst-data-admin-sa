@@ -1,0 +1,66 @@
+{
+  "id": 1343271723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.73333,16.46667,42.73333,16.46667",
+    "geom:latitude":16.46667,
+    "geom:longitude":42.73333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Washm",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108761,
+    "gn:latitude":16.46667,
+    "gn:longitude":42.73333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Washm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Washim",
+        "Al Washm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108761
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d2a1dbcbb2f37dcae5dee430f1dbd606",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343271723,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343271723,
+    "wof:lastmodified":1537699242,
+    "wof:name":"Al Washm",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.73333,
+    16.46667,
+    42.73333,
+    16.46667
+],
+  "geometry": {"coordinates":[42.73333,16.46667],"type":"Point"}
+}

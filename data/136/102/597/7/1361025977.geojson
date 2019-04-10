@@ -1,0 +1,75 @@
+{
+  "id": 1361025977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.45,21.25,40.45,21.25",
+    "geom:latitude":21.25,
+    "geom:longitude":40.45,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nikhb",
+    "gn:country_code":"SA",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103537,
+    "gn:latitude":21.25,
+    "gn:longitude":40.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nikhb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "Nikhib",
+        "Nikhb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676857,
+        102191569,
+        85632253,
+        1343841281,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103537
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8bc183d917638fc8c2541af750c35072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1343841281,
+            "neighbourhood_id":1361025977,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1361025977,
+    "wof:lastmodified":1548452891,
+    "wof:name":"Nikhb",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343841281
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.45,
+    21.25,
+    40.45,
+    21.25
+],
+  "geometry": {"coordinates":[40.45,21.25],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1225909109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.52745,31.26654,37.52745,31.26654",
+    "geom:latitude":31.26654,
+    "geom:longitude":37.52745,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Ghutti",
+    "gn:country_code":"SA",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106491,
+    "gn:latitude":31.26654,
+    "gn:longitude":37.52745,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ghu\u0163\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0637\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Ghu\u0163\u0163\u012b"
+    ],
+    "name:und_x_variant":[
+        "Ro\u1e6d\u1e6di",
+        "Gha\u0163\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106491
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ff298045a79845eef80fa53e957098ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720635,
+            "locality_id":1225909109,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1225909109,
+    "wof:lastmodified":1537699215,
+    "wof:name":"Ghutti",
+    "wof:parent_id":1108720635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.52745,
+    31.26654000000001,
+    37.52745,
+    31.26654000000001
+],
+  "geometry": {"coordinates":[37.52745,31.26654000000001],"type":"Point"}
+}

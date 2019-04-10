@@ -1,0 +1,73 @@
+{
+  "id": 1242893833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94214,25.60526,43.94214,25.60526",
+    "geom:latitude":25.60526,
+    "geom:longitude":43.94214,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"An Na`ayim",
+    "gn:country_code":"SA",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397402,
+    "gn:latitude":25.60526,
+    "gn:longitude":43.94214,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"An Na\u2018\u0101yim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0651\u064e\u0639\u0627\u064a\u0650\u0645"
+    ],
+    "name:und_x_variant":[
+        "An Na\u2018\u0101yim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397402
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6a8a1312aecf77cd1c4c2807226f20c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720617,
+            "locality_id":1242893833,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1242893833,
+    "wof:lastmodified":1537699318,
+    "wof:name":"An Na`ayim",
+    "wof:parent_id":1108720617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94214,
+    25.60526,
+    43.94214,
+    25.60526
+],
+  "geometry": {"coordinates":[43.94214,25.60526],"type":"Point"}
+}

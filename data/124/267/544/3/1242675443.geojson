@@ -1,0 +1,101 @@
+{
+  "id": 1242675443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.06735,26.70742,50.06735,26.70742",
+    "geom:latitude":26.70742,
+    "geom:longitude":50.06735,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ras Tanura",
+    "gn:country_code":"SA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102891,
+    "gn:latitude":26.70742,
+    "gn:longitude":50.06735,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ras Tanura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u062a\u0646\u0648\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u062d\u064a\u0645\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Ra's Tanura"
+    ],
+    "name:eng_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0633 \u062a\u0646\u0648\u0631\u0647"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0441-\u0422\u0430\u043d\u043d\u0443\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ra\u2019s Tann\u016brah",
+        "Cape Tannura",
+        "Ras Tannura",
+        "Ra\u2019s at Tann\u016brah",
+        "Ras at Tannura",
+        "Ra\u1e29\u012bmah",
+        "Rahaima"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0633 \u062a\u0646\u0648\u0631\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u5766\u52aa\u62c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102891,
+        "wk:page":"Ras_Tanura"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c9887df3f13c7fc7a18058371bed0d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720745,
+            "locality_id":1242675443,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1242675443,
+    "wof:lastmodified":1537699183,
+    "wof:name":"Ras Tanura",
+    "wof:parent_id":1108720745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.06735,
+    26.70742000000001,
+    50.06735,
+    26.70742000000001
+],
+  "geometry": {"coordinates":[50.06735,26.70742000000001],"type":"Point"}
+}

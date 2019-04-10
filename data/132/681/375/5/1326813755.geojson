@@ -1,0 +1,71 @@
+{
+  "id": 1326813755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.1808,21.52173,40.1808,21.52173",
+    "geom:latitude":21.52173,
+    "geom:longitude":40.1808,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"As Sadr",
+    "gn:country_code":"SA",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411555,
+    "gn:latitude":21.52173,
+    "gn:longitude":40.1808,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015f \u015eadr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eadr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411555,
+        "wk:page":"As_Sadr"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6c9dd1ceadd3b06670c1f76d241db0ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1326813755,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1326813755,
+    "wof:lastmodified":1537699338,
+    "wof:name":"As Sadr",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.1808,
+    21.52173,
+    40.1808,
+    21.52173
+],
+  "geometry": {"coordinates":[40.1808,21.52173],"type":"Point"}
+}

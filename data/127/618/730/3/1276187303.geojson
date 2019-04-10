@@ -1,0 +1,73 @@
+{
+  "id": 1276187303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24403,28.02863,35.24403,28.02863",
+    "geom:latitude":28.02863,
+    "geom:longitude":35.24403,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ash Sharmah",
+    "gn:country_code":"SA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108243,
+    "gn:latitude":28.02863,
+    "gn:longitude":35.24403,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ash Sharmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Ka\u1e63ab",
+        "\u0160arma",
+        "Sharma",
+        "Ash Sharmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676833,
+        1108720693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108243
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"eab4af91ae8934063b2024986e9afdce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720693,
+            "locality_id":1276187303,
+            "region_id":85676833
+        }
+    ],
+    "wof:id":1276187303,
+    "wof:lastmodified":1537699232,
+    "wof:name":"Ash Sharmah",
+    "wof:parent_id":1108720693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24403,
+    28.02863,
+    35.24403,
+    28.02863
+],
+  "geometry": {"coordinates":[35.24403,28.02863],"type":"Point"}
+}

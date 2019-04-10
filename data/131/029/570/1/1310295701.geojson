@@ -1,0 +1,73 @@
+{
+  "id": 1310295701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.54273,25.61707,42.54273,25.61707",
+    "geom:latitude":25.61707,
+    "geom:longitude":42.54273,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Khutaym",
+    "gn:country_code":"SA",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395859,
+    "gn:latitude":25.61707,
+    "gn:longitude":42.54273,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al Khu\u0163aym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0637\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Khu\u0163aym"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395859
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d7df91f8dc75257df15a61d349e25f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1310295701,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1310295701,
+    "wof:lastmodified":1537699302,
+    "wof:name":"Al Khutaym",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.54273,
+    25.61707,
+    42.54273,
+    25.61707
+],
+  "geometry": {"coordinates":[42.54273,25.61707],"type":"Point"}
+}

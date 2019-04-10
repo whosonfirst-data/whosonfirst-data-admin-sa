@@ -1,0 +1,67 @@
+{
+  "id": 1277089441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21569,16.78182,43.21569,16.78182",
+    "geom:latitude":16.78182,
+    "geom:longitude":43.21569,
+    "gn:asciiname":"Al Khobh",
+    "gn:country_code":"SA",
+    "gn:dem":272,
+    "gn:elevation":"155.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8449370,
+    "gn:latitude":16.78182,
+    "gn:longitude":43.21569,
+    "gn:modification_date":"2013-01-14",
+    "gn:name":"Al Khobh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8449370
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3779d905f94c09dafe822928ba831647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720579,
+            "locality_id":1277089441,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1277089441,
+    "wof:lastmodified":1536758015,
+    "wof:name":"Al Khobh",
+    "wof:parent_id":1108720579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21569,
+    16.78182,
+    43.21569,
+    16.78182
+],
+  "geometry": {"coordinates":[43.21569,16.78182],"type":"Point"}
+}

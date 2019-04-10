@@ -1,0 +1,73 @@
+{
+  "id": 1309683245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.17693,21.52351,40.17693,21.52351",
+    "geom:latitude":21.52351,
+    "geom:longitude":40.17693,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mafruq",
+    "gn:country_code":"SA",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104618,
+    "gn:latitude":21.52351,
+    "gn:longitude":40.17693,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mafr\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qur\u0101 a\u015f \u015eadr",
+        "Maf\u016bq",
+        "Mafr\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104618,
+        "wk:page":"Mafruq"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2935fa47a5c63dd2edfc2e7e9ba5e85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1309683245,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1309683245,
+    "wof:lastmodified":1537699198,
+    "wof:name":"Mafruq",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.17693,
+    21.52351,
+    40.17693,
+    21.52351
+],
+  "geometry": {"coordinates":[40.17693,21.52351],"type":"Point"}
+}

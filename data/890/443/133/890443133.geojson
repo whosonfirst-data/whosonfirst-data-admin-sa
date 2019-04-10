@@ -1,0 +1,69 @@
+{
+  "id": 890443133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.217905,26.304187,50.217905,26.304187",
+    "geom:latitude":26.304187,
+    "geom:longitude":50.217905,
+    "gn:country":"SA",
+    "gp:adm0":23424938,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u0627\u0644\u0628\u0646\u062f\u0631\u064a\u0647",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photos":65,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":65,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55948895,
+        "qs:id":383504
+    },
+    "wof:country":"SA",
+    "wof:created":1469052402,
+    "wof:geomhash":"8106527b77e60a2291606e2d880c607b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":-1,
+            "neighbourhood_id":890443133,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":890443133,
+    "wof:lastmodified":1548455948,
+    "wof:name":"\u0627\u0644\u0628\u0646\u062f\u0631\u064a\u0647",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.217905,
+    26.304187,
+    50.217905,
+    26.304187
+],
+  "geometry": {"coordinates":[50.217905,26.304187],"type":"Point"}
+}

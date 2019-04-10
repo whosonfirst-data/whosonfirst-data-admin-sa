@@ -1,0 +1,74 @@
+{
+  "id": 1209018993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.39034,18.5661,43.39034,18.5661",
+    "geom:latitude":18.5661,
+    "geom:longitude":43.39034,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al `Arin",
+    "gn:country_code":"SA",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110037,
+    "gn:latitude":18.5661,
+    "gn:longitude":43.39034,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018Ar\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Ar\u012bn"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arin",
+        "Al \u2018Ar\u012bne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110037
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e529a047460654646ed75f4934d07a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1209018993,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1209018993,
+    "wof:lastmodified":1548455900,
+    "wof:name":"Al `Arin",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.39034,
+    18.5661,
+    43.39034,
+    18.5661
+],
+  "geometry": {"coordinates":[43.39034,18.5661],"type":"Point"}
+}

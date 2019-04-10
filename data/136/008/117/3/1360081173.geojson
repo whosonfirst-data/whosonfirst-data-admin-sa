@@ -1,0 +1,67 @@
+{
+  "id": 1360081173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2,24.08333,47.2,24.08333",
+    "geom:latitude":24.08333,
+    "geom:longitude":47.2,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bida",
+    "gn:country_code":"SA",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107455,
+    "gn:latitude":24.08333,
+    "gn:longitude":47.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107455
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0f3b03bf077cbeed73271b67dbf98ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1360081173,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1360081173,
+    "wof:lastmodified":1536951516,
+    "wof:name":"Bida",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2,
+    24.08333,
+    47.2,
+    24.08333
+],
+  "geometry": {"coordinates":[47.2,24.08333],"type":"Point"}
+}

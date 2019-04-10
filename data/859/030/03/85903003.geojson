@@ -1,0 +1,119 @@
+{
+  "id": 85903003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10415994.795534,
+    "geom:bbox":"46.661255,24.764123,46.661255,24.764123",
+    "geom:latitude":24.764123,
+    "geom:longitude":46.661255,
+    "gn:id":"",
+    "iso:country":"SA",
+    "lbl:latitude":24.764123,
+    "lbl:longitude":46.661255,
+    "mps:latitude":24.763043,
+    "mps:longitude":46.657154,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0648\u062c"
+    ],
+    "name:eng_x_colloquial":[
+        "Al Muroej",
+        "Al Muroj",
+        "Al Muruj"
+    ],
+    "name:eng_x_preferred":[
+        "Al Marooj"
+    ],
+    "name:eng_x_variant":[
+        "Al Mur\u00f8j",
+        "Al Marooj"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0645\u0631\u0648\u062c"
+    ],
+    "qs:gn_adm0_cc":"SA",
+    "qs:gn_id":0,
+    "qs:gn_local":108410,
+    "qs:gn_nam_loc":"\u0627\u0644\u0631\u064a\u0627\u0636, \u0627\u0644\u0631\u064a\u0627\u0636, \u0627\u0644\u0631\u064a\u0627\u0636, SA",
+    "qs:gn_namadm1":"10",
+    "qs:local_max":655,
+    "qs:local_sum":5321,
+    "qs:localhoods":54,
+    "qs:name":"\u0627\u0644\u0645\u0631\u0648\u062c",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:name_adm2":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:name_en":"Al Marooj",
+    "qs:name_local":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:photo_max":10,
+    "qs:photo_sum":44,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424938,
+    "qs:woe_adm1":2346951,
+    "qs:woe_adm2":56120189,
+    "qs:woe_lau":0,
+    "qs:woe_local":1939753,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1937893,
+        "qs:id":1119448,
+        "qs_pg:id":1119448
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"abe46512d78d471860ffccdfaf436508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":-1,
+            "neighbourhood_id":85903003,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":85903003,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531935983,
+    "wof:name":"\u0627\u0644\u0645\u0631\u0648\u062c",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.661255,
+    24.764123,
+    46.661255,
+    24.764123
+],
+  "geometry": {"coordinates":[46.661255,24.764123],"type":"Point"}
+}

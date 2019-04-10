@@ -1,0 +1,77 @@
+{
+  "id": 1327022485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61144,28.10125,48.61144,28.10125",
+    "geom:latitude":28.10125,
+    "geom:longitude":48.61144,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Mish`ab",
+    "gn:country_code":"SA",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109113,
+    "gn:latitude":28.10125,
+    "gn:longitude":48.61144,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mish\u2018\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Mish\u2018\u0101b"
+    ],
+    "name:und_x_variant":[
+        "Ras el Misha\u2018ab",
+        "Mish\u2018\u0101b",
+        "Ras Misha\u2018ab",
+        "Mishaab",
+        "Ra\u2019s al Mish\u2018\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109113
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b5e8b1fae85277b4d0caa9f237475a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720591,
+            "locality_id":1327022485,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1327022485,
+    "wof:lastmodified":1537699252,
+    "wof:name":"Al Mish`ab",
+    "wof:parent_id":1108720591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61144,
+    28.10125,
+    48.61144,
+    28.10125
+],
+  "geometry": {"coordinates":[48.61144,28.10125],"type":"Point"}
+}

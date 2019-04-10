@@ -1,0 +1,86 @@
+{
+  "id": 421169585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.60083,24.75389,46.60083,24.75389",
+    "geom:latitude":24.75389,
+    "geom:longitude":46.60083,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u1e28i\u0163\u0163\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0637\u064a\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Hittin"
+    ],
+    "qs:gn_country":"SA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":448524,
+    "qs:gn_pop":0,
+    "qs:name":"\u062d\u0637\u064a\u0646",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:photos":187,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":187,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1191449,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":22725978,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720543,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448524,
+        "gp:id":22725978,
+        "qs:id":1191449
+    },
+    "wof:country":"SA",
+    "wof:created":1459008816,
+    "wof:geomhash":"0f678a1f9215441648910c32c718f1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720543,
+            "locality_id":-1,
+            "neighbourhood_id":421169585,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":421169585,
+    "wof:lastmodified":1531858332,
+    "wof:name":"\u062d\u0637\u064a\u0646",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.60083,
+    24.75389,
+    46.60083,
+    24.75389
+],
+  "geometry": {"coordinates":[46.60083,24.75389],"type":"Point"}
+}

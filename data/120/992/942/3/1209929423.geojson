@@ -1,0 +1,72 @@
+{
+  "id": 1209929423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.12795,16.59665,43.12795,16.59665",
+    "geom:latitude":16.59665,
+    "geom:longitude":43.12795,
+    "gn:asciiname":"Al Sirdah",
+    "gn:country_code":"SA",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8436909,
+    "gn:latitude":16.59665,
+    "gn:longitude":43.12795,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Al Sirdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0631\u062f\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "As Sirdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436909
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"27e081a0af6f3104e542f5516adf0e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720759,
+            "locality_id":1209929423,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1209929423,
+    "wof:lastmodified":1537699344,
+    "wof:name":"Al Sirdah",
+    "wof:parent_id":1108720759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.12795,
+    16.59665,
+    43.12795,
+    16.59665
+],
+  "geometry": {"coordinates":[43.12795,16.59665],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309900957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1648,26.46633,45.1648,26.46633",
+    "geom:latitude":26.46633,
+    "geom:longitude":45.1648,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Huwaymidah",
+    "gn:country_code":"SA",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392156,
+    "gn:latitude":26.46633,
+    "gn:longitude":45.1648,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"\u1e28uwaymi\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u0645\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28uwaymi\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392156
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"db6697e5c4979eb696d5ec101104227e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1309900957,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1309900957,
+    "wof:lastmodified":1537699285,
+    "wof:name":"Huwaymidah",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1648,
+    26.46633,
+    45.1648,
+    26.46633
+],
+  "geometry": {"coordinates":[45.1648,26.46633],"type":"Point"}
+}

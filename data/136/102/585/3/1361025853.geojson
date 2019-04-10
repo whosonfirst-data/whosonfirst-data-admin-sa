@@ -1,0 +1,74 @@
+{
+  "id": 1361025853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.62647,24.59687,46.62647,24.59687",
+    "geom:latitude":24.59687,
+    "geom:longitude":46.62647,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Laban",
+    "gn:country_code":"SA",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9642344,
+    "gn:latitude":24.59687,
+    "gn:longitude":46.62647,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Laban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u0628\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85676813,
+        102191569,
+        85632253,
+        1292895043,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9642344
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"aed1ea4db6aae03c2df61c84bd516c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":1292895043,
+            "neighbourhood_id":1361025853,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1361025853,
+    "wof:lastmodified":1548452890,
+    "wof:name":"Laban",
+    "wof:parent_id":1108720657,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1292895043
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.62647,
+    24.59687000000001,
+    46.62647,
+    24.59687000000001
+],
+  "geometry": {"coordinates":[46.62647,24.59687000000001],"type":"Point"}
+}

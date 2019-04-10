@@ -1,0 +1,75 @@
+{
+  "id": 1293874355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.225,25.76333,44.225,25.76333",
+    "geom:latitude":25.76333,
+    "geom:longitude":44.225,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Rawdat az Zar`",
+    "gn:country_code":"SA",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":397965,
+    "gn:latitude":25.76333,
+    "gn:longitude":44.225,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Raw\u1e11at az Zar\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0636\u0629 \u0627\u0644\u0632\u0631\u0639"
+    ],
+    "name:und_x_variant":[
+        "Raw\u1e11at az Zar\u2018",
+        "Qa\u015fr Z\u0101rah",
+        "Qasr Zara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397965
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a53f46ed33465df7f6b05d618a177646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720617,
+            "locality_id":1293874355,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1293874355,
+    "wof:lastmodified":1537699322,
+    "wof:name":"Rawdat az Zar`",
+    "wof:parent_id":1108720617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.225,
+    25.76333,
+    44.225,
+    25.76333
+],
+  "geometry": {"coordinates":[44.225,25.76333],"type":"Point"}
+}

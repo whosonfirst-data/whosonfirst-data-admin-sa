@@ -1,0 +1,74 @@
+{
+  "id": 1226537815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.62091,25.51337,49.62091,25.51337",
+    "geom:latitude":25.51337,
+    "geom:longitude":49.62091,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Qarn",
+    "gn:country_code":"SA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108944,
+    "gn:latitude":25.51337,
+    "gn:longitude":49.62091,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Al Qarn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qaran",
+        "Al Qarn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108944
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d3d8f2cb52a8c1792c22b81fccabad06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1226537815,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1226537815,
+    "wof:lastmodified":1537699247,
+    "wof:name":"Al Qarn",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.62091,
+    25.51337,
+    49.62091,
+    25.51337
+],
+  "geometry": {"coordinates":[49.62091,25.51337],"type":"Point"}
+}

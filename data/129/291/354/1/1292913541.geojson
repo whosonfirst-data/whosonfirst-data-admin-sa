@@ -1,0 +1,70 @@
+{
+  "id": 1292913541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.55,19.91667,41.55,19.91667",
+    "geom:latitude":19.91667,
+    "geom:longitude":41.55,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Suq al Ithnayn",
+    "gn:country_code":"SA",
+    "gn:dem":2113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101723,
+    "gn:latitude":19.91667,
+    "gn:longitude":41.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bq al Ithnayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al Ithnayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101723
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"01d0703abe1d36f88801350ec7b22236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720679,
+            "locality_id":1292913541,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1292913541,
+    "wof:lastmodified":1537699173,
+    "wof:name":"Suq al Ithnayn",
+    "wof:parent_id":1108720679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.55,
+    19.91667,
+    41.55,
+    19.91667
+],
+  "geometry": {"coordinates":[41.55,19.91667],"type":"Point"}
+}

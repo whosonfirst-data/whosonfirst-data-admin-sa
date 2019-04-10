@@ -1,0 +1,77 @@
+{
+  "id": 421185149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.65296,27.46666,41.65296,27.46666",
+    "geom:latitude":27.46666,
+    "geom:longitude":41.65296,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":395015,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u0646\u0642\u0631\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u062d\u0627\u0626\u0644",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1018644,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":1938180,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720703,
+        85676831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395015,
+        "gp:id":1938180,
+        "qs:id":1018644
+    },
+    "wof:country":"SA",
+    "wof:created":1459009434,
+    "wof:geomhash":"fa0f66d80144753f9a756cadb0ff7d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":-1,
+            "neighbourhood_id":421185149,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":421185149,
+    "wof:lastmodified":1531858572,
+    "wof:name":"\u0627\u0644\u0646\u0642\u0631\u0629",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.65296,
+    27.46666,
+    41.65296,
+    27.46666
+],
+  "geometry": {"coordinates":[41.65296,27.46666],"type":"Point"}
+}

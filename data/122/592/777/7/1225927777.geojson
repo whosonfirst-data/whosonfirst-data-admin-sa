@@ -1,0 +1,74 @@
+{
+  "id": 1225927777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.19395,24.56926,46.19395,24.56926",
+    "geom:latitude":24.56926,
+    "geom:longitude":46.19395,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Lamma`ah",
+    "gn:country_code":"SA",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104733,
+    "gn:latitude":24.56926,
+    "gn:longitude":46.19395,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Lamm\u0101\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0645\u0627\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Lamm\u0101\u2018a",
+        "Lamm\u0101\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104733
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"69385b0a37ac3c7e908b60aa275703a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720695,
+            "locality_id":1225927777,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1225927777,
+    "wof:lastmodified":1537699199,
+    "wof:name":"Lamma`ah",
+    "wof:parent_id":1108720695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.19395,
+    24.56926,
+    46.19395,
+    24.56926
+],
+  "geometry": {"coordinates":[46.19395,24.56926],"type":"Point"}
+}

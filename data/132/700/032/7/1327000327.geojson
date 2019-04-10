@@ -1,0 +1,73 @@
+{
+  "id": 1327000327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.71598,29.19274,44.71598,29.19274",
+    "geom:latitude":29.19274,
+    "geom:longitude":44.71598,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Nisab",
+    "gn:country_code":"SA",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103528,
+    "gn:latitude":29.19274,
+    "gn:longitude":44.71598,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Ni\u015f\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ni\u015f\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0635\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103528
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6038c5cb1e3ef5c94280ec3297775a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720741,
+            "locality_id":1327000327,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1327000327,
+    "wof:lastmodified":1537699190,
+    "wof:name":"Nisab",
+    "wof:parent_id":1108720741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.71598,
+    29.19274,
+    44.71598,
+    29.19274
+],
+  "geometry": {"coordinates":[44.71598,29.19274],"type":"Point"}
+}

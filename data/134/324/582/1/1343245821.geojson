@@ -1,0 +1,67 @@
+{
+  "id": 1343245821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42444,24.38361,44.42444,24.38361",
+    "geom:latitude":24.38361,
+    "geom:longitude":44.42444,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"As Sumayrah",
+    "gn:country_code":"SA",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399239,
+    "gn:latitude":24.38361,
+    "gn:longitude":44.42444,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"As Sumayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399239
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"900f68b03e6c42f6c059512e5bb18c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1343245821,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1343245821,
+    "wof:lastmodified":1537053800,
+    "wof:name":"As Sumayrah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42444,
+    24.38361,
+    44.42444,
+    24.38361
+],
+  "geometry": {"coordinates":[44.42444,24.38361],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1327452023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6062,25.59714,45.6062,25.59714",
+    "geom:latitude":25.59714,
+    "geom:longitude":45.6062,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Husun",
+    "gn:country_code":"SA",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109545,
+    "gn:latitude":25.59714,
+    "gn:longitude":45.6062,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Al \u1e28u\u015f\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28u\u015f\u016bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0635\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Hassun",
+        "Al \u1e28i\u015f\u016bn",
+        "Has\u016bn",
+        "\u1e28u\u015f\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109545
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5218df8c03a2ccf88c83a32a33805dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1327452023,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1327452023,
+    "wof:lastmodified":1537699261,
+    "wof:name":"Al Husun",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6062,
+    25.59714,
+    45.6062,
+    25.59714
+],
+  "geometry": {"coordinates":[45.6062,25.59714],"type":"Point"}
+}

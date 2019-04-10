@@ -1,0 +1,73 @@
+{
+  "id": 1309730441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.32105,26.78836,41.32105,26.78836",
+    "geom:latitude":26.78836,
+    "geom:longitude":41.32105,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ghazzalah",
+    "gn:country_code":"SA",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106468,
+    "gn:latitude":26.78836,
+    "gn:longitude":41.32105,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ghazz\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al-Razale",
+        "Ghazzala",
+        "Al Ghaz\u0101lah",
+        "Ghazz\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106468
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b2b90daabec55eefaec2d383c677db14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720573,
+            "locality_id":1309730441,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1309730441,
+    "wof:lastmodified":1537699214,
+    "wof:name":"Ghazzalah",
+    "wof:parent_id":1108720573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.32105,
+    26.78836,
+    41.32105,
+    26.78836
+],
+  "geometry": {"coordinates":[41.32105,26.78836],"type":"Point"}
+}

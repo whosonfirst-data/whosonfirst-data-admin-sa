@@ -1,0 +1,70 @@
+{
+  "id": 1276650275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.57028,25.60472,45.57028,25.60472",
+    "geom:latitude":25.60472,
+    "geom:longitude":45.57028,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Quwaybil",
+    "gn:country_code":"SA",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413098,
+    "gn:latitude":25.60472,
+    "gn:longitude":45.57028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Quwayb\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quwayb\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413098
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"64822cb5166be3c9644ddc432d1e3051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1276650275,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1276650275,
+    "wof:lastmodified":1537699339,
+    "wof:name":"Quwaybil",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.57028,
+    25.60472,
+    45.57028,
+    25.60472
+],
+  "geometry": {"coordinates":[45.57028,25.60472],"type":"Point"}
+}

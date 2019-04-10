@@ -1,0 +1,67 @@
+{
+  "id": 1209433243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.53333,19.83333,41.53333,19.83333",
+    "geom:latitude":19.83333,
+    "geom:longitude":41.53333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Mad",
+    "gn:country_code":"SA",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109234,
+    "gn:latitude":19.83333,
+    "gn:longitude":41.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109234
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9c829b03303bb156b3cffaaf0c9e13c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720679,
+            "locality_id":1209433243,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1209433243,
+    "wof:lastmodified":1548455917,
+    "wof:name":"Al Mad",
+    "wof:parent_id":1108720679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.53333,
+    19.83333,
+    41.53333,
+    19.83333
+],
+  "geometry": {"coordinates":[41.53333,19.83333],"type":"Point"}
+}

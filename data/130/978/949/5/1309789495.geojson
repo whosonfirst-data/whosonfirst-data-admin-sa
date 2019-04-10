@@ -1,0 +1,70 @@
+{
+  "id": 1309789495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.94787,23.99513,44.94787,23.99513",
+    "geom:latitude":23.99513,
+    "geom:longitude":44.94787,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nukhaylan",
+    "gn:country_code":"SA",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399780,
+    "gn:latitude":23.99513,
+    "gn:longitude":44.94787,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nukhayl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nukhayl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399780
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ee85c4d5a4d1fc239e1a1a5f75071670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1309789495,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1309789495,
+    "wof:lastmodified":1537699326,
+    "wof:name":"Nukhaylan",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.94787,
+    23.99513,
+    44.94787,
+    23.99513
+],
+  "geometry": {"coordinates":[44.94787,23.99513],"type":"Point"}
+}

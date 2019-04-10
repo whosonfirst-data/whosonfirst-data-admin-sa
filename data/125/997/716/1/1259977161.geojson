@@ -1,0 +1,73 @@
+{
+  "id": 1259977161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.47479,27.47324,48.47479,27.47324",
+    "geom:latitude":27.47324,
+    "geom:longitude":48.47479,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"An Nu`ayriyah",
+    "gn:country_code":"SA",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108610,
+    "gn:latitude":27.47324,
+    "gn:longitude":48.47479,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"An Nu\u2018ayr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naairiya",
+        "An Nu\u2018ayr\u012bya",
+        "Nariya",
+        "An Nu\u2018ayr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108610
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a76fd4c6b97cdd64e2b98b2d644cea0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720623,
+            "locality_id":1259977161,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1259977161,
+    "wof:lastmodified":1537699239,
+    "wof:name":"An Nu`ayriyah",
+    "wof:parent_id":1108720623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.47479000000001,
+    27.47324,
+    48.47479000000001,
+    27.47324
+],
+  "geometry": {"coordinates":[48.47479000000001,27.47324],"type":"Point"}
+}

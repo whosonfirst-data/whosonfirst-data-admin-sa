@@ -1,0 +1,77 @@
+{
+  "id": 1293747269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.99484,16.64492,42.99484,16.64492",
+    "geom:latitude":16.64492,
+    "geom:longitude":42.99484,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Al Jazi`",
+    "gn:country_code":"SA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411001,
+    "gn:latitude":16.64492,
+    "gn:longitude":42.99484,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Al J\u0101z\u0327i\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al J\u0101\u1e11i"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0627\u0638\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al J\u0101z\u0327i\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411001,
+        "wk:page":"Al_Jadi"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"06a1376c8ee4dad6242ba69d79a8d4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720759,
+            "locality_id":1293747269,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1293747269,
+    "wof:lastmodified":1537699336,
+    "wof:name":"Al Jazi`",
+    "wof:parent_id":1108720759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.99484,
+    16.64492000000001,
+    42.99484,
+    16.64492000000001
+],
+  "geometry": {"coordinates":[42.99484,16.64492000000001],"type":"Point"}
+}

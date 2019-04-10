@@ -1,0 +1,71 @@
+{
+  "id": 1259782689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.53333,24.23333,38.53333,24.23333",
+    "geom:latitude":24.23333,
+    "geom:longitude":38.53333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Sha`tha'",
+    "gn:country_code":"SA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102125,
+    "gn:latitude":24.23333,
+    "gn:longitude":38.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sha\u2018th\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sha\u2018th\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102125,
+        "wk:page":"Sha%60tha%27"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"caf52498fd97188c046998eaf28e7942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720795,
+            "locality_id":1259782689,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1259782689,
+    "wof:lastmodified":1537699176,
+    "wof:name":"Sha`tha'",
+    "wof:parent_id":1108720795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.53333,
+    24.23333,
+    38.53333,
+    24.23333
+],
+  "geometry": {"coordinates":[38.53333,24.23333],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327025581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.19434,26.18058,50.19434,26.18058",
+    "geom:latitude":26.18058,
+    "geom:longitude":50.19434,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al `Aziziyah",
+    "gn:country_code":"SA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109971,
+    "gn:latitude":26.18058,
+    "gn:longitude":50.19434,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Al \u2018Az\u012bz\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aziziyah Terminal",
+        "M\u012bn\u0101\u2019 al \u2018Az\u012bz\u012byah",
+        "Al \u2018Az\u012bz\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109971
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7ba1a52b95245fb477fd9719004c9f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1327025581,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1327025581,
+    "wof:lastmodified":1548452890,
+    "wof:name":"Al `Aziziyah",
+    "wof:parent_id":1108720599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361026073
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.19434,
+    26.18058,
+    50.19434,
+    26.18058
+],
+  "geometry": {"coordinates":[50.19434,26.18058],"type":"Point"}
+}

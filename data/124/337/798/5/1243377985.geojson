@@ -1,0 +1,73 @@
+{
+  "id": 1243377985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35991,26.90585,43.35991,26.90585",
+    "geom:latitude":26.90585,
+    "geom:longitude":43.35991,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Hadidiyah",
+    "gn:country_code":"SA",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397071,
+    "gn:latitude":26.90585,
+    "gn:longitude":43.35991,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al \u1e28ad\u012bd\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u064a\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ad\u012bd\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397071
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"90597ba84016422c07a2781ab5900c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720787,
+            "locality_id":1243377985,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1243377985,
+    "wof:lastmodified":1537699314,
+    "wof:name":"Al Hadidiyah",
+    "wof:parent_id":1108720787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35991,
+    26.90585,
+    43.35991,
+    26.90585
+],
+  "geometry": {"coordinates":[43.35991,26.90585],"type":"Point"}
+}

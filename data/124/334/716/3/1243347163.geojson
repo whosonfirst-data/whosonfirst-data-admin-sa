@@ -1,0 +1,73 @@
+{
+  "id": 1243347163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.019,24.00482,45.019,24.00482",
+    "geom:latitude":24.00482,
+    "geom:longitude":45.019,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al `Awshaziyah",
+    "gn:country_code":"SA",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396594,
+    "gn:latitude":24.00482,
+    "gn:longitude":45.019,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al \u2018Awshaz\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u0634\u0632\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Awshaz\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396594
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6fe8d123d00a295954038ef06b6a3d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1243347163,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1243347163,
+    "wof:lastmodified":1537699309,
+    "wof:name":"Al `Awshaziyah",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.019,
+    24.00482,
+    45.019,
+    24.00482
+],
+  "geometry": {"coordinates":[45.019,24.00482],"type":"Point"}
+}

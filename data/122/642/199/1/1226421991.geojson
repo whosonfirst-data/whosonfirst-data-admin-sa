@@ -1,0 +1,73 @@
+{
+  "id": 1226421991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.46276,27.00527,41.46276,27.00527",
+    "geom:latitude":27.00527,
+    "geom:longitude":41.46276,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ad Darah",
+    "gn:country_code":"SA",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394864,
+    "gn:latitude":27.00527,
+    "gn:longitude":41.46276,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ad D\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad D\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394864
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8a31bec2efc3acb744df3003c3e06f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1226421991,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1226421991,
+    "wof:lastmodified":1537699292,
+    "wof:name":"Ad Darah",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.46276,
+    27.00527,
+    41.46276,
+    27.00527
+],
+  "geometry": {"coordinates":[41.46276,27.00527],"type":"Point"}
+}

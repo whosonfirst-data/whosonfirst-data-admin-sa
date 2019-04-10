@@ -1,0 +1,70 @@
+{
+  "id": 1360202761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.90189,18.07134,42.90189,18.07134",
+    "geom:latitude":18.07134,
+    "geom:longitude":42.90189,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"`Anqarah",
+    "gn:country_code":"SA",
+    "gn:dem":2196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108594,
+    "gn:latitude":18.07134,
+    "gn:longitude":42.90189,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Anqarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Anqarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108594
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a3fa34cb0c87bdfccf7b33783514a180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1360202761,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1360202761,
+    "wof:lastmodified":1537699239,
+    "wof:name":"`Anqarah",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.90189,
+    18.07134,
+    42.90189,
+    18.07134
+],
+  "geometry": {"coordinates":[42.90189,18.07134],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125925109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.42419,27.27103,48.42419,27.27103",
+    "geom:latitude":27.27103,
+    "geom:longitude":48.42419,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5247,
+    "gn:population":5247,
+    "iso:country":"SA",
+    "lbl:latitude":27.27103,
+    "lbl:longitude":48.42419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Mulaija"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":103922,
+    "qs_pg:gn_pop":5247,
+    "qs_pg:name":"Mulayjah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":65172,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103922,
+        "qs_pg:id":65172
+    },
+    "wof:country":"SA",
+    "wof:created":1497296614,
+    "wof:geomhash":"b9273e65f503e7465c2cc5fb317c047a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720623,
+            "locality_id":1125925109,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1125925109,
+    "wof:lastmodified":1509401045,
+    "wof:name":"Mulayjah",
+    "wof:parent_id":1108720623,
+    "wof:placetype":"locality",
+    "wof:population":5247,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.42419,
+    27.27103,
+    48.42419,
+    27.27103
+],
+  "geometry": {"coordinates":[48.42419,27.27103],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360170175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.37058,25.66308,43.37058,25.66308",
+    "geom:latitude":25.66308,
+    "geom:longitude":43.37058,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Nafjah",
+    "gn:country_code":"SA",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396022,
+    "gn:latitude":25.66308,
+    "gn:longitude":43.37058,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Nafjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0641\u062c\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396022
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"666a9485216c660744355565617275bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720653,
+            "locality_id":1360170175,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1360170175,
+    "wof:lastmodified":1537699305,
+    "wof:name":"Nafjah",
+    "wof:parent_id":1108720653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.37058,
+    25.66308,
+    43.37058,
+    25.66308
+],
+  "geometry": {"coordinates":[43.37058,25.66308],"type":"Point"}
+}

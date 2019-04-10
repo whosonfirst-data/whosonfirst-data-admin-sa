@@ -1,0 +1,70 @@
+{
+  "id": 1259662691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.79694,22.26056,39.79694,22.26056",
+    "geom:latitude":22.26056,
+    "geom:longitude":39.79694,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Kamil",
+    "gn:country_code":"SA",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409693,
+    "gn:latitude":22.26056,
+    "gn:longitude":39.79694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al K\u0101mil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al K\u0101mil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409693
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"431068a342b50ad95ee053db1b26fe79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720589,
+            "locality_id":1259662691,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1259662691,
+    "wof:lastmodified":1537699331,
+    "wof:name":"Al Kamil",
+    "wof:parent_id":1108720589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.79694,
+    22.26056,
+    39.79694,
+    22.26056
+],
+  "geometry": {"coordinates":[39.79694,22.26056],"type":"Point"}
+}

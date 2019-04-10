@@ -1,0 +1,72 @@
+{
+  "id": 1260304073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.03333,18.56667,42.03333,18.56667",
+    "geom:latitude":18.56667,
+    "geom:longitude":42.03333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Maghabb",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104613,
+    "gn:latitude":18.56667,
+    "gn:longitude":42.03333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Maghabb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maqhab",
+        "Maghabb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104613
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2156fe24711bd262d96192f2909e3b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720729,
+            "locality_id":1260304073,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1260304073,
+    "wof:lastmodified":1537699198,
+    "wof:name":"Maghabb",
+    "wof:parent_id":1108720729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.03333,
+    18.56667,
+    42.03333,
+    18.56667
+],
+  "geometry": {"coordinates":[42.03333,18.56667],"type":"Point"}
+}

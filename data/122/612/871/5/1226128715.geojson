@@ -1,0 +1,70 @@
+{
+  "id": 1226128715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.79171,27.87051,41.79171,27.87051",
+    "geom:latitude":27.87051,
+    "geom:longitude":41.79171,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Hurayr",
+    "gn:country_code":"SA",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395213,
+    "gn:latitude":27.87051,
+    "gn:longitude":41.79171,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Hurayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0631\u064a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395213
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"81d674bf8c7c9325206ff4b8adf7c763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":1226128715,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1226128715,
+    "wof:lastmodified":1537699296,
+    "wof:name":"Al Hurayr",
+    "wof:parent_id":1108720703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.79171,
+    27.87051,
+    41.79171,
+    27.87051
+],
+  "geometry": {"coordinates":[41.79171,27.87051],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327052087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75392,24.96752,48.75392,24.96752",
+    "geom:latitude":24.96752,
+    "geom:longitude":48.75392,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Al Hunayy",
+    "gn:country_code":"SA",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109553,
+    "gn:latitude":24.96752,
+    "gn:longitude":48.75392,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Al \u1e28unayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "El Hani",
+        "Al Hani",
+        "Al \u1e28unayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109553
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4b50180d3623af95d8ce2d1061851474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1327052087,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1327052087,
+    "wof:lastmodified":1537699262,
+    "wof:name":"Al Hunayy",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75392,
+    24.96752,
+    48.75392,
+    24.96752
+],
+  "geometry": {"coordinates":[48.75392,24.96752],"type":"Point"}
+}

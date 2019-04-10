@@ -1,0 +1,73 @@
+{
+  "id": 1327050083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.71321,25.56852,42.71321,25.56852",
+    "geom:latitude":25.56852,
+    "geom:longitude":42.71321,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Ghadya'",
+    "gn:country_code":"SA",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395852,
+    "gn:latitude":25.56852,
+    "gn:longitude":42.71321,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Gha\u1e11y\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0636\u064a\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Gha\u1e11y\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395852
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2946d5258868f25337230d7e29213e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1327050083,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1327050083,
+    "wof:lastmodified":1537699302,
+    "wof:name":"Al Ghadya'",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.71321,
+    25.56852,
+    42.71321,
+    25.56852
+],
+  "geometry": {"coordinates":[42.71321,25.56852],"type":"Point"}
+}

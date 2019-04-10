@@ -1,0 +1,71 @@
+{
+  "id": 1243472727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.97932,18.02193,42.97932,18.02193",
+    "geom:latitude":18.02193,
+    "geom:longitude":42.97932,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Zuhrah",
+    "gn:country_code":"SA",
+    "gn:dem":2367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108733,
+    "gn:latitude":18.02193,
+    "gn:longitude":42.97932,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"\u0100l Z\u0327uhrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Dhuhrah",
+        "\u0100l Z\u0327uhrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108733
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8e8749f5c87271e6270cb6f5a07214ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720551,
+            "locality_id":1243472727,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1243472727,
+    "wof:lastmodified":1537699240,
+    "wof:name":"Al Zuhrah",
+    "wof:parent_id":1108720551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.97932,
+    18.02193,
+    42.97932,
+    18.02193
+],
+  "geometry": {"coordinates":[42.97932,18.02193],"type":"Point"}
+}

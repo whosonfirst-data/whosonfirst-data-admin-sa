@@ -1,0 +1,70 @@
+{
+  "id": 1344152333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21667,24.95,43.21667,24.95",
+    "geom:latitude":24.95,
+    "geom:longitude":43.21667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Qararah",
+    "gn:country_code":"SA",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108953,
+    "gn:latitude":24.95,
+    "gn:longitude":43.21667,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Qar\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qar\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108953
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"05596f5a37c85592cf7a8fb53ecda660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1344152333,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1344152333,
+    "wof:lastmodified":1537699247,
+    "wof:name":"Al Qararah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21667,
+    24.95,
+    43.21667,
+    24.95
+],
+  "geometry": {"coordinates":[43.21667,24.95],"type":"Point"}
+}

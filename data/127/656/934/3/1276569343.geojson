@@ -1,0 +1,79 @@
+{
+  "id": 1276569343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16408,25.56395,47.16408,25.56395",
+    "geom:latitude":25.56395,
+    "geom:longitude":47.16408,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rumah",
+    "gn:country_code":"SA",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102744,
+    "gn:latitude":25.56395,
+    "gn:longitude":47.16408,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Rum\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Rum\u0101\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0645\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Ar Rum\u0101h",
+        "Rim\u0101h",
+        "Ar Rim\u0101\u1e29",
+        "Ruma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102744
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1f0086a4be932d74dd03ae509d897727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720751,
+            "locality_id":1276569343,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1276569343,
+    "wof:lastmodified":1537699181,
+    "wof:name":"Rumah",
+    "wof:parent_id":1108720751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16408,
+    25.56395,
+    47.16408,
+    25.56395
+],
+  "geometry": {"coordinates":[47.16408,25.56395],"type":"Point"}
+}

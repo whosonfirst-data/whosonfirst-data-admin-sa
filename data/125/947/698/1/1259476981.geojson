@@ -1,0 +1,75 @@
+{
+  "id": 1259476981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.45141,25.67865,45.45141,25.67865",
+    "geom:latitude":25.67865,
+    "geom:longitude":45.45141,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Jalajil",
+    "gn:country_code":"SA",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":105471,
+    "gn:latitude":25.67865,
+    "gn:longitude":45.45141,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Jal\u0101jil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0627\u062c\u0644"
+    ],
+    "name:und_x_variant":[
+        "Djal\u0101djil",
+        "Jal\u0101jil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":105471,
+        "wk:page":"Jalajil"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"74e4324b9cd682d0ce94805e01429e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720613,
+            "locality_id":1259476981,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1259476981,
+    "wof:lastmodified":1537699206,
+    "wof:name":"Jalajil",
+    "wof:parent_id":1108720613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.45141,
+    25.67865,
+    45.45141,
+    25.67865
+],
+  "geometry": {"coordinates":[45.45141,25.67865],"type":"Point"}
+}

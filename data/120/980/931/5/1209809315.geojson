@@ -1,0 +1,67 @@
+{
+  "id": 1209809315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8016,24.72042,43.8016,24.72042",
+    "geom:latitude":24.72042,
+    "geom:longitude":43.8016,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Qurayn",
+    "gn:country_code":"SA",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108891,
+    "gn:latitude":24.72042,
+    "gn:longitude":43.8016,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Qurayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108891
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e2900e95b191b7c1b3c140e5e2213e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1209809315,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1209809315,
+    "wof:lastmodified":1536387164,
+    "wof:name":"Al Qurayn",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8016,
+    24.72042,
+    43.8016,
+    24.72042
+],
+  "geometry": {"coordinates":[43.8016,24.72042],"type":"Point"}
+}

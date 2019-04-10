@@ -1,0 +1,70 @@
+{
+  "id": 1226643775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.01667,27.0,48.01667,27.0",
+    "geom:latitude":27.0,
+    "geom:longitude":48.01667,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ghanwa",
+    "gn:country_code":"SA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390214,
+    "gn:latitude":27.0,
+    "gn:longitude":48.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ghanw\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghanw\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390214
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ff3dc7d08ecb09e6ab69ce6895986ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720623,
+            "locality_id":1226643775,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1226643775,
+    "wof:lastmodified":1537699282,
+    "wof:name":"Ghanwa",
+    "wof:parent_id":1108720623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.01667,
+    27.0,
+    48.01667,
+    27.0
+],
+  "geometry": {"coordinates":[48.01667,27.0],"type":"Point"}
+}

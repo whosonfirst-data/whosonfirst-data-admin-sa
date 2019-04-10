@@ -1,0 +1,76 @@
+{
+  "id": 1226558119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.79366,16.53476,42.79366,16.53476",
+    "geom:latitude":16.53476,
+    "geom:longitude":42.79366,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Dayhamah",
+    "gn:country_code":"SA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107153,
+    "gn:latitude":16.53476,
+    "gn:longitude":42.79366,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Day\u1e29amah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u062d\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dahina",
+        "Da\u1e25ma",
+        "Da\u1e25mah",
+        "Day\u1e29amah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107153
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"44783fcf90f09305870d158faf23b4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720759,
+            "locality_id":1226558119,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1226558119,
+    "wof:lastmodified":1537699219,
+    "wof:name":"Dayhamah",
+    "wof:parent_id":1108720759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.79366,
+    16.53476,
+    42.79366,
+    16.53476
+],
+  "geometry": {"coordinates":[42.79366,16.53476],"type":"Point"}
+}

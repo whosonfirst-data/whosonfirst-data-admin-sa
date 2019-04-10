@@ -1,0 +1,74 @@
+{
+  "id": 1243056957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.13341,24.0163,47.13341,24.0163",
+    "geom:latitude":24.0163,
+    "geom:longitude":47.13341,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"As Sahanah",
+    "gn:country_code":"SA",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414164,
+    "gn:latitude":24.0163,
+    "gn:longitude":47.13341,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"A\u015f \u015ea\u1e29anah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u062d\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015ea\u1e29anah",
+        "As Sahanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414164
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6da8b8378059491d66a4a5bcac534f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1243056957,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1243056957,
+    "wof:lastmodified":1537699340,
+    "wof:name":"As Sahanah",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.13341,
+    24.0163,
+    47.13341,
+    24.0163
+],
+  "geometry": {"coordinates":[47.13341,24.0163],"type":"Point"}
+}

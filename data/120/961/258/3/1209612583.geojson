@@ -1,0 +1,73 @@
+{
+  "id": 1209612583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.60601,27.16121,48.60601,27.16121",
+    "geom:latitude":27.16121,
+    "geom:longitude":48.60601,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"`Utayyiq",
+    "gn:country_code":"SA",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108804,
+    "gn:latitude":27.16121,
+    "gn:longitude":48.60601,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"\u2018Utayyiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Utayyiq",
+        "\u2018Ataiyiq",
+        "El Utaiq",
+        "\u2018Utayyiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108804
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3f7026bf9ef11857b14007b5017182df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720623,
+            "locality_id":1209612583,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1209612583,
+    "wof:lastmodified":1548455922,
+    "wof:name":"`Utayyiq",
+    "wof:parent_id":1108720623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.60601,
+    27.16121,
+    48.60601,
+    27.16121
+],
+  "geometry": {"coordinates":[48.60601,27.16121],"type":"Point"}
+}

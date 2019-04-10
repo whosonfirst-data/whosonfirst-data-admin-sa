@@ -1,0 +1,70 @@
+{
+  "id": 1293802423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.42626,19.28669,41.42626,19.28669",
+    "geom:latitude":19.28669,
+    "geom:longitude":41.42626,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Bani `Isa",
+    "gn:country_code":"SA",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107654,
+    "gn:latitude":19.28669,
+    "gn:longitude":41.42626,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban\u012b \u2018\u012as\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u012b \u2018\u012as\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107654
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4006a8a08831f188f9ef4564445b0c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":1293802423,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1293802423,
+    "wof:lastmodified":1537699223,
+    "wof:name":"Bani `Isa",
+    "wof:parent_id":1108720633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.42626,
+    19.28669,
+    41.42626,
+    19.28669
+],
+  "geometry": {"coordinates":[41.42626,19.28669],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293116889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91667,19.45,40.91667,19.45",
+    "geom:latitude":19.45,
+    "geom:longitude":40.91667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Abu as Suwadi",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110611,
+    "gn:latitude":19.45,
+    "gn:longitude":40.91667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ab\u016b as Suw\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu es Su\u0101di",
+        "Ab\u016b as Suw\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110611
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a5f47c8709b8c69777588783f305555c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293116889,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293116889,
+    "wof:lastmodified":1537699280,
+    "wof:name":"Abu as Suwadi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91667,
+    19.45,
+    40.91667,
+    19.45
+],
+  "geometry": {"coordinates":[40.91667,19.45],"type":"Point"}
+}

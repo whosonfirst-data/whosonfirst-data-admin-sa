@@ -1,0 +1,70 @@
+{
+  "id": 1293023485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.8907,25.09842,38.8907,25.09842",
+    "geom:latitude":25.09842,
+    "geom:longitude":38.8907,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Istabl Antar",
+    "gn:country_code":"SA",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400211,
+    "gn:latitude":25.09842,
+    "gn:longitude":38.8907,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"I\u015f\u0163abl Antar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "I\u015f\u0163abl Antar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400211
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e01949cbc8ed3e326b80ae2098a21fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1293023485,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1293023485,
+    "wof:lastmodified":1537699328,
+    "wof:name":"Istabl Antar",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.8907,
+    25.09842,
+    38.8907,
+    25.09842
+],
+  "geometry": {"coordinates":[38.8907,25.09842],"type":"Point"}
+}

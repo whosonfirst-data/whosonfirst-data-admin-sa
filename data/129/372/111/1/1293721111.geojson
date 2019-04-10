@@ -1,0 +1,74 @@
+{
+  "id": 1293721111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76322,24.6022,39.76322,24.6022",
+    "geom:latitude":24.6022,
+    "geom:longitude":39.76322,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Qutay`a'",
+    "gn:country_code":"SA",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9613629,
+    "gn:latitude":24.6022,
+    "gn:longitude":39.76322,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Al Qu\u0163ay\u2018\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u064a\u0639\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Qu\u0163ay\u2018\u0101\u2019",
+        "Al Qutay\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9613629
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b5b410eb66b8a4f2d0d69d8851b91d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1293721111,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1293721111,
+    "wof:lastmodified":1537699345,
+    "wof:name":"Al Qutay`a'",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76322,
+    24.6022,
+    39.76322,
+    24.6022
+],
+  "geometry": {"coordinates":[39.76322,24.6022],"type":"Point"}
+}

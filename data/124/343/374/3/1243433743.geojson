@@ -1,0 +1,73 @@
+{
+  "id": 1243433743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.19977,27.10764,42.19977,27.10764",
+    "geom:latitude":27.10764,
+    "geom:longitude":42.19977,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Biyadi",
+    "gn:country_code":"SA",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396592,
+    "gn:latitude":27.10764,
+    "gn:longitude":42.19977,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Al Biy\u0101\u1e11\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Biy\u0101\u1e11\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0650\u064a\u0627\u0636\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396592
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a62b7471b4eac65d5503b9b2bd925189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1243433743,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1243433743,
+    "wof:lastmodified":1537699309,
+    "wof:name":"Al Biyadi",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.19977,
+    27.10764,
+    42.19977,
+    27.10764
+],
+  "geometry": {"coordinates":[42.19977,27.10764],"type":"Point"}
+}

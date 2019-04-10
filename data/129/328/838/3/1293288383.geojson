@@ -1,0 +1,70 @@
+{
+  "id": 1293288383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49611,24.35917,44.49611,24.35917",
+    "geom:latitude":24.35917,
+    "geom:longitude":44.49611,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Uraydah",
+    "gn:country_code":"SA",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399240,
+    "gn:latitude":24.35917,
+    "gn:longitude":44.49611,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"\u2018Uray\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Uray\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399240
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ef613bc253bf917c8fd5bd5e1187d22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1293288383,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1293288383,
+    "wof:lastmodified":1537699324,
+    "wof:name":"`Uraydah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49611,
+    24.35917,
+    44.49611,
+    24.35917
+],
+  "geometry": {"coordinates":[44.49611,24.35917],"type":"Point"}
+}

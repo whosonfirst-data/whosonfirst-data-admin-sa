@@ -1,0 +1,71 @@
+{
+  "id": 1327210177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.8755,17.04279,42.8755,17.04279",
+    "geom:latitude":17.04279,
+    "geom:longitude":42.8755,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Mujassas",
+    "gn:country_code":"SA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109074,
+    "gn:latitude":17.04279,
+    "gn:longitude":42.8755,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Al Muja\u015f\u015fa\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mija\u015fa\u015f",
+        "Al Muja\u015f\u015fa\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109074
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"759b547536b40f391b52faf38600169c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720535,
+            "locality_id":1327210177,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1327210177,
+    "wof:lastmodified":1537699251,
+    "wof:name":"Al Mujassas",
+    "wof:parent_id":1108720535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.8755,
+    17.04279,
+    42.8755,
+    17.04279
+],
+  "geometry": {"coordinates":[42.8755,17.04279],"type":"Point"}
+}

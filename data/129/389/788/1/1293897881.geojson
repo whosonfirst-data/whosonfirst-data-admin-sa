@@ -1,0 +1,80 @@
+{
+  "id": 1293897881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.04889,18.54639,42.04889,18.54639",
+    "geom:latitude":18.54639,
+    "geom:longitude":42.04889,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Muhayil",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103947,
+    "gn:latitude":18.54639,
+    "gn:longitude":42.04889,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Mu\u1e29\u0101yil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u064a\u0644 \u0639\u0633\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "Mu\u1e29\u0101yil"
+    ],
+    "name:und_x_variant":[
+        "Mikhail",
+        "Makh\u0101\u2018il",
+        "Mu\u1e29aylah",
+        "Mukaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103947
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"25a089d8c2bf69a6eb1373e10b929da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720729,
+            "locality_id":1293897881,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1293897881,
+    "wof:lastmodified":1537699193,
+    "wof:name":"Muhayil",
+    "wof:parent_id":1108720729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.04889,
+    18.54639,
+    42.04889,
+    18.54639
+],
+  "geometry": {"coordinates":[42.04889,18.54639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259897915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.07446,19.19845,42.07446,19.19845",
+    "geom:latitude":19.19845,
+    "geom:longitude":42.07446,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Nashir",
+    "gn:country_code":"SA",
+    "gn:dem":2537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103586,
+    "gn:latitude":19.19845,
+    "gn:longitude":42.07446,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nashir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103586
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"245ab895b50130c600e6369c66253394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720649,
+            "locality_id":1259897915,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1259897915,
+    "wof:lastmodified":1536758476,
+    "wof:name":"Nashir",
+    "wof:parent_id":1108720649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.07446,
+    19.19845,
+    42.07446,
+    19.19845
+],
+  "geometry": {"coordinates":[42.07446,19.19845],"type":"Point"}
+}

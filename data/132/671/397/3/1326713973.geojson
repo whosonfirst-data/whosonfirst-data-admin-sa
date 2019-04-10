@@ -1,0 +1,71 @@
+{
+  "id": 1326713973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8,20.48333,44.8,20.48333",
+    "geom:latitude":20.48333,
+    "geom:longitude":44.8,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sabhah",
+    "gn:country_code":"SA",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102672,
+    "gn:latitude":20.48333,
+    "gn:longitude":44.8,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"\u015eab\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabha",
+        "\u015eab\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102672
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8b56498f445e91c8d7aa903162352d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720789,
+            "locality_id":1326713973,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1326713973,
+    "wof:lastmodified":1537699180,
+    "wof:name":"Sabhah",
+    "wof:parent_id":1108720789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8,
+    20.48333,
+    44.8,
+    20.48333
+],
+  "geometry": {"coordinates":[44.8,20.48333],"type":"Point"}
+}

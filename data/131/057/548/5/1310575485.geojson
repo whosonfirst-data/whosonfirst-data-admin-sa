@@ -1,0 +1,73 @@
+{
+  "id": 1310575485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.69853,30.29734,38.69853,30.29734",
+    "geom:latitude":30.29734,
+    "geom:longitude":38.69853,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"An Nabk Abu Qasr",
+    "gn:country_code":"SA",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392520,
+    "gn:latitude":30.29734,
+    "gn:longitude":38.69853,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An Nabk Ab\u016b Qa\u015fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u0643 \u0623\u0628\u0648 \u0642\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "An Nabk Ab\u016b Qa\u015fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392520
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e3d76983e107bb1125bd36d0e2e4c8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720757,
+            "locality_id":1310575485,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1310575485,
+    "wof:lastmodified":1537699287,
+    "wof:name":"An Nabk Abu Qasr",
+    "wof:parent_id":1108720757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.69853,
+    30.29734,
+    38.69853,
+    30.29734
+],
+  "geometry": {"coordinates":[38.69853,30.29734],"type":"Point"}
+}

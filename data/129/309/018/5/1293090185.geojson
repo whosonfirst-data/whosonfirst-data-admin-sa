@@ -1,0 +1,73 @@
+{
+  "id": 1293090185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09624,25.57296,44.09624,25.57296",
+    "geom:latitude":25.57296,
+    "geom:longitude":44.09624,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Kharma' al Janubiyah",
+    "gn:country_code":"SA",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397379,
+    "gn:latitude":25.57296,
+    "gn:longitude":44.09624,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Al Kharm\u0101\u2019 al Jan\u016bb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064e\u0631\u0645\u0627\u0621 \u0627\u0644\u062c\u064e\u0646\u0648\u0628\u064a\u0651\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Kharm\u0101\u2019 al Jan\u016bb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397379
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d712feaf67a5ca2267772522ce9357f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720617,
+            "locality_id":1293090185,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1293090185,
+    "wof:lastmodified":1537699318,
+    "wof:name":"Al Kharma' al Janubiyah",
+    "wof:parent_id":1108720617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09624,
+    25.57296,
+    44.09624,
+    25.57296
+],
+  "geometry": {"coordinates":[44.09624,25.57296],"type":"Point"}
+}

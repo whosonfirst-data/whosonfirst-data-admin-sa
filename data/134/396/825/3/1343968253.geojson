@@ -1,0 +1,73 @@
+{
+  "id": 1343968253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.23402,26.05437,42.23402,26.05437",
+    "geom:latitude":26.05437,
+    "geom:longitude":42.23402,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mibari",
+    "gn:country_code":"SA",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395277,
+    "gn:latitude":26.05437,
+    "gn:longitude":42.23402,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mib\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Mib\u0101r\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0628\u0627\u0631\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395277
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c4c2506f1c9f20e4b815fafaf35ecb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720749,
+            "locality_id":1343968253,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1343968253,
+    "wof:lastmodified":1537699297,
+    "wof:name":"Mibari",
+    "wof:parent_id":1108720749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.23402,
+    26.05437,
+    42.23402,
+    26.05437
+],
+  "geometry": {"coordinates":[42.23402,26.05437],"type":"Point"}
+}

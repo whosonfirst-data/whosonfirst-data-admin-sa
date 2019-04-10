@@ -1,0 +1,71 @@
+{
+  "id": 1259973303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43333,23.56667,45.43333,23.56667",
+    "geom:latitude":23.56667,
+    "geom:longitude":45.43333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bin Shefefani",
+    "gn:country_code":"SA",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107418,
+    "gn:latitude":23.56667,
+    "gn:longitude":45.43333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bin Shefefani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Shefefani",
+        "Bin Shefefani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107418
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"037434126b68a8e7fc2d9e3c6193ea99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1259973303,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1259973303,
+    "wof:lastmodified":1537699221,
+    "wof:name":"Bin Shefefani",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43333,
+    23.56667,
+    45.43333,
+    23.56667
+],
+  "geometry": {"coordinates":[45.43333,23.56667],"type":"Point"}
+}

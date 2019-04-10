@@ -1,0 +1,71 @@
+{
+  "id": 1193157093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4,25.86667,43.4,25.86667",
+    "geom:latitude":25.86667,
+    "geom:longitude":43.4,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Abu Marwah",
+    "gn:country_code":"SA",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110512,
+    "gn:latitude":25.86667,
+    "gn:longitude":43.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ab\u016b Marwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Marwa",
+        "Ab\u016b Marwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110512
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"255687d2fcf48f34ece5b93d8b1440d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":1193157093,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1193157093,
+    "wof:lastmodified":1537699279,
+    "wof:name":"Abu Marwah",
+    "wof:parent_id":1108720687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4,
+    25.86667000000001,
+    43.4,
+    25.86667000000001
+],
+  "geometry": {"coordinates":[43.4,25.86667000000001],"type":"Point"}
+}

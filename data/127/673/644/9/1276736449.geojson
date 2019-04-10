@@ -1,0 +1,71 @@
+{
+  "id": 1276736449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.39,21.96558,39.39,21.96558",
+    "geom:latitude":21.96558,
+    "geom:longitude":39.39,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Yamaniyah",
+    "gn:country_code":"SA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413791,
+    "gn:latitude":21.96558,
+    "gn:longitude":39.39,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Yam\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Yam\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413791,
+        "wk:page":"Al_Yamaniyah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1e902ef647591f7f63aa01d5e1b211ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720725,
+            "locality_id":1276736449,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1276736449,
+    "wof:lastmodified":1537699339,
+    "wof:name":"Al Yamaniyah",
+    "wof:parent_id":1108720725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.39,
+    21.96558,
+    39.39,
+    21.96558
+],
+  "geometry": {"coordinates":[39.39,21.96558],"type":"Point"}
+}

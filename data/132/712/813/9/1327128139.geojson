@@ -1,0 +1,73 @@
+{
+  "id": 1327128139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0306,25.30718,46.0306,25.30718",
+    "geom:latitude":25.30718,
+    "geom:longitude":46.0306,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Bilad al Wusta",
+    "gn:country_code":"SA",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397614,
+    "gn:latitude":25.30718,
+    "gn:longitude":46.0306,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Bil\u0101d al Wus\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u0627\u062f \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
+    "name:und_x_variant":[
+        "Al Bil\u0101d al Wus\u0163\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397614
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b2a1034870a3c556427a339c75357110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720775,
+            "locality_id":1327128139,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1327128139,
+    "wof:lastmodified":1537699319,
+    "wof:name":"Al Bilad al Wusta",
+    "wof:parent_id":1108720775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0306,
+    25.30718,
+    46.0306,
+    25.30718
+],
+  "geometry": {"coordinates":[46.0306,25.30718],"type":"Point"}
+}

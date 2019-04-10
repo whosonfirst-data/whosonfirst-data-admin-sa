@@ -1,0 +1,73 @@
+{
+  "id": 1310181625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.4449,27.17478,42.4449,27.17478",
+    "geom:latitude":27.17478,
+    "geom:longitude":42.4449,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ash Shinan",
+    "gn:country_code":"SA",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394983,
+    "gn:latitude":27.17478,
+    "gn:longitude":42.4449,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Ash Shin\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ash Shin\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0651\u0650\u0646\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394983
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0d67b8c8d4b4fe766134ed17466357bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1310181625,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1310181625,
+    "wof:lastmodified":1537699293,
+    "wof:name":"Ash Shinan",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.4449,
+    27.17478,
+    42.4449,
+    27.17478
+],
+  "geometry": {"coordinates":[42.4449,27.17478],"type":"Point"}
+}

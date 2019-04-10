@@ -1,0 +1,77 @@
+{
+  "id": 1226339855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.83864,24.40598,50.83864,24.40598",
+    "geom:latitude":24.40598,
+    "geom:longitude":50.83864,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nibak",
+    "gn:country_code":"SA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103544,
+    "gn:latitude":24.40598,
+    "gn:longitude":50.83864,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Nib\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Nib\u0101k"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0628\u0627\u0643"
+    ],
+    "name:und_x_variant":[
+        "Anbak",
+        "Ambak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103544
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"672f803bd66e78360a3924605a47ffab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1226339855,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1226339855,
+    "wof:lastmodified":1537699190,
+    "wof:name":"Nibak",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.83864000000001,
+    24.40598,
+    50.83864000000001,
+    24.40598
+],
+  "geometry": {"coordinates":[50.83864000000001,24.40598],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259571227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.91667,18.91667,41.91667,18.91667",
+    "geom:latitude":18.91667,
+    "geom:longitude":41.91667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Suq ar Rab",
+    "gn:country_code":"SA",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101717,
+    "gn:latitude":18.91667,
+    "gn:longitude":41.91667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bq ar R\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq ar R\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101717
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5b3c106dc491276d14fe2ee54f5de473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720609,
+            "locality_id":1259571227,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1259571227,
+    "wof:lastmodified":1537699173,
+    "wof:name":"Suq ar Rab",
+    "wof:parent_id":1108720609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.91667,
+    18.91667,
+    41.91667,
+    18.91667
+],
+  "geometry": {"coordinates":[41.91667,18.91667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259677681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79111,24.50306,43.79111,24.50306",
+    "geom:latitude":24.50306,
+    "geom:longitude":43.79111,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Mustajidah",
+    "gn:country_code":"SA",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399964,
+    "gn:latitude":24.50306,
+    "gn:longitude":43.79111,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Mustajidah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399964
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"65b901d76ef4a924ff9ccbb49cd208b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1259677681,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1259677681,
+    "wof:lastmodified":1537072288,
+    "wof:name":"Al Mustajidah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79111,
+    24.50306,
+    43.79111,
+    24.50306
+],
+  "geometry": {"coordinates":[43.79111,24.50306],"type":"Point"}
+}

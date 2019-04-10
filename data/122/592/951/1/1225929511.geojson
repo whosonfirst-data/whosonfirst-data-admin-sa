@@ -1,0 +1,71 @@
+{
+  "id": 1225929511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13333,26.05,44.13333,26.05",
+    "geom:latitude":26.05,
+    "geom:longitude":44.13333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Umm Athlah",
+    "gn:country_code":"SA",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101023,
+    "gn:latitude":26.05,
+    "gn:longitude":44.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm Athlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Ithila",
+        "Umm Athlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101023
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f1d68413ff34d96cccd4a995b524946e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720785,
+            "locality_id":1225929511,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1225929511,
+    "wof:lastmodified":1537699167,
+    "wof:name":"Umm Athlah",
+    "wof:parent_id":1108720785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13333,
+    26.05,
+    44.13333,
+    26.05
+],
+  "geometry": {"coordinates":[44.13333,26.05],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193146963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.47138,18.26065,42.47138,18.26065",
+    "geom:latitude":18.26065,
+    "geom:longitude":42.47138,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Sahra'",
+    "gn:country_code":"SA",
+    "gn:dem":2339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102556,
+    "gn:latitude":18.26065,
+    "gn:longitude":42.47138,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u015ea\u1e29r\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015ea\u1e29r\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102556
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"bccf641393df2409b99669adf2391f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1193146963,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1193146963,
+    "wof:lastmodified":1537699179,
+    "wof:name":"Sahra'",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.47138,
+    18.26065,
+    42.47138,
+    18.26065
+],
+  "geometry": {"coordinates":[42.47138,18.26065],"type":"Point"}
+}

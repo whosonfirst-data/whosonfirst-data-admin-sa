@@ -1,0 +1,70 @@
+{
+  "id": 1242792361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35,17.88333,43.35,17.88333",
+    "geom:latitude":17.88333,
+    "geom:longitude":43.35,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Qarwat",
+    "gn:country_code":"SA",
+    "gn:dem":2376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103287,
+    "gn:latitude":17.88333,
+    "gn:longitude":43.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qarw\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qarw\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103287
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7c2d81ea8568d7e555f502f306abc09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720797,
+            "locality_id":1242792361,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1242792361,
+    "wof:lastmodified":1537699187,
+    "wof:name":"Qarwat",
+    "wof:parent_id":1108720797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35,
+    17.88332999999999,
+    43.35,
+    17.88332999999999
+],
+  "geometry": {"coordinates":[43.35,17.88332999999999],"type":"Point"}
+}

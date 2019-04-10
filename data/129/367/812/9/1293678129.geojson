@@ -1,0 +1,73 @@
+{
+  "id": 1293678129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.97231,25.38593,43.97231,25.38593",
+    "geom:latitude":25.38593,
+    "geom:longitude":43.97231,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Malqa'",
+    "gn:country_code":"SA",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397632,
+    "gn:latitude":25.38593,
+    "gn:longitude":43.97231,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Al Malq\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064e\u0644\u0642\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Malq\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397632
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4fdf39ae27616b6bd4a769e73d9e397c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720617,
+            "locality_id":1293678129,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1293678129,
+    "wof:lastmodified":1537699320,
+    "wof:name":"Al Malqa'",
+    "wof:parent_id":1108720617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.97231,
+    25.38593,
+    43.97231,
+    25.38593
+],
+  "geometry": {"coordinates":[43.97231,25.38593],"type":"Point"}
+}

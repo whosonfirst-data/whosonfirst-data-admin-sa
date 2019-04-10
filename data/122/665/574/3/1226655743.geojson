@@ -1,0 +1,67 @@
+{
+  "id": 1226655743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1,19.28333,42.1,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":42.1,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ash Shebark",
+    "gn:country_code":"SA",
+    "gn:dem":2464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108227,
+    "gn:latitude":19.28333,
+    "gn:longitude":42.1,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ash Shebark",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108227
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f778515fc4dc00396e45c32d022cb051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720649,
+            "locality_id":1226655743,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1226655743,
+    "wof:lastmodified":1536843860,
+    "wof:name":"Ash Shebark",
+    "wof:parent_id":1108720649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1,
+    19.28333,
+    42.1,
+    19.28333
+],
+  "geometry": {"coordinates":[42.1,19.28333],"type":"Point"}
+}

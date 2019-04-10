@@ -1,0 +1,70 @@
+{
+  "id": 1226028389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.32925,24.36507,45.32925,24.36507",
+    "geom:latitude":24.36507,
+    "geom:longitude":45.32925,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Fuwayliq",
+    "gn:country_code":"SA",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396818,
+    "gn:latitude":24.36507,
+    "gn:longitude":45.32925,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al Fuwayliq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0648\u064a\u0644\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396818
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2932a2d41e8a06e3a78119584bab4190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1226028389,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1226028389,
+    "wof:lastmodified":1537699312,
+    "wof:name":"Al Fuwayliq",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.32925,
+    24.36507000000001,
+    45.32925,
+    24.36507000000001
+],
+  "geometry": {"coordinates":[45.32925,24.36507000000001],"type":"Point"}
+}

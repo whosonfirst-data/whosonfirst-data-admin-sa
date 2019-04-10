@@ -1,0 +1,70 @@
+{
+  "id": 1226757835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.45,18.2,42.45,18.2",
+    "geom:latitude":18.2,
+    "geom:longitude":42.45,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"`Alabah",
+    "gn:country_code":"SA",
+    "gn:dem":2523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110148,
+    "gn:latitude":18.2,
+    "gn:longitude":42.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Alabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Alabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110148
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b0aa4c81c1e772907296d67a801642db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1226757835,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1226757835,
+    "wof:lastmodified":1537699275,
+    "wof:name":"`Alabah",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.45,
+    18.2,
+    42.45,
+    18.2
+],
+  "geometry": {"coordinates":[42.45,18.2],"type":"Point"}
+}

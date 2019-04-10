@@ -1,0 +1,70 @@
+{
+  "id": 1343575775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29185,17.9335,43.29185,17.9335",
+    "geom:latitude":17.9335,
+    "geom:longitude":43.29185,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Zahir",
+    "gn:country_code":"SA",
+    "gn:dem":2524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100386,
+    "gn:latitude":17.9335,
+    "gn:longitude":43.29185,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Z\u0327\u0101hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Z\u0327\u0101hir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100386
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"de92ddcea21b23743dc4ca86f3e274fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720797,
+            "locality_id":1343575775,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1343575775,
+    "wof:lastmodified":1537699162,
+    "wof:name":"Zahir",
+    "wof:parent_id":1108720797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29185,
+    17.9335,
+    43.29185,
+    17.9335
+],
+  "geometry": {"coordinates":[43.29185,17.9335],"type":"Point"}
+}

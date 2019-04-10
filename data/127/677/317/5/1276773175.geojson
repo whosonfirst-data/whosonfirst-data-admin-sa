@@ -1,0 +1,67 @@
+{
+  "id": 1276773175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.31667,26.61667,42.31667,26.61667",
+    "geom:latitude":26.61667,
+    "geom:longitude":42.31667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ash Shirthah",
+    "gn:country_code":"SA",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108218,
+    "gn:latitude":26.61667,
+    "gn:longitude":42.31667,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Ash Shirthah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108218
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f712f83c07e9182e1731bda1cc00088a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1276773175,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1276773175,
+    "wof:lastmodified":1536686380,
+    "wof:name":"Ash Shirthah",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.31667,
+    26.61667000000001,
+    42.31667,
+    26.61667000000001
+],
+  "geometry": {"coordinates":[42.31667,26.61667000000001],"type":"Point"}
+}

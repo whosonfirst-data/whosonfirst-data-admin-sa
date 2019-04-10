@@ -1,0 +1,70 @@
+{
+  "id": 1259562245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.54667,22.46194,39.54667,22.46194",
+    "geom:latitude":22.46194,
+    "geom:longitude":39.54667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Umm Sama'",
+    "gn:country_code":"SA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100848,
+    "gn:latitude":22.46194,
+    "gn:longitude":39.54667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Umm Sam\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umm Sam\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100848
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"179b62e4e91594b24ff96cd173121388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720725,
+            "locality_id":1259562245,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1259562245,
+    "wof:lastmodified":1537699166,
+    "wof:name":"Umm Sama'",
+    "wof:parent_id":1108720725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.54667,
+    22.46194,
+    39.54667,
+    22.46194
+],
+  "geometry": {"coordinates":[39.54667,22.46194],"type":"Point"}
+}

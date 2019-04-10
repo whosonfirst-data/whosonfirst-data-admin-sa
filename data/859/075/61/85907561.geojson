@@ -1,0 +1,114 @@
+{
+  "id": 85907561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2322803.530924,
+    "geom:bbox":"39.165955,21.547337,39.165955,21.547337",
+    "geom:latitude":21.547337,
+    "geom:longitude":39.165955,
+    "gn:id":"",
+    "iso:country":"SA",
+    "lbl:latitude":21.547337,
+    "lbl:longitude":39.165955,
+    "mps:latitude":21.544903,
+    "mps:longitude":39.168208,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u062f\u0644\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0646\u062f\u0644\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Al Andalus"
+    ],
+    "name:eng_x_variant":[
+        "Al Andalus"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0627\u0646\u062f\u0644\u0633"
+    ],
+    "qs:gn_adm0_cc":"SA",
+    "qs:gn_id":0,
+    "qs:gn_local":105343,
+    "qs:local_max":748,
+    "qs:local_sum":3146,
+    "qs:localhoods":21,
+    "qs:name":"\u0627\u0644\u0627\u0646\u062f\u0644\u0633",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0645\u0643\u0629",
+    "qs:name_adm2":"\u062c\u062f\u0629",
+    "qs:name_en":"Al Andalus",
+    "qs:name_local":"\u062c\u062f\u0629",
+    "qs:photo_max":7,
+    "qs:photo_sum":18,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424938,
+    "qs:woe_adm1":2346959,
+    "qs:woe_adm2":56120204,
+    "qs:woe_lau":0,
+    "qs:woe_local":1939873,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726116,
+        "qs:id":896301,
+        "qs_pg:id":896301
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b84ae38facf5650750b255ee557bb63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":-1,
+            "neighbourhood_id":85907561,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":85907561,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936595,
+    "wof:name":"\u0627\u0644\u0627\u0646\u062f\u0644\u0633",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.165955,
+    21.547337,
+    39.165955,
+    21.547337
+],
+  "geometry": {"coordinates":[39.165955,21.547337],"type":"Point"}
+}

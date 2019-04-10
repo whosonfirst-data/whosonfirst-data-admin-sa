@@ -1,0 +1,73 @@
+{
+  "id": 1310094371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46199,25.10573,43.46199,25.10573",
+    "geom:latitude":25.10573,
+    "geom:longitude":43.46199,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Abu Rukab",
+    "gn:country_code":"SA",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395343,
+    "gn:latitude":25.10573,
+    "gn:longitude":43.46199,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ab\u016b Rukab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0631\u0643\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Rukab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395343
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9f715826562f7e552294a741922258f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1310094371,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310094371,
+    "wof:lastmodified":1537699298,
+    "wof:name":"Abu Rukab",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46199,
+    25.10573,
+    43.46199,
+    25.10573
+],
+  "geometry": {"coordinates":[43.46199,25.10573],"type":"Point"}
+}

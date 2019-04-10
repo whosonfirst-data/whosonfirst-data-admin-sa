@@ -1,0 +1,66 @@
+{
+  "id": 890453195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2534,26.44322,43.2534,26.44322",
+    "geom:latitude":26.44322,
+    "geom:longitude":43.2534,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
+    "gn:pop":5205,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Al Fuwayliq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397513,
+        "gp:id":1937593,
+        "qs:id":124565
+    },
+    "wof:country":"SA",
+    "wof:created":1469052845,
+    "wof:geomhash":"03f45684348c9682461a839e939533d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720569,
+            "locality_id":890453195,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":890453195,
+    "wof:lastmodified":1505343649,
+    "wof:name":"Al Fuwayliq",
+    "wof:parent_id":1108720569,
+    "wof:placetype":"locality",
+    "wof:population":5205,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2534,
+    26.44322,
+    43.2534,
+    26.44322
+],
+  "geometry": {"coordinates":[43.2534,26.44322],"type":"Point"}
+}

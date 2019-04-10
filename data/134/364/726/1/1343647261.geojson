@@ -1,0 +1,78 @@
+{
+  "id": 1343647261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.73659,25.98546,43.73659,25.98546",
+    "geom:latitude":25.98546,
+    "geom:longitude":43.73659,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Bada'i` al Wusta",
+    "gn:country_code":"SA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397833,
+    "gn:latitude":25.98546,
+    "gn:longitude":43.73659,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Bad\u0101\u2019i\u2018 al Wus\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064e\u062f\u0627\u0626\u0639 \u0627\u0644\u0648\u064f\u0633\u0637\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u064e\u062f\u0627\u0626\u0639"
+    ],
+    "name:und_x_variant":[
+        "Al Bad\u0101\u2019i\u2018 al Wus\u0163\u00e1",
+        "Al Badaeya",
+        "Al Bad\u0101\u2019i\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397833
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b65fb39fd7ed1360ad7a1911749cfa9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720565,
+            "locality_id":1343647261,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1343647261,
+    "wof:lastmodified":1537699321,
+    "wof:name":"Al Bada'i` al Wusta",
+    "wof:parent_id":1108720565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.73659,
+    25.98546,
+    43.73659,
+    25.98546
+],
+  "geometry": {"coordinates":[43.73659,25.98546],"type":"Point"}
+}

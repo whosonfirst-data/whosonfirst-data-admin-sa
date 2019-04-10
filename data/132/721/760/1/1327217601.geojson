@@ -1,0 +1,73 @@
+{
+  "id": 1327217601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41828,25.19586,43.41828,25.19586",
+    "geom:latitude":25.19586,
+    "geom:longitude":43.41828,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Abu Nakhlah",
+    "gn:country_code":"SA",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395409,
+    "gn:latitude":25.19586,
+    "gn:longitude":43.41828,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ab\u016b Nakhlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u0646\u062e\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Nakhlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395409
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"eaba4afb5b88eed8c4b92c8cfc4e59e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":1327217601,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1327217601,
+    "wof:lastmodified":1537699298,
+    "wof:name":"Abu Nakhlah",
+    "wof:parent_id":1108720687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41828,
+    25.19586,
+    43.41828,
+    25.19586
+],
+  "geometry": {"coordinates":[43.41828,25.19586],"type":"Point"}
+}

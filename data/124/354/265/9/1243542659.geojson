@@ -1,0 +1,72 @@
+{
+  "id": 1243542659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.91097,18.33736,41.91097,18.33736",
+    "geom:latitude":18.33736,
+    "geom:longitude":41.91097,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Khamis al Bahr",
+    "gn:country_code":"SA",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107731,
+    "gn:latitude":18.33736,
+    "gn:longitude":41.91097,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kham\u012bs al Ba\u1e29r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u1e29r",
+        "Khamis el Bahr",
+        "Kham\u012bs al Ba\u1e29r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107731
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c620e0895f672a59714d5f00b18f3636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720729,
+            "locality_id":1243542659,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1243542659,
+    "wof:lastmodified":1537699224,
+    "wof:name":"Khamis al Bahr",
+    "wof:parent_id":1108720729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.91097,
+    18.33736,
+    41.91097,
+    18.33736
+],
+  "geometry": {"coordinates":[41.91097,18.33736],"type":"Point"}
+}

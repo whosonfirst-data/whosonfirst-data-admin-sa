@@ -1,0 +1,73 @@
+{
+  "id": 1343373665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.41667,18.55,42.41667,18.55",
+    "geom:latitude":18.55,
+    "geom:longitude":42.41667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Az Za`ir",
+    "gn:country_code":"SA",
+    "gn:dem":2295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107796,
+    "gn:latitude":18.55,
+    "gn:longitude":42.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Az Z\u0101\u2018ir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Az Z\u0101\u2018ir"
+    ],
+    "name:und_x_variant":[
+        "Al Z\u0101\u2018ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107796
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9ae41d3c53df4f3326b7bb04b7d865e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":1343373665,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1343373665,
+    "wof:lastmodified":1537699225,
+    "wof:name":"Az Za`ir",
+    "wof:parent_id":1108720533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.41667,
+    18.55,
+    42.41667,
+    18.55
+],
+  "geometry": {"coordinates":[42.41667,18.55],"type":"Point"}
+}

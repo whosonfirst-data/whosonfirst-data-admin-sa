@@ -1,0 +1,72 @@
+{
+  "id": 1293132509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.55708,23.13481,40.55708,23.13481",
+    "geom:latitude":23.13481,
+    "geom:longitude":40.55708,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Sufaynah",
+    "gn:country_code":"SA",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101807,
+    "gn:latitude":23.13481,
+    "gn:longitude":40.55708,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u015eufaynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sifeina",
+        "Sufaina",
+        "\u015eufaynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101807
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"27ea813755d87d5ba96cae38a1c6b33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720607,
+            "locality_id":1293132509,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1293132509,
+    "wof:lastmodified":1537699174,
+    "wof:name":"Sufaynah",
+    "wof:parent_id":1108720607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.55708,
+    23.13481,
+    40.55708,
+    23.13481
+],
+  "geometry": {"coordinates":[40.55708,23.13481],"type":"Point"}
+}

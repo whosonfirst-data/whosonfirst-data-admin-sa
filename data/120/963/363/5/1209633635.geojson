@@ -1,0 +1,71 @@
+{
+  "id": 1209633635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.75434,23.7286,39.75434,23.7286",
+    "geom:latitude":23.7286,
+    "geom:longitude":39.75434,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Abu Rubayq",
+    "gn:country_code":"SA",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110463,
+    "gn:latitude":23.7286,
+    "gn:longitude":39.75434,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ab\u016b Rubayq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Rubaiq",
+        "Ab\u016b Rubayq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110463
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b179a8afdb246d2e676fa54eaab8b05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":1209633635,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1209633635,
+    "wof:lastmodified":1548455922,
+    "wof:name":"Abu Rubayq",
+    "wof:parent_id":1108720605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.75434,
+    23.7286,
+    39.75434,
+    23.7286
+],
+  "geometry": {"coordinates":[39.75434,23.7286],"type":"Point"}
+}

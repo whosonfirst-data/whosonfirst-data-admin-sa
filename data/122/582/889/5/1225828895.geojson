@@ -1,0 +1,77 @@
+{
+  "id": 1225828895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.17225,24.0981,47.17225,24.0981",
+    "geom:latitude":24.0981,
+    "geom:longitude":47.17225,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ad Dubay`ah",
+    "gn:country_code":"SA",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102710,
+    "gn:latitude":24.0981,
+    "gn:longitude":47.17225,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"A\u1e11 \u1e10ubay\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0628\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ruwaidhe",
+        "Ruwaidha",
+        "Ruway\u1e11ah",
+        "A\u1e11 \u1e10ubay\u2018ah",
+        "A\u1e11 \u1e10ab\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102710
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d51d5955e39c5ecd2f53c3405da2af23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1225828895,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1225828895,
+    "wof:lastmodified":1537699181,
+    "wof:name":"Ad Dubay`ah",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.17225,
+    24.0981,
+    47.17225,
+    24.0981
+],
+  "geometry": {"coordinates":[47.17225,24.0981],"type":"Point"}
+}

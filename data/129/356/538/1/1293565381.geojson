@@ -1,0 +1,70 @@
+{
+  "id": 1293565381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.99335,16.71757,42.99335,16.71757",
+    "geom:latitude":16.71757,
+    "geom:longitude":42.99335,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Suq al Layl",
+    "gn:country_code":"SA",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101718,
+    "gn:latitude":16.71757,
+    "gn:longitude":42.99335,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bq al Layl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bq al Layl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101718
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b99e5036903a86fcc1e09ee8fa37d440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720549,
+            "locality_id":1293565381,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1293565381,
+    "wof:lastmodified":1537699173,
+    "wof:name":"Suq al Layl",
+    "wof:parent_id":1108720549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.99335,
+    16.71757,
+    42.99335,
+    16.71757
+],
+  "geometry": {"coordinates":[42.99335,16.71757],"type":"Point"}
+}

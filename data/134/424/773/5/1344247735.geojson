@@ -1,0 +1,73 @@
+{
+  "id": 1344247735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.83365,25.55947,42.83365,25.55947",
+    "geom:latitude":25.55947,
+    "geom:longitude":42.83365,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Marmuthah al Janubiyah",
+    "gn:country_code":"SA",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395876,
+    "gn:latitude":25.55947,
+    "gn:longitude":42.83365,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Marm\u016bthah al Jan\u016bb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0645\u0648\u062b\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0651\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Marm\u016bthah al Jan\u016bb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395876
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"864c8af3a43eee0754fc990bdaf692c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1344247735,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1344247735,
+    "wof:lastmodified":1537699303,
+    "wof:name":"Al Marmuthah al Janubiyah",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.83365,
+    25.55947,
+    42.83365,
+    25.55947
+],
+  "geometry": {"coordinates":[42.83365,25.55947],"type":"Point"}
+}

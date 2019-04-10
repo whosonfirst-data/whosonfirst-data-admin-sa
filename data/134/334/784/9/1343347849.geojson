@@ -1,0 +1,73 @@
+{
+  "id": 1343347849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.95856,27.00876,41.95856,27.00876",
+    "geom:latitude":27.00876,
+    "geom:longitude":41.95856,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bada'i` as Sab`an",
+    "gn:country_code":"SA",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394683,
+    "gn:latitude":27.00876,
+    "gn:longitude":41.95856,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Bad\u0101\u2019i\u2018 as Sab\u2018\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062f\u0627\u0626\u0639 \u0627\u0644\u0633\u0628\u0639\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bad\u0101\u2019i\u2018 as Sab\u2018\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394683
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f5939fa1751b3ca07b73b9dfe262f833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1343347849,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1343347849,
+    "wof:lastmodified":1537699291,
+    "wof:name":"Bada'i` as Sab`an",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.95856,
+    27.00876,
+    41.95856,
+    27.00876
+],
+  "geometry": {"coordinates":[41.95856,27.00876],"type":"Point"}
+}

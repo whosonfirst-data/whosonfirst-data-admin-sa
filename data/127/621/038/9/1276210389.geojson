@@ -1,0 +1,77 @@
+{
+  "id": 1276210389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.20788,24.99374,46.20788,24.99374",
+    "geom:latitude":24.99374,
+    "geom:longitude":46.20788,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sudus",
+    "gn:country_code":"SA",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101816,
+    "gn:latitude":24.99374,
+    "gn:longitude":46.20788,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Sud\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sud\u016bs"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u062f\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Sadus",
+        "Sid\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101816
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"03a392273abe3a7f971602464d49d387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720543,
+            "locality_id":1276210389,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1276210389,
+    "wof:lastmodified":1537699174,
+    "wof:name":"Sudus",
+    "wof:parent_id":1108720543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.20788,
+    24.99374,
+    46.20788,
+    24.99374
+],
+  "geometry": {"coordinates":[46.20788,24.99374],"type":"Point"}
+}

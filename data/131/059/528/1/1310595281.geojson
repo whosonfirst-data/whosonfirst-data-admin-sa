@@ -1,0 +1,74 @@
+{
+  "id": 1310595281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.34034,24.51182,46.34034,24.51182",
+    "geom:latitude":24.51182,
+    "geom:longitude":46.34034,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Mutaywiyah",
+    "gn:country_code":"SA",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109005,
+    "gn:latitude":24.51182,
+    "gn:longitude":46.34034,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Al Mu\u0163ayw\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u064a\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mutaiwiyah",
+        "Al Mu\u0163ayw\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109005
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a90a3ff8a0f27ede98ea3a30d539b1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720695,
+            "locality_id":1310595281,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310595281,
+    "wof:lastmodified":1537699249,
+    "wof:name":"Al Mutaywiyah",
+    "wof:parent_id":1108720695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.34034000000001,
+    24.51182,
+    46.34034000000001,
+    24.51182
+],
+  "geometry": {"coordinates":[46.34034000000001,24.51182],"type":"Point"}
+}

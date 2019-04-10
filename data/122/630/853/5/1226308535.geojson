@@ -1,0 +1,75 @@
+{
+  "id": 1226308535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01473,28.47484,35.01473,28.47484",
+    "geom:latitude":28.47484,
+    "geom:longitude":35.01473,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Bad`",
+    "gn:country_code":"SA",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109966,
+    "gn:latitude":28.47484,
+    "gn:longitude":35.01473,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Bad\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beda al Haura",
+        "Al Bida\u2018",
+        "Al-Bed\u2018",
+        "Al Badi\u2019",
+        "Al Bid\u2018",
+        "Al Bad\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676833,
+        1108720767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109966
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"dc9cbe8e02380bae8a8eda1eb686cf1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720767,
+            "locality_id":1226308535,
+            "region_id":85676833
+        }
+    ],
+    "wof:id":1226308535,
+    "wof:lastmodified":1537699271,
+    "wof:name":"Al Bad`",
+    "wof:parent_id":1108720767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01473,
+    28.47484,
+    35.01473,
+    28.47484
+],
+  "geometry": {"coordinates":[35.01473,28.47484],"type":"Point"}
+}

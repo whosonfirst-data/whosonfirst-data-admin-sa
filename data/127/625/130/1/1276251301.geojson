@@ -1,0 +1,73 @@
+{
+  "id": 1276251301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63058,26.67549,48.63058,26.67549",
+    "geom:latitude":26.67549,
+    "geom:longitude":48.63058,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Maghati",
+    "gn:country_code":"SA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392147,
+    "gn:latitude":26.67549,
+    "gn:longitude":48.63058,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Magha\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064e\u063a\u064e\u0637\u0650\u064a"
+    ],
+    "name:und_x_variant":[
+        "Magha\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392147
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"11224810e6da1ddf3ec2c3def89a60cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720623,
+            "locality_id":1276251301,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1276251301,
+    "wof:lastmodified":1537699285,
+    "wof:name":"Maghati",
+    "wof:parent_id":1108720623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63058,
+    26.67549,
+    48.63058,
+    26.67549
+],
+  "geometry": {"coordinates":[48.63058,26.67549],"type":"Point"}
+}

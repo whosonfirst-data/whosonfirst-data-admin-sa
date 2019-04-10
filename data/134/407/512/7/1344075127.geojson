@@ -1,0 +1,79 @@
+{
+  "id": 1344075127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.04927,17.27819,43.04927,17.27819",
+    "geom:latitude":17.27819,
+    "geom:longitude":43.04927,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"`Ayban",
+    "gn:country_code":"SA",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101712,
+    "gn:latitude":17.27819,
+    "gn:longitude":43.04927,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"\u2018Ayb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u016bq \u2018Ayb\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Suq al Khamis",
+        "Sug al Khamis",
+        "Suq \u2018Aiban",
+        "\u2018Ayb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101712
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a1237334f0192ee1066e951f1a55b5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720583,
+            "locality_id":1344075127,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1344075127,
+    "wof:lastmodified":1537699172,
+    "wof:name":"`Ayban",
+    "wof:parent_id":1108720583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.04927,
+    17.27819,
+    43.04927,
+    17.27819
+],
+  "geometry": {"coordinates":[43.04927,17.27819],"type":"Point"}
+}

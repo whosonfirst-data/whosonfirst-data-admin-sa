@@ -1,0 +1,73 @@
+{
+  "id": 1293302683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04066,28.81858,44.04066,28.81858",
+    "geom:latitude":28.81858,
+    "geom:longitude":44.04066,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"U`aywij",
+    "gn:country_code":"SA",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394022,
+    "gn:latitude":28.81858,
+    "gn:longitude":44.04066,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"U\u2018aywij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0639\u064a\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "U\u2018aywij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394022
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"1f212fcffb3762fdfa713c1eac03c32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720741,
+            "locality_id":1293302683,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1293302683,
+    "wof:lastmodified":1537699291,
+    "wof:name":"U`aywij",
+    "wof:parent_id":1108720741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04066,
+    28.81858,
+    44.04066,
+    28.81858
+],
+  "geometry": {"coordinates":[44.04066,28.81858],"type":"Point"}
+}

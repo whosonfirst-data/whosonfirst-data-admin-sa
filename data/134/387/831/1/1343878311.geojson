@@ -1,0 +1,72 @@
+{
+  "id": 1343878311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23333,25.85,44.23333,25.85",
+    "geom:latitude":25.85,
+    "geom:longitude":44.23333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Qufayfah",
+    "gn:country_code":"SA",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103164,
+    "gn:latitude":25.85,
+    "gn:longitude":44.23333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qufayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qufaifa",
+        "Qufaifa",
+        "Qufayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103164
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"949d5eded5a5f91c8af5b6731c7dbdd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720617,
+            "locality_id":1343878311,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1343878311,
+    "wof:lastmodified":1537699185,
+    "wof:name":"Qufayfah",
+    "wof:parent_id":1108720617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23333,
+    25.85,
+    44.23333,
+    25.85
+],
+  "geometry": {"coordinates":[44.23333,25.85],"type":"Point"}
+}

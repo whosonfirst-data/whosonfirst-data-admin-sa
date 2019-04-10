@@ -1,0 +1,73 @@
+{
+  "id": 1343245961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2125,25.41056,47.2125,25.41056",
+    "geom:latitude":25.41056,
+    "geom:longitude":47.2125,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Ghaylanah",
+    "gn:country_code":"SA",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397356,
+    "gn:latitude":25.41056,
+    "gn:longitude":47.2125,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Ghayl\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u064a\u0644\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ghayl\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397356
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b55b4381c1f0f371af6f9a67c465a171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720751,
+            "locality_id":1343245961,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1343245961,
+    "wof:lastmodified":1537699317,
+    "wof:name":"Al Ghaylanah",
+    "wof:parent_id":1108720751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2125,
+    25.41056,
+    47.2125,
+    25.41056
+],
+  "geometry": {"coordinates":[47.2125,25.41056],"type":"Point"}
+}

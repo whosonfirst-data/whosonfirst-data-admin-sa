@@ -1,0 +1,71 @@
+{
+  "id": 1259756957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-01-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.82083,21.48222,39.82083,21.48222",
+    "geom:latitude":21.48222,
+    "geom:longitude":39.82083,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bashm",
+    "gn:country_code":"SA",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448620,
+    "gn:latitude":21.48222,
+    "gn:longitude":39.82083,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bashm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448620,
+        "wk:page":"Bashm"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4650c7ccd6f3a8e776b9b40e58b3b96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1259756957,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1259756957,
+    "wof:lastmodified":1548452888,
+    "wof:name":"Bashm",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1361025859
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.82083,
+    21.48222,
+    39.82083,
+    21.48222
+],
+  "geometry": {"coordinates":[39.82083,21.48222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226530411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.88268,18.98251,41.88268,18.98251",
+    "geom:latitude":18.98251,
+    "geom:longitude":41.88268,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Khawsh",
+    "gn:country_code":"SA",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":104985,
+    "gn:latitude":18.98251,
+    "gn:longitude":41.88268,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Khawsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khawsh",
+        "Al Khawsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":104985
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"bf0754280a30bb7dff7e0d826b3965e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720609,
+            "locality_id":1226530411,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1226530411,
+    "wof:lastmodified":1537699202,
+    "wof:name":"Al Khawsh",
+    "wof:parent_id":1108720609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.88268,
+    18.98251,
+    41.88268,
+    18.98251
+],
+  "geometry": {"coordinates":[41.88268,18.98251],"type":"Point"}
+}

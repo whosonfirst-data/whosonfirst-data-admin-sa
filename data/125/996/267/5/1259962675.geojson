@@ -1,0 +1,70 @@
+{
+  "id": 1259962675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.12515,28.82587,45.12515,28.82587",
+    "geom:latitude":28.82587,
+    "geom:longitude":45.12515,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Abu Tutah",
+    "gn:country_code":"SA",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":393510,
+    "gn:latitude":28.82587,
+    "gn:longitude":45.12515,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b \u0162\u016b\u0163\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ab\u016b \u0162\u016b\u0163\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676837,
+        1108720741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393510
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8ea88c633a4d6fbe39d77ebe2daa3bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720741,
+            "locality_id":1259962675,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":1259962675,
+    "wof:lastmodified":1537699290,
+    "wof:name":"Abu Tutah",
+    "wof:parent_id":1108720741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.12515,
+    28.82587,
+    45.12515,
+    28.82587
+],
+  "geometry": {"coordinates":[45.12515,28.82587],"type":"Point"}
+}

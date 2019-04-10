@@ -1,0 +1,71 @@
+{
+  "id": 1276964599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15,26.05,44.15,26.05",
+    "geom:latitude":26.05,
+    "geom:longitude":44.15,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Qusur Mayy",
+    "gn:country_code":"SA",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103071,
+    "gn:latitude":26.05,
+    "gn:longitude":44.15,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qu\u015f\u016br Mayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qusur Mai",
+        "Qu\u015f\u016br Mayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103071
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"3e692ca4f2fd44061df0dfdf0a35a645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720785,
+            "locality_id":1276964599,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1276964599,
+    "wof:lastmodified":1537699185,
+    "wof:name":"Qusur Mayy",
+    "wof:parent_id":1108720785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15,
+    26.05,
+    44.15,
+    26.05
+],
+  "geometry": {"coordinates":[44.15,26.05],"type":"Point"}
+}

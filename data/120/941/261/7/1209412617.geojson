@@ -1,0 +1,73 @@
+{
+  "id": 1209412617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.42657,26.03988,49.42657,26.03988",
+    "geom:latitude":26.03988,
+    "geom:longitude":49.42657,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ash Shuhayla'",
+    "gn:country_code":"SA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391729,
+    "gn:latitude":26.03988,
+    "gn:longitude":49.42657,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ash Shuhayl\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0651\u064f\u0647\u064a\u0652\u0644\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Ash Shuhayl\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391729
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"63757b8360fbe209c9706056a4341bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720685,
+            "locality_id":1209412617,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1209412617,
+    "wof:lastmodified":1548455917,
+    "wof:name":"Ash Shuhayla'",
+    "wof:parent_id":1108720685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.42657,
+    26.03988,
+    49.42657,
+    26.03988
+],
+  "geometry": {"coordinates":[49.42657,26.03988],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209246569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.56667,24.26667,38.56667,24.26667",
+    "geom:latitude":24.26667,
+    "geom:longitude":38.56667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Fiji",
+    "gn:country_code":"SA",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106647,
+    "gn:latitude":24.26667,
+    "gn:longitude":38.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Fiji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106647,
+        "wk:page":"Fiji%2C_Saudi_Arabia"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0542348aec9ec3092ce86b825398380a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720795,
+            "locality_id":1209246569,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1209246569,
+    "wof:lastmodified":1548455913,
+    "wof:name":"Fiji",
+    "wof:parent_id":1108720795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.56667,
+    24.26667,
+    38.56667,
+    24.26667
+],
+  "geometry": {"coordinates":[38.56667,24.26667],"type":"Point"}
+}

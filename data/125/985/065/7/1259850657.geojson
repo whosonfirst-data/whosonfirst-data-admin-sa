@@ -1,0 +1,70 @@
+{
+  "id": 1259850657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.76694,22.5025,40.76694,22.5025",
+    "geom:latitude":22.5025,
+    "geom:longitude":40.76694,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Faydat al Mislah",
+    "gn:country_code":"SA",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409916,
+    "gn:latitude":22.5025,
+    "gn:longitude":40.76694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fay\u1e11at al Misla\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fay\u1e11at al Misla\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409916
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"79cbedad171ddcb809571f9b0493a0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1259850657,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1259850657,
+    "wof:lastmodified":1537699332,
+    "wof:name":"Faydat al Mislah",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.76694000000001,
+    22.5025,
+    40.76694000000001,
+    22.5025
+],
+  "geometry": {"coordinates":[40.76694000000001,22.5025],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242563185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.57446,25.52955,42.57446,25.52955",
+    "geom:latitude":25.52955,
+    "geom:longitude":42.57446,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Wutah",
+    "gn:country_code":"SA",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395838,
+    "gn:latitude":25.52955,
+    "gn:longitude":42.57446,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al Wu\u0163\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Wu\u0163\u0101h"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0648\u0637\u0627\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395838
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"206a25c9c33f3942a3ba7fba87f31918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1242563185,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1242563185,
+    "wof:lastmodified":1537699302,
+    "wof:name":"Al Wutah",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.57446,
+    25.52955,
+    42.57446,
+    25.52955
+],
+  "geometry": {"coordinates":[42.57446,25.52955],"type":"Point"}
+}

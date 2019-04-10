@@ -1,0 +1,70 @@
+{
+  "id": 1293113337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01635,25.50349,37.01635,25.50349",
+    "geom:latitude":25.50349,
+    "geom:longitude":37.01635,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Hanak",
+    "gn:country_code":"SA",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106124,
+    "gn:latitude":25.50349,
+    "gn:longitude":37.01635,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28anak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28anak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676833,
+        1108720783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106124
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"66e243631e51ecf25b0bc82f5f82a6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720783,
+            "locality_id":1293113337,
+            "region_id":85676833
+        }
+    ],
+    "wof:id":1293113337,
+    "wof:lastmodified":1537699211,
+    "wof:name":"Hanak",
+    "wof:parent_id":1108720783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01635,
+    25.50349,
+    37.01635,
+    25.50349
+],
+  "geometry": {"coordinates":[37.01635,25.50349],"type":"Point"}
+}

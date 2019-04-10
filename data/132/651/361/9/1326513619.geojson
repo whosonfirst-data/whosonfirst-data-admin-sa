@@ -1,0 +1,75 @@
+{
+  "id": 1326513619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15541,22.34915,39.15541,22.34915",
+    "geom:latitude":22.34915,
+    "geom:longitude":39.15541,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Qadimah",
+    "gn:country_code":"SA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108979,
+    "gn:latitude":22.34915,
+    "gn:longitude":39.15541,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Qa\u1e11\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qadhima",
+        "Al Qadhima",
+        "Qa\u1e11\u012bmah",
+        "Al Qu\u1e11aymah",
+        "Al Qa\u1e11\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108979,
+        "wk:page":"Al_Qadimah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b4c51c50b636070277daf54e6b15c9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720739,
+            "locality_id":1326513619,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1326513619,
+    "wof:lastmodified":1537699248,
+    "wof:name":"Al Qadimah",
+    "wof:parent_id":1108720739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15541,
+    22.34915,
+    39.15541,
+    22.34915
+],
+  "geometry": {"coordinates":[39.15541,22.34915],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276419935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.97747,27.04518,41.97747,27.04518",
+    "geom:latitude":27.04518,
+    "geom:longitude":41.97747,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"As Sab`an",
+    "gn:country_code":"SA",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":102678,
+    "gn:latitude":27.04518,
+    "gn:longitude":41.97747,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"As Sab\u2018\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u0639\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Seb\u2018\u00e2n",
+        "Sab\u2018\u0101n",
+        "As Sab\u2018\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":102678
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"07ec93d84fd551658dee52ae5f75a79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1276419935,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1276419935,
+    "wof:lastmodified":1537699180,
+    "wof:name":"As Sab`an",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.97747,
+    27.04518,
+    41.97747,
+    27.04518
+],
+  "geometry": {"coordinates":[41.97747,27.04518],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327317207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.03879,21.64532,40.03879,21.64532",
+    "geom:latitude":21.64532,
+    "geom:longitude":40.03879,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Harad",
+    "gn:country_code":"SA",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411575,
+    "gn:latitude":21.64532,
+    "gn:longitude":40.03879,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28ara\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ara\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411575
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a030046ff99a3dfed5510e6c1e6f339f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1327317207,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1327317207,
+    "wof:lastmodified":1537699338,
+    "wof:name":"Harad",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.03879000000001,
+    21.64532,
+    40.03879000000001,
+    21.64532
+],
+  "geometry": {"coordinates":[40.03879000000001,21.64532],"type":"Point"}
+}

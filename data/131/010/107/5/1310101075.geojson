@@ -1,0 +1,75 @@
+{
+  "id": 1310101075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.02916,25.35946,42.02916,25.35946",
+    "geom:latitude":25.35946,
+    "geom:longitude":42.02916,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"`Urayfijan Sahuq",
+    "gn:country_code":"SA",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395427,
+    "gn:latitude":25.35946,
+    "gn:longitude":42.02916,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"\u2018Urayfij\u0101n S\u0101\u1e29\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u064a\u0641\u062c\u0627\u0646 \u0633\u0627\u062d\u0648\u0642"
+    ],
+    "name:und_x_variant":[
+        "\u2018Urayfj\u0101n S\u0101\u1e29\u016bq",
+        "\u2018Urayfij\u0101n S\u0101\u1e29\u016bq",
+        "\u2018Urayfaj\u0101n S\u0101\u1e29\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395427
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8e147b0825c50d03793a288a114dcc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1310101075,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1310101075,
+    "wof:lastmodified":1537699299,
+    "wof:name":"`Urayfijan Sahuq",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.02916,
+    25.35946,
+    42.02916,
+    25.35946
+],
+  "geometry": {"coordinates":[42.02916,25.35946],"type":"Point"}
+}

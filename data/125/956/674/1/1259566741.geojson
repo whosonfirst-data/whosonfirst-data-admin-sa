@@ -1,0 +1,70 @@
+{
+  "id": 1259566741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.30889,21.31755,40.30889,21.31755",
+    "geom:latitude":21.31755,
+    "geom:longitude":40.30889,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Az Zinan",
+    "gn:country_code":"SA",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410086,
+    "gn:latitude":21.31755,
+    "gn:longitude":40.30889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az Zin\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Az Zin\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410086
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"5061f025e2ce1be09a614c3ec6564775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1259566741,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1259566741,
+    "wof:lastmodified":1537699334,
+    "wof:name":"Az Zinan",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.30889000000001,
+    21.31755,
+    40.30889000000001,
+    21.31755
+],
+  "geometry": {"coordinates":[40.30889000000001,21.31755],"type":"Point"}
+}

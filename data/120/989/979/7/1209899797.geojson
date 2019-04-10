@@ -1,0 +1,71 @@
+{
+  "id": 1209899797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.12312,21.59027,40.12312,21.59027",
+    "geom:latitude":21.59027,
+    "geom:longitude":40.12312,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sabuhah",
+    "gn:country_code":"SA",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411641,
+    "gn:latitude":21.59027,
+    "gn:longitude":40.12312,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015eab\u016b\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eab\u016b\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411641,
+        "wk:page":"Sabuhah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"369840d23e2aecb55fe333c2f3ec931f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1209899797,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1209899797,
+    "wof:lastmodified":1537699339,
+    "wof:name":"Sabuhah",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.12312,
+    21.59027,
+    40.12312,
+    21.59027
+],
+  "geometry": {"coordinates":[40.12312,21.59027],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327351715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.61667,25.35,40.61667,25.35",
+    "geom:latitude":25.35,
+    "geom:longitude":40.61667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Fanudah",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":106770,
+    "gn:latitude":25.35,
+    "gn:longitude":40.61667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Fan\u016bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fanuda",
+        "Fan\u016bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":106770
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a75ecdd6addba84d8eb56dcb56c013bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720581,
+            "locality_id":1327351715,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1327351715,
+    "wof:lastmodified":1537699217,
+    "wof:name":"Fanudah",
+    "wof:parent_id":1108720581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.61667,
+    25.35,
+    40.61667,
+    25.35
+],
+  "geometry": {"coordinates":[40.61667,25.35],"type":"Point"}
+}

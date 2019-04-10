@@ -1,0 +1,75 @@
+{
+  "id": 1344075053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.97141,19.61975,41.97141,19.61975",
+    "geom:latitude":19.61975,
+    "geom:longitude":41.97141,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"10972263.0",
+    "gn:asciiname":"Al `Ulayyah",
+    "gn:country_code":"SA",
+    "gn:dem":1929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108840,
+    "gn:latitude":19.61975,
+    "gn:longitude":41.97141,
+    "gn:modification_date":"2018-07-21",
+    "gn:name":"Al \u2018Ulayyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aalia",
+        "Al \u2018Allayyah",
+        "Al \u2018Ayayyah",
+        "Al \u2018Alayyah",
+        "Al \u2018Ulayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108840
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"4ad282205cfbaa68c726002784431d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720673,
+            "locality_id":1344075053,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1344075053,
+    "wof:lastmodified":1537699244,
+    "wof:name":"Al `Ulayyah",
+    "wof:parent_id":1108720673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.97141,
+    19.61975,
+    41.97141,
+    19.61975
+],
+  "geometry": {"coordinates":[41.97141,19.61975],"type":"Point"}
+}

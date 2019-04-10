@@ -1,0 +1,70 @@
+{
+  "id": 1193159317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.39016,28.61082,45.39016,28.61082",
+    "geom:latitude":28.61082,
+    "geom:longitude":45.39016,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ibn Tuwalah",
+    "gn:country_code":"SA",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":393447,
+    "gn:latitude":28.61082,
+    "gn:longitude":45.39016,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Ibn \u0162uw\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibn \u0162uw\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393447
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c18c9d6d241b0aace3b0432e1a80e5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":1193159317,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1193159317,
+    "wof:lastmodified":1537699290,
+    "wof:name":"Ibn Tuwalah",
+    "wof:parent_id":1108720699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.39016,
+    28.61082,
+    45.39016,
+    28.61082
+],
+  "geometry": {"coordinates":[45.39016,28.61082],"type":"Point"}
+}

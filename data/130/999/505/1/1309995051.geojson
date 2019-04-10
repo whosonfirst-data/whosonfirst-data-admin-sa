@@ -1,0 +1,74 @@
+{
+  "id": 1309995051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.37116,24.51129,46.37116,24.51129",
+    "geom:latitude":24.51129,
+    "geom:longitude":46.37116,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qusur al Muqbil",
+    "gn:country_code":"SA",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397395,
+    "gn:latitude":24.51129,
+    "gn:longitude":46.37116,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Qu\u015f\u016br al Muqbil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0648\u0631 \u0627\u0644\u0645\u0642\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qu\u015f\u016br al Muqbil",
+        "Qusur al Muqbil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397395
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8ba47e26f99135ee2a8468f1f478187d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720695,
+            "locality_id":1309995051,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1309995051,
+    "wof:lastmodified":1537699318,
+    "wof:name":"Qusur al Muqbil",
+    "wof:parent_id":1108720695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.37116,
+    24.51129,
+    46.37116,
+    24.51129
+],
+  "geometry": {"coordinates":[46.37116,24.51129],"type":"Point"}
+}

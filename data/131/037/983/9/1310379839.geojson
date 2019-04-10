@@ -1,0 +1,72 @@
+{
+  "id": 1310379839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.59915,31.37331,37.59915,31.37331",
+    "geom:latitude":31.37331,
+    "geom:longitude":37.59915,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Al Washwash",
+    "gn:country_code":"SA",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108759,
+    "gn:latitude":31.37331,
+    "gn:longitude":37.59915,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Washwash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Washwash",
+        "Al-Wa\u0161wa\u0161",
+        "Al Washwash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108759
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9c9a294dc05e868bfc2c4c176d70e9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720635,
+            "locality_id":1310379839,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1310379839,
+    "wof:lastmodified":1537699242,
+    "wof:name":"Al Washwash",
+    "wof:parent_id":1108720635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.59915,
+    31.37331,
+    37.59915,
+    31.37331
+],
+  "geometry": {"coordinates":[37.59915,31.37331],"type":"Point"}
+}

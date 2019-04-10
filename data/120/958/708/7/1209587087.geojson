@@ -1,0 +1,73 @@
+{
+  "id": 1209587087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.29235,27.17369,42.29235,27.17369",
+    "geom:latitude":27.17369,
+    "geom:longitude":42.29235,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"An Ni`ayy",
+    "gn:country_code":"SA",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":396611,
+    "gn:latitude":27.17369,
+    "gn:longitude":42.29235,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"An Ni\u2018ayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0651\u0650\u0639\u064e\u064a"
+    ],
+    "name:und_x_variant":[
+        "An Ni\u2018ayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":396611
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b757fbfa56437913e6a7a526c90c7aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720661,
+            "locality_id":1209587087,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1209587087,
+    "wof:lastmodified":1548455923,
+    "wof:name":"An Ni`ayy",
+    "wof:parent_id":1108720661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.29235,
+    27.17369,
+    42.29235,
+    27.17369
+],
+  "geometry": {"coordinates":[42.29235,27.17369],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310719857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.22215,29.88,40.22215,29.88",
+    "geom:latitude":29.88,
+    "geom:longitude":40.22215,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Qara",
+    "gn:country_code":"SA",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":103331,
+    "gn:latitude":29.88,
+    "gn:longitude":40.22215,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Q\u0101r\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Q\u0101r\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0627\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Q\u0101ra",
+        "Q\u0101rah",
+        "Al Q\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":103331
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"92ec496344a3cc40f9cf461be12009ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720757,
+            "locality_id":1310719857,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1310719857,
+    "wof:lastmodified":1537699188,
+    "wof:name":"Qara",
+    "wof:parent_id":1108720757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.22215,
+    29.88,
+    40.22215,
+    29.88
+],
+  "geometry": {"coordinates":[40.22215,29.88],"type":"Point"}
+}

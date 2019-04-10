@@ -1,0 +1,70 @@
+{
+  "id": 1310566047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62618,31.1568,37.62618,31.1568",
+    "geom:latitude":31.1568,
+    "geom:longitude":37.62618,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Al `Ayn al Bayda'",
+    "gn:country_code":"SA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":391928,
+    "gn:latitude":31.1568,
+    "gn:longitude":37.62618,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Ayn al Bay\u1e11\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Ayn al Bay\u1e11\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391928
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"0d60cfd366d299374981eea9b5d0b29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720635,
+            "locality_id":1310566047,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1310566047,
+    "wof:lastmodified":1537699284,
+    "wof:name":"Al `Ayn al Bayda'",
+    "wof:parent_id":1108720635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62618,
+    31.1568,
+    37.62618,
+    31.1568
+],
+  "geometry": {"coordinates":[37.62618,31.1568],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326825371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.25118,24.21154,47.25118,24.21154",
+    "geom:latitude":24.21154,
+    "geom:longitude":47.25118,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ghanamiyah",
+    "gn:country_code":"SA",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414171,
+    "gn:latitude":24.21154,
+    "gn:longitude":47.25118,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ghanam\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghanam\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414171
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"7edf758db82b99fe393e4d9c3ec27277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1326825371,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1326825371,
+    "wof:lastmodified":1537699340,
+    "wof:name":"Ghanamiyah",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.25118,
+    24.21154,
+    47.25118,
+    24.21154
+],
+  "geometry": {"coordinates":[47.25118,24.21154],"type":"Point"}
+}

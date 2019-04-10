@@ -1,0 +1,70 @@
+{
+  "id": 1242739713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.31952,30.06141,40.31952,30.06141",
+    "geom:latitude":30.06141,
+    "geom:longitude":40.31952,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Hadban",
+    "gn:country_code":"SA",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":392754,
+    "gn:latitude":30.06141,
+    "gn:longitude":40.31952,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hadb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hadb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392754
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"fd6eac8fa2991de47dcf0ac77b959615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720757,
+            "locality_id":1242739713,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1242739713,
+    "wof:lastmodified":1537699288,
+    "wof:name":"Hadban",
+    "wof:parent_id":1108720757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.31952,
+    30.06141,
+    40.31952,
+    30.06141
+],
+  "geometry": {"coordinates":[40.31952,30.06141],"type":"Point"}
+}

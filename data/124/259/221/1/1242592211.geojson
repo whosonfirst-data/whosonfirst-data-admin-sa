@@ -1,0 +1,73 @@
+{
+  "id": 1242592211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.43556,19.77944,41.43556,19.77944",
+    "geom:latitude":19.77944,
+    "geom:longitude":41.43556,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Makhwah",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109121,
+    "gn:latitude":19.77944,
+    "gn:longitude":41.43556,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Makhw\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikhw\u0101",
+        "Al Mikhw\u0101h",
+        "Al Makhw\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109121
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"a5b98be00026f8e8230fa07d291d0cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720619,
+            "locality_id":1242592211,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1242592211,
+    "wof:lastmodified":1537699252,
+    "wof:name":"Al Makhwah",
+    "wof:parent_id":1108720619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.43556,
+    19.77944,
+    41.43556,
+    19.77944
+],
+  "geometry": {"coordinates":[41.43556,19.77944],"type":"Point"}
+}

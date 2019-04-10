@@ -1,0 +1,67 @@
+{
+  "id": 1360264659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.68333,27.9,42.68333,27.9",
+    "geom:latitude":27.9,
+    "geom:longitude":42.68333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Ghumayyisah",
+    "gn:country_code":"SA",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109755,
+    "gn:latitude":27.9,
+    "gn:longitude":42.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Ghumayyisah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676831,
+        1108720675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109755
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"925007aa9099b539898009c9a99776e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720675,
+            "locality_id":1360264659,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1360264659,
+    "wof:lastmodified":1536686666,
+    "wof:name":"Al Ghumayyisah",
+    "wof:parent_id":1108720675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.68333,
+    27.9,
+    42.68333,
+    27.9
+],
+  "geometry": {"coordinates":[42.68333,27.9],"type":"Point"}
+}

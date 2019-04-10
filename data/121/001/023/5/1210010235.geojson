@@ -1,0 +1,73 @@
+{
+  "id": 1210010235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.32659,25.40242,45.32659,25.40242",
+    "geom:latitude":25.40242,
+    "geom:longitude":45.32659,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ad Dabbiyat ash Shamaliyat",
+    "gn:country_code":"SA",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397489,
+    "gn:latitude":25.40242,
+    "gn:longitude":45.32659,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"A\u1e11 \u1e10abb\u012by\u0101t ash Sham\u0101l\u012by\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0628\u064a\u0627\u062a \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "A\u1e11 \u1e10abb\u012by\u0101t ash Sham\u0101l\u012by\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397489
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e45c063d7b2f07274721e6962ba250a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720763,
+            "locality_id":1210010235,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1210010235,
+    "wof:lastmodified":1537699318,
+    "wof:name":"Ad Dabbiyat ash Shamaliyat",
+    "wof:parent_id":1108720763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.32659,
+    25.40242000000001,
+    45.32659,
+    25.40242000000001
+],
+  "geometry": {"coordinates":[45.32659,25.40242000000001],"type":"Point"}
+}

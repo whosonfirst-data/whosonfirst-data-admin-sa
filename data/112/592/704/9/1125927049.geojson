@@ -1,0 +1,78 @@
+{
+  "id": 1125927049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.73333,25.4,49.73333,25.4",
+    "geom:latitude":25.4,
+    "geom:longitude":49.73333,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6464,
+    "gn:population":6464,
+    "iso:country":"SA",
+    "lbl:latitude":25.4,
+    "lbl:longitude":49.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":109165,
+    "qs_pg:gn_pop":6464,
+    "qs_pg:name":"Al Markaz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":66190,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109165,
+        "qs_pg:id":66190
+    },
+    "wof:country":"SA",
+    "wof:created":1497296675,
+    "wof:geomhash":"d7df8d65f3d4580575981edecbe398d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720555,
+            "locality_id":1125927049,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1125927049,
+    "wof:lastmodified":1509401150,
+    "wof:name":"Al Markaz",
+    "wof:parent_id":1108720555,
+    "wof:placetype":"locality",
+    "wof:population":6464,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.73333,
+    25.4,
+    49.73333,
+    25.4
+],
+  "geometry": {"coordinates":[49.73333,25.4],"type":"Point"}
+}

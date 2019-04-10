@@ -1,0 +1,73 @@
+{
+  "id": 1293578317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.28101,25.57392,45.28101,25.57392",
+    "geom:latitude":25.57392,
+    "geom:longitude":45.28101,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ad Dahinah",
+    "gn:country_code":"SA",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110345,
+    "gn:latitude":25.57392,
+    "gn:longitude":45.28101,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ad D\u0101hinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0627\u0647\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad D\u0101hinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110345
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b5740c2b6e182596be8e32d5e6320792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720763,
+            "locality_id":1293578317,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1293578317,
+    "wof:lastmodified":1537699278,
+    "wof:name":"Ad Dahinah",
+    "wof:parent_id":1108720763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.28101,
+    25.57392,
+    45.28101,
+    25.57392
+],
+  "geometry": {"coordinates":[45.28101,25.57392],"type":"Point"}
+}

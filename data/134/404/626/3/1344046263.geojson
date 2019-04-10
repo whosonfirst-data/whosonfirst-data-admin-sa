@@ -1,0 +1,74 @@
+{
+  "id": 1344046263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0723,24.20724,48.0723,24.20724",
+    "geom:latitude":24.20724,
+    "geom:longitude":48.0723,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"At Tawdihiyah",
+    "gn:country_code":"SA",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":398285,
+    "gn:latitude":24.20724,
+    "gn:longitude":48.0723,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"At Taw\u1e11i\u1e29\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0648\u0636\u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "At Taw\u1e11i\u1e29\u012byah",
+        "At Tawa\u1e11\u1e11u\u1e29\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":398285
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f95077e0e6a1708ab6790c48c656f4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720595,
+            "locality_id":1344046263,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1344046263,
+    "wof:lastmodified":1537699323,
+    "wof:name":"At Tawdihiyah",
+    "wof:parent_id":1108720595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0723,
+    24.20724,
+    48.0723,
+    24.20724
+],
+  "geometry": {"coordinates":[48.0723,24.20724],"type":"Point"}
+}

@@ -1,0 +1,203 @@
+{
+  "id": 890441453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.57792,20.46067,45.57792,20.46067",
+    "geom:latitude":20.46067,
+    "geom:longitude":45.57792,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
+    "gn:pop":24097,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0644\u064a\u0644"
+    ],
+    "name:chi_x_preferred":[
+        "\u8607\u840a\u4f0a\u9081"
+    ],
+    "name:dut_x_preferred":[
+        "As Sulayyil"
+    ],
+    "name:eng_x_preferred":[
+        "As Sulayyil"
+    ],
+    "name:fre_x_preferred":[
+        "As Sulayyil"
+    ],
+    "name:ger_x_preferred":[
+        "As Sulayyil"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c2 \u03a3\u03bf\u03c5\u03bb\u03b1\u03ca\u03b3\u03af\u03bb"
+    ],
+    "name:nno_x_preferred":[
+        "As Sulayyil"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u064a\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "As-Sulajjil"
+    ],
+    "name:tgl_x_preferred":[
+        "As Sulayyil"
+    ],
+    "name:tur_x_preferred":[
+        "Es Suleyil"
+    ],
+    "name:unk_x_variant":[
+        "Sulaiyil"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Saudi Arabia",
+    "ne:ADM0_A3":"SAU",
+    "ne:ADM1NAME":"Ar Riyad",
+    "ne:ADMIN1_COD":10,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":108048,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"As Sulayyil",
+    "ne:GN_POP":24097,
+    "ne:GTOPO30":608.0,
+    "ne:ISO_A2":"SA",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":20.462251,
+    "ne:LONGITUDE":45.572246,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"As Sulayyil",
+    "ne:MAX_AREAKM":7.0,
+    "ne:MAX_AREAMI":3.0,
+    "ne:MAX_BBXMAX":45.583333,
+    "ne:MAX_BBXMIN":45.55,
+    "ne:MAX_BBYMAX":20.475,
+    "ne:MAX_BBYMIN":20.45,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":14.0,
+    "ne:MAX_PERMI":9.0,
+    "ne:MAX_POP10":17620,
+    "ne:MAX_POP20":17620,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":45.56713,
+    "ne:MEAN_BBYC":20.463426,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":7.0,
+    "ne:MIN_AREAMI":3.0,
+    "ne:MIN_BBXMAX":45.583333,
+    "ne:MIN_BBXMIN":45.55,
+    "ne:MIN_BBYMAX":20.475,
+    "ne:MIN_BBYMIN":20.45,
+    "ne:MIN_PERKM":14.0,
+    "ne:MIN_PERMI":9.0,
+    "ne:NAME":"As Sulayyil",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"As Sulayyil",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":24097,
+    "ne:POP_MIN":17620,
+    "ne:POP_OTHER":17620,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Saudi Arabia",
+    "ne:SOV_A3":"SAU",
+    "ne:TIMEZONE":"Asia/Riyadh",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"As Sulayyil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:latitude":"20.459722222",
+    "wd:longitude":"45.574444444",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108048,
+        "gp:id":1939770,
+        "qs:id":65683,
+        "wd:id":"Q27221",
+        "wk:page":"As Sulayyil"
+    },
+    "wof:country":"SA",
+    "wof:created":1469052324,
+    "wof:geomhash":"5be6479194c760138cd9eb064dea4a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720663,
+            "locality_id":890441453,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":890441453,
+    "wof:lastmodified":1527727229,
+    "wof:name":"As Sulayyil",
+    "wof:parent_id":1108720663,
+    "wof:placetype":"locality",
+    "wof:population":24097,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.57792,
+    20.46067,
+    45.57792,
+    20.46067
+],
+  "geometry": {"coordinates":[45.57792,20.46067],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242956949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26328,25.34117,45.26328,25.34117",
+    "geom:latitude":25.34117,
+    "geom:longitude":45.26328,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ash Shukayyirah",
+    "gn:country_code":"SA",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397504,
+    "gn:latitude":25.34117,
+    "gn:longitude":45.26328,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ash Shukayyirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0643\u064a\u0631\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397504
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6037d0c9b7aa6af951d2fd955a0d86b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720763,
+            "locality_id":1242956949,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1242956949,
+    "wof:lastmodified":1537699319,
+    "wof:name":"Ash Shukayyirah",
+    "wof:parent_id":1108720763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26328,
+    25.34117,
+    45.26328,
+    25.34117
+],
+  "geometry": {"coordinates":[45.26328,25.34117],"type":"Point"}
+}

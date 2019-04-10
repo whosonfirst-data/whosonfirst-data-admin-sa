@@ -1,0 +1,71 @@
+{
+  "id": 1344041095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.80665,21.69316,39.80665,21.69316",
+    "geom:latitude":21.69316,
+    "geom:longitude":39.80665,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Khalas",
+    "gn:country_code":"SA",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411306,
+    "gn:latitude":21.69316,
+    "gn:longitude":39.80665,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Khala\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Khala\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411306,
+        "wk:page":"Al_Khalas"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"dc6109e66b399ceaf322743bf9459df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720587,
+            "locality_id":1344041095,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1344041095,
+    "wof:lastmodified":1537699337,
+    "wof:name":"Al Khalas",
+    "wof:parent_id":1108720587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.80665,
+    21.69316,
+    39.80665,
+    21.69316
+],
+  "geometry": {"coordinates":[39.80665,21.69316],"type":"Point"}
+}

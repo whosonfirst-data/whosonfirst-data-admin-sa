@@ -1,0 +1,76 @@
+{
+  "id": 1310584881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49561,25.37822,44.49561,25.37822",
+    "geom:latitude":25.37822,
+    "geom:longitude":44.49561,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Artawi",
+    "gn:country_code":"SA",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110032,
+    "gn:latitude":25.37822,
+    "gn:longitude":44.49561,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Al Ar\u0163\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Ar\u0163\u0101w\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u0631\u0637\u064e\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Artawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110032
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"aa589468ddef9f2d240da602e5acf482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1310584881,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310584881,
+    "wof:lastmodified":1537699273,
+    "wof:name":"Al Artawi",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49561,
+    25.37822,
+    44.49561,
+    25.37822
+],
+  "geometry": {"coordinates":[44.49561,25.37822],"type":"Point"}
+}

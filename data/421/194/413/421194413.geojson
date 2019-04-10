@@ -1,0 +1,83 @@
+{
+  "id": 421194413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.76694,24.69667,46.76694,24.69667",
+    "geom:latitude":24.69667,
+    "geom:longitude":46.76694,
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0628\u0648\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Western ar Rabwaw"
+    ],
+    "qs:gn_country":"SA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":448592,
+    "qs:gn_pop":0,
+    "qs:name":"Ar Rabwah",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":401062,
+    "qs:woe_adm0":23424938,
+    "qs:woe_id":22725961,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448592,
+        "gp:id":22725961,
+        "qs:id":401062
+    },
+    "wof:country":"SA",
+    "wof:created":1459009804,
+    "wof:geomhash":"1525e63d1a2e29ed2718445a0ec4dcf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":-1,
+            "neighbourhood_id":421194413,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":421194413,
+    "wof:lastmodified":1531858728,
+    "wof:name":"Ar Rabwah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.76694,
+    24.69667,
+    46.76694,
+    24.69667
+],
+  "geometry": {"coordinates":[46.76694,24.69667],"type":"Point"}
+}

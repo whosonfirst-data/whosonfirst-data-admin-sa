@@ -1,0 +1,70 @@
+{
+  "id": 1242766659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.87449,25.45143,43.87449,25.45143",
+    "geom:latitude":25.45143,
+    "geom:longitude":43.87449,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Rubayq",
+    "gn:country_code":"SA",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397619,
+    "gn:latitude":25.45143,
+    "gn:longitude":43.87449,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Rubayq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064f\u0628\u064e\u064a\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397619
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d2fe1e92767c09ef2dd51b0390a7e9a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720617,
+            "locality_id":1242766659,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1242766659,
+    "wof:lastmodified":1537699320,
+    "wof:name":"Rubayq",
+    "wof:parent_id":1108720617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.87449,
+    25.45143,
+    43.87449,
+    25.45143
+],
+  "geometry": {"coordinates":[43.87449,25.45143],"type":"Point"}
+}

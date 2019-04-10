@@ -1,0 +1,73 @@
+{
+  "id": 1310695599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25731,24.61574,45.25731,24.61574",
+    "geom:latitude":24.61574,
+    "geom:longitude":45.25731,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Huwaytah",
+    "gn:country_code":"SA",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397234,
+    "gn:latitude":24.61574,
+    "gn:longitude":45.25731,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"\u1e28uwaytah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28uwaytah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397234
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"fa11e172edc93e07a5e87d1924fa31a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":1310695599,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1310695599,
+    "wof:lastmodified":1537699316,
+    "wof:name":"Huwaytah",
+    "wof:parent_id":1108720657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25731,
+    24.61574,
+    45.25731,
+    24.61574
+],
+  "geometry": {"coordinates":[45.25731,24.61574],"type":"Point"}
+}

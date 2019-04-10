@@ -1,0 +1,73 @@
+{
+  "id": 1293075547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.83572,30.03274,38.83572,30.03274",
+    "geom:latitude":30.03274,
+    "geom:longitude":38.83572,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Subayhah",
+    "gn:country_code":"SA",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392474,
+    "gn:latitude":30.03274,
+    "gn:longitude":38.83572,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015eubay\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u015eubay\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676843,
+        1108720757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392474
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c5f8f9ac61d9c8106d460ac78d0c4126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720757,
+            "locality_id":1293075547,
+            "region_id":85676843
+        }
+    ],
+    "wof:id":1293075547,
+    "wof:lastmodified":1537699286,
+    "wof:name":"Subayhah",
+    "wof:parent_id":1108720757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.83572,
+    30.03274,
+    38.83572,
+    30.03274
+],
+  "geometry": {"coordinates":[38.83572,30.03274],"type":"Point"}
+}

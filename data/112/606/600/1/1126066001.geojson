@@ -1,0 +1,107 @@
+{
+  "id": 1126066001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70889,24.79639,46.70889,24.79639",
+    "geom:latitude":24.79639,
+    "geom:longitude":46.70889,
+    "gn:gn_country":"SA",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":24.79639,
+    "gn:longitude":46.70889,
+    "iso:country":"SA",
+    "lbl:latitude":24.79639,
+    "lbl:longitude":46.70889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0644\u0627\u062d"
+    ],
+    "name:eng_x_preferred":[
+        "Al Falah"
+    ],
+    "name:eng_x_variant":[
+        "Al Falah"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0641\u0644\u0627\u062d",
+        "Al Fal\u0101\u1e29"
+    ],
+    "qs_pg:aaroncc":"SA",
+    "qs_pg:gn_country":"SA",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":448531,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u0627\u0644\u0641\u0644\u0627\u062d",
+    "qs_pg:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs_pg:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":968864,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424938,
+    "qs_pg:woe_id":22726013,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424938,
+    "woe:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "woe:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85676813,
+        102191569,
+        85632253,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448531,
+        "gp:id":22726013,
+        "qs:id":968864,
+        "qs_pg:id":968864
+    },
+    "wof:country":"SA",
+    "wof:created":1497308894,
+    "wof:geomhash":"249bd7428277ee80eb629b4737f66e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":-1,
+            "neighbourhood_id":1126066001,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1126066001,
+    "wof:lastmodified":1534379459,
+    "wof:name":"\u0627\u0644\u0641\u0644\u0627\u062d",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85907441
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70889,
+    24.79639,
+    46.70889,
+    24.79639
+],
+  "geometry": {"coordinates":[46.70889,24.79639],"type":"Point"}
+}

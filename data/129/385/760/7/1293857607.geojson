@@ -1,0 +1,70 @@
+{
+  "id": 1293857607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.4225,22.50056,40.4225,22.50056",
+    "geom:latitude":22.50056,
+    "geom:longitude":40.4225,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Al Qasr",
+    "gn:country_code":"SA",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409714,
+    "gn:latitude":22.50056,
+    "gn:longitude":40.4225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qa\u015fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qa\u015fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409714
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"e0ee8100dd11ff7359975f5854a8adc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1293857607,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1293857607,
+    "wof:lastmodified":1537699331,
+    "wof:name":"Al Qasr",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.4225,
+    22.50056,
+    40.4225,
+    22.50056
+],
+  "geometry": {"coordinates":[40.4225,22.50056],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226531203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.42883,24.79422,46.42883,24.79422",
+    "geom:latitude":24.79422,
+    "geom:longitude":46.42883,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Aba al Kibash",
+    "gn:country_code":"SA",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415862,
+    "gn:latitude":24.79422,
+    "gn:longitude":46.42883,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ab\u0101 al Kib\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0627 \u0627\u0644\u0643\u0628\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Ab\u0101 al Kib\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415862
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"590e98b30c4668b04449501dd3f83a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720543,
+            "locality_id":1226531203,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1226531203,
+    "wof:lastmodified":1537699341,
+    "wof:name":"Aba al Kibash",
+    "wof:parent_id":1108720543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.42883,
+    24.79422000000001,
+    46.42883,
+    24.79422000000001
+],
+  "geometry": {"coordinates":[46.42883,24.79422000000001],"type":"Point"}
+}

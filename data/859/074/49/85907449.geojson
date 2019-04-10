@@ -1,0 +1,120 @@
+{
+  "id": 85907449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":3245587.432712,
+    "geom:bbox":"46.711121,24.759302,46.711121,24.759302",
+    "geom:latitude":24.759302,
+    "geom:longitude":46.711121,
+    "gn:latitude":24.75521,
+    "gn:longitude":46.70775,
+    "iso:country":"SA",
+    "lbl:latitude":24.759302,
+    "lbl:longitude":46.711121,
+    "mps:latitude":24.756743,
+    "mps:longitude":46.711144,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u0647\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "An Nuzhah"
+    ],
+    "name:eng_x_variant":[
+        "Al Nuzha",
+        "An Nuzhah"
+    ],
+    "name:unk_x_variant":[
+        "An Nuzhah",
+        "\u0627\u0644\u0646\u0632\u0647\u0629"
+    ],
+    "qs:gn_adm0_cc":"SA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":108410,
+    "qs:gn_nam_loc":"\u0627\u0644\u0631\u064a\u0627\u0636, \u0627\u0644\u0631\u064a\u0627\u0636, \u0627\u0644\u0631\u064a\u0627\u0636, SA",
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"An Nuzhah",
+    "qs:local_max":655,
+    "qs:local_sum":5321,
+    "qs:localhoods":54,
+    "qs:name":"\u0627\u0644\u0646\u0632\u0647\u0629",
+    "qs:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:name_adm2":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:name_en":"An Nuzhah",
+    "qs:name_local":"\u0627\u0644\u0631\u064a\u0627\u0636",
+    "qs:photo_max":2,
+    "qs:photo_sum":4,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424938,
+    "qs:woe_adm1":2346951,
+    "qs:woe_adm2":56120189,
+    "qs:woe_lau":0,
+    "qs:woe_local":1939753,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85676813,
+        102191569,
+        85632253,
+        1108720657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448558,
+        "gp:id":22726018,
+        "qs:id":1293033
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"303d242d37375c57e894291fa9bc01d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":-1,
+            "neighbourhood_id":85907449,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":85907449,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1534379459,
+    "wof:name":"\u0627\u0644\u0646\u0632\u0647\u0629",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[
+        1126080937
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.711121,
+    24.759302,
+    46.711121,
+    24.759302
+],
+  "geometry": {"coordinates":[46.711121,24.759302],"type":"Point"}
+}

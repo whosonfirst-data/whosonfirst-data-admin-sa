@@ -1,0 +1,70 @@
+{
+  "id": 1243063183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.02599,25.32456,46.02599,25.32456",
+    "geom:latitude":25.32456,
+    "geom:longitude":46.02599,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Jaww",
+    "gn:country_code":"SA",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397612,
+    "gn:latitude":25.32456,
+    "gn:longitude":46.02599,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Al Jaww",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397612
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"665b9b01e4108fa7787ee2f18c750111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720775,
+            "locality_id":1243063183,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1243063183,
+    "wof:lastmodified":1537699319,
+    "wof:name":"Al Jaww",
+    "wof:parent_id":1108720775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.02599,
+    25.32456,
+    46.02599,
+    25.32456
+],
+  "geometry": {"coordinates":[46.02599,25.32456],"type":"Point"}
+}

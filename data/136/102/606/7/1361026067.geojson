@@ -1,0 +1,72 @@
+{
+  "id": 1361026067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.46288,24.62254,46.46288,24.62254",
+    "geom:latitude":24.62254,
+    "geom:longitude":46.46288,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ubayr",
+    "gn:country_code":"SA",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":397400,
+    "gn:latitude":24.62254,
+    "gn:longitude":46.46288,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"\u016abayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u016abayr",
+        "Ubayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209510269,
+        85632253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":397400
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"95d5fd9509a985b5c031671f9e1c78a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632253,
+            "locality_id":1209510269,
+            "neighbourhood_id":1361026067
+        }
+    ],
+    "wof:id":1361026067,
+    "wof:lastmodified":1548452892,
+    "wof:name":"Ubayr",
+    "wof:parent_id":85632253,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209510269
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.46288,
+    24.62254,
+    46.46288,
+    24.62254
+],
+  "geometry": {"coordinates":[46.46288,24.62254],"type":"Point"}
+}

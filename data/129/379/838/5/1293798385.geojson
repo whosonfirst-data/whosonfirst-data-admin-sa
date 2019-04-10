@@ -1,0 +1,72 @@
+{
+  "id": 1293798385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.78333,18.25,42.78333,18.25",
+    "geom:latitude":18.25,
+    "geom:longitude":42.78333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Birzayn",
+    "gn:cc2":"SA",
+    "gn:country_code":"SA",
+    "gn:dem":2040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107392,
+    "gn:latitude":18.25,
+    "gn:longitude":42.78333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Birzayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barzayn",
+        "Birzayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107392
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"ea963e0537d14b74415b16784c5d68f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720717,
+            "locality_id":1293798385,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1293798385,
+    "wof:lastmodified":1537699221,
+    "wof:name":"Birzayn",
+    "wof:parent_id":1108720717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.78333,
+    18.25,
+    42.78333,
+    18.25
+],
+  "geometry": {"coordinates":[42.78333,18.25],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259898225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40948,17.83422,43.40948,17.83422",
+    "geom:latitude":17.83422,
+    "geom:longitude":43.40948,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al `Ayfah",
+    "gn:country_code":"SA",
+    "gn:dem":2412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109982,
+    "gn:latitude":17.83422,
+    "gn:longitude":43.40948,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018Ayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Ayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676851,
+        1108720797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109982
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"bbae2a35c1058e55ad741545f45beeb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720797,
+            "locality_id":1259898225,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":1259898225,
+    "wof:lastmodified":1537699271,
+    "wof:name":"Al `Ayfah",
+    "wof:parent_id":1108720797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40948,
+    17.83422000000001,
+    43.40948,
+    17.83422000000001
+],
+  "geometry": {"coordinates":[43.40948,17.83422000000001],"type":"Point"}
+}

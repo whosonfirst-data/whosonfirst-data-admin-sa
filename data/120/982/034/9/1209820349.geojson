@@ -1,0 +1,93 @@
+{
+  "id": 1209820349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.92316,26.60853,37.92316,26.60853",
+    "geom:latitude":26.60853,
+    "geom:longitude":37.92316,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Al-`Ula",
+    "gn:country_code":"SA",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108841,
+    "gn:latitude":26.60853,
+    "gn:longitude":37.92316,
+    "gn:modification_date":"2016-12-18",
+    "gn:name":"Al-`Ula",
+    "gn:population":32413,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Ul\u00e1"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0644\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Al-`Ula"
+    ],
+    "name:eng_x_variant":[
+        "Al Ola",
+        "Dedan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c-\u0423\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Al Ola"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b50\u62c9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108841,
+        "wk:page":"Al-%60Ula"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b895bb5bdc23a304ddc4fe23fe9410fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720641,
+            "locality_id":1209820349,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1209820349,
+    "wof:lastmodified":1537699244,
+    "wof:name":"Al-`Ula",
+    "wof:parent_id":1108720641,
+    "wof:placetype":"locality",
+    "wof:population":32413,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.92316,
+    26.60853,
+    37.92316,
+    26.60853
+],
+  "geometry": {"coordinates":[37.92316,26.60853],"type":"Point"}
+}

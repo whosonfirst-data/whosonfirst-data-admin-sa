@@ -1,0 +1,74 @@
+{
+  "id": 1259593117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.83333,19.21667,41.83333,19.21667",
+    "geom:latitude":19.21667,
+    "geom:longitude":41.83333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Suq ar Rub`",
+    "gn:country_code":"SA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":101716,
+    "gn:latitude":19.21667,
+    "gn:longitude":41.83333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bq ar Rub\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suk Ruba",
+        "S\u016bq ar Rub\u016b\u2018",
+        "Suk-er-Rubaa",
+        "Suk Rubo\u2019",
+        "S\u016bq ar Rub\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":101716
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"248597bd26a9a0dd6974885156865b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":1259593117,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1259593117,
+    "wof:lastmodified":1537699173,
+    "wof:name":"Suq ar Rub`",
+    "wof:parent_id":1108720633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.83333,
+    19.21667,
+    41.83333,
+    19.21667
+],
+  "geometry": {"coordinates":[41.83333,19.21667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209689719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.3254,22.34365,39.3254,22.34365",
+    "geom:latitude":22.34365,
+    "geom:longitude":39.3254,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buraykah",
+    "gn:country_code":"SA",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107299,
+    "gn:latitude":22.34365,
+    "gn:longitude":39.3254,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Buraykah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107299,
+        "wk:page":"Buraykah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"76e7baae70579251f4b64550fcd73d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720725,
+            "locality_id":1209689719,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1209689719,
+    "wof:lastmodified":1548455929,
+    "wof:name":"Buraykah",
+    "wof:parent_id":1108720725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.3254,
+    22.34365,
+    39.3254,
+    22.34365
+],
+  "geometry": {"coordinates":[39.3254,22.34365],"type":"Point"}
+}

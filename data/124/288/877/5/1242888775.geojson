@@ -1,0 +1,67 @@
+{
+  "id": 1242888775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55,26.25,36.55,26.25",
+    "geom:latitude":26.25,
+    "geom:longitude":36.55,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Zurayb",
+    "gn:country_code":"SA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":100271,
+    "gn:latitude":26.25,
+    "gn:longitude":36.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zurayb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676833,
+        1108720643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":100271
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"b524bc89fc691a3fa464fe8a3f7efbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720643,
+            "locality_id":1242888775,
+            "region_id":85676833
+        }
+    ],
+    "wof:id":1242888775,
+    "wof:lastmodified":1536612939,
+    "wof:name":"Zurayb",
+    "wof:parent_id":1108720643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55,
+    26.25,
+    36.55,
+    26.25
+],
+  "geometry": {"coordinates":[36.55,26.25],"type":"Point"}
+}

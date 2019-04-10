@@ -1,0 +1,74 @@
+{
+  "id": 1327123319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8572,25.19992,45.8572,25.19992",
+    "geom:latitude":25.19992,
+    "geom:longitude":45.8572,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ruwaydat as Suhul",
+    "gn:country_code":"SA",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108371,
+    "gn:latitude":25.19992,
+    "gn:longitude":45.8572,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ruway\u1e11at as Suh\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u0636\u0629 \u0627\u0644\u0633\u0647\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ar Ruway\u1e11ah",
+        "Ruway\u1e11at as Suh\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108371
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c86f3382a1be62368bf265dccd6df5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720775,
+            "locality_id":1327123319,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1327123319,
+    "wof:lastmodified":1537699235,
+    "wof:name":"Ruwaydat as Suhul",
+    "wof:parent_id":1108720775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8572,
+    25.19992,
+    45.8572,
+    25.19992
+],
+  "geometry": {"coordinates":[45.8572,25.19992],"type":"Point"}
+}

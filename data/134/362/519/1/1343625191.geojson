@@ -1,0 +1,73 @@
+{
+  "id": 1343625191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.95005,16.91746,42.95005,16.91746",
+    "geom:latitude":16.91746,
+    "geom:longitude":42.95005,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dudah",
+    "gn:country_code":"SA",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410983,
+    "gn:latitude":16.91746,
+    "gn:longitude":42.95005,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"D\u016bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "D\u016bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676853,
+        1108720535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410983
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9e5de1872f5de9f4067419ea3d4d0e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720535,
+            "locality_id":1343625191,
+            "region_id":85676853
+        }
+    ],
+    "wof:id":1343625191,
+    "wof:lastmodified":1537699335,
+    "wof:name":"Dudah",
+    "wof:parent_id":1108720535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.95005,
+    16.91746,
+    42.95005,
+    16.91746
+],
+  "geometry": {"coordinates":[42.95005,16.91746],"type":"Point"}
+}

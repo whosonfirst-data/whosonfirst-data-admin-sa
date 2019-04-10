@@ -1,0 +1,73 @@
+{
+  "id": 1209600881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.30255,25.19713,42.30255,25.19713",
+    "geom:latitude":25.19713,
+    "geom:longitude":42.30255,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Al Basiri",
+    "gn:country_code":"SA",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395061,
+    "gn:latitude":25.19713,
+    "gn:longitude":42.30255,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al Ba\u015f\u012br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0635\u064a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Ba\u015f\u012br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395061
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"51e605f05b0b6ed8857155004b254003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720645,
+            "locality_id":1209600881,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1209600881,
+    "wof:lastmodified":1548455920,
+    "wof:name":"Al Basiri",
+    "wof:parent_id":1108720645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.30255,
+    25.19713,
+    42.30255,
+    25.19713
+],
+  "geometry": {"coordinates":[42.30255,25.19713],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360095153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.48377,25.05175,40.48377,25.05175",
+    "geom:latitude":25.05175,
+    "geom:longitude":40.48377,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Al Khalf",
+    "gn:country_code":"SA",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":109375,
+    "gn:latitude":25.05175,
+    "gn:longitude":40.48377,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al Khalf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676825,
+        1108720581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":109375
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"22507e337933539016f31ae2d78036bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720581,
+            "locality_id":1360095153,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1360095153,
+    "wof:lastmodified":1536931780,
+    "wof:name":"Al Khalf",
+    "wof:parent_id":1108720581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.48377,
+    25.05175,
+    40.48377,
+    25.05175
+],
+  "geometry": {"coordinates":[40.48377,25.05175],"type":"Point"}
+}

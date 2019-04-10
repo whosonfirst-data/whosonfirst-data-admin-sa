@@ -1,0 +1,72 @@
+{
+  "id": 1242761353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.85112,21.36224,40.85112,21.36224",
+    "geom:latitude":21.36224,
+    "geom:longitude":40.85112,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"As Sudayrah",
+    "gn:country_code":"SA",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409507,
+    "gn:latitude":21.36224,
+    "gn:longitude":40.85112,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sudayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sudayrah",
+        "As Sudayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409507,
+        "wk:page":"As_Sudayrah%2C_Makkah"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6dbfe8538a9762cd3e3fce407ba175d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1242761353,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1242761353,
+    "wof:lastmodified":1537699330,
+    "wof:name":"As Sudayrah",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.85112,
+    21.36224,
+    40.85112,
+    21.36224
+],
+  "geometry": {"coordinates":[40.85112,21.36224],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276962781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67333,24.24806,44.67333,24.24806",
+    "geom:latitude":24.24806,
+    "geom:longitude":44.67333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Watah",
+    "gn:country_code":"SA",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399368,
+    "gn:latitude":24.24806,
+    "gn:longitude":44.67333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Al Wa\u0163\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Wa\u0163\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399368
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"26aa9992f27db5613a8bbe1d97fbd1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720545,
+            "locality_id":1276962781,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1276962781,
+    "wof:lastmodified":1537699325,
+    "wof:name":"Al Watah",
+    "wof:parent_id":1108720545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67333,
+    24.24806,
+    44.67333,
+    24.24806
+],
+  "geometry": {"coordinates":[44.67333,24.24806],"type":"Point"}
+}

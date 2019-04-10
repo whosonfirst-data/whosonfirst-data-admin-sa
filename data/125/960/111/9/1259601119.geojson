@@ -1,0 +1,67 @@
+{
+  "id": 1259601119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.05552,20.48896,41.05552,20.48896",
+    "geom:latitude":20.48896,
+    "geom:longitude":41.05552,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ar Rabwah",
+    "gn:country_code":"SA",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108467,
+    "gn:latitude":20.48896,
+    "gn:longitude":41.05552,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ar Rabwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108467
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c0f51908bb6a8cc718809275d9aa3cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720639,
+            "locality_id":1259601119,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1259601119,
+    "wof:lastmodified":1536689497,
+    "wof:name":"Ar Rabwah",
+    "wof:parent_id":1108720639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.05552,
+    20.48896,
+    41.05552,
+    20.48896
+],
+  "geometry": {"coordinates":[41.05552,20.48896],"type":"Point"}
+}

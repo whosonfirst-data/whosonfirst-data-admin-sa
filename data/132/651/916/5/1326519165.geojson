@@ -1,0 +1,67 @@
+{
+  "id": 1326519165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.78341,23.85348,44.78341,23.85348",
+    "geom:latitude":23.85348,
+    "geom:longitude":44.78341,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Khunayfsah",
+    "gn:country_code":"SA",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":399802,
+    "gn:latitude":23.85348,
+    "gn:longitude":44.78341,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khunayfsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676813,
+        1108720637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":399802
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"9a8ed4184addd7713d7f4ecc6fa41dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720637,
+            "locality_id":1326519165,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1326519165,
+    "wof:lastmodified":1537002136,
+    "wof:name":"Khunayfsah",
+    "wof:parent_id":1108720637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.78341,
+    23.85348,
+    44.78341,
+    23.85348
+],
+  "geometry": {"coordinates":[44.78341,23.85348],"type":"Point"}
+}

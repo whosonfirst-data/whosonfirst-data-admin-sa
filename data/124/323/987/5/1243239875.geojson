@@ -1,0 +1,71 @@
+{
+  "id": 1243239875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.17083,17.15,43.17083,17.15",
+    "geom:latitude":17.15,
+    "geom:longitude":43.17083,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al `Ulayin",
+    "gn:country_code":"SA",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34772,
+    "gn:latitude":17.15,
+    "gn:longitude":43.17083,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Al \u2018Ulay\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Ulay\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680955,
+        1091925457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34772,
+        "wk:page":"Al_%60Ulayin"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"162fc314ebaec1d9611e88b98a09f5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091925457,
+            "locality_id":1243239875,
+            "region_id":85680955
+        }
+    ],
+    "wof:id":1243239875,
+    "wof:lastmodified":1537699161,
+    "wof:name":"Al `Ulayin",
+    "wof:parent_id":1091925457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.17083,
+    17.15,
+    43.17083,
+    17.15
+],
+  "geometry": {"coordinates":[43.17083,17.15],"type":"Point"}
+}

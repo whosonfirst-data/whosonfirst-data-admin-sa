@@ -1,0 +1,71 @@
+{
+  "id": 1209786677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.95028,21.21583,39.95028,21.21583",
+    "geom:latitude":21.21583,
+    "geom:longitude":39.95028,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Malakan",
+    "gn:country_code":"SA",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411404,
+    "gn:latitude":21.21583,
+    "gn:longitude":39.95028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Malak\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malak\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676857,
+        1108720727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411404,
+        "wk:page":"Malakan"
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"45eeedd238da7bc536cd32c13c994ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":1209786677,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1209786677,
+    "wof:lastmodified":1537699338,
+    "wof:name":"Malakan",
+    "wof:parent_id":1108720727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.95028,
+    21.21583,
+    39.95028,
+    21.21583
+],
+  "geometry": {"coordinates":[39.95028,21.21583],"type":"Point"}
+}

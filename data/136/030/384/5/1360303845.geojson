@@ -1,0 +1,70 @@
+{
+  "id": 1360303845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.45,20.1,41.45,20.1",
+    "geom:latitude":20.1,
+    "geom:longitude":41.45,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"`Arfah",
+    "gn:country_code":"SA",
+    "gn:dem":2255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108499,
+    "gn:latitude":20.1,
+    "gn:longitude":41.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Arfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Arfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676847,
+        1108720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108499
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"c9f6b2fd1e5f335db378b0cb04aa1590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720567,
+            "locality_id":1360303845,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":1360303845,
+    "wof:lastmodified":1537699238,
+    "wof:name":"`Arfah",
+    "wof:parent_id":1108720567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.45,
+    20.1,
+    41.45,
+    20.1
+],
+  "geometry": {"coordinates":[41.45,20.1],"type":"Point"}
+}

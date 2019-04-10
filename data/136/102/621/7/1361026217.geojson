@@ -1,0 +1,71 @@
+{
+  "id": 1361026217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.69747,27.5463,41.69747,27.5463",
+    "geom:latitude":27.5463,
+    "geom:longitude":41.69747,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sadyan",
+    "gn:country_code":"SA",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395249,
+    "gn:latitude":27.5463,
+    "gn:longitude":41.69747,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"\u015eady\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0635\u062f\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u015eady\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209293959,
+        85632253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395249
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"aa48f9d89049747c813f8310d1d3ae64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632253,
+            "locality_id":1209293959,
+            "neighbourhood_id":1361026217
+        }
+    ],
+    "wof:id":1361026217,
+    "wof:lastmodified":1548452896,
+    "wof:name":"Sadyan",
+    "wof:parent_id":85632253,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209293959
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.69747,
+    27.5463,
+    41.69747,
+    27.5463
+],
+  "geometry": {"coordinates":[41.69747,27.5463],"type":"Point"}
+}

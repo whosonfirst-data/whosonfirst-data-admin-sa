@@ -1,0 +1,73 @@
+{
+  "id": 1243533939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.12804,25.95413,42.12804,25.95413",
+    "geom:latitude":25.95413,
+    "geom:longitude":42.12804,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"At Tarfawi",
+    "gn:country_code":"SA",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":107952,
+    "gn:latitude":25.95413,
+    "gn:longitude":42.12804,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"A\u0163 \u0162arf\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
+    "iso:country":"SA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0651\u064e\u0631\u0641\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162arf\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676827,
+        1108720749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":107952
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"f79b21be5d86379dcaac84490c7fa21b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720749,
+            "locality_id":1243533939,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1243533939,
+    "wof:lastmodified":1537699227,
+    "wof:name":"At Tarfawi",
+    "wof:parent_id":1108720749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.12804000000001,
+    25.95413,
+    42.12804000000001,
+    25.95413
+],
+  "geometry": {"coordinates":[42.12804000000001,25.95413],"type":"Point"}
+}
