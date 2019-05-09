@@ -13,6 +13,9 @@
     "label:ara_x_preferred_placetype":[
         "\u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
+    "label:eng_x_preferred_longname":[
+        "Al-Ghat Governorate"
+    ],
     "label:eng_x_preferred_placetype":[
         "governate"
     ],
@@ -28,6 +31,9 @@
     "meso:name_en":"Alghat",
     "meso:name_loc":"\u0627\u0644\u063a\u0627\u0637",
     "meso:source":"AOTM",
+    "misc:ara_x_preferred_longname":[
+        "\u0627\u0644\u063a\u0627\u0637 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+    ],
     "mps:latitude":26.001493,
     "mps:longitude":44.882939,
     "mz:hierarchy_label":1,
@@ -76,10 +82,11 @@
         }
     ],
     "wof:id":1108720571,
-    "wof:lastmodified":1543620550,
+    "wof:lastmodified":1555220434,
     "wof:name":"Al-Ghat",
     "wof:parent_id":85676813,
     "wof:placetype":"county",
+    "wof:placetype_local":"governate",
     "wof:population":10235,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-sa",

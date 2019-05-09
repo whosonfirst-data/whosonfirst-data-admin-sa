@@ -13,6 +13,9 @@
     "label:ara_x_preferred_placetype":[
         "\u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
+    "label:eng_x_preferred_longname":[
+        "Ad-Dammam Governorate"
+    ],
     "label:eng_x_preferred_placetype":[
         "governate"
     ],
@@ -28,6 +31,9 @@
     "meso:name_en":"Addammam",
     "meso:name_loc":"\u0627\u0644\u062f\u0645\u0627\u0645",
     "meso:source":"AOTM",
+    "misc:ara_x_preferred_longname":[
+        "\u0627\u0644\u062f\u0645\u0627\u0645 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+    ],
     "mps:latitude":26.367715,
     "mps:longitude":49.905452,
     "mz:hierarchy_label":1,
@@ -84,10 +90,11 @@
         }
     ],
     "wof:id":1108720541,
-    "wof:lastmodified":1548452885,
+    "wof:lastmodified":1555220433,
     "wof:name":"Ad-Dammam",
     "wof:parent_id":85676819,
     "wof:placetype":"county",
+    "wof:placetype_local":"governate",
     "wof:population":744631,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-sa",

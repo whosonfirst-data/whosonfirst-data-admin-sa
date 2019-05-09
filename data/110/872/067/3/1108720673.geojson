@@ -13,6 +13,9 @@
     "label:ara_x_preferred_placetype":[
         "\u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
+    "label:eng_x_preferred_longname":[
+        "Balqarn Governorate"
+    ],
     "label:eng_x_preferred_placetype":[
         "governate"
     ],
@@ -28,6 +31,9 @@
     "meso:name_en":"Balqarn",
     "meso:name_loc":"\u0628\u0627\u0644\u0642\u0631\u0646",
     "meso:source":"AOTM",
+    "misc:ara_x_preferred_longname":[
+        "\u0628\u0627\u0644\u0642\u0631\u0646 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+    ],
     "mps:latitude":19.71656,
     "mps:longitude":41.948941,
     "mz:hierarchy_label":1,
@@ -73,10 +79,11 @@
         }
     ],
     "wof:id":1108720673,
-    "wof:lastmodified":1543620558,
+    "wof:lastmodified":1555220438,
     "wof:name":"Balqarn",
     "wof:parent_id":85676851,
     "wof:placetype":"county",
+    "wof:placetype_local":"governate",
     "wof:population":66675,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-sa",

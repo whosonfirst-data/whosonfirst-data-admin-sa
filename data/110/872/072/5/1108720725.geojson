@@ -13,6 +13,9 @@
     "label:ara_x_preferred_placetype":[
         "\u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
+    "label:eng_x_preferred_longname":[
+        "Khulays Governorate"
+    ],
     "label:eng_x_preferred_placetype":[
         "governate"
     ],
@@ -28,6 +31,9 @@
     "meso:name_en":"Khulays",
     "meso:name_loc":"\u062e\u0644\u064a\u0635",
     "meso:source":"AOTM",
+    "misc:ara_x_preferred_longname":[
+        "\u062e\u0644\u064a\u0635 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+    ],
     "mps:latitude":22.386346,
     "mps:longitude":39.493786,
     "mz:hierarchy_label":1,
@@ -73,10 +79,11 @@
         }
     ],
     "wof:id":1108720725,
-    "wof:lastmodified":1543620562,
+    "wof:lastmodified":1555220441,
     "wof:name":"Khulays",
     "wof:parent_id":85676857,
     "wof:placetype":"county",
+    "wof:placetype_local":"governate",
     "wof:population":49955,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-sa",
