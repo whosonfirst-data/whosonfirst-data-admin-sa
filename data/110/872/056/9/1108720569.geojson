@@ -10,6 +10,9 @@
     "geom:latitude":26.454127,
     "geom:longitude":43.197591,
     "iso:country":"SA",
+    "label:ara_x_preferred_longname":[
+        "\u0627\u0644\u0628\u0643\u064a\u0631\u064a\u0629 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+    ],
     "label:ara_x_preferred_placetype":[
         "\u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
@@ -31,9 +34,6 @@
     "meso:name_en":"Albukayriyah",
     "meso:name_loc":"\u0627\u0644\u0628\u0643\u064a\u0631\u064a\u0629",
     "meso:source":"AOTM",
-    "misc:ara_x_preferred_longname":[
-        "\u0627\u0644\u0628\u0643\u064a\u0631\u064a\u0629 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
-    ],
     "mps:latitude":26.436084,
     "mps:longitude":43.206451,
     "mz:hierarchy_label":1,
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1108720569,
-    "wof:lastmodified":1555220434,
+    "wof:lastmodified":1560445036,
     "wof:name":"Al-Bukayriyah",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

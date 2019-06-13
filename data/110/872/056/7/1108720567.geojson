@@ -10,6 +10,9 @@
     "geom:latitude":20.028252,
     "geom:longitude":41.466081,
     "iso:country":"SA",
+    "label:ara_x_preferred_longname":[
+        "\u0627\u0644\u0628\u0627\u062d\u0629 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+    ],
     "label:ara_x_preferred_placetype":[
         "\u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
@@ -31,9 +34,6 @@
     "meso:name_en":"Albaha",
     "meso:name_loc":"\u0627\u0644\u0628\u0627\u062d\u0629",
     "meso:source":"AOTM",
-    "misc:ara_x_preferred_longname":[
-        "\u0627\u0644\u0628\u0627\u062d\u0629 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
-    ],
     "mps:latitude":20.038738,
     "mps:longitude":41.473174,
     "mz:hierarchy_label":1,
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1108720567,
-    "wof:lastmodified":1555220434,
+    "wof:lastmodified":1560445036,
     "wof:name":"Al-Bahah",
     "wof:parent_id":85676847,
     "wof:placetype":"county",
