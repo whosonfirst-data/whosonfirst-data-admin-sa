@@ -5,25 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.614145,
-    "geom:area_square_m":77258086888.410828,
+    "geom:area_square_m":77258086888.410843,
     "geom:bbox":"41.3630931215,17.366667,44.4845827283,20.8022925333",
     "geom:latitude":19.137122,
     "geom:longitude":42.942466,
     "iso:country":"SA",
-    "label:ara_x_placetype_longname":[
-        "\u0645\u0646\u0637\u0642\u0629 \u0639\u0633\u064a\u0631"
+    "label:ara_latn_x_preferred_placetype":[
+        "muhafazah"
     ],
-    "label:ara_x_placetype_preferred":[
-        "\u0645\u0646\u0637\u0642\u0629 \u0625\u062f\u0627\u0631\u064a\u0629"
+    "label:ara_x_preferred_longname":[
+        "\u0639\u064e\u0633\u0650\u064a\u0652\u0631"
     ],
-    "label:eng_x_placetype_longname":[
-        "Aseer Region"
-    ],
-    "label:eng_x_placetype_preferred":[
-        "region"
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629"
     ],
     "label:eng_x_preferred_longname":[
         "Aseer Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":19.125512,
     "lbl:longitude":42.97186,
@@ -342,7 +342,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553814823,
+    "wof:lastmodified":1560448385,
     "wof:name":"Aseer",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

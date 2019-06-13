@@ -10,6 +10,12 @@
     "geom:latitude":23.211908,
     "geom:longitude":44.651158,
     "iso:country":"SA",
+    "label:ara_latn_x_preferred_placetype":[
+        "mintaqah idariyya"
+    ],
+    "label:ara_x_preferred_longname":[
+        "\u0627\u0644\u0642\u0648\u064a\u0639\u064a\u0629 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+    ],
     "label:ara_x_preferred_placetype":[
         "\u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
@@ -31,9 +37,6 @@
     "meso:name_en":"Alquwayiyah",
     "meso:name_loc":"\u0627\u0644\u0642\u0648\u064a\u0639\u064a\u0629",
     "meso:source":"AOTM",
-    "misc:ara_x_preferred_longname":[
-        "\u0627\u0644\u0642\u0648\u064a\u0639\u064a\u0629 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
-    ],
     "mps:latitude":23.136481,
     "mps:longitude":44.786656,
     "mz:hierarchy_label":1,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108720637,
-    "wof:lastmodified":1555220437,
+    "wof:lastmodified":1560448400,
     "wof:name":"Al-Quwayiyah",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

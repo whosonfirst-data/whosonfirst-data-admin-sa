@@ -10,6 +10,12 @@
     "geom:latitude":26.646941,
     "geom:longitude":43.504925,
     "iso:country":"SA",
+    "label:ara_latn_x_preferred_placetype":[
+        "mintaqah idariyya"
+    ],
+    "label:ara_x_preferred_longname":[
+        "\u0628\u0631\u064a\u062f\u0629 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+    ],
     "label:ara_x_preferred_placetype":[
         "\u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
@@ -31,9 +37,6 @@
     "meso:name_en":"Buraydah",
     "meso:name_loc":"\u0628\u0631\u064a\u062f\u0629",
     "meso:source":"AOTM",
-    "misc:ara_x_preferred_longname":[
-        "\u0628\u0631\u064a\u062f\u0629 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
-    ],
     "mps:latitude":27.550483,
     "mps:longitude":44.334373,
     "mz:hierarchy_label":1,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108720687,
-    "wof:lastmodified":1555220439,
+    "wof:lastmodified":1560448404,
     "wof:name":"Buraydah",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":22.079082,
     "geom:longitude":50.943091,
     "iso:country":"SA",
+    "label:ara_latn_x_preferred_placetype":[
+        "mintaqah idariyya"
+    ],
+    "label:ara_x_preferred_longname":[
+        "\u0627\u0644\u0627\u062d\u0633\u0627\u0621 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+    ],
     "label:ara_x_preferred_placetype":[
         "\u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
@@ -31,9 +37,6 @@
     "meso:name_en":"Alahsa",
     "meso:name_loc":"\u0627\u0644\u0627\u062d\u0633\u0627\u0621",
     "meso:source":"AOTM",
-    "misc:ara_x_preferred_longname":[
-        "\u0627\u0644\u0627\u062d\u0633\u0627\u0621 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
-    ],
     "mps:latitude":21.713609,
     "mps:longitude":50.544082,
     "mz:hierarchy_label":1,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108720555,
-    "wof:lastmodified":1555220434,
+    "wof:lastmodified":1560448400,
     "wof:name":"Al-Ahsa",
     "wof:parent_id":85676819,
     "wof:placetype":"county",
