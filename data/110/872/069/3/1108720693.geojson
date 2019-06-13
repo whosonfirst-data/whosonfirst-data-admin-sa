@@ -10,6 +10,9 @@
     "geom:latitude":27.52694,
     "geom:longitude":35.991984,
     "iso:country":"SA",
+    "label:ara_latn_x_preferred_placetype":[
+        "mintaqah idariyya"
+    ],
     "label:ara_x_preferred_longname":[
         "\u0636\u0628\u0627\u0621 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108720693,
-    "wof:lastmodified":1560445037,
+    "wof:lastmodified":1560448405,
     "wof:name":"Duba",
     "wof:parent_id":85676833,
     "wof:placetype":"county",

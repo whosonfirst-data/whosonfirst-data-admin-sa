@@ -5,16 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.956348,
-    "geom:area_square_m":11101671421.99328,
+    "geom:area_square_m":11101671421.993206,
     "geom:bbox":"40.8375343166,19.4460564594,42.1286734231,20.8308645907",
     "geom:latitude":20.147198,
     "geom:longitude":41.467053,
     "iso:country":"SA",
+    "label:ara_latn_x_preferred_placetype":[
+        "muhafazah"
+    ],
     "label:ara_x_preferred_longname":[
-        "الباحة"
+        "\u0627\u0644\u0628\u0627\u062d\u0629"
     ],
     "label:ara_x_preferred_placetype":[
-        "مقاطعة"
+        "\u0645\u0642\u0627\u0637\u0639\u0629"
     ],
     "label:eng_x_preferred_longname":[
         "Al Bahah Region"
@@ -333,7 +336,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553814823,
+    "wof:lastmodified":1560448387,
     "wof:name":"Al-Bahah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

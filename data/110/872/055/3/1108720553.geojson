@@ -10,6 +10,9 @@
     "geom:latitude":22.085392,
     "geom:longitude":46.850654,
     "iso:country":"SA",
+    "label:ara_latn_x_preferred_placetype":[
+        "mintaqah idariyya"
+    ],
     "label:ara_x_preferred_longname":[
         "\u0627\u0644\u0623\u0641\u0644\u0627\u062c \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108720553,
-    "wof:lastmodified":1560445030,
+    "wof:lastmodified":1560448399,
     "wof:name":"Al-Aflaj",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

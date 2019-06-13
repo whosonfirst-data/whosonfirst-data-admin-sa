@@ -10,6 +10,9 @@
     "geom:latitude":25.505842,
     "geom:longitude":46.041231,
     "iso:country":"SA",
+    "label:ara_latn_x_preferred_placetype":[
+        "mintaqah idariyya"
+    ],
     "label:ara_x_preferred_longname":[
         "\u062b\u0627\u062f\u0642 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108720775,
-    "wof:lastmodified":1560445027,
+    "wof:lastmodified":1560448390,
     "wof:name":"Thadiq",
     "wof:parent_id":85676813,
     "wof:placetype":"county",
