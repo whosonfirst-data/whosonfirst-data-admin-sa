@@ -10,20 +10,17 @@
     "geom:latitude":30.202684,
     "geom:longitude":41.862127,
     "iso:country":"SA",
-    "label:ara_x_placetype_longname":[
-        "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    "label:ara_x_preferred_longname":[
+        "منطقة الحدود الشمالية‎"
     ],
-    "label:ara_x_placetype_preferred":[
-        "\u0645\u0646\u0637\u0642\u0629 \u0625\u062f\u0627\u0631\u064a\u0629"
-    ],
-    "label:eng_x_placetype_longname":[
-        "Northern Borders Region"
-    ],
-    "label:eng_x_placetype_preferred":[
-        "region"
+    "label:ara_x_preferred_placetype":[
+        "مقاطعة"
     ],
     "label:eng_x_preferred_longname":[
         "Northern Borders Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":29.627903,
     "lbl:longitude":42.777988,

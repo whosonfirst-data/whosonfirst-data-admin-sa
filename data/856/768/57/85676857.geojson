@@ -10,20 +10,17 @@
     "geom:latitude":21.628768,
     "geom:longitude":41.257286,
     "iso:country":"SA",
-    "label:ara_x_placetype_longname":[
-        "\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629"
+    "label:ara_x_preferred_longname":[
+        "مِـنْـطَـقَـة مَـكَّـة الـمُـكَـرَّمَـة"
     ],
-    "label:ara_x_placetype_preferred":[
-        "\u0645\u0646\u0637\u0642\u0629 \u0625\u062f\u0627\u0631\u064a\u0629"
-    ],
-    "label:eng_x_placetype_longname":[
-        "Makkah Region"
-    ],
-    "label:eng_x_placetype_preferred":[
-        "region"
+    "label:ara_x_preferred_placetype":[
+        "مقاطعة"
     ],
     "label:eng_x_preferred_longname":[
         "Makkah Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "lbl:latitude":21.939103,
     "lbl:longitude":41.689276,
