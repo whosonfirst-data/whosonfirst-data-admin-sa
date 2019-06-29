@@ -51,11 +51,11 @@
     "name:che_x_preferred":[
         "\u0420\u0438\u044f\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u96c5\u5f97\u7701"
+    "name:deu_x_preferred":[
+        "Provinz Riad"
     ],
-    "name:dut_x_preferred":[
-        "Riyad"
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Riyadh"
@@ -72,20 +72,14 @@
     "name:est_x_preferred":[
         "Ar-Riy\u0101\u1e11i provints"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0631\u06cc\u0627\u0636"
+    ],
     "name:fin_x_preferred":[
         "Ar Riyad"
     ],
     "name:fra_x_preferred":[
         "Riyad"
-    ],
-    "name:fre_x_preferred":[
-        "Riyad"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Riad"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b9\u03ac\u03bd\u03c4"
     ],
     "name:hin_x_preferred":[
         "\u0930\u093f\u092f\u093e\u0926 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -117,6 +111,9 @@
     "name:nan_x_preferred":[
         "Riy\u0101\u1e0d S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Riyad"
+    ],
     "name:nno_x_preferred":[
         "Riyadh-regionen"
     ],
@@ -125,9 +122,6 @@
     ],
     "name:pam_x_preferred":[
         "Ar Riyad"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0631\u06cc\u0627\u0636"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0631\u06cc\u0627\u0636"
@@ -138,7 +132,7 @@
     "name:por_x_preferred":[
         "Ar Riyad"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Riad"
     ],
     "name:rus_x_preferred":[
@@ -182,6 +176,9 @@
     ],
     "name:war_x_preferred":[
         "Riyadh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u96c5\u5f97\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SAU",
@@ -302,7 +299,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560448388,
+    "wof:lastmodified":1561837540,
     "wof:name":"Ar Riyad",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

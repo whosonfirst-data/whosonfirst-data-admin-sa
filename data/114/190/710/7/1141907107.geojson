@@ -24,20 +24,17 @@
     "name:cat_x_preferred":[
         "Al-Kharj"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Al-Kharj"
+    "name:deu_x_preferred":[
+        "al-Chardsch"
     ],
     "name:eng_x_preferred":[
         "Al-Kharj"
     ],
-    "name:fre_x_preferred":[
-        "Al Khardj"
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
     ],
-    "name:ger_x_preferred":[
-        "al-Chardsch"
+    "name:fra_x_preferred":[
+        "Al Khardj"
     ],
     "name:ita_x_preferred":[
         "al kharj"
@@ -51,11 +48,11 @@
     "name:mzn_x_preferred":[
         "\u0627\u0644\u062e\u0631\u062c"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Al-Kharj"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u062e\u0631\u062c"
+    "name:nno_x_preferred":[
+        "Al-Kharj"
     ],
     "name:pol_x_preferred":[
         "Al-Chard\u017c"
@@ -77,6 +74,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u062e\u0631\u062c"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Saudi Arabia",
@@ -197,7 +197,7 @@
         }
     ],
     "wof:id":1141907107,
-    "wof:lastmodified":1548452886,
+    "wof:lastmodified":1561837553,
     "wof:name":"Al Kharj",
     "wof:parent_id":1108720595,
     "wof:placetype":"locality",

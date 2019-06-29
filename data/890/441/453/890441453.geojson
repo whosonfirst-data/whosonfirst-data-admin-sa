@@ -19,29 +19,26 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0644\u064a\u0644"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u840a\u4f0a\u9081"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "As Sulayyil"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c2 \u03a3\u03bf\u03c5\u03bb\u03b1\u03ca\u03b3\u03af\u03bb"
     ],
     "name:eng_x_preferred":[
         "As Sulayyil"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u064a\u0644"
+    ],
+    "name:fra_x_preferred":[
         "As Sulayyil"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "As Sulayyil"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c2 \u03a3\u03bf\u03c5\u03bb\u03b1\u03ca\u03b3\u03af\u03bb"
     ],
     "name:nno_x_preferred":[
         "As Sulayyil"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0633\u0644\u064a\u0644"
     ],
     "name:pol_x_preferred":[
         "As-Sulajjil"
@@ -54,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "Sulaiyil"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u840a\u4f0a\u9081"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Saudi Arabia",
@@ -182,7 +182,7 @@
         }
     ],
     "wof:id":890441453,
-    "wof:lastmodified":1527727229,
+    "wof:lastmodified":1561837549,
     "wof:name":"As Sulayyil",
     "wof:parent_id":1108720663,
     "wof:placetype":"locality",

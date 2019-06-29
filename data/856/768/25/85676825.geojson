@@ -56,14 +56,14 @@
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09ae\u09a6\u09bf\u09a8\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u9ea6\u5730\u90a3\u7701"
-    ],
     "name:dan_x_preferred":[
         "Al Madinah Region"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Medina"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b1\u03b4\u03af\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Al Madinah"
@@ -78,20 +78,14 @@
     "name:est_x_preferred":[
         "Mediina provints"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u062f\u06cc\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "Al Madinah"
     ],
     "name:fra_x_preferred":[
         "M\u00e9dine"
-    ],
-    "name:fre_x_preferred":[
-        "M\u00e9dine"
-    ],
-    "name:ger_x_preferred":[
-        "Medina"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b1\u03b4\u03af\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0aae\u0aa6\u0ac0\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -126,20 +120,23 @@
     "name:lit_x_preferred":[
         "Medinos emyratas"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0435\u0434\u0438\u043d\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d26\u0d40\u0d28 \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0932 \u092e\u0926\u0940\u0928\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u0434\u0438\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Al Madinah"
     ],
     "name:nan_x_preferred":[
         "Mad\u012bna S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Medina"
     ],
     "name:nno_x_preferred":[
         "Madinah-regionen"
@@ -150,9 +147,6 @@
     "name:pam_x_preferred":[
         "Al Madinah"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u062f\u06cc\u0646\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u062f\u06cc\u0646\u06c1"
     ],
@@ -162,7 +156,7 @@
     "name:por_x_preferred":[
         "Al Madinah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Medina"
     ],
     "name:rus_x_preferred":[
@@ -224,6 +218,9 @@
     ],
     "name:war_x_preferred":[
         "Al Madinah"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ea6\u5730\u90a3\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SAU",
@@ -346,7 +343,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560448388,
+    "wof:lastmodified":1561837541,
     "wof:name":"Al Madinah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

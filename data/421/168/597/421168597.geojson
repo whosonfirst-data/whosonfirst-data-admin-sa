@@ -30,23 +30,20 @@
     "name:aze_x_preferred":[
         "\u018fl-Xufuf"
     ],
-    "name:baq_x_preferred":[
-        "Al-Hufuf"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09ab\u09c1\u09ab"
     ],
     "name:cat_x_preferred":[
         "Hufuf"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5bcc\u592b"
-    ],
     "name:dan_x_preferred":[
         "Hofuf"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hofuf"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c6\u03bf\u03cd\u03c6"
     ],
     "name:eng_x_preferred":[
         "Al Hofuf"
@@ -60,20 +57,17 @@
     "name:est_x_preferred":[
         "Al-Huf\u016bf"
     ],
+    "name:eus_x_preferred":[
+        "Al-Hufuf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0641\u0648\u0641"
+    ],
     "name:fin_x_preferred":[
         "Hofuf"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Al-Hufuf"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10f0\u10e3\u10e4\u10e3\u10e4\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Hofuf"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c6\u03bf\u03cd\u03c6"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0aab\u0ac1\u0aab"
@@ -96,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0ccb\u0cab\u0ccd\u0cab\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10f0\u10e3\u10e4\u10e3\u10e4\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u042d\u043b\u044c-\u0425\u0443\u0444\u0443\u0444"
     ],
@@ -114,20 +111,20 @@
     "name:mar_x_preferred":[
         "\u0939\u0949\u092b\u092b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hofuf"
     ],
     "name:mzn_x_preferred":[
         "\u0647\u0641\u0648\u0641"
+    ],
+    "name:nld_x_preferred":[
+        "Hofuf"
     ],
     "name:nno_x_preferred":[
         "Hofuf"
     ],
     "name:nob_x_preferred":[
         "Hofuf"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0641\u0648\u0641"
     ],
     "name:pol_x_preferred":[
         "Al-Hufuf"
@@ -176,6 +173,9 @@
     ],
     "name:vie_x_preferred":[
         "Hofuf"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5bcc\u592b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Saudi Arabia",
@@ -335,7 +335,7 @@
         }
     ],
     "wof:id":421168597,
-    "wof:lastmodified":1548452886,
+    "wof:lastmodified":1561837548,
     "wof:name":"Al Hofuf",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

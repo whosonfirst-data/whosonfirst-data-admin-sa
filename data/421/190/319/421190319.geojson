@@ -18,17 +18,11 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Ta'if"
-    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u0627\u0626\u0641"
     ],
     "name:ara_x_variant":[
         "A\u0163 \u0162\u0101\u2019if"
-    ],
-    "name:arm_x_preferred":[
-        "\u0537\u0569 \u0539\u0561\u056b\u0586"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0637\u0627\u0626\u0641"
@@ -38,9 +32,6 @@
     ],
     "name:aze_x_preferred":[
         "Taif"
-    ],
-    "name:baq_x_preferred":[
-        "Ta'if"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u09ab"
@@ -54,14 +45,11 @@
     "name:cat_x_preferred":[
         "Ta\u00eff"
     ],
+    "name:ces_x_preferred":[
+        "T\u00e1if"
+    ],
     "name:che_x_preferred":[
         "\u042d\u0442-\u0422\u0430\u0438\u0444"
-    ],
-    "name:chi_x_preferred":[
-        "\u5854\u4f0a\u592b"
-    ],
-    "name:cze_x_preferred":[
-        "T\u00e1if"
     ],
     "name:dan_x_preferred":[
         "Ta'if"
@@ -69,8 +57,11 @@
     "name:deu_x_preferred":[
         "Taif"
     ],
-    "name:dut_x_preferred":[
-        "Taif"
+    "name:deu_x_variant":[
+        "Ta'if"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u0390\u03c6"
     ],
     "name:eng_x_preferred":[
         "Ta'if"
@@ -81,20 +72,20 @@
     "name:epo_x_preferred":[
         "Taif"
     ],
+    "name:eus_x_preferred":[
+        "Ta'if"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0626\u0641"
+    ],
     "name:fin_x_preferred":[
         "Taif"
     ],
     "name:fra_x_preferred":[
         "Ta\u00ebf"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Ta\u00eff"
-    ],
-    "name:ger_x_preferred":[
-        "Ta'if"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u0390\u03c6"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac8\u0aab"
@@ -107,6 +98,9 @@
     ],
     "name:hrv_x_preferred":[
         "Ta'if"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0569 \u0539\u0561\u056b\u0586"
     ],
     "name:ibo_x_preferred":[
         "Ta\u2019if"
@@ -153,7 +147,7 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0907\u092b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Taif"
     ],
     "name:mzn_x_preferred":[
@@ -170,9 +164,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a24\u0a3e\u0a07\u0a2b\u0a3c"
-    ],
-    "name:per_x_preferred":[
-        "\u0637\u0627\u0626\u0641"
     ],
     "name:pnb_x_preferred":[
         "\u0637\u0627\u0626\u0641"
@@ -194,6 +185,9 @@
     ],
     "name:spa_x_preferred":[
         "Taif"
+    ],
+    "name:sqi_x_preferred":[
+        "Ta'if"
     ],
     "name:srp_x_preferred":[
         "Taif"
@@ -239,6 +233,9 @@
     ],
     "name:war_x_preferred":[
         "Ta\u2019if"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u4f0a\u592b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Saudi Arabia",
@@ -388,7 +385,7 @@
         }
     ],
     "wof:id":421190319,
-    "wof:lastmodified":1548452886,
+    "wof:lastmodified":1561837549,
     "wof:name":"Ta'if",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

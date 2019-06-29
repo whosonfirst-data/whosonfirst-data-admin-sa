@@ -46,14 +46,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u099c\u09b0\u09be\u09a8 \u0985\u099e\u09cd\u099a\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u5948\u5b63\u5170\u7701"
-    ],
     "name:dan_x_preferred":[
         "Najran Region"
     ],
-    "name:dut_x_preferred":[
-        "Najran"
+    "name:deu_x_preferred":[
+        "Provinz Nadschran"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03b1\u03c4\u03b6\u03c1\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Najran"
@@ -69,20 +69,14 @@
     "name:est_x_preferred":[
         "Najr\u0101ni provints"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0646\u062c\u0631\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Najran"
     ],
     "name:fra_x_preferred":[
         "Najran"
-    ],
-    "name:fre_x_preferred":[
-        "Najran"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Nadschran"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03b1\u03c4\u03b6\u03c1\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0a9c\u0ab0\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -120,11 +114,14 @@
     "name:mar_x_preferred":[
         "\u0928\u091c\u0930\u0947\u0928 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Najran"
     ],
     "name:nan_x_preferred":[
         "Na\u01e7r\u0101n S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Najran"
     ],
     "name:nno_x_preferred":[
         "Najran-regionen"
@@ -135,9 +132,6 @@
     "name:pam_x_preferred":[
         "Najran Lalawigan"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0646\u062c\u0631\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0646\u062c\u0631\u0627\u0646"
     ],
@@ -147,7 +141,7 @@
     "name:por_x_preferred":[
         "Najran"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Najran"
     ],
     "name:rus_x_preferred":[
@@ -206,6 +200,9 @@
     ],
     "name:war_x_preferred":[
         "Najran"
+    ],
+    "name:zho_x_preferred":[
+        "\u5948\u5b63\u5170\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SAU",
@@ -326,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560448387,
+    "wof:lastmodified":1561837540,
     "wof:name":"Najran",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

@@ -16,26 +16,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0642\u064a\u0642"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0562\u0584\u0561\u0575\u0584"
-    ],
     "name:ast_x_preferred":[
         "Abqaiq"
     ],
     "name:cat_x_preferred":[
         "Abqayq"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u84cb\u683c"
-    ],
     "name:deu_x_preferred":[
         "Abqaiq"
     ],
     "name:diq_x_preferred":[
         "Abqaiq"
-    ],
-    "name:dut_x_preferred":[
-        "Abkaik"
     ],
     "name:eng_x_preferred":[
         "Abqaiq"
@@ -46,14 +37,11 @@
     "name:fas_x_preferred":[
         "\u0628\u0642\u06cc\u0642"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0628\u200c\u0642\u0627\u06cc\u0642"
+    ],
     "name:fra_x_preferred":[
         "Abqa\u00efq"
-    ],
-    "name:fre_x_preferred":[
-        "Abqa\u00efq"
-    ],
-    "name:ger_x_preferred":[
-        "Abqaiq"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0562\u0584\u0561\u0575\u0584"
@@ -72,9 +60,6 @@
     ],
     "name:nno_x_preferred":[
         "Abqaiq"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0628\u200c\u0642\u0627\u06cc\u0642"
     ],
     "name:pol_x_preferred":[
         "Bukajk"
@@ -157,7 +142,7 @@
         }
     ],
     "wof:id":421174347,
-    "wof:lastmodified":1527716227,
+    "wof:lastmodified":1561837548,
     "wof:name":"Abqaiq",
     "wof:parent_id":1108720685,
     "wof:placetype":"locality",

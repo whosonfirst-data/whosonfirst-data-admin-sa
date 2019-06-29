@@ -16,20 +16,17 @@
     "name:ara_x_preferred":[
         "\u0635\u0641\u0648\u0649"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u592b\u74e6"
-    ],
-    "name:dut_x_preferred":[
-        "Safwa City"
+    "name:deu_x_preferred":[
+        "Safwa"
     ],
     "name:eng_x_preferred":[
         "Safwa City"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Safwa"
     ],
-    "name:ger_x_preferred":[
-        "Safwa"
+    "name:nld_x_preferred":[
+        "Safwa City"
     ],
     "name:nno_x_preferred":[
         "Safwa"
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "\u015eafwah"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u592b\u74e6"
     ],
     "qs:gn_country":"SA",
     "qs:gn_fcode":"PPL",
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":421180475,
-    "wof:lastmodified":1514504489,
+    "wof:lastmodified":1561837548,
     "wof:name":"\u0635\u0641\u0648\u0649",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

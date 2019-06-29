@@ -24,9 +24,6 @@
     "name:afr_x_preferred":[
         "Mekka"
     ],
-    "name:alb_x_preferred":[
-        "Meka"
-    ],
     "name:amh_x_preferred":[
         "\u1218\u12ab"
     ],
@@ -38,9 +35,6 @@
     ],
     "name:arg_x_preferred":[
         "A Meca"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u0584\u0584\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0645\u0643\u0647"
@@ -63,9 +57,6 @@
     "name:bak_x_preferred":[
         "\u041c\u04d9\u043a\u043a\u04d9"
     ],
-    "name:baq_x_preferred":[
-        "Meka"
-    ],
     "name:bcl_x_preferred":[
         "Meka"
     ],
@@ -87,9 +78,6 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u043a\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u1000\u1039\u1000\u102c\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u041c\u0435\u043a\u043a\u0430"
     ],
@@ -105,9 +93,6 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u043a\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u9ea5\u52a0"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u06d5\u06a9\u06a9\u06d5"
     ],
@@ -116,9 +101,6 @@
     ],
     "name:cym_x_preferred":[
         "Mecca"
-    ],
-    "name:cze_x_preferred":[
-        "Mekka"
     ],
     "name:dan_x_preferred":[
         "Mekka"
@@ -134,9 +116,6 @@
     ],
     "name:dty_x_preferred":[
         "\u092e\u0915\u094d\u0915\u093e"
-    ],
-    "name:dut_x_preferred":[
-        "Mekka"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ad\u03ba\u03ba\u03b1"
@@ -171,20 +150,11 @@
     "name:fra_x_preferred":[
         "La Mecque"
     ],
-    "name:fre_x_preferred":[
-        "La Mecque"
-    ],
     "name:fry_x_preferred":[
         "Mekka"
     ],
     "name:gan_x_preferred":[
         "\u9ea5\u52a0"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10e5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Mekka"
     ],
     "name:gla_x_preferred":[
         "Mecca"
@@ -194,9 +164,6 @@
     ],
     "name:glg_x_preferred":[
         "A Meca"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ad\u03ba\u03ba\u03b1"
     ],
     "name:grn_x_preferred":[
         "M\u00e9ka"
@@ -234,8 +201,8 @@
     "name:hun_x_preferred":[
         "Mekka"
     ],
-    "name:ice_x_preferred":[
-        "Mekka"
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0584\u0584\u0561"
     ],
     "name:ido_x_preferred":[
         "Meka"
@@ -324,20 +291,17 @@
     "name:lzh_x_preferred":[
         "\u9ea5\u52a0"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0435\u043a\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d15\u0d4d\u0d15"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0915\u094d\u0915\u093e"
     ],
-    "name:may_x_preferred":[
-        "Makkah"
-    ],
     "name:min_x_preferred":[
         "Makah"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u043a\u0430"
     ],
     "name:mlt_x_preferred":[
         "Mekka"
@@ -348,8 +312,14 @@
     "name:msa_x_preferred":[
         "Makkah al-Mukarramah"
     ],
+    "name:msa_x_variant":[
+        "Makkah"
+    ],
     "name:mwl_x_preferred":[
         "Meca"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1000\u1039\u1000\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06a9\u0647"
@@ -393,9 +363,6 @@
     "name:pap_x_preferred":[
         "Mekka"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06a9\u0647"
-    ],
     "name:pih_x_preferred":[
         "Meka"
     ],
@@ -420,9 +387,6 @@
     "name:rue_x_preferred":[
         "\u041c\u0435\u043a\u043a\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Mecca"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u043a\u043a\u0430"
     ],
@@ -444,9 +408,6 @@
     "name:slk_x_preferred":[
         "Mekka"
     ],
-    "name:slo_x_preferred":[
-        "Mekka"
-    ],
     "name:slv_x_preferred":[
         "Meka"
     ],
@@ -458,6 +419,9 @@
     ],
     "name:spa_x_preferred":[
         "La Meca"
+    ],
+    "name:sqi_x_preferred":[
+        "Meka"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0435\u043a\u0430"
@@ -491,9 +455,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e31\u0e01\u0e01\u0e30\u0e2e\u0e4c"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f0b\u0f41\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Mekge"
@@ -531,9 +492,6 @@
     "name:war_x_preferred":[
         "Mecca"
     ],
-    "name:wel_x_preferred":[
-        "Mecca"
-    ],
     "name:xmf_x_preferred":[
         "\u10db\u10d4\u10e5\u10d0"
     ],
@@ -544,6 +502,9 @@
         "M\u1eb9\u0301kk\u00e0"
     ],
     "name:yue_x_preferred":[
+        "\u9ea5\u52a0"
+    ],
+    "name:zho_x_preferred":[
         "\u9ea5\u52a0"
     ],
     "ne:ADM0CAP":0.0,
@@ -693,7 +654,7 @@
         }
     ],
     "wof:id":421204201,
-    "wof:lastmodified":1548452886,
+    "wof:lastmodified":1561837548,
     "wof:name":"Mecca",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",

@@ -27,20 +27,17 @@
     "name:aze_x_preferred":[
         "Tabuk"
     ],
-    "name:baq_x_preferred":[
-        "Tabuk"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09ac\u09c1\u0995"
-    ],
-    "name:chi_x_preferred":[
-        "\u5854\u5e03\u514b"
     ],
     "name:dan_x_preferred":[
         "Tabuk"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tabuk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bc\u03c0\u03bf\u03cd\u03ba"
     ],
     "name:eng_x_preferred":[
         "Tabuk"
@@ -51,17 +48,17 @@
     "name:est_x_preferred":[
         "Tab\u016bk"
     ],
+    "name:eus_x_preferred":[
+        "Tabuk"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0628\u0648\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Tabuk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tabuk"
-    ],
-    "name:ger_x_preferred":[
-        "Tabuk"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03bc\u03c0\u03bf\u03cd\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0aac\u0ac1\u0a95"
@@ -111,20 +108,20 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u092c\u0942\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tabuk"
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0628\u0648\u06a9"
+    ],
+    "name:nld_x_preferred":[
+        "Tabuk"
     ],
     "name:nno_x_preferred":[
         "Tabuk"
     ],
     "name:nob_x_preferred":[
         "Tabuk"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0628\u0648\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u0628\u0648\u06a9"
@@ -135,7 +132,7 @@
     "name:por_x_preferred":[
         "Tabuk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tabuk"
     ],
     "name:rus_x_preferred":[
@@ -185,6 +182,9 @@
     ],
     "name:war_x_preferred":[
         "Tabuk"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5e03\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Saudi Arabia",
@@ -305,7 +305,7 @@
         }
     ],
     "wof:id":1141909183,
-    "wof:lastmodified":1553816738,
+    "wof:lastmodified":1561837553,
     "wof:name":"Tabuk",
     "wof:parent_id":1108720767,
     "wof:placetype":"locality",

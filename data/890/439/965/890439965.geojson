@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0638\u0647\u0631\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0536\u0561\u0570\u0580\u0561\u0576"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0638\u0647\u0631\u0627\u0646"
     ],
@@ -35,11 +32,8 @@
     "name:che_x_preferred":[
         "\u0417\u0430\u0445\u04c0\u0440\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5bb0\u8d6b\u5170"
-    ],
-    "name:dut_x_preferred":[
-        "Dharaan"
+    "name:deu_x_preferred":[
+        "Dhahran"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b1\u03c7\u03c1\u03ac\u03bd"
@@ -53,23 +47,17 @@
     "name:fin_x_preferred":[
         "Dhahran"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dhahran"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10f0\u10e0\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dhahran"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03c7\u03c1\u03ac\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d4\u05e8\u05d0\u05df"
     ],
     "name:hrv_x_preferred":[
         "Dahran"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u0570\u0580\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Dhahran"
@@ -92,7 +80,7 @@
     "name:mal_x_preferred":[
         "\u0d26\u0d39\u0d4d\u0d31\u0d3e\u0d7b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dhahran"
     ],
     "name:mzn_x_preferred":[
@@ -107,9 +95,6 @@
     "name:nob_x_preferred":[
         "Dhahran"
     ],
-    "name:per_x_preferred":[
-        "\u0638\u0647\u0631\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Az-Zahran"
     ],
@@ -123,9 +108,6 @@
         "Dhahran"
     ],
     "name:slk_x_preferred":[
-        "Dahr\u00e1n"
-    ],
-    "name:slo_x_preferred":[
         "Dahr\u00e1n"
     ],
     "name:spa_x_preferred":[
@@ -289,7 +271,7 @@
         }
     ],
     "wof:id":890439965,
-    "wof:lastmodified":1548452887,
+    "wof:lastmodified":1561837549,
     "wof:name":"Dhahran",
     "wof:parent_id":1108720599,
     "wof:placetype":"locality",
