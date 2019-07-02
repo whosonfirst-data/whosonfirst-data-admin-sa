@@ -49,14 +49,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Al-Bahah"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u54c8\u7701"
-    ],
     "name:dan_x_preferred":[
         "Al Bahah Region"
     ],
-    "name:dut_x_preferred":[
-        "Al-Bahah"
+    "name:deu_x_preferred":[
+        "Provinz al-Baha"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b1\u03ac"
     ],
     "name:eng_x_preferred":[
         "Al-Bahah"
@@ -75,20 +75,14 @@
     "name:est_x_preferred":[
         "Al-B\u0101\u1e29ah' provints"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u062d\u0647"
+    ],
     "name:fin_x_preferred":[
         "Al Bahah"
     ],
     "name:fra_x_preferred":[
         "Al Bahah"
-    ],
-    "name:fre_x_preferred":[
-        "Al Bahah"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz al-Baha"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b1\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0aac\u0ab9\u0abe\u0ab9 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -129,11 +123,14 @@
     "name:mar_x_preferred":[
         "\u0905\u0932-\u092c\u093e\u0939\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Al Bahah"
     ],
     "name:nan_x_preferred":[
         "B\u0101\u1e25a S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Al-Bahah"
     ],
     "name:nno_x_preferred":[
         "Al Bahah-regionen"
@@ -147,9 +144,6 @@
     "name:pan_x_preferred":[
         "\u0a05\u0a32\u0a2c\u0a3e\u0a39\u0a3e \u0a38\u0a42\u0a2c\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u062d\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0627\u062d\u06c1"
     ],
@@ -159,7 +153,7 @@
     "name:por_x_preferred":[
         "Al Bahah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Al Bahah"
     ],
     "name:rus_x_preferred":[
@@ -218,6 +212,9 @@
     ],
     "name:war_x_preferred":[
         "Al Bahah"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u54c8\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SAU",
@@ -336,7 +333,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560448387,
+    "wof:lastmodified":1561837540,
     "wof:name":"Al-Bahah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

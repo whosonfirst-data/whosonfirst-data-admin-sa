@@ -52,14 +52,14 @@
     "name:cat_x_preferred":[
         "Ash-Sharqiyah"
     ],
-    "name:chi_x_preferred":[
-        "\u4e1c\u90e8\u7701"
-    ],
     "name:dan_x_preferred":[
         "Eastern Province"
     ],
-    "name:dut_x_preferred":[
-        "Ash Sharqiyah"
+    "name:deu_x_preferred":[
+        "Provinz asch-Scharqiyya"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u03b5\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
     ],
     "name:eng_x_colloquial":[
         "Eastern District",
@@ -81,23 +81,14 @@
     "name:est_x_preferred":[
         "Ash-Sharq\u012byah"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0634\u0631\u0642\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Al-\u0160arqiyya"
     ],
     "name:fra_x_preferred":[
         "Ach-Charqiya"
-    ],
-    "name:fre_x_preferred":[
-        "Ach-Charqiya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e8-\u10e8\u10d0\u10e0\u10d9\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz asch-Scharqiyya"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u03b5\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0ac0\u0aaf \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -126,6 +117,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc2\u0cb0\u0ccd\u0cb5 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e8-\u10e8\u10d0\u10e0\u10d9\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub3d9\ubd80 \uc8fc"
     ],
@@ -141,7 +135,7 @@
     "name:mar_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ash Syarqiyah"
     ],
     "name:nan_x_preferred":[
@@ -156,16 +150,13 @@
     "name:nob_x_preferred":[
         "Ash Sharqiyah"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0634\u0631\u0642\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Asz-Szarkijja"
     ],
     "name:por_x_preferred":[
         "Ash Sharqiyah"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ash Sharqiyah"
     ],
     "name:rus_x_preferred":[
@@ -224,6 +215,9 @@
     ],
     "name:war_x_preferred":[
         "Sinirangan nga Lalawigan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u90e8\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SAU",
@@ -349,7 +343,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560448386,
+    "wof:lastmodified":1561837539,
     "wof:name":"Eastern Province",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

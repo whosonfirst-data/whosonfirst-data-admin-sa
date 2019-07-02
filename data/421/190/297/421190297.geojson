@@ -36,9 +36,6 @@
     "name:aze_x_preferred":[
         "Dammam"
     ],
-    "name:baq_x_preferred":[
-        "Ad-Damman"
-    ],
     "name:ben_x_preferred":[
         "\u09a6\u09be\u09ae\u09be\u09ae"
     ],
@@ -47,9 +44,6 @@
     ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u043c\u0430\u043c"
-    ],
-    "name:bur_x_preferred":[
-        "\u1012\u1014\u103a\u1019\u1019\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:cat_x_preferred":[
         "Dammam"
@@ -60,19 +54,10 @@
     "name:che_x_preferred":[
         "\u0414\u0430\u043c\u043c\u0430\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u8fbe\u66fc"
-    ],
-    "name:cze_x_preferred":[
-        "Damm\u00e1m"
-    ],
     "name:dan_x_preferred":[
         "Dammam"
     ],
     "name:deu_x_preferred":[
-        "Dammam"
-    ],
-    "name:dut_x_preferred":[
         "Dammam"
     ],
     "name:ell_x_preferred":[
@@ -95,18 +80,6 @@
     ],
     "name:fra_x_preferred":[
         "Dammam"
-    ],
-    "name:fre_x_preferred":[
-        "Dammam"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10db\u10d0\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dammam"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03bc\u03ac\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0aae\u0abe\u0aae"
@@ -174,11 +147,17 @@
     "name:mar_x_preferred":[
         "\u0926\u092e\u094d\u092e\u092e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dammam"
+    ],
+    "name:mya_x_preferred":[
+        "\u1012\u1014\u103a\u1019\u1019\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:mzn_x_preferred":[
         "\u062f\u0645\u0627\u0645"
+    ],
+    "name:nld_x_preferred":[
+        "Dammam"
     ],
     "name:nno_x_preferred":[
         "Dammam"
@@ -188,9 +167,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a26\u0a2e\u0a3e\u0a2e"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0645\u0627\u0645"
     ],
     "name:pnb_x_preferred":[
         "\u062f\u0645\u0627\u0645"
@@ -416,7 +392,7 @@
         }
     ],
     "wof:id":421190297,
-    "wof:lastmodified":1548452886,
+    "wof:lastmodified":1561837549,
     "wof:name":"Dammam",
     "wof:parent_id":1108720541,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20535612.391074,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.827395,21.421874,39.827395,21.421874",
     "geom:latitude":21.421874,
     "geom:longitude":39.827395,
@@ -38,11 +38,11 @@
     "name:eng_x_preferred":[
         "Ajyad"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u062c\u06cc\u0627\u062f"
+    ],
     "name:ind_x_preferred":[
         "Ajyad"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u062c\u06cc\u0627\u062f"
     ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
@@ -99,7 +99,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379458,
+    "wof:lastmodified":1561837537,
     "wof:name":"\u0627\u062c\u064a\u0627\u062f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

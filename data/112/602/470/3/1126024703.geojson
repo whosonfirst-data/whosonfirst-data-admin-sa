@@ -34,14 +34,14 @@
     "name:cat_x_preferred":[
         "Unayza"
     ],
-    "name:chi_x_preferred":[
-        "\u6b50\u5948\u5bb0"
-    ],
     "name:dan_x_preferred":[
         "Unaizah"
     ],
-    "name:dut_x_preferred":[
-        "Unayzah"
+    "name:deu_x_preferred":[
+        "Unaizah"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03bd\u03ac\u03b9\u03b6\u03b1\u03c7"
     ],
     "name:eng_x_preferred":[
         "Unaizah"
@@ -52,17 +52,8 @@
     "name:fin_x_preferred":[
         "Unaizah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Unaizah"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10dc\u10d0\u10d8\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Unaizah"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03bd\u03ac\u03b9\u03b6\u03b1\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa8\u0abe\u0a9d\u0abe\u0ab9"
@@ -82,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0c89\u0ca8\u0cbe\u0c9c\u0cbf\u0cb9\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10dc\u10d0\u10d8\u10d6\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u0423\u043d\u0430\u0439\u0437\u0430"
     ],
@@ -100,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u0909\u0928\u093e\u091d\u093e\u0939"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Unaizah"
     ],
     "name:mzn_x_preferred":[
@@ -117,9 +111,6 @@
     ],
     "name:oci_x_preferred":[
         "Unaizah"
-    ],
-    "name:per_x_preferred":[
-        "\u0639\u0646\u06cc\u0632\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0639\u0646\u06cc\u0632\u06c1"
@@ -211,7 +202,7 @@
         }
     ],
     "wof:id":1126024703,
-    "wof:lastmodified":1514504474,
+    "wof:lastmodified":1561837550,
     "wof:name":"Unaizah",
     "wof:parent_id":1108720785,
     "wof:placetype":"locality",

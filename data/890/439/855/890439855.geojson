@@ -26,41 +26,35 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u062c\u0628\u064a\u0644"
     ],
-    "name:baq_x_preferred":[
-        "Jubail"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09cb\u09ac\u09c7\u0987\u09b2"
     ],
     "name:cat_x_preferred":[
         "Jubail"
     ],
-    "name:chi_x_preferred":[
-        "\u6731\u62dc\u52d2"
-    ],
     "name:dan_x_preferred":[
         "Jubail"
     ],
-    "name:dut_x_preferred":[
-        "Jubail"
+    "name:deu_x_preferred":[
+        "al-Dschubail"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u03a4\u03b6\u03bf\u03c5\u03bc\u03c0\u03ac\u03b9\u03bb"
     ],
     "name:eng_x_preferred":[
         "Jubail"
     ],
+    "name:eus_x_preferred":[
+        "Jubail"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u06cc\u0644"
+    ],
     "name:fin_x_preferred":[
         "Jubail"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Al-Jubayl"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10ef\u10e3\u10d1\u10d0\u10d8\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "al-Dschubail"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb \u03a4\u03b6\u03bf\u03c5\u03bc\u03c0\u03ac\u03b9\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac1\u0aac\u0ac8\u0ab2"
@@ -80,6 +74,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cc1\u0cac\u0cc8\u0cb2\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10ef\u10e3\u10d1\u10d0\u10d8\u10da\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u042d\u043b\u044c-\u0414\u0436\u0443\u0431\u0430\u0439\u043b\u044c"
     ],
@@ -98,11 +95,14 @@
     "name:mar_x_preferred":[
         "\u091c\u0941\u092c\u0948\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jubail"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0644\u062c\u0628\u06cc\u0644"
+    ],
+    "name:nld_x_preferred":[
+        "Jubail"
     ],
     "name:nno_x_preferred":[
         "Jubail"
@@ -112,9 +112,6 @@
     ],
     "name:oci_x_preferred":[
         "Jubail"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u062c\u0628\u06cc\u0644"
     ],
     "name:pol_x_preferred":[
         "Al-D\u017cubajl"
@@ -171,6 +168,9 @@
     ],
     "name:vie_x_preferred":[
         "Jubail"
+    ],
+    "name:zho_x_preferred":[
+        "\u6731\u62dc\u52d2"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Saudi Arabia",
@@ -307,7 +307,7 @@
         }
     ],
     "wof:id":890439855,
-    "wof:lastmodified":1548452887,
+    "wof:lastmodified":1561837549,
     "wof:name":"Al Jubayl",
     "wof:parent_id":1108720585,
     "wof:placetype":"locality",

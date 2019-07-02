@@ -26,29 +26,23 @@
     "name:cat_x_preferred":[
         "Hail"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u4f0a\u52d2"
-    ],
     "name:dan_x_preferred":[
         "Ha'il"
     ],
-    "name:dut_x_preferred":[
-        "Hail"
+    "name:deu_x_preferred":[
+        "Ha'il"
     ],
     "name:eng_x_preferred":[
         "Ha'il"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u0626\u0644"
+    ],
     "name:fin_x_preferred":[
         "Ha\u2019il"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ha\u00efl"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10d8\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ha'il"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d0\u05d9\u05dc"
@@ -58,6 +52,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30fc\u30a4\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10d8\u10da\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0425\u0430\u0438\u043b\u044c"
@@ -71,6 +68,9 @@
     "name:nep_x_preferred":[
         "\u0939\u093e\u092f\u0932"
     ],
+    "name:nld_x_preferred":[
+        "Hail"
+    ],
     "name:nno_x_preferred":[
         "Ha'il"
     ],
@@ -82,9 +82,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a39\u0a3e\u0a07\u0a32"
-    ],
-    "name:per_x_preferred":[
-        "\u062d\u0627\u0626\u0644"
     ],
     "name:pnb_x_preferred":[
         "\u062d\u0627\u0626\u0644"
@@ -131,6 +128,9 @@
     "name:war_x_preferred":[
         "Ha'il"
     ],
+    "name:zho_x_preferred":[
+        "\u54c8\u4f0a\u52d2"
+    ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
     "qs_pg:gn_fcode":"PPLA",
@@ -170,7 +170,7 @@
         }
     ],
     "wof:id":1125925581,
-    "wof:lastmodified":1548452885,
+    "wof:lastmodified":1561837549,
     "wof:name":"Hayil",
     "wof:parent_id":1108720703,
     "wof:placetype":"locality",

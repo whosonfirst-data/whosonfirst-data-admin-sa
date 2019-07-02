@@ -31,20 +31,20 @@
     "name:dan_x_preferred":[
         "Saihat"
     ],
-    "name:dut_x_preferred":[
-        "Saihat"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03b9\u03c7\u03b1\u03c4"
     ],
     "name:eng_x_preferred":[
         "Saihat"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0647\u0627\u062a"
+    ],
     "name:fin_x_preferred":[
         "Saihat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saihat"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03b9\u03c7\u03b1\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac8\u0ab9\u0a9f"
@@ -76,20 +76,20 @@
     "name:mar_x_preferred":[
         "\u0938\u0948\u0939\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saihat"
     ],
     "name:mzn_x_preferred":[
         "\u0633\u06cc\u0647\u0627\u062a"
+    ],
+    "name:nld_x_preferred":[
+        "Saihat"
     ],
     "name:nno_x_preferred":[
         "Saihat"
     ],
     "name:nob_x_preferred":[
         "Saihat"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0647\u0627\u062a"
     ],
     "name:pol_x_preferred":[
         "Sajhat"
@@ -194,7 +194,7 @@
         }
     ],
     "wof:id":890449691,
-    "wof:lastmodified":1548455905,
+    "wof:lastmodified":1561837549,
     "wof:name":"Saihat",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

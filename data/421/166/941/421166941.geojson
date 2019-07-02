@@ -24,9 +24,6 @@
     "name:afr_x_preferred":[
         "Medina"
     ],
-    "name:alb_x_preferred":[
-        "Medina"
-    ],
     "name:amh_x_preferred":[
         "\u1218\u12f2\u1293"
     ],
@@ -35,9 +32,6 @@
     ],
     "name:ara_x_variant":[
         "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0564\u056b\u0576\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0647"
@@ -53,9 +47,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041c\u04d9\u0499\u0438\u043d\u04d9"
-    ],
-    "name:baq_x_preferred":[
-        "Medina"
     ],
     "name:bcl_x_preferred":[
         "Medina"
@@ -87,17 +78,11 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u0434\u0438\u043d\u0430\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u9ea6\u5730\u90a3"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u06d5\u062f\u06cc\u0646\u06d5"
     ],
     "name:cym_x_preferred":[
         "Medina"
-    ],
-    "name:cze_x_preferred":[
-        "Med\u00edna"
     ],
     "name:dan_x_preferred":[
         "Medina"
@@ -111,9 +96,6 @@
     "name:div_x_preferred":[
         "\u0789\u07a6\u078b\u07a9\u0782\u07a7"
     ],
-    "name:dut_x_preferred":[
-        "Medina"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03b4\u03af\u03bd\u03b1"
     ],
@@ -126,6 +108,9 @@
     "name:est_x_preferred":[
         "Mediina"
     ],
+    "name:eus_x_preferred":[
+        "Medina"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u062f\u06cc\u0646\u0647"
     ],
@@ -135,23 +120,11 @@
     "name:fra_x_preferred":[
         "M\u00e9dine"
     ],
-    "name:fre_x_preferred":[
-        "M\u00e9dine"
-    ],
     "name:fry_x_preferred":[
-        "Medina"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10d3\u10d8\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Medina"
     ],
     "name:glg_x_preferred":[
         "Medina"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03b4\u03af\u03bd\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Medina"
@@ -177,14 +150,14 @@
     "name:hye_x_preferred":[
         "\u0544\u0561\u0564\u056b\u0576\u0561"
     ],
-    "name:ice_x_preferred":[
-        "Medina"
-    ],
     "name:ido_x_preferred":[
         "Medina"
     ],
     "name:ind_x_preferred":[
         "Madinah"
+    ],
+    "name:isl_x_preferred":[
+        "Medina"
     ],
     "name:ita_x_preferred":[
         "Medina"
@@ -234,17 +207,11 @@
     "name:ltz_x_preferred":[
         "Medina"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0435\u0434\u0438\u043d\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d26\u0d40\u0d28"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0926\u0940\u0928\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Madinah al-Munawwarah"
     ],
     "name:min_x_preferred":[
         "Madinah"
@@ -285,9 +252,6 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a26\u0a40\u0a28\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u062f\u06cc\u0646\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0645\u062f\u06cc\u0646\u06be"
     ],
@@ -300,7 +264,7 @@
     "name:que_x_preferred":[
         "Madina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Medina"
     ],
     "name:rus_x_preferred":[
@@ -315,7 +279,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd9\u0daf\u0dd2\u0db1\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Medina"
     ],
     "name:slv_x_preferred":[
@@ -325,6 +289,9 @@
         "Medina"
     ],
     "name:spa_x_preferred":[
+        "Medina"
+    ],
+    "name:sqi_x_preferred":[
         "Medina"
     ],
     "name:srp_x_preferred":[
@@ -385,9 +352,6 @@
         "M\u00e4din\u00e4"
     ],
     "name:war_x_preferred":[
-        "Medina"
-    ],
-    "name:wel_x_preferred":[
         "Medina"
     ],
     "name:yue_x_preferred":[
@@ -542,7 +506,7 @@
         }
     ],
     "wof:id":421166941,
-    "wof:lastmodified":1548452886,
+    "wof:lastmodified":1561837548,
     "wof:name":"Medina",
     "wof:parent_id":1108720605,
     "wof:placetype":"locality",

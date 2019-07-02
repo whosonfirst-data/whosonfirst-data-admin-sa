@@ -24,26 +24,23 @@
     "name:arz_x_preferred":[
         "\u0628\u0631\u064a\u062f\u0647"
     ],
-    "name:baq_x_preferred":[
-        "Buraida"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b0\u09be\u0987\u09a6\u09be"
     ],
     "name:cat_x_preferred":[
         "Burayda"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u8cf4\u4ee3"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Burajda"
     ],
     "name:dan_x_preferred":[
         "Buraidah"
     ],
-    "name:dut_x_preferred":[
-        "Buraidah"
+    "name:deu_x_preferred":[
+        "Buraida"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c1\u03ac\u03b9\u03bd\u03c4\u03b1\u03c7"
     ],
     "name:eng_x_preferred":[
         "Buraydah"
@@ -57,17 +54,17 @@
     "name:est_x_preferred":[
         "Buraydah"
     ],
+    "name:eus_x_preferred":[
+        "Buraida"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc\u062f\u0647"
+    ],
     "name:fin_x_preferred":[
         "Buraidah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Buraydah"
-    ],
-    "name:ger_x_preferred":[
-        "Buraida"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03c1\u03ac\u03b9\u03bd\u03c4\u03b1\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0ab0\u0ac8\u0aa6\u0abe\u0ab9"
@@ -114,11 +111,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0930\u0940\u0926\u093e\u0939"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Buraidah"
     ],
     "name:mzn_x_preferred":[
         "\u0628\u0631\u06cc\u062f\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Buraidah"
     ],
     "name:nno_x_preferred":[
         "Buraydah"
@@ -128,9 +128,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a41\u0a30\u0a48\u0a26\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u06cc\u062f\u0647"
     ],
     "name:pol_x_preferred":[
         "Burajda"
@@ -188,6 +185,9 @@
     ],
     "name:war_x_preferred":[
         "Buraidah"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8cf4\u4ee3"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Saudi Arabia",
@@ -335,7 +335,7 @@
         }
     ],
     "wof:id":421204205,
-    "wof:lastmodified":1548452886,
+    "wof:lastmodified":1561837548,
     "wof:name":"Buraydah",
     "wof:parent_id":1108720687,
     "wof:placetype":"locality",

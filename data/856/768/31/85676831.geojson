@@ -41,9 +41,6 @@
         "\u1e28\u0101\u2019il",
         "\u0645\u0646\u0637\u0642\u0629 \u062d\u0627\u0626\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0575\u056b\u056c\u056b \u0567\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0425\u0430\u0456\u043b\u044c"
     ],
@@ -53,17 +50,17 @@
     "name:cat_x_preferred":[
         "Hail"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u4f0a\u52d2\u7701"
-    ],
     "name:dan_x_preferred":[
         "Ha'il"
     ],
     "name:deu_x_preferred":[
         "Ha'il"
     ],
-    "name:dut_x_preferred":[
-        "Hail"
+    "name:deu_x_variant":[
+        "Provinz Ha'il"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a7\u03b1\u0390\u03bb"
     ],
     "name:eng_x_preferred":[
         "Ha'il"
@@ -78,23 +75,14 @@
     "name:fas_x_preferred":[
         "\u062d\u0627\u0626\u0644"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062d\u0627\u0626\u0644"
+    ],
     "name:fin_x_preferred":[
         "Ha'il"
     ],
     "name:fra_x_preferred":[
         "Ha\u00efl"
-    ],
-    "name:fre_x_preferred":[
-        "Ha\u00efl"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10d8\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Ha'il"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a7\u03b1\u0390\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abe\u0a88\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -107,6 +95,9 @@
     ],
     "name:hun_x_preferred":[
         "H\u00e1il tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0575\u056b\u056c\u056b \u0567\u0574\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
     "name:ind_x_preferred":[
         "Provinsi Ha'il"
@@ -123,6 +114,9 @@
     "name:kat_x_preferred":[
         "\u10f0\u10d0\u10d8\u10da\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10f0\u10d0\u10d8\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u0430\u0438\u043b\u044c"
     ],
@@ -135,16 +129,16 @@
     "name:lit_x_preferred":[
         "Hailo emyratas"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0430\u0438\u043b"
-    ],
     "name:mal_x_preferred":[
         "\u0d39\u0d3e\u0d2f\u0d3f\u0d7d"
     ],
     "name:mar_x_preferred":[
         "\u0939\u093e\u0908\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0438\u043b"
+    ],
+    "name:msa_x_preferred":[
         "Ha'il"
     ],
     "name:nan_x_preferred":[
@@ -171,9 +165,6 @@
     "name:pan_x_preferred":[
         "\u0a39\u0a3e\u0a07\u0a32"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u062d\u0627\u0626\u0644"
-    ],
     "name:pnb_x_preferred":[
         "\u062d\u0627\u0626\u0644"
     ],
@@ -183,7 +174,7 @@
     "name:por_x_preferred":[
         "Ha'il"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Ha'il"
     ],
     "name:rus_x_preferred":[
@@ -245,6 +236,9 @@
     ],
     "name:zho_x_preferred":[
         "\u54c8\u4f0a\u52d2"
+    ],
+    "name:zho_x_variant":[
+        "\u54c8\u4f0a\u52d2\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SAU",
@@ -369,7 +363,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560448387,
+    "wof:lastmodified":1561837540,
     "wof:name":"Ha'il",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

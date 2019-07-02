@@ -37,14 +37,11 @@
     "name:cat_x_preferred":[
         "Al-Khubar"
     ],
+    "name:ces_x_preferred":[
+        "Al-Chubar"
+    ],
     "name:che_x_preferred":[
         "\u0425\u043e\u0431\u0430\u0440"
-    ],
-    "name:chi_x_preferred":[
-        "\u62dc\u723e"
-    ],
-    "name:cze_x_preferred":[
-        "Al-Chubar"
     ],
     "name:dan_x_preferred":[
         "Al Khobar"
@@ -52,8 +49,8 @@
     "name:deu_x_preferred":[
         "Al-Chubar"
     ],
-    "name:dut_x_preferred":[
-        "Khobar"
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039a\u03bf\u03bc\u03c0\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Khobar"
@@ -70,17 +67,8 @@
     "name:fin_x_preferred":[
         "Al-Khobar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Khobar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10ee\u10e3\u10d1\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Al-Chubar"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb \u039a\u03bf\u03bc\u03c0\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0acb\u0aac\u0abe\u0ab0"
@@ -109,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0c96\u0ccb\u0cac\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10ee\u10e3\u10d1\u10d0\u10e0\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u04d8\u043b-\u0425\u0443\u0431\u0430\u0440"
     ],
@@ -127,20 +118,20 @@
     "name:mar_x_preferred":[
         "\u0916\u094b\u092c\u093e\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Khobar"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0644\u062e\u0628\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Khobar"
     ],
     "name:nno_x_preferred":[
         "Al-Khobar"
     ],
     "name:nob_x_preferred":[
         "Al-Khobar"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0628\u0631"
     ],
     "name:pol_x_preferred":[
         "Al-Chubar"
@@ -186,6 +177,9 @@
     ],
     "name:vie_x_preferred":[
         "Khobar"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u723e"
     ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
@@ -234,7 +228,7 @@
         }
     ],
     "wof:id":1125927181,
-    "wof:lastmodified":1548452885,
+    "wof:lastmodified":1561837550,
     "wof:name":"Khobar",
     "wof:parent_id":1108720599,
     "wof:placetype":"locality",

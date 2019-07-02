@@ -25,20 +25,17 @@
     "name:cat_x_preferred":[
         "Bisha"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u6c99\u5821"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bisha"
     ],
     "name:eng_x_preferred":[
         "Bisha"
     ],
-    "name:fre_x_preferred":[
-        "Qal'at Bishah"
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0634\u0647"
     ],
-    "name:ger_x_preferred":[
-        "Bisha"
+    "name:fra_x_preferred":[
+        "Qal'at Bishah"
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30fc\u30b7\u30e3"
@@ -49,14 +46,14 @@
     "name:mzn_x_preferred":[
         "\u0628\u06cc\u0634\u0647"
     ],
+    "name:nld_x_preferred":[
+        "Bisha"
+    ],
     "name:nno_x_preferred":[
         "Bisha"
     ],
     "name:oci_x_preferred":[
         "Bisha"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0634\u0647"
     ],
     "name:pol_x_preferred":[
         "Bisza"
@@ -72,6 +69,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0634\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u6c99\u5821"
     ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125925019,
-    "wof:lastmodified":1514504450,
+    "wof:lastmodified":1561837550,
     "wof:name":"Qal\u2018at B\u012bshah",
     "wof:parent_id":1108720681,
     "wof:placetype":"locality",

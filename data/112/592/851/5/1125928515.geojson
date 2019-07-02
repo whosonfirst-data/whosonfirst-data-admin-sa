@@ -35,9 +35,6 @@
     "name:azb_x_preferred":[
         "\u0627\u0628\u0647\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Abha"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09be\u09b9"
     ],
@@ -50,12 +47,6 @@
     "name:ces_x_preferred":[
         "Abh\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u535c\u54c8"
-    ],
-    "name:cze_x_preferred":[
-        "Abh\u00e1"
-    ],
     "name:dan_x_preferred":[
         "Abha"
     ],
@@ -65,8 +56,8 @@
     "name:diq_x_preferred":[
         "Ebha"
     ],
-    "name:dut_x_preferred":[
-        "Abha"
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03c7\u03ac"
     ],
     "name:eng_x_preferred":[
         "Abha"
@@ -77,20 +68,17 @@
     "name:est_x_preferred":[
         "Abh\u0101"
     ],
+    "name:eus_x_preferred":[
+        "Abha"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0628\u0647\u0627"
     ],
     "name:fin_x_preferred":[
         "Abha"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Abha"
-    ],
-    "name:ger_x_preferred":[
-        "Abha"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03c0\u03c7\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0aad\u0abe"
@@ -134,20 +122,20 @@
     "name:mar_x_preferred":[
         "\u0906\u092d\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Abha"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0628\u0647\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "Abha"
     ],
     "name:nno_x_preferred":[
         "Abha"
     ],
     "name:nob_x_preferred":[
         "Abha"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0628\u0647\u0627"
     ],
     "name:pol_x_preferred":[
         "Abha"
@@ -168,9 +156,6 @@
         "\u0d85\u0db7\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Abh\u00e1"
-    ],
-    "name:slo_x_preferred":[
         "Abh\u00e1"
     ],
     "name:spa_x_preferred":[
@@ -263,7 +248,7 @@
         }
     ],
     "wof:id":1125928515,
-    "wof:lastmodified":1548452885,
+    "wof:lastmodified":1561837550,
     "wof:name":"Abh\u0101",
     "wof:parent_id":1108720533,
     "wof:placetype":"locality",

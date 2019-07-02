@@ -24,14 +24,8 @@
     "name:cat_x_preferred":[
         "Djawf Amir"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u5361\u51f1"
-    ],
     "name:deu_x_preferred":[
         "Sakaka"
-    ],
-    "name:dut_x_preferred":[
-        "Al Jawf"
     ],
     "name:eng_x_preferred":[
         "Sakakah"
@@ -43,12 +37,6 @@
         "Sakaka"
     ],
     "name:fra_x_preferred":[
-        "Sakaka"
-    ],
-    "name:fre_x_preferred":[
-        "Sakaka"
-    ],
-    "name:ger_x_preferred":[
         "Sakaka"
     ],
     "name:glg_x_preferred":[
@@ -80,9 +68,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a15\u0a3e\u0a15\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06a9\u0627\u06a9\u0647"
     ],
     "name:pol_x_preferred":[
         "Sakaka"
@@ -263,7 +248,7 @@
         }
     ],
     "wof:id":421175379,
-    "wof:lastmodified":1527716339,
+    "wof:lastmodified":1561837548,
     "wof:name":"Sakaka",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

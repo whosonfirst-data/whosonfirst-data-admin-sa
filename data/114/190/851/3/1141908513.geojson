@@ -24,20 +24,20 @@
     "name:cat_x_preferred":[
         "Al-Qunfudha"
     ],
-    "name:dut_x_preferred":[
-        "Al Qunfudhah"
-    ],
     "name:eng_x_preferred":[
         "Al Qunfudhah"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0646\u0641\u0630\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Al Qunfudhah"
+    ],
+    "name:nld_x_preferred":[
         "Al Qunfudhah"
     ],
     "name:nno_x_preferred":[
         "Al Qunfudhah"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0642\u0646\u0641\u0630\u0629"
     ],
     "name:pol_x_preferred":[
         "Al-Kunfuza"
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":1141908513,
-    "wof:lastmodified":1548452886,
+    "wof:lastmodified":1561837552,
     "wof:name":"Al Qunfudhah",
     "wof:parent_id":1108720633,
     "wof:placetype":"locality",

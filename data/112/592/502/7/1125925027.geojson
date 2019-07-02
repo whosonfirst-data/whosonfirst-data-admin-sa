@@ -25,32 +25,29 @@
     "name:cat_x_preferred":[
         "Rabigh"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u6bd4\u683c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rabigh"
     ],
     "name:eng_x_preferred":[
         "Rabigh"
     ],
-    "name:fre_x_preferred":[
-        "Rabigh"
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0628\u063a"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rabigh"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fc\u30d3\u30b0"
+    ],
+    "name:nld_x_preferred":[
+        "Rabigh"
     ],
     "name:nno_x_preferred":[
         "Rabigh"
     ],
     "name:oci_x_preferred":[
         "Rabigh"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u0628\u063a"
     ],
     "name:pol_x_preferred":[
         "Rabigh"
@@ -69,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0628\u063a"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6bd4\u683c"
     ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125925027,
-    "wof:lastmodified":1514504450,
+    "wof:lastmodified":1561837549,
     "wof:name":"R\u0101bigh",
     "wof:parent_id":1108720739,
     "wof:placetype":"locality",
