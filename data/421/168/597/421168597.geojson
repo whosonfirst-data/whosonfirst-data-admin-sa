@@ -18,6 +18,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Hofuf"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0647\u0641\u0648\u0641"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:cat_x_preferred":[
         "Hufuf"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Huf\u016bf"
     ],
     "name:dan_x_preferred":[
         "Hofuf"
@@ -335,7 +341,7 @@
         }
     ],
     "wof:id":421168597,
-    "wof:lastmodified":1561837548,
+    "wof:lastmodified":1563327115,
     "wof:name":"Al Hofuf",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

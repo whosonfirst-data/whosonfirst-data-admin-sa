@@ -41,6 +41,12 @@
         "\u1e28\u0101\u2019il",
         "\u0645\u0646\u0637\u0642\u0629 \u062d\u0627\u0626\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062d\u0627\u064a\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u062d\u0627\u0626\u0644 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0425\u0430\u0456\u043b\u044c"
     ],
@@ -50,8 +56,14 @@
     "name:cat_x_preferred":[
         "Hail"
     ],
+    "name:ceb_x_preferred":[
+        "Min\u0163aqat \u1e28\u0101'il"
+    ],
     "name:dan_x_preferred":[
         "Ha'il"
+    ],
+    "name:dan_x_variant":[
+        "v"
     ],
     "name:deu_x_preferred":[
         "Ha'il"
@@ -71,6 +83,9 @@
     ],
     "name:epo_x_preferred":[
         "Emirlando Hail"
+    ],
+    "name:est_x_preferred":[
+        "\u1e28\u0101\u2019ili provints"
     ],
     "name:fas_x_preferred":[
         "\u062d\u0627\u0626\u0644"
@@ -108,6 +123,9 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30fc\u30a4\u30eb"
     ],
+    "name:jpn_x_variant":[
+        "\u30cf\u30fc\u30a4\u30eb\u5dde"
+    ],
     "name:kan_x_preferred":[
         "\u0cb9\u0cbe\u0cb2\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
@@ -123,6 +141,9 @@
     "name:kor_x_preferred":[
         "\ud558\uc77c"
     ],
+    "name:kor_x_variant":[
+        "\ud558\uc77c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "H\u0101ilas mintaka"
     ],
@@ -131,6 +152,9 @@
     ],
     "name:mal_x_preferred":[
         "\u0d39\u0d3e\u0d2f\u0d3f\u0d7d"
+    ],
+    "name:mal_x_variant":[
+        "\u0d39\u0d3e\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0939\u093e\u0908\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -153,6 +177,9 @@
     "name:nno_x_preferred":[
         "Ha'il"
     ],
+    "name:nno_x_variant":[
+        "Ha\u02beil-regionen"
+    ],
     "name:nob_x_preferred":[
         "Ha'il"
     ],
@@ -162,14 +189,26 @@
     "name:pam_x_preferred":[
         "Ha'il"
     ],
+    "name:pam_x_variant":[
+        "Ha'il Lalawigan"
+    ],
     "name:pan_x_preferred":[
         "\u0a39\u0a3e\u0a07\u0a32"
+    ],
+    "name:pan_x_variant":[
+        "\u0a39\u0a3e\u0a07\u0a32 \u0a30\u0a3f\u0a06\u0a38\u0a24"
     ],
     "name:pnb_x_preferred":[
         "\u062d\u0627\u0626\u0644"
     ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u062d\u0627\u0626\u0644"
+    ],
     "name:pol_x_preferred":[
         "Ha\u2019il"
+    ],
+    "name:pol_x_variant":[
+        "Hail"
     ],
     "name:por_x_preferred":[
         "Ha'il"
@@ -213,6 +252,12 @@
     "name:tur_x_preferred":[
         "Hail"
     ],
+    "name:tur_x_variant":[
+        "Hail B\u00f6lgesi"
+    ],
+    "name:uig_x_preferred":[
+        "\u06be\u0627\u0626\u0649\u0644 \u0626\u06c6\u0644\u0643\u0649\u0633\u0649"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0457\u043b\u044c"
     ],
@@ -225,14 +270,23 @@
     "name:urd_x_preferred":[
         "\u062d\u0627\u0626\u0644"
     ],
+    "name:urd_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u062d\u0627\u0626\u0644"
+    ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ha'il"
     ],
     "name:vol_x_preferred":[
         "Hail"
     ],
+    "name:vol_x_variant":[
+        "Haili\u00e4n"
+    ],
     "name:war_x_preferred":[
         "Ha'il"
+    ],
+    "name:wuu_x_preferred":[
+        "\u54c8\u4f0a\u52d2\u7701"
     ],
     "name:zho_x_preferred":[
         "\u54c8\u4f0a\u52d2"
@@ -363,7 +417,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561837540,
+    "wof:lastmodified":1563326890,
     "wof:name":"Ha'il",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

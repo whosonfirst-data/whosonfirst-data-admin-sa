@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Abqayq"
     ],
+    "name:ceb_x_preferred":[
+        "Abqaiq"
+    ],
     "name:deu_x_preferred":[
         "Abqaiq"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30d6\u30ab\u30a4\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10d9\u10d0\u10d8\u10d9\u10d8"
     ],
     "name:lit_x_preferred":[
         "Abkaikas"
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":421174347,
-    "wof:lastmodified":1561837548,
+    "wof:lastmodified":1563327128,
     "wof:name":"Abqaiq",
     "wof:parent_id":1108720685,
     "wof:placetype":"locality",

@@ -27,14 +27,23 @@
     "name:cat_x_preferred":[
         "Al-Qunfudha"
     ],
+    "name:ceb_x_preferred":[
+        "Al Qunfudhah"
+    ],
     "name:eng_x_preferred":[
         "Al Qunfudhah"
+    ],
+    "name:epo_x_preferred":[
+        "Kunfuda"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0642\u0646\u0641\u0630\u0629"
     ],
     "name:fra_x_preferred":[
         "Al Qunfudhah"
+    ],
+    "name:ind_x_preferred":[
+        "Al Qunfudzah"
     ],
     "name:nld_x_preferred":[
         "Al Qunfudhah"
@@ -51,6 +60,9 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u041a\u0443\u043d\u0444\u0443\u0434\u0430"
     ],
+    "name:sqi_x_preferred":[
+        "El-Kunfudah"
+    ],
     "name:tgl_x_preferred":[
         "Al Qunfudhah"
     ],
@@ -62,6 +74,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0646\u0641\u0630\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u0627\u0644\u062f\u0644\u0645"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Saudi Arabia",
@@ -206,7 +221,7 @@
         }
     ],
     "wof:id":421190281,
-    "wof:lastmodified":1561837548,
+    "wof:lastmodified":1563327135,
     "wof:name":"Al Qunfudhah",
     "wof:parent_id":1108720633,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Jizan"
     ],
+    "name:ceb_x_preferred":[
+        "Jizan"
+    ],
     "name:dan_x_preferred":[
         "Jizan"
     ],
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":890439853,
-    "wof:lastmodified":1561837549,
+    "wof:lastmodified":1563327151,
     "wof:name":"J\u012bz\u0101n",
     "wof:parent_id":1108720713,
     "wof:placetype":"locality",

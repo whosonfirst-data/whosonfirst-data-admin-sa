@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u0627\u062f\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Al Jar\u0101d\u012byah"
+    ],
     "name:eng_x_preferred":[
         "Al Jaradiyah"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125927465,
-    "wof:lastmodified":1561837550,
+    "wof:lastmodified":1563327158,
     "wof:name":"Al Jar\u0101d\u012byah",
     "wof:parent_id":1108720759,
     "wof:placetype":"locality",

@@ -42,11 +42,20 @@
         "J\u012bz\u0101n",
         "\u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062c\u0627\u0632\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0627\u0632\u0627\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0414\u0436\u044b\u0437\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Jizan"
+    ],
+    "name:ceb_x_preferred":[
+        "Jizan Region"
     ],
     "name:deu_x_preferred":[
         "Provinz Dsch\u0101z\u0101n"
@@ -58,7 +67,6 @@
         "Jizan"
     ],
     "name:eng_x_variant":[
-        "Jizan",
         "Jazan",
         "Jazan Region",
         "Jizan Region"
@@ -98,6 +106,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc9c0\uc794 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc9c0\uc794\uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eizano provincija"
     ],
     "name:mal_x_preferred":[
         "\u0d1c\u0d3f\u0d38\u0d3e\u0d7b \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
@@ -150,6 +164,9 @@
     "name:tur_x_preferred":[
         "Cizan B\u00f6lgesi"
     ],
+    "name:uig_x_preferred":[
+        "\u062c\u0627\u0632\u0627\u0646 \u0626\u06c6\u0644\u0643\u0649\u0633\u0649"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0438\u0437\u0430\u043d"
     ],
@@ -162,11 +179,17 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062c\u0627\u0632\u0627\u0646"
     ],
+    "name:vie_x_preferred":[
+        "Jizan"
+    ],
     "name:vol_x_preferred":[
         "Cisani\u00e4n"
     ],
     "name:war_x_preferred":[
         "Jizan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5409\u8d5e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5409\u8d5e\u7701"
@@ -290,7 +313,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561837540,
+    "wof:lastmodified":1563326891,
     "wof:name":"Jizan",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

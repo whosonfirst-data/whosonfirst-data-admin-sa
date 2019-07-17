@@ -33,6 +33,9 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09ac\u09c1\u0995"
     ],
+    "name:ceb_x_preferred":[
+        "Tab\u016bk"
+    ],
     "name:dan_x_preferred":[
         "Tabuk"
     ],
@@ -177,6 +180,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0628\u0648\u06a9\u060c \u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"
     ],
+    "name:urd_x_variant":[
+        "\u062a\u0628\u0648\u06a9"
+    ],
     "name:vie_x_preferred":[
         "Tabuk"
     ],
@@ -185,6 +191,9 @@
     ],
     "name:war_x_preferred":[
         "Tabuk"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5854\u5e03\u514b"
     ],
     "name:zho_x_preferred":[
         "\u5854\u5e03\u514b"
@@ -336,7 +345,7 @@
         }
     ],
     "wof:id":421190329,
-    "wof:lastmodified":1561837549,
+    "wof:lastmodified":1563327141,
     "wof:name":"Tabuk",
     "wof:parent_id":1108720767,
     "wof:placetype":"locality",

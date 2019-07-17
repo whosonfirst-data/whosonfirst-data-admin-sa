@@ -47,6 +47,15 @@
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
         "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0644\u0645\u062f\u064a\u0646\u0647 \u0627\u0644\u0645\u0646\u0648\u0631\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u062f\u06cc\u0646\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl-M\u0259din\u0259"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u04d9\u0499\u0438\u043d\u04d9"
     ],
@@ -55,6 +64,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09ae\u09a6\u09bf\u09a8\u09be \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Mad\u012bnah al Munawwarah"
     ],
     "name:dan_x_preferred":[
         "Al Madinah Region"
@@ -90,6 +102,9 @@
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0aae\u0aa6\u0ac0\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05dc-\u05de\u05d3\u05d9\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0926\u0940\u0928\u093e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
@@ -113,6 +128,9 @@
     ],
     "name:kor_x_preferred":[
         "\uba54\ub514\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uba54\ub514\ub098\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Med\u012bnas mintaka"
@@ -198,6 +216,9 @@
     "name:tur_x_preferred":[
         "Medine B\u00f6lgesi"
     ],
+    "name:uig_x_preferred":[
+        "\u0645\u06d5\u062f\u0649\u0646\u06d5 \u0626\u06c6\u0644\u0643\u0649\u0633\u0649"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041c\u0430\u0434\u0456\u043d\u0430"
     ],
@@ -210,6 +231,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0645\u062f\u064a\u0646\u06c1"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0644\u0645\u062f\u064a\u0646\u06c1 \u0639\u0644\u0627\u0642\u06c1"
+    ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Al Madinah"
     ],
@@ -218,6 +242,9 @@
     ],
     "name:war_x_preferred":[
         "Al Madinah"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9ea6\u5730\u90a3\u7701"
     ],
     "name:zho_x_preferred":[
         "\u9ea6\u5730\u90a3\u7701"
@@ -343,7 +370,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561837541,
+    "wof:lastmodified":1563326894,
     "wof:name":"Al Madinah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

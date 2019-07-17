@@ -66,6 +66,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u0995\u09cd\u0995\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092e\u0915\u094d\u0915\u093e"
+    ],
     "name:bod_x_preferred":[
         "\u0f58\u0f0b\u0f41\u0f0d"
     ],
@@ -84,8 +87,14 @@
     "name:cat_x_preferred":[
         "La Meca"
     ],
+    "name:cat_x_variant":[
+        "la Meca"
+    ],
     "name:cdo_x_preferred":[
         "Mecca"
+    ],
+    "name:ceb_x_preferred":[
+        "Meca"
     ],
     "name:ces_x_preferred":[
         "Mekka"
@@ -219,6 +228,9 @@
     "name:ind_x_preferred":[
         "Mekkah"
     ],
+    "name:inh_x_preferred":[
+        "\u041c\u0430\u043a\u043a\u0430"
+    ],
     "name:isl_x_preferred":[
         "Mekka"
     ],
@@ -327,6 +339,9 @@
     "name:nan_x_preferred":[
         "Makka"
     ],
+    "name:nds_x_preferred":[
+        "Mekka"
+    ],
     "name:nep_x_preferred":[
         "\u092e\u0915\u094d\u0915\u093e"
     ],
@@ -363,6 +378,9 @@
     "name:pap_x_preferred":[
         "Mekka"
     ],
+    "name:pcd_x_preferred":[
+        "El M\u00e8ke"
+    ],
     "name:pih_x_preferred":[
         "Meka"
     ],
@@ -392,6 +410,9 @@
     ],
     "name:sah_x_preferred":[
         "\u041c\u0435\u043a\u043a\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c6e\u1c60\u1c60\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Mecca"
@@ -434,6 +455,9 @@
     ],
     "name:swe_x_preferred":[
         "Mecka"
+    ],
+    "name:swe_x_variant":[
+        "Mekka"
     ],
     "name:szl_x_preferred":[
         "Mekka"
@@ -491,6 +515,9 @@
     ],
     "name:war_x_preferred":[
         "Mecca"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9ea6\u52a0"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d4\u10e5\u10d0"
@@ -654,7 +681,7 @@
         }
     ],
     "wof:id":421204201,
-    "wof:lastmodified":1561837548,
+    "wof:lastmodified":1563327126,
     "wof:name":"Mecca",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",

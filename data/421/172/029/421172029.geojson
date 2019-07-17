@@ -16,8 +16,26 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u062c\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0647\u062c\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mahjar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0645\u0647\u062c\u0627\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Al Mahjar"
+    ],
+    "name:nno_x_preferred":[
+        "Al Mahjar"
+    ],
     "name:unk_x_variant":[
         "Al Ma\u1e29jar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0645\u06c1\u062c\u0631"
     ],
     "qs:gn_country":"SA",
     "qs:gn_fcode":"PPLX",
@@ -39,10 +57,10 @@
     "qs:woe_id":22726115,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676857,
         102191569,
         85632253,
-        1108720715,
-        85676857
+        1108720715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":421172029,
-    "wof:lastmodified":1531858370,
+    "wof:lastmodified":1563327132,
     "wof:name":"\u0627\u0644\u0645\u062d\u062c\u0631",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

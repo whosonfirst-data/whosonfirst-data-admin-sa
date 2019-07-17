@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0637\u0628\u0631\u062c\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0628\u0631\u062c\u0644"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0162ubarjal"
+    ],
     "name:eng_x_preferred":[
         "Tabarjal"
     ],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1125924801,
-    "wof:lastmodified":1561837550,
+    "wof:lastmodified":1563327160,
     "wof:name":"\u0162ubarjal",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

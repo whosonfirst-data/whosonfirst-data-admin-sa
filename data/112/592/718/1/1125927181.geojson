@@ -37,6 +37,12 @@
     "name:cat_x_preferred":[
         "Al-Khubar"
     ],
+    "name:cat_x_variant":[
+        "al-Khubar"
+    ],
+    "name:ceb_x_preferred":[
+        "Khobar"
+    ],
     "name:ces_x_preferred":[
         "Al-Chubar"
     ],
@@ -60,6 +66,9 @@
         "Al-Khobar",
         "Al-Khubar",
         "Al Khobar"
+    ],
+    "name:epo_x_preferred":[
+        "\u0124ubar"
     ],
     "name:fas_x_preferred":[
         "\u062e\u0628\u0631"
@@ -102,6 +111,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u04d8\u043b-\u0425\u0443\u0431\u0430\u0440"
+    ],
+    "name:kaz_x_variant":[
+        "\u042d\u043b\u044c-\u0425\u0443\u0431\u0430\u0440"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ubc14\ub974"
@@ -228,7 +240,7 @@
         }
     ],
     "wof:id":1125927181,
-    "wof:lastmodified":1561837550,
+    "wof:lastmodified":1563327163,
     "wof:name":"Khobar",
     "wof:parent_id":1108720599,
     "wof:placetype":"locality",

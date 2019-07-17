@@ -28,6 +28,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0987\u09b9\u09be\u099f"
     ],
+    "name:ceb_x_preferred":[
+        "Sayh\u0101t"
+    ],
     "name:dan_x_preferred":[
         "Saihat"
     ],
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":890449691,
-    "wof:lastmodified":1561837549,
+    "wof:lastmodified":1563327150,
     "wof:name":"Saihat",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",
