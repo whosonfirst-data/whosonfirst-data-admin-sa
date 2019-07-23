@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0635\u0641\u0648\u0649"
     ],
+    "name:ceb_x_preferred":[
+        "\u015eafw\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Safwa"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421180475,
-    "wof:lastmodified":1561837548,
+    "wof:lastmodified":1563327129,
     "wof:name":"\u0635\u0641\u0648\u0649",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

@@ -42,11 +42,20 @@
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u200e",
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0644\u0631\u064a\u0627\u0636"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0627\u0636 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0420\u044b\u044f\u0434"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Riad"
+    ],
+    "name:ceb_x_preferred":[
+        "Min\u0163aqat ar Riy\u0101\u1e11"
     ],
     "name:che_x_preferred":[
         "\u0420\u0438\u044f\u0434"
@@ -81,6 +90,9 @@
     "name:fra_x_preferred":[
         "Riyad"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e8\u05d9\u05d0\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u093f\u092f\u093e\u0926 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
@@ -101,6 +113,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\uc57c\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\uc57c\ub4dc\uc8fc"
     ],
     "name:mal_x_preferred":[
         "\u0d31\u0d3f\u0d2f\u0d3e\u0d26\u0d4d \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
@@ -156,6 +171,9 @@
     "name:tur_x_preferred":[
         "Riyad B\u00f6lgesi"
     ],
+    "name:uig_x_preferred":[
+        "\u0631\u0649\u064a\u0627\u062f \u0626\u06c6\u0644\u0643\u0649\u0633\u0649"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u0440-\u0420\u0456\u044f\u0434"
     ],
@@ -171,11 +189,17 @@
     "name:vec_x_preferred":[
         "Riad"
     ],
+    "name:vie_x_preferred":[
+        "Riyadh"
+    ],
     "name:vol_x_preferred":[
         "Riyadi\u00e4n"
     ],
     "name:war_x_preferred":[
         "Riyadh"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5229\u96c5\u5f97\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5229\u96c5\u5f97\u7701"
@@ -299,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561837540,
+    "wof:lastmodified":1563326893,
     "wof:name":"Ar Riyad",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

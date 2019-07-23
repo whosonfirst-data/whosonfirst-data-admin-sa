@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Abu Arix"
     ],
+    "name:ceb_x_preferred":[
+        "Ab\u016b \u2018Ar\u012bsh"
+    ],
     "name:eng_x_preferred":[
         "Abu `Arish"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Abou Arish"
+    ],
+    "name:ind_x_preferred":[
+        "Abu Arish"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30d6\u30fb\u30a2\u30ea\u30b7\u30e5"
@@ -64,6 +70,9 @@
     ],
     "name:unk_x_variant":[
         "Ab\u012b \u2018Ar\u012bsh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0648 \u0639\u0631\u06cc\u0634"
     ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1125928499,
-    "wof:lastmodified":1561837550,
+    "wof:lastmodified":1563327160,
     "wof:name":"Ab\u016b \u2018Ar\u012bsh",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",

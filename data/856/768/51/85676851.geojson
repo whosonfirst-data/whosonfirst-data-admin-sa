@@ -40,6 +40,12 @@
     "name:ara_x_variant":[
         "\u0645\u0646\u0637\u0642\u0629 \u0639\u0633\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0639\u0633\u064a\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0639\u0633\u06cc\u0631 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u0441\u0456\u0440"
     ],
@@ -48,6 +54,12 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Asir"
+    ],
+    "name:cat_x_variant":[
+        "Prov\u00edncia d'Asir"
+    ],
+    "name:ceb_x_preferred":[
+        "Min\u0163aqat \u2018As\u012br"
     ],
     "name:ces_x_preferred":[
         "As\u00edr"
@@ -109,6 +121,9 @@
     "name:ita_x_preferred":[
         "Asir"
     ],
+    "name:ita_x_variant":[
+        "'Asir"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30b9\u30a3\u30fc\u30eb\u5dde"
     ],
@@ -120,6 +135,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uc2dc\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc2dc\ub974\uc8fc"
     ],
     "name:lav_x_preferred":[
         "As\u012bras mintaka"
@@ -136,8 +154,14 @@
     "name:msa_x_preferred":[
         "Asir"
     ],
+    "name:msa_x_variant":[
+        "'Asir"
+    ],
     "name:nan_x_preferred":[
         "\u02bfAs\u012br S\u00e9ng"
+    ],
+    "name:nep_x_preferred":[
+        "\u0905\u0938\u093f\u0930 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
     "name:nld_x_preferred":[
         "Asir"
@@ -160,6 +184,9 @@
     "name:por_x_preferred":[
         "Asir"
     ],
+    "name:por_x_variant":[
+        "'Asir"
+    ],
     "name:ron_x_preferred":[
         "Provincia 'Asir"
     ],
@@ -168,6 +195,9 @@
     ],
     "name:sco_x_preferred":[
         "Asir Province"
+    ],
+    "name:sco_x_variant":[
+        "'Asir Province"
     ],
     "name:sin_x_preferred":[
         "\u0d85\u0dc3\u0dd3\u0dbb\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
@@ -184,6 +214,9 @@
     "name:swe_x_preferred":[
         "Asir"
     ],
+    "name:swe_x_variant":[
+        "'Asir"
+    ],
     "name:tam_x_preferred":[
         "\u0b86\u0b9a\u0bc0\u0bb0\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
@@ -195,6 +228,9 @@
     ],
     "name:tur_x_preferred":[
         "Asir B\u00f6lgesi"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u0627\u0633\u0649\u0631 \u0626\u06c6\u0644\u0643\u0649\u0633\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0456\u0440"
@@ -216,6 +252,9 @@
     ],
     "name:war_x_preferred":[
         "Asir"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u897f\u5c14\u7701"
     ],
     "name:zho_x_preferred":[
         "\u963f\u897f\u5c14\u7701"
@@ -339,7 +378,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561837538,
+    "wof:lastmodified":1563326885,
     "wof:name":"Aseer",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

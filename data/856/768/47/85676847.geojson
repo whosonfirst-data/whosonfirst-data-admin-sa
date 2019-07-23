@@ -40,6 +40,12 @@
     "name:ara_x_variant":[
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0628\u0627\u062d\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0644\u0628\u0627\u062d\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062d\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u043b\u044c-\u0411\u0430\u0445\u0430"
     ],
@@ -110,6 +116,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\ud558 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\ud558\uc8fc"
     ],
     "name:lav_x_preferred":[
         "B\u0101has mintaka"
@@ -212,6 +221,9 @@
     ],
     "name:war_x_preferred":[
         "Al Bahah"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u54c8\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u54c8\u7701"
@@ -333,7 +345,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561837540,
+    "wof:lastmodified":1563326892,
     "wof:name":"Al-Bahah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

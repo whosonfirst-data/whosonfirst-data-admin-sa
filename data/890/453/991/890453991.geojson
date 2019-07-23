@@ -15,8 +15,26 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u064a\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Al Muwayh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u06cc\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Al Muwayh"
+    ],
+    "name:nno_x_preferred":[
+        "Al Muwayh"
+    ],
     "name:unk_x_variant":[
         "Al Jad\u012bd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u06cc\u06c1"
     ],
     "qs:name":"Al Muwayh",
     "qs:photos_9r":0,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":890453991,
-    "wof:lastmodified":1527736638,
+    "wof:lastmodified":1563327152,
     "wof:name":"Al Muwayh",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

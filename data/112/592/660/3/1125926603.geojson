@@ -22,12 +22,24 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u064a\u0627\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0631\u064a\u0627\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0627\u062a"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Qurayy\u0101t"
+    ],
     "name:eng_x_preferred":[
         "Qurayyat"
     ],
     "name:eng_x_variant":[
         "Al Qurayyat",
         "Gurayat"
+    ],
+    "name:epo_x_preferred":[
+        "Kurejet"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0642\u0631\u06cc\u0627\u062a"
@@ -61,6 +73,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0631\u06cc\u0627\u062a\u060c \u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"
+    ],
+    "name:urd_x_variant":[
+        "\u0642\u0631\u06cc\u0627\u062a"
     ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":1125926603,
-    "wof:lastmodified":1561837550,
+    "wof:lastmodified":1563327157,
     "wof:name":"Al Qurayy\u0101t",
     "wof:parent_id":1108720635,
     "wof:placetype":"locality",

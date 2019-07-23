@@ -16,14 +16,23 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0627\u062d\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u062d\u0647"
+    ],
     "name:cat_x_preferred":[
         "Al Bahah"
+    ],
+    "name:ceb_x_preferred":[
+        "Al B\u0101\u1e29ah"
     ],
     "name:deu_x_preferred":[
         "Al Bahah"
     ],
     "name:eng_x_preferred":[
         "Al Bahah"
+    ],
+    "name:epo_x_preferred":[
+        "Baha"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0628\u0627\u062d\u0647"
@@ -33,6 +42,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0-\u05d1\u05d0\u05d7\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Al Bahah"
     ],
     "name:ita_x_preferred":[
         "Al-B\u0101ha"
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":421182677,
-    "wof:lastmodified":1561837549,
+    "wof:lastmodified":1563327148,
     "wof:name":"\u0627\u0644\u0628\u0627\u062d\u0629",
     "wof:parent_id":1108720567,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:nno_x_preferred":[
         "Al-Quway'iyah"
     ],
+    "name:pol_x_preferred":[
+        "Al-Kuwajijja"
+    ],
     "name:spa_x_preferred":[
         "Al-Quway'iyah"
     ],
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":1141906423,
-    "wof:lastmodified":1561837552,
+    "wof:lastmodified":1563327279,
     "wof:name":"Al Quwayiyah",
     "wof:parent_id":1108720637,
     "wof:placetype":"locality",

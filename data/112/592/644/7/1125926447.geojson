@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0631\u0633"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0 \u09b0\u09be\u09b8"
+    ],
+    "name:ceb_x_preferred":[
+        "Ar Rass"
     ],
     "name:dan_x_preferred":[
         "Ar Rass"
@@ -33,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Ar Rass"
+    ],
+    "name:epo_x_preferred":[
+        "Rass"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0633"
@@ -69,6 +78,9 @@
     ],
     "name:lit_x_preferred":[
         "Ar Rasas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d7d \u0d31\u0d3e\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0906\u0930 \u0930\u093e\u0938"
@@ -169,7 +181,7 @@
         }
     ],
     "wof:id":1125926447,
-    "wof:lastmodified":1561837550,
+    "wof:lastmodified":1563327156,
     "wof:name":"Ar Rass",
     "wof:parent_id":1108720653,
     "wof:placetype":"locality",

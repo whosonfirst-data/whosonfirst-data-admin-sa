@@ -36,8 +36,14 @@
     "name:arz_x_preferred":[
         "\u062c\u062f\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Yeda"
+    ],
     "name:ava_x_preferred":[
         "\u0416\u0438\u0434\u0434\u0430"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u062f\u0647"
     ],
     "name:aze_x_preferred":[
         "Cidd\u0259"
@@ -50,6 +56,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0436\u044b\u0434\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0436\u044b\u0434\u0430"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09a6\u09cd\u09a6\u09be"
@@ -72,11 +81,20 @@
     "name:cat_x_preferred":[
         "Gidda"
     ],
+    "name:cat_x_variant":[
+        "Jiddah"
+    ],
+    "name:ceb_x_preferred":[
+        "Jeddah"
+    ],
     "name:ces_x_preferred":[
         "D\u017eidda"
     ],
     "name:che_x_preferred":[
         "\u0414\u0436\u0438\u0434\u0434\u0430\u0442"
+    ],
+    "name:che_x_variant":[
+        "\u0414\u0436\u0438\u0434\u0434\u0430"
     ],
     "name:cor_x_preferred":[
         "Jeddah"
@@ -141,6 +159,9 @@
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0aa6\u0acd\u0aa6\u0abe"
     ],
+    "name:hau_x_preferred":[
+        "Jeddah"
+    ],
     "name:haw_x_preferred":[
         "Jeddah"
     ],
@@ -149,6 +170,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d3\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05d3\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u091c\u0947\u0926\u094d\u0926\u093e\u0939"
@@ -259,11 +283,20 @@
     "name:msa_x_preferred":[
         "Jeddah"
     ],
+    "name:mya_x_preferred":[
+        "\u1002\u103b\u1000\u103a\u1012\u102b\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:mzn_x_preferred":[
         "\u062c\u062f\u0647"
     ],
     "name:nan_x_preferred":[
         "\u011eidda"
+    ],
+    "name:nan_x_variant":[
+        "Jeddah"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u0947\u0926\u093e\u0939"
     ],
     "name:nld_x_preferred":[
         "Djedda"
@@ -367,6 +400,9 @@
     "name:tel_x_preferred":[
         "\u0c1c\u0c46\u0c21\u0c4d\u0c21\u0c3e"
     ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0438\u0434\u0434\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Jeddah"
     ],
@@ -402,6 +438,12 @@
     ],
     "name:war_x_preferred":[
         "Jeddah"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5409\u8fbe"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d3\u05d6\u05e9\u05e2\u05d3\u05d0"
     ],
     "name:yor_x_preferred":[
         "Jeddah"
@@ -562,7 +604,7 @@
         }
     ],
     "wof:id":421200923,
-    "wof:lastmodified":1561837549,
+    "wof:lastmodified":1563327146,
     "wof:name":"Jeddah",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",

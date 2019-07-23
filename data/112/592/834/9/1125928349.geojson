@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0648\u0627\u062f\u0645\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Ad Daw\u0101dim\u012b"
+    ],
     "name:deu_x_preferred":[
         "Dawadmi"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:mal_x_preferred":[
         "\u0d26\u0d35\u0d3e\u0d26\u0d4d\u0d2e\u0d3f"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u0627\u062f\u0645\u06cc"
     ],
     "name:nld_x_preferred":[
         "Dawadmi"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1125928349,
-    "wof:lastmodified":1561837550,
+    "wof:lastmodified":1563327158,
     "wof:name":"Ad Daw\u0101dim\u012b",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",

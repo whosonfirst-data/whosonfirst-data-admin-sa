@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u064a\u0635\u0648\u0645\u0629\u200e\u200e"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u064a\u0635\u0648\u0645\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Qay\u015f\u016bmah"
+    ],
     "name:eng_x_preferred":[
         "Qaisumah"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0642\u06cc\u0635\u0648\u0645\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Qaisumah"
     ],
     "name:ita_x_preferred":[
         "al-Qays\u016bma"
@@ -43,8 +52,14 @@
     "name:nno_x_preferred":[
         "Qaisumah"
     ],
+    "name:nno_x_variant":[
+        "Al `Arin"
+    ],
     "name:pol_x_preferred":[
         "Al-Kajsuma"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0430\u0439\u0441\u0443\u043c\u0430"
     ],
     "name:tgl_x_preferred":[
         "Qaisumah"
@@ -102,7 +117,7 @@
         }
     ],
     "wof:id":1361026153,
-    "wof:lastmodified":1561837547,
+    "wof:lastmodified":1563327089,
     "wof:name":"Al Qay\u015f\u016bmah",
     "wof:parent_id":1108720699,
     "wof:placetype":"neighbourhood",

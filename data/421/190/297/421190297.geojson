@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Dammam"
     ],
+    "name:ceb_x_preferred":[
+        "Dammam"
+    ],
     "name:ces_x_preferred":[
         "Damm\u00e1m"
     ],
@@ -165,6 +168,9 @@
     "name:nob_x_preferred":[
         "Dammam"
     ],
+    "name:oss_x_preferred":[
+        "\u0414\u0430\u043c\u043c\u0430\u043c"
+    ],
     "name:pan_x_preferred":[
         "\u0a26\u0a2e\u0a3e\u0a2e"
     ],
@@ -173,6 +179,9 @@
     ],
     "name:pol_x_preferred":[
         "Ad-Dammam"
+    ],
+    "name:pol_x_variant":[
+        "Dammam"
     ],
     "name:por_x_preferred":[
         "Dammam"
@@ -213,6 +222,9 @@
     "name:tur_x_preferred":[
         "Ed Dammam"
     ],
+    "name:tur_x_variant":[
+        "Ad Dammam"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043c\u043c\u0430\u043c"
     ],
@@ -221,6 +233,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0645\u0627\u0645"
+    ],
+    "name:uzb_x_preferred":[
+        "Dammam"
     ],
     "name:vie_x_preferred":[
         "Dammam"
@@ -392,7 +407,7 @@
         }
     ],
     "wof:id":421190297,
-    "wof:lastmodified":1561837549,
+    "wof:lastmodified":1563327140,
     "wof:name":"Dammam",
     "wof:parent_id":1108720541,
     "wof:placetype":"locality",

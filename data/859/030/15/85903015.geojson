@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4825242.293673,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.127808,21.792658,39.127808,21.792658",
     "geom:latitude":21.792658,
     "geom:longitude":39.127808,
@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "Al Kur\u0101\u2018"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039a\u03bf\u03c5\u03c1\u03ac"
+    ],
     "name:eng_x_colloquial":[
         "Al-Kira"
     ],
@@ -41,10 +44,17 @@
         "Al Kur\u0101\u2019",
         "Al-Kira\u2019",
         "Al-Kir\u00e2\u2019",
-        "Al Kura\u2019"
+        "Al Kura\u2019",
+        "Al Kura`"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u06a9\u0648\u0631\u0627\u0639"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644 \u06a9\u0648\u0631\u0627\u0639"
+    ],
+    "name:nld_x_preferred":[
+        "Al Kura`"
     ],
     "name:nno_x_preferred":[
         "Al Kura`"
@@ -133,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379459,
+    "wof:lastmodified":1563326865,
     "wof:name":"Al Kura",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

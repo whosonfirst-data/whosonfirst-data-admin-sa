@@ -18,6 +18,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Taif"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u0627\u0626\u0641"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:cat_x_preferred":[
         "Ta\u00eff"
+    ],
+    "name:ceb_x_preferred":[
+        "Ta'if"
     ],
     "name:ces_x_preferred":[
         "T\u00e1if"
@@ -135,6 +141,9 @@
     "name:lav_x_preferred":[
         "Taifa"
     ],
+    "name:lav_x_variant":[
+        "T\u0101ifa"
+    ],
     "name:lit_x_preferred":[
         "Taifas"
     ],
@@ -173,6 +182,9 @@
     ],
     "name:por_x_preferred":[
         "Taif"
+    ],
+    "name:por_x_variant":[
+        "Ta\u2019if"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0442-\u0422\u0430\u0438\u0444"
@@ -213,6 +225,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25 \u0e15\u0e31\u0e22\u0e1f\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e0f\u0e0f\u0e2d\u0e2d\u0e34\u0e1f"
+    ],
     "name:tur_x_preferred":[
         "Taif"
     ],
@@ -233,6 +248,9 @@
     ],
     "name:war_x_preferred":[
         "Ta\u2019if"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5854\u4f0a\u592b"
     ],
     "name:zho_x_preferred":[
         "\u5854\u4f0a\u592b"
@@ -385,7 +403,7 @@
         }
     ],
     "wof:id":421190319,
-    "wof:lastmodified":1561837549,
+    "wof:lastmodified":1563327142,
     "wof:name":"Ta'if",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",
