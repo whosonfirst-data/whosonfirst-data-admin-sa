@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "Z\u0327\u0101hir"
     ],
+    "name:deu_x_preferred":[
+        "Zahir"
+    ],
+    "name:ita_x_preferred":[
+        "Zahir"
+    ],
+    "name:pol_x_preferred":[
+        "Zahir"
+    ],
+    "name:tur_x_preferred":[
+        "Zahir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343575775,
-    "wof:lastmodified":1537699162,
+    "wof:lastmodified":1564148568,
     "wof:name":"Zahir",
     "wof:parent_id":1108720797,
     "wof:placetype":"locality",

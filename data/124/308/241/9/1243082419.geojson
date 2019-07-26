@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Haddad"
+    ],
     "name:und_x_variant":[
         "\u1e28add\u0101d"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243082419,
-    "wof:lastmodified":1537699213,
+    "wof:lastmodified":1564148912,
     "wof:name":"Haddad",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

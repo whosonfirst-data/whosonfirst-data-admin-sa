@@ -26,9 +26,15 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Bartiyah"
+    ],
     "name:und_x_variant":[
         "Bartiya",
         "Bar\u0163\u012byah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0631\u062a\u06cc\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276985425,
-    "wof:lastmodified":1537699222,
+    "wof:lastmodified":1564148686,
     "wof:name":"Bartiyah",
     "wof:parent_id":1108720795,
     "wof:placetype":"locality",

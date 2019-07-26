@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0635\u0645\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062d\u0633\u0645\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Al Hasamah"
+    ],
     "name:und_x_variant":[
         "Al Ha\u015famah"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1277140523,
-    "wof:lastmodified":1537699335,
+    "wof:lastmodified":1564148672,
     "wof:name":"Al Hasamah",
     "wof:parent_id":1108720549,
     "wof:placetype":"locality",

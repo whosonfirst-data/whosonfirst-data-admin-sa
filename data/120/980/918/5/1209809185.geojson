@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0648\u0633\u0637\u0649"
     ],
+    "name:deu_x_preferred":[
+        "Al-Wusta"
+    ],
+    "name:eus_x_preferred":[
+        "Al Wusta"
+    ],
     "name:und_x_variant":[
         "Al Wust\u0101"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1209809185,
-    "wof:lastmodified":1537699241,
+    "wof:lastmodified":1564148725,
     "wof:name":"Al Wusta",
     "wof:parent_id":1108720695,
     "wof:placetype":"locality",

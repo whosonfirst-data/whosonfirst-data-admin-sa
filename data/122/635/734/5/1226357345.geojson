@@ -25,6 +25,27 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u0645\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Rahman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d7\u05de\u05df"
+    ],
+    "name:lav_x_preferred":[
+        "Rahmans"
+    ],
+    "name:pol_x_preferred":[
+        "Rahman"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0445\u043c\u0430\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Rahman"
+    ],
     "name:und_x_variant":[
         "Ra\u1e29m\u0101n"
     ],
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1226357345,
-    "wof:lastmodified":1537699183,
+    "wof:lastmodified":1564149008,
     "wof:name":"Rahman",
     "wof:parent_id":1108720633,
     "wof:placetype":"locality",

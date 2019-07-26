@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Nuzlat al Faqin"
+    ],
     "name:und_x_variant":[
         "Nuzlat al Faq\u012bn"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326600817,
-    "wof:lastmodified":1537699339,
+    "wof:lastmodified":1564148503,
     "wof:name":"Nuzlat al Faqin",
     "wof:parent_id":1108720725,
     "wof:placetype":"locality",

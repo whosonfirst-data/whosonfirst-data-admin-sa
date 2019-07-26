@@ -25,6 +25,75 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0641\u0631\u0642"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0645\u0641\u0631\u0642"
+    ],
+    "name:ceb_x_preferred":[
+        "Mafraq"
+    ],
+    "name:ces_x_preferred":[
+        "Mafrak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u0627\u0644\u0645\u0641\u0631\u0642"
+    ],
+    "name:fin_x_preferred":[
+        "Mafraq"
+    ],
+    "name:fra_x_preferred":[
+        "Mafraq"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e7"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30d5\u30e9\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud504\ub77c\ud06c"
+    ],
+    "name:lit_x_preferred":[
+        "Mafrakas"
+    ],
+    "name:nld_x_preferred":[
+        "Mafrak"
+    ],
+    "name:nno_x_preferred":[
+        "Mafraq"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Mafrak"
+    ],
+    "name:por_x_preferred":[
+        "Mafraq"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041c\u0430\u0444\u0440\u0430\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Mafraq"
+    ],
+    "name:spa_x_preferred":[
+        "Mafraq"
+    ],
+    "name:sqi_x_preferred":[
+        "Mafrak"
+    ],
+    "name:swe_x_preferred":[
+        "Mafraq"
+    ],
+    "name:tur_x_preferred":[
+        "Mafrak"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0641\u0631\u0642"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5f17\u62c9\u514b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +117,7 @@
         }
     ],
     "wof:id":1293882785,
-    "wof:lastmodified":1536714714,
+    "wof:lastmodified":1564148652,
     "wof:name":"Mafraq",
     "wof:parent_id":1108720671,
     "wof:placetype":"locality",

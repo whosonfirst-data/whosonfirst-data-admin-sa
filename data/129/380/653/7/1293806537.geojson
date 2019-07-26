@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0643\u0628\u064a\u0631"
     ],
+    "name:hau_x_preferred":[
+        "Abu Kabir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d5 \u05db\u05d1\u05d9\u05e8"
+    ],
     "name:und_x_variant":[
         "Ab\u016b Kab\u012br",
         "Abu Kabir"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293806537,
-    "wof:lastmodified":1537699346,
+    "wof:lastmodified":1564148644,
     "wof:name":"Abu Kabir",
     "wof:parent_id":1108720605,
     "wof:placetype":"locality",

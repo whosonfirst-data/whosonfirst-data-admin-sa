@@ -28,9 +28,51 @@
     "name:ara_x_preferred":[
         "\u0633\u0645\u062d\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0645\u0647\u0627\u0646"
+    ],
+    "name:dan_x_preferred":[
+        "Samhan"
+    ],
+    "name:deu_x_preferred":[
+        "Samhan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u200c\u0647\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Samhan"
+    ],
+    "name:hun_x_preferred":[
+        "Szamhan"
+    ],
+    "name:ind_x_preferred":[
+        "Samhan"
+    ],
+    "name:kur_x_preferred":[
+        "Samhan"
+    ],
+    "name:por_x_preferred":[
+        "Samhan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0445\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Samhan"
+    ],
+    "name:tur_x_preferred":[
+        "Samhan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u0445\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Sam\u1e29\u0101n",
         "Samh\u0101n"
+    ],
+    "name:vie_x_preferred":[
+        "Tam H\u00e0n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +97,7 @@
         }
     ],
     "wof:id":1293772967,
-    "wof:lastmodified":1537699178,
+    "wof:lastmodified":1564148618,
     "wof:name":"Samhan",
     "wof:parent_id":1108720695,
     "wof:placetype":"locality",

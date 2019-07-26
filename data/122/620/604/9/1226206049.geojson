@@ -32,6 +32,12 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0648\u0627\u0635\u0644\u064a"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u0633\u06cc\u0644\u06cc"
+    ],
+    "name:nno_x_preferred":[
+        "Al Wasili"
+    ],
     "name:und_x_variant":[
         "Wasili"
     ],
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1226206049,
-    "wof:lastmodified":1537699241,
+    "wof:lastmodified":1564149001,
     "wof:name":"Al Wasili",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",

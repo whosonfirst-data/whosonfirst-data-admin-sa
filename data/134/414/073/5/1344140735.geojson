@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Shararah"
+    ],
     "name:und_x_variant":[
         "Shar\u0101rah"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1344140735,
-    "wof:lastmodified":1537699324,
+    "wof:lastmodified":1564148552,
     "wof:name":"Shararah",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",

@@ -28,8 +28,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0641\u0631\u0627\u0621"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0635\u0641\u0631\u0627\u0621"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0631\u0627"
+    ],
+    "name:nno_x_preferred":[
+        "As Safra'"
+    ],
     "name:und_x_variant":[
         "A\u015f \u015eafr\u0101\u2019"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0635\u0641\u0631\u0627\u0621"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1243077819,
-    "wof:lastmodified":1537699230,
+    "wof:lastmodified":1564148905,
     "wof:name":"As Safra'",
     "wof:parent_id":1108720661,
     "wof:placetype":"locality",

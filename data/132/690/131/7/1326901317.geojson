@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "Ash Shi\u2018b"
     ],
+    "name:nno_x_preferred":[
+        "Ash Shi`b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326901317,
-    "wof:lastmodified":1537699339,
+    "wof:lastmodified":1564148527,
     "wof:name":"Ash Shi`b",
     "wof:parent_id":1108720725,
     "wof:placetype":"locality",

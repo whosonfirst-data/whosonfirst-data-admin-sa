@@ -25,6 +25,15 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u0259c\u0259r"
+    ],
+    "name:ceb_x_preferred":[
+        "Hajar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0434\u0436\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "\u1e28ajar"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276557821,
-    "wof:lastmodified":1537699212,
+    "wof:lastmodified":1564148681,
     "wof:name":"Hajar",
     "wof:parent_id":1108720725,
     "wof:placetype":"locality",

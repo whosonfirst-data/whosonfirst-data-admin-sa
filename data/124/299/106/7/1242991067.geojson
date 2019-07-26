@@ -28,11 +28,20 @@
     "name:ara_x_preferred":[
         "\u0639\u0634\u064a\u0631\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u0634\u06cc\u0631\u0629"
+    ],
+    "name:nno_x_preferred":[
+        "`Ushayrah"
+    ],
     "name:und_x_variant":[
         "\u2019Ashairah",
         "Ashaira",
         "\u2018Ashayrah",
         "\u2018Ushayrah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0634\u06cc\u0631\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1242991067,
-    "wof:lastmodified":1537699164,
+    "wof:lastmodified":1564148950,
     "wof:name":"`Ushayrah",
     "wof:parent_id":1108720613,
     "wof:placetype":"locality",

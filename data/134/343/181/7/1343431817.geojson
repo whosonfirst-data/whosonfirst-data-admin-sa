@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Hajur"
+    ],
     "name:und_x_variant":[
         "\u1e28ajur"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343431817,
-    "wof:lastmodified":1537699334,
+    "wof:lastmodified":1564148584,
     "wof:name":"Hajur",
     "wof:parent_id":1108720739,
     "wof:placetype":"locality",

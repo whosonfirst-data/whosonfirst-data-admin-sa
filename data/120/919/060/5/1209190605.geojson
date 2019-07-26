@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0648\u0628\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u0628\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Al Khubah"
+    ],
     "name:und_x_variant":[
         "Khauba",
         "K\u016bb\u0101",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1209190605,
-    "wof:lastmodified":1548455910,
+    "wof:lastmodified":1564148728,
     "wof:name":"Al Khawbah",
     "wof:parent_id":1108720579,
     "wof:placetype":"locality",

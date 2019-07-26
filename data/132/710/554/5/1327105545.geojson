@@ -28,8 +28,35 @@
     "name:ara_x_preferred":[
         "Al L\u012bth"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0644\u064a\u062b"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039b\u03b9\u03b8"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0644\u06cc\u062b"
+    ],
+    "name:ind_x_preferred":[
+        "Al Lith"
+    ],
+    "name:nno_x_preferred":[
+        "Al Lith"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Lis"
+    ],
+    "name:tgl_x_preferred":[
+        "Al Lith"
+    ],
+    "name:tur_x_preferred":[
+        "El-Lis"
+    ],
     "name:und_x_variant":[
         "Lith"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0644\u06cc\u062b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1327105545,
-    "wof:lastmodified":1537699254,
+    "wof:lastmodified":1564148535,
     "wof:name":"Al Lith",
     "wof:parent_id":1108720603,
     "wof:placetype":"locality",

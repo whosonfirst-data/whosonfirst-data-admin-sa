@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064f\u0634\u0631\u0650\u0641"
     ],
+    "name:nno_x_preferred":[
+        "Mushrif"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310094433,
-    "wof:lastmodified":1537699305,
+    "wof:lastmodified":1564148808,
     "wof:name":"Mushrif",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Mahatah"
+    ],
     "name:und_x_variant":[
         "Ma\u1e29\u0101\u0163ah"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1344120483,
-    "wof:lastmodified":1537699161,
+    "wof:lastmodified":1564148553,
     "wof:name":"Mahatah",
     "wof:parent_id":1108720579,
     "wof:placetype":"locality",

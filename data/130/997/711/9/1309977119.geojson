@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "A\u0163 \u0162urq\u012b"
     ],
+    "name:nno_x_preferred":[
+        "At Turqi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309977119,
-    "wof:lastmodified":1537699341,
+    "wof:lastmodified":1564148868,
     "wof:name":"At Turqi",
     "wof:parent_id":1108720725,
     "wof:placetype":"locality",

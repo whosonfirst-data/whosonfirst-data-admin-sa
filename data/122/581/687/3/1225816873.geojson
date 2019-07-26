@@ -28,6 +28,33 @@
     "name:ara_x_preferred":[
         "\u0641\u0644\u0633"
     ],
+    "name:cat_x_preferred":[
+        "Fal\u00e0thrim"
+    ],
+    "name:fra_x_preferred":[
+        "Falas"
+    ],
+    "name:ita_x_preferred":[
+        "Falas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30e9\u30b9\u30ea\u30e0"
+    ],
+    "name:nld_x_preferred":[
+        "Falas"
+    ],
+    "name:nor_x_preferred":[
+        "Falas"
+    ],
+    "name:pol_x_preferred":[
+        "Falas"
+    ],
+    "name:spa_x_preferred":[
+        "Falas"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u62c9\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1225816873,
-    "wof:lastmodified":1537699217,
+    "wof:lastmodified":1564149012,
     "wof:name":"Falas",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",

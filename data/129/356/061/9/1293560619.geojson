@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0648\u0633\u0645"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0633\u0645"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u0645"
+    ],
+    "name:nno_x_preferred":[
+        "Muwassam"
+    ],
     "name:und_x_variant":[
         "Dahr al Jamal",
         "Al Muwassam",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293560619,
-    "wof:lastmodified":1537699249,
+    "wof:lastmodified":1564148630,
     "wof:name":"Al Muwassam",
     "wof:parent_id":1108720759,
     "wof:placetype":"locality",

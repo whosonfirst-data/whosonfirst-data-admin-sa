@@ -25,8 +25,17 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0627\u0644\u0634\u0631\u0627\u0626\u0639"
+    ],
+    "name:nno_x_preferred":[
+        "Ash Shara'i`"
+    ],
     "name:und_x_variant":[
         "Ash Shar\u0101\u2019i\u2018"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u0627\u0626\u0639"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1361026171,
-    "wof:lastmodified":1548452896,
+    "wof:lastmodified":1564148836,
     "wof:name":"Ash Shara'i`",
     "wof:parent_id":1108720727,
     "wof:placetype":"neighbourhood",

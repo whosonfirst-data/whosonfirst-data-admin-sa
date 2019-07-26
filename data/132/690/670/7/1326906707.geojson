@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Ka`lul"
+    ],
     "name:und_x_variant":[
         "Ka\u2018l\u016bl"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326906707,
-    "wof:lastmodified":1537699203,
+    "wof:lastmodified":1564148527,
     "wof:name":"Ka`lul",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",

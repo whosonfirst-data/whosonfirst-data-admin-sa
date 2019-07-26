@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "A\u1e11 \u1e10irs"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4 \u039d\u03c4\u03b9\u03c1\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u06cc\u0633"
+    ],
+    "name:nno_x_preferred":[
+        "Ad Dirs"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293560143,
-    "wof:lastmodified":1537699338,
+    "wof:lastmodified":1564148628,
     "wof:name":"Ad Dirs",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",

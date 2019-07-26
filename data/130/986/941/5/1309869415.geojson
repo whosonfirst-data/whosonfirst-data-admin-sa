@@ -25,6 +25,12 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0627\u0644\u062e\u0631\u0627\u0628\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0627\u0628\u0627\u0647"
+    ],
     "name:und_x_variant":[
         "Al Khar\u0101bah"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1309869415,
-    "wof:lastmodified":1537699257,
+    "wof:lastmodified":1564148881,
     "wof:name":"Al Kharabah",
     "wof:parent_id":1108720549,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Masturah"
+    ],
     "name:und_x_variant":[
         "Mast\u016bra",
         "Mast\u016brah"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326753223,
-    "wof:lastmodified":1537699195,
+    "wof:lastmodified":1564148495,
     "wof:name":"Masturah",
     "wof:parent_id":1108720739,
     "wof:placetype":"locality",

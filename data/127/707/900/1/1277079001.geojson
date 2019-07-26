@@ -25,6 +25,18 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u062f\u0633\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u0627\u0646\u062f\u0627\u0633\u0627\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Al Mundassah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u062f\u0633\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1277079001,
-    "wof:lastmodified":1536773606,
+    "wof:lastmodified":1564148656,
     "wof:name":"Al Mundassah",
     "wof:parent_id":1108720605,
     "wof:placetype":"locality",

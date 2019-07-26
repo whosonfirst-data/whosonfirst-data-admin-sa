@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Ash Shaybi"
+    ],
     "name:und_x_variant":[
         "Ash Shayb\u012b"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260164441,
-    "wof:lastmodified":1537699337,
+    "wof:lastmodified":1564148754,
     "wof:name":"Ash Shaybi",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",

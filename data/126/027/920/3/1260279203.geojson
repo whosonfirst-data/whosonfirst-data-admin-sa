@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0651\u064f\u0648\u0645\u0627\u0646\u064a\u0651\u064e\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0639\u0645\u0627\u0646\u064a\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0639\u0645\u0627\u0646\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "An-Numanijja"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043d-\u041d\u0443\u0443\u043c\u0430\u043d\u0438\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Numaniyya"
+    ],
     "name:und_x_variant":[
         "An Nawm\u0101n\u012byah",
         "An N\u016bm\u0101n\u012byah"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1260279203,
-    "wof:lastmodified":1537699239,
+    "wof:lastmodified":1564148754,
     "wof:name":"An Numaniyah",
     "wof:parent_id":1108720687,
     "wof:placetype":"locality",

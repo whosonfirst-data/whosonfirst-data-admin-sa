@@ -29,12 +29,36 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062c\u0631\u0634\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0644\u062c\u0631\u0634\u064a"
+    ],
+    "name:nld_x_preferred":[
+        "Baljorashi"
+    ],
+    "name:nno_x_preferred":[
+        "Baljurashi"
+    ],
+    "name:pol_x_preferred":[
+        "Bald\u017curaszi"
+    ],
+    "name:spa_x_preferred":[
+        "Baljursi"
+    ],
+    "name:tgl_x_preferred":[
+        "Baljurashi"
+    ],
+    "name:tur_x_preferred":[
+        "Belcure\u015fi"
+    ],
     "name:und_x_variant":[
         "Biljursh\u012b",
         "Beljurashi",
         "Baljursh\u012b",
         "Baljarsh\u012b",
         "Baljurashi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062c\u0631\u0634\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1327033165,
-    "wof:lastmodified":1537699224,
+    "wof:lastmodified":1564148517,
     "wof:name":"Baljurashi",
     "wof:parent_id":1108720679,
     "wof:placetype":"locality",

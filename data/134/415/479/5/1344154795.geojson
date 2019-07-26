@@ -28,11 +28,23 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0636\u064a\u0644\u064a\u0629"
     ],
+    "name:fra_x_preferred":[
+        "Udhailiya"
+    ],
+    "name:nno_x_preferred":[
+        "Udhailiyah"
+    ],
+    "name:tgl_x_preferred":[
+        "Udhailiyah"
+    ],
     "name:und_x_variant":[
         "\u2018Udayliyah",
         "Al Udhailiya",
         "Udhailiyah",
         "Al \u2018U\u1e11ayl\u012byah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0636\u06cc\u0644\u06cc\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1344154795,
-    "wof:lastmodified":1537699244,
+    "wof:lastmodified":1564148552,
     "wof:name":"Al `Udayliyah",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Mushrif"
+    ],
     "name:und_x_variant":[
         "Mishrif",
         "Mushrif"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1210034731,
-    "wof:lastmodified":1537699192,
+    "wof:lastmodified":1564148734,
     "wof:name":"Mushrif",
     "wof:parent_id":1108720633,
     "wof:placetype":"locality",

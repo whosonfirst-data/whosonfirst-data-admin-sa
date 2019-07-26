@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Al Ma`ayin"
+    ],
     "name:und_x_variant":[
         "Al Ma\u2018\u0101yin"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209892413,
-    "wof:lastmodified":1537699161,
+    "wof:lastmodified":1564148726,
     "wof:name":"Al Ma`ayin",
     "wof:parent_id":1091923899,
     "wof:placetype":"locality",

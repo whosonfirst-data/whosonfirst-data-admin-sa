@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Az Zurra`"
+    ],
     "name:und_x_variant":[
         "Az Zurra\u2018"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343635123,
-    "wof:lastmodified":1537699340,
+    "wof:lastmodified":1564148548,
     "wof:name":"Az Zurra`",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",

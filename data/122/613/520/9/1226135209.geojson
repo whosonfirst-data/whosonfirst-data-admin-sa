@@ -31,11 +31,26 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0644\u0643 \u062e\u0627\u0644\u062f \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629"
     ],
+    "name:ces_x_preferred":[
+        "Vojensk\u00e9 m\u011bsto kr\u00e1le Ch\u00e1lida"
+    ],
+    "name:deu_x_preferred":[
+        "King Khalid Military City"
+    ],
     "name:eng_x_preferred":[
         "King Khalid Military City"
     ],
+    "name:ita_x_preferred":[
+        "King Khalid Military City"
+    ],
+    "name:tur_x_preferred":[
+        "Kral Halid Asker\u00ee \u015eehri"
+    ],
     "name:und_x_variant":[
         "Medinat Al Malek Khaled Al Askariyah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u06c1 \u062e\u0627\u0644\u062f \u0639\u0633\u06a9\u0631\u06cc \u0634\u06c1\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1226135209,
-    "wof:lastmodified":1537699344,
+    "wof:lastmodified":1564149015,
     "wof:name":"King Khalid Military City",
     "wof:parent_id":1108720699,
     "wof:placetype":"locality",

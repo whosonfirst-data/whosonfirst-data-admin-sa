@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "Qiy\u0101"
     ],
+    "name:nno_x_preferred":[
+        "Qiya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243525469,
-    "wof:lastmodified":1537699186,
+    "wof:lastmodified":1564148914,
     "wof:name":"Qiya",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

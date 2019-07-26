@@ -31,9 +31,42 @@
     "name:eng_x_preferred":[
         "Sharurah"
     ],
+    "name:epo_x_preferred":[
+        "\u015carura"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u0648\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Sharurah"
+    ],
+    "name:ita_x_preferred":[
+        "Sharurah"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0634\u0631\u0648\u0631\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Sharurah"
+    ],
+    "name:pol_x_preferred":[
+        "Szarura"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u0443\u0440\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Sharurah"
+    ],
+    "name:tur_x_preferred":[
+        "\u015earure"
+    ],
     "name:und_x_variant":[
         "Shar\u016brah",
         "Sharorah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0631\u0648\u0631\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +92,7 @@
         }
     ],
     "wof:id":1226257639,
-    "wof:lastmodified":1537699343,
+    "wof:lastmodified":1564149015,
     "wof:name":"Sharurah",
     "wof:parent_id":1108720765,
     "wof:placetype":"locality",

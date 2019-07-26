@@ -25,6 +25,63 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Moezdalifa"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u062f\u0644\u0641\u0629"
+    ],
+    "name:bak_x_preferred":[
+        "\u041c\u04e9\u0437\u0434\u04d9\u043b\u0438\u0444\u04d9"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c1\u099c\u09a6\u09be\u09b2\u09bf\u09ab\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "Muzdelifa"
+    ],
+    "name:ces_x_preferred":[
+        "Muzdalifa"
+    ],
+    "name:deu_x_preferred":[
+        "Muzdalifa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u062f\u0644\u0641\u0647"
+    ],
+    "name:ind_x_preferred":[
+        "Muzdalifah"
+    ],
+    "name:ita_x_preferred":[
+        "Muzdalifa"
+    ],
+    "name:jav_x_preferred":[
+        "Muzdalifah"
+    ],
+    "name:msa_x_preferred":[
+        "Muzdalifah"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0632\u062f\u0644\u0641\u06c1"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0437\u0434\u0430\u043b\u0438\u0444\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0443\u0437\u0434\u0430\u043b\u0438\u0444\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "M\u00fczdelife"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0437\u0434\u0430\u043b\u0456\u0444\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0632\u062f\u0644\u0641\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u8328\u8fbe\u91cc\u6cd5\u8d6b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85676857,
@@ -51,7 +108,7 @@
         }
     ],
     "wof:id":1361026007,
-    "wof:lastmodified":1548452892,
+    "wof:lastmodified":1564148853,
     "wof:name":"Muzdalifah",
     "wof:parent_id":1108720727,
     "wof:placetype":"neighbourhood",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "Ju\u1e29\u0101"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u062c\u062d\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u062d\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276197339,
-    "wof:lastmodified":1537699204,
+    "wof:lastmodified":1564148660,
     "wof:name":"Juha",
     "wof:parent_id":1108720549,
     "wof:placetype":"locality",
