@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "As Suwadah"
+    ],
     "name:und_x_variant":[
         "Sawd\u0101\u2019",
         "Sawdah",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310480485,
-    "wof:lastmodified":1537699177,
+    "wof:lastmodified":1564148801,
     "wof:name":"As Suwadah",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

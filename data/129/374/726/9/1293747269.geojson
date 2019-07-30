@@ -29,7 +29,14 @@
         "Al J\u0101\u1e11i"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u062c\u0627\u0638\u0639"
+        "\u0627\u0644\u062c\u0627\u0638\u0639",
+        "\u0627\u0644\u062c\u0627\u0636\u0639"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u062f\u06cc"
+    ],
+    "name:nno_x_preferred":[
+        "Al Jadi"
     ],
     "name:und_x_variant":[
         "Al J\u0101z\u0327i\u2018"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1293747269,
-    "wof:lastmodified":1537699336,
+    "wof:lastmodified":1564148644,
     "wof:name":"Al Jazi`",
     "wof:parent_id":1108720759,
     "wof:placetype":"locality",

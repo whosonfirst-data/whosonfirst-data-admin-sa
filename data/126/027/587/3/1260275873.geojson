@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u062f\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Judah"
+    ],
+    "name:deu_x_preferred":[
+        "Judah"
+    ],
+    "name:por_x_preferred":[
+        "Jud\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Jud\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Judah"
+    ],
     "name:und_x_variant":[
         "J\u016bdah"
     ],
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1260275873,
-    "wof:lastmodified":1537699323,
+    "wof:lastmodified":1564148753,
     "wof:name":"Judah",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

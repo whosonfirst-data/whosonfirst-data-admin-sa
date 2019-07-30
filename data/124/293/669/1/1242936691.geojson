@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Bakhshat Yamani"
+    ],
     "name:und_x_variant":[
         "Bakhshah",
         "Bakhsha",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242936691,
-    "wof:lastmodified":1537699224,
+    "wof:lastmodified":1564148927,
     "wof:name":"Bakhshat Yamani",
     "wof:parent_id":1108720713,
     "wof:placetype":"locality",

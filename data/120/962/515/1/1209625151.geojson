@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "Al Ashr\u0101f"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u0391\u03c3\u03c1\u03ac\u03c6"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u0634\u0631\u0627\u0641"
+    ],
+    "name:nno_x_preferred":[
+        "Al Ashraf"
+    ],
     "name:und_x_variant":[
         "Ahl al Ash\u2018af"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209625151,
-    "wof:lastmodified":1548455925,
+    "wof:lastmodified":1564148694,
     "wof:name":"Al Ashraf",
     "wof:parent_id":1108720797,
     "wof:placetype":"locality",

@@ -50,6 +50,18 @@
     "name:eng_x_variant":[
         "Alghat"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u0627\u0644\u063a\u0627\u0637"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Ghat"
+    ],
+    "name:spa_x_preferred":[
+        "Al-Ghat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u063a\u0627\u0637"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":1108720571,
-    "wof:lastmodified":1560448404,
+    "wof:lastmodified":1564148789,
     "wof:name":"Al-Ghat",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

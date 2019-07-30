@@ -26,6 +26,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Bahwil"
+    ],
     "name:und_x_variant":[
         "Al Bahawal",
         "Ba\u1e29wil"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310679935,
-    "wof:lastmodified":1537699224,
+    "wof:lastmodified":1564148831,
     "wof:name":"Bahwil",
     "wof:parent_id":1108720725,
     "wof:placetype":"locality",

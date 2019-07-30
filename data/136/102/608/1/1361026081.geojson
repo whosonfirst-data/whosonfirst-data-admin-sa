@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:nno_x_preferred":[
+        "At Tan`im"
+    ],
     "name:und_x_variant":[
         "Tanim",
         "At Tan\u2018\u012bm"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1361026081,
-    "wof:lastmodified":1548452893,
+    "wof:lastmodified":1564148850,
     "wof:name":"At Tan`im",
     "wof:parent_id":1108720727,
     "wof:placetype":"neighbourhood",

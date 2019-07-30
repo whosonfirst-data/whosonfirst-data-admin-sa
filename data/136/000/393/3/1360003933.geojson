@@ -28,9 +28,39 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062b\u0627\u0644"
     ],
+    "name:ceb_x_preferred":[
+        "Uthal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u0647\u0644"
+    ],
+    "name:msa_x_preferred":[
+        "Uthal"
+    ],
+    "name:por_x_preferred":[
+        "Uthal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0442\u0445\u0430\u043b"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u067f\u0644"
+    ],
+    "name:spa_x_preferred":[
+        "Uthal"
+    ],
+    "name:swe_x_preferred":[
+        "Uthal"
+    ],
+    "name:tur_x_preferred":[
+        "Uthal"
+    ],
     "name:und_x_variant":[
         "Wath\u0101l",
         "\u016ath\u0101l"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u062a\u06be\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1360003933,
-    "wof:lastmodified":1537699163,
+    "wof:lastmodified":1564148857,
     "wof:name":"Uthal",
     "wof:parent_id":1108720787,
     "wof:placetype":"locality",

@@ -31,9 +31,21 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0639\u064a\u0648\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u0648\u06cc\u0627\u0646"
+    ],
+    "name:ind_x_preferred":[
+        "Al-'Uyun"
+    ],
+    "name:nno_x_preferred":[
+        "Al `Uyun"
+    ],
     "name:und_x_variant":[
         "Uyun",
         "Al \u2019Ayun"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0639\u06cc\u0648\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1361026129,
-    "wof:lastmodified":1548452893,
+    "wof:lastmodified":1564148849,
     "wof:name":"Al `Uyun",
     "wof:parent_id":1108720605,
     "wof:placetype":"neighbourhood",

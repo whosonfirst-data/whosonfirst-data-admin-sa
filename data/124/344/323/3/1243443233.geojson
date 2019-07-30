@@ -28,10 +28,37 @@
     "name:ara_x_preferred":[
         "\u062d\u0631\u0645\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0631\u0645\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "\u1e28armah"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0631\u0645\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Harmah"
+    ],
+    "name:pol_x_preferred":[
+        "Harma"
+    ],
+    "name:sco_x_preferred":[
+        "Harmah"
+    ],
+    "name:tgl_x_preferred":[
+        "Harmah"
+    ],
+    "name:tur_x_preferred":[
+        "Harme"
+    ],
     "name:und_x_variant":[
         "Al Harma",
         "Harma",
         "\u1e28armah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0631\u0645\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1243443233,
-    "wof:lastmodified":1537699210,
+    "wof:lastmodified":1564148956,
     "wof:name":"Harmah",
     "wof:parent_id":1108720613,
     "wof:placetype":"locality",

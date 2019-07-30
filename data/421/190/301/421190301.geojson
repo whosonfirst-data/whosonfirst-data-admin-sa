@@ -13,6 +13,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Dschauf"
+    ],
+    "name:epo_x_preferred":[
+        "Al \u011cauf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u0648\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:fra_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\uc6b0\ud504"
+    ],
+    "name:msa_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:nld_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0648\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Al-D\u017cauf"
+    ],
+    "name:por_x_preferred":[
+        "Jaufe"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0414\u0436\u0430\u0443\u0444"
+    ],
+    "name:sco_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:spa_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:swe_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:tgl_x_preferred":[
+        "Al Jawf"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":421190301,
-    "wof:lastmodified":1500025432,
+    "wof:lastmodified":1564148888,
     "wof:name":"Al Jawf",
     "wof:parent_id":1108720691,
     "wof:placetype":"locality",

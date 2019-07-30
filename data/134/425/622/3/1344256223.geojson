@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "Qir\u0101n"
     ],
+    "name:nno_x_preferred":[
+        "Qiran"
+    ],
     "name:und_x_variant":[
         "Qar\u0101n"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1344256223,
-    "wof:lastmodified":1537699186,
+    "wof:lastmodified":1564148550,
     "wof:name":"Qiran",
     "wof:parent_id":1108720607,
     "wof:placetype":"locality",

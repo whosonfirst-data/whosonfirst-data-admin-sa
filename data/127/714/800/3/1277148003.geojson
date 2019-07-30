@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Ghurabah"
+    ],
     "name:und_x_variant":[
         "Ghur\u0101bah"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1277148003,
-    "wof:lastmodified":1537699214,
+    "wof:lastmodified":1564148672,
     "wof:name":"Ghurabah",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

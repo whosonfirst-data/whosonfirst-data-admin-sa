@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "Al \u0100b\u0101r"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0639\u0628\u0627\u0631"
+    ],
+    "name:nno_x_preferred":[
+        "Al \u0100b\u0101r"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226733281,
-    "wof:lastmodified":1537699338,
+    "wof:lastmodified":1564149001,
     "wof:name":"Al Abar",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",

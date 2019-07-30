@@ -47,6 +47,15 @@
     "name:eng_x_preferred":[
         "Turubah"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0628\u0629"
+    ],
+    "name:nno_x_preferred":[
+        "Turubah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u0628\u06c1"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1108720781,
-    "wof:lastmodified":1560448393,
+    "wof:lastmodified":1564148768,
     "wof:name":"Turubah",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

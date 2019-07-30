@@ -25,6 +25,51 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0645\u0627\u0621"
+    ],
+    "name:cat_x_preferred":[
+        "Tayma"
+    ],
+    "name:deu_x_preferred":[
+        "Tayma"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0645\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tayma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d9\u05de\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Tayma"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u0947\u0907\u092e\u093e"
+    ],
+    "name:nno_x_preferred":[
+        "Tayma"
+    ],
+    "name:pol_x_preferred":[
+        "Tajma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Taima"
+    ],
+    "name:tgl_x_preferred":[
+        "Tayma"
+    ],
+    "name:tur_x_preferred":[
+        "Teyma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043c\u0430"
+    ],
     "name:und_x_variant":[
         "Teima",
         "Taima",
@@ -32,6 +77,9 @@
         "Taimah",
         "Taymah",
         "Taym\u0101\u2019"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0645\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +105,7 @@
         }
     ],
     "wof:id":1343436215,
-    "wof:lastmodified":1537699171,
+    "wof:lastmodified":1564148583,
     "wof:name":"Tayma'",
     "wof:parent_id":1108720771,
     "wof:placetype":"locality",

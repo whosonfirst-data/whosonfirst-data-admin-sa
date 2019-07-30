@@ -44,11 +44,125 @@
     "name:ara_x_preferred":[
         "\u062d\u0627\u0626\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0627\u064a\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Hail"
+    ],
+    "name:ceb_x_preferred":[
+        "Hayil"
+    ],
+    "name:dan_x_preferred":[
+        "Ha'il"
+    ],
+    "name:deu_x_preferred":[
+        "Ha'il"
+    ],
     "name:eng_x_preferred":[
         "Ha'il"
     ],
     "name:eng_x_variant":[
         "Hail"
+    ],
+    "name:epo_x_preferred":[
+        "Hail"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u0626\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Ha\u2019il"
+    ],
+    "name:fra_x_preferred":[
+        "Ha\u00efl"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0948\u0932 \u0938\u093f\u091f\u0940"
+    ],
+    "name:ita_x_preferred":[
+        "Ha'il"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30fc\u30a4\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10d8\u10da\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u0438\u043b\u044c"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\uc77c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d3e\u0d2f\u0d3f\u0d7d"
+    ],
+    "name:nep_x_preferred":[
+        "\u0939\u093e\u092f\u0932"
+    ],
+    "name:nld_x_preferred":[
+        "Hail"
+    ],
+    "name:nno_x_preferred":[
+        "Ha'il"
+    ],
+    "name:nor_x_preferred":[
+        "Ha'il"
+    ],
+    "name:pam_x_preferred":[
+        "Ha'il"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a39\u0a3e\u0a07\u0a32"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062d\u0627\u0626\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Ha\u2019il"
+    ],
+    "name:por_x_preferred":[
+        "Ha'il"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0438\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Hail"
+    ],
+    "name:sqi_x_preferred":[
+        "Hail"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Ha'il"
+    ],
+    "name:tgl_x_preferred":[
+        "Ha'il"
+    ],
+    "name:tur_x_preferred":[
+        "Hail"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0457\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0627\u0626\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Ha'il"
+    ],
+    "name:vol_x_preferred":[
+        "Hail"
+    ],
+    "name:war_x_preferred":[
+        "Ha'il"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u4f0a\u52d2"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -85,7 +199,7 @@
         }
     ],
     "wof:id":1108720703,
-    "wof:lastmodified":1560448390,
+    "wof:lastmodified":1564148764,
     "wof:name":"Ha'il",
     "wof:parent_id":85676831,
     "wof:placetype":"county",

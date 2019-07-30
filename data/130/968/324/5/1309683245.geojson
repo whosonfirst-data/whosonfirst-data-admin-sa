@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Mafruq"
+    ],
     "name:und_x_variant":[
         "Qur\u0101 a\u015f \u015eadr",
         "Maf\u016bq",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309683245,
-    "wof:lastmodified":1537699198,
+    "wof:lastmodified":1564148874,
     "wof:name":"Mafruq",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",

@@ -29,6 +29,28 @@
         "Ni\u015f\u0101b"
     ],
     "name:ara_x_variant":[
+        "\u0646\u0635\u0627\u0628",
+        "\u0646\u0635\u0627\u0628 \u0627\u0644\u0632\u0643\u0627\u0629"
+    ],
+    "name:bak_x_preferred":[
+        "\u041d\u0438\u0441\u0430\u0431"
+    ],
+    "name:ben_x_preferred":[
+        "\u09af\u09be\u0995\u09be\u09a4\u09c7\u09b0 \u09a8\u09bf\u09b8\u09be\u09ac"
+    ],
+    "name:ind_x_preferred":[
+        "Nisab"
+    ],
+    "name:msa_x_preferred":[
+        "Nisab"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0441\u0430\u0431"
+    ],
+    "name:sqi_x_preferred":[
+        "Nisabi"
+    ],
+    "name:urd_x_preferred":[
         "\u0646\u0635\u0627\u0628"
     ],
     "src:geom":"geonames",
@@ -54,7 +76,7 @@
         }
     ],
     "wof:id":1327000327,
-    "wof:lastmodified":1537699190,
+    "wof:lastmodified":1564148494,
     "wof:name":"Nisab",
     "wof:parent_id":1108720741,
     "wof:placetype":"locality",

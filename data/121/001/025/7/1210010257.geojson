@@ -25,11 +25,23 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0641\u0644\u0627\u062c"
+    ],
+    "name:ita_x_preferred":[
+        "Layla"
+    ],
+    "name:pol_x_preferred":[
+        "Lajla"
+    ],
     "name:und_x_variant":[
         "Laylah",
         "Lailah",
         "Laila",
         "Layl\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1210010257,
-    "wof:lastmodified":1537699199,
+    "wof:lastmodified":1564148733,
     "wof:name":"Layla",
     "wof:parent_id":1108720553,
     "wof:placetype":"locality",

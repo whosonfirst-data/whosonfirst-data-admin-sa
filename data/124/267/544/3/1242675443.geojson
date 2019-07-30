@@ -31,6 +31,18 @@
     "name:ara_x_variant":[
         "\u0631\u062d\u064a\u0645\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u0633 \u062a\u0646\u0648\u0631\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Ras Tannura"
+    ],
+    "name:ceb_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:ces_x_preferred":[
+        "Ras Tanura"
+    ],
     "name:deu_x_preferred":[
         "Ra's Tanura"
     ],
@@ -39,6 +51,39 @@
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u0633 \u062a\u0646\u0648\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:lit_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:nld_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:nno_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:nor_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:ron_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0441-\u0422\u0430\u043d\u043d\u0443\u0440\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:swe_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:tgl_x_preferred":[
+        "Ras Tanura"
+    ],
+    "name:tur_x_preferred":[
+        "Ras Tanura"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0441-\u0422\u0430\u043d\u043d\u0443\u0440\u0430"
@@ -54,6 +99,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0633 \u062a\u0646\u0648\u0631\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Ras Tanura"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u65af\u5766\u52aa\u62c9"
@@ -82,7 +130,7 @@
         }
     ],
     "wof:id":1242675443,
-    "wof:lastmodified":1537699183,
+    "wof:lastmodified":1564148926,
     "wof:name":"Ras Tanura",
     "wof:parent_id":1108720745,
     "wof:placetype":"locality",

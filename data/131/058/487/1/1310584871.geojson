@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0627\u0631\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0627\u0631\u0627\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Al Qararah"
+    ],
     "name:und_x_variant":[
         "Al Qar\u0101rah"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1310584871,
-    "wof:lastmodified":1537699314,
+    "wof:lastmodified":1564148833,
     "wof:name":"Al Qararah",
     "wof:parent_id":1108720637,
     "wof:placetype":"locality",

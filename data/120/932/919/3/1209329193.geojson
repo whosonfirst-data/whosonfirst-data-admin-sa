@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Al Qarn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209329193,
-    "wof:lastmodified":1548455914,
+    "wof:lastmodified":1564148713,
     "wof:name":"Al Qarn",
     "wof:parent_id":1108720567,
     "wof:placetype":"locality",

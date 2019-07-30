@@ -25,9 +25,30 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u0648\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Thuwal"
+    ],
+    "name:fas_x_preferred":[
+        "\u062b\u0648\u0644"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea'\u05d5\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Thuwal"
+    ],
+    "name:tur_x_preferred":[
+        "Suval"
+    ],
     "name:und_x_variant":[
         "T\u016bwal",
         "Thuwal"
+    ],
+    "name:urd_x_preferred":[
+        "\u062b\u0648\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1193261951,
-    "wof:lastmodified":1537699331,
+    "wof:lastmodified":1564148744,
     "wof:name":"Thuwal",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",

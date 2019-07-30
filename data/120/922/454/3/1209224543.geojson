@@ -28,6 +28,30 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u063a\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u0627\u063a\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Mara\u011fan"
+    ],
+    "name:ceb_x_preferred":[
+        "Mar\u0101gh\u0101n"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u06d5\u0631\u0627\u063a\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0627\u063a\u0627\u0646"
+    ],
+    "name:kur_x_preferred":[
+        "Mera\u1e8dan"
+    ],
+    "name:msa_x_preferred":[
+        "Maraghan"
+    ],
+    "name:swe_x_preferred":[
+        "Mar\u0101gh\u0101n"
+    ],
     "name:und_x_variant":[
         "Maragh\u0101n"
     ],
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1209224543,
-    "wof:lastmodified":1548455911,
+    "wof:lastmodified":1564148707,
     "wof:name":"Maraghan",
     "wof:parent_id":1108720687,
     "wof:placetype":"locality",

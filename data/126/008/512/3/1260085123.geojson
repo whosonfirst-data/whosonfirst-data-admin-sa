@@ -25,10 +25,19 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u064a\u0631\u0642\u064a\u0629"
+    ],
+    "name:nno_x_preferred":[
+        "As Suwayriqiyah"
+    ],
     "name:und_x_variant":[
         "Suwayrik\u012byah",
         "Suwairkiya",
         "As Suwayriq\u012byah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u06cc\u0631\u0642\u06cc\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1260085123,
-    "wof:lastmodified":1537699228,
+    "wof:lastmodified":1564148751,
     "wof:name":"As Suwayriqiyah",
     "wof:parent_id":1108720607,
     "wof:placetype":"locality",

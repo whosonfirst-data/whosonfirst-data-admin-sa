@@ -31,6 +31,18 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0639\u0644\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Al-Ula"
+    ],
+    "name:ceb_x_preferred":[
+        "Al \u2018Ul\u00e1"
+    ],
+    "name:dan_x_preferred":[
+        "Al-`Ula"
+    ],
+    "name:deu_x_preferred":[
+        "Al-'Ula"
+    ],
     "name:eng_x_preferred":[
         "Al-`Ula"
     ],
@@ -38,11 +50,41 @@
         "Al Ola",
         "Dedan"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Al-'Ula"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932-\u0909\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Al-`Ula"
+    ],
+    "name:nno_x_preferred":[
+        "Al-`Ula"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Ula"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u0423\u043b\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Al-Ula"
+    ],
+    "name:tgl_x_preferred":[
+        "Al-`Ula"
+    ],
+    "name:tur_x_preferred":[
+        "El-Ula"
+    ],
     "name:und_x_variant":[
         "Al Ola"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u0627"
     ],
     "name:zho_x_preferred":[
         "\u6b50\u62c9"
@@ -72,7 +114,7 @@
         }
     ],
     "wof:id":1209820349,
-    "wof:lastmodified":1537699244,
+    "wof:lastmodified":1564148706,
     "wof:name":"Al-`Ula",
     "wof:parent_id":1108720641,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "As Sify\u0101n\u012b"
     ],
+    "name:nno_x_preferred":[
+        "As Sifyani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85676857,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1361026103,
-    "wof:lastmodified":1548452893,
+    "wof:lastmodified":1564148835,
     "wof:name":"As Sifyani",
     "wof:parent_id":1108720727,
     "wof:placetype":"neighbourhood",

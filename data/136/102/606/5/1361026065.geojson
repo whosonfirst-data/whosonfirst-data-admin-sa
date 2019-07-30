@@ -25,10 +25,28 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0627\u0621"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0628\u0627\u0621"
+    ],
+    "name:ind_x_preferred":[
+        "Quba"
+    ],
+    "name:nno_x_preferred":[
+        "Qaba'"
+    ],
+    "name:tur_x_preferred":[
+        "Kub\u00e2"
+    ],
     "name:und_x_variant":[
         "Kuba",
         "Kubah",
         "Qab\u0101\u2019"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0628\u0627\u0621"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1361026065,
-    "wof:lastmodified":1548452892,
+    "wof:lastmodified":1564148851,
     "wof:name":"Qaba'",
     "wof:parent_id":1108720605,
     "wof:placetype":"neighbourhood",

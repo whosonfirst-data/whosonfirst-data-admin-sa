@@ -44,8 +44,50 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0644\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09c1\u09b2\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Alula"
+    ],
     "name:eng_x_preferred":[
         "Alula"
+    ],
+    "name:fin_x_preferred":[
+        "Alula"
+    ],
+    "name:fra_x_preferred":[
+        "Alula"
+    ],
+    "name:glg_x_preferred":[
+        "\u00c1lula"
+    ],
+    "name:ind_x_preferred":[
+        "Alula"
+    ],
+    "name:ita_x_preferred":[
+        "Alula"
+    ],
+    "name:nno_x_preferred":[
+        "Alula"
+    ],
+    "name:pol_x_preferred":[
+        "Skrzyde\u0142ko"
+    ],
+    "name:por_x_preferred":[
+        "\u00c1lula"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u044b\u043b\u044b\u0448\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "\u00c1lula"
+    ],
+    "name:swe_x_preferred":[
+        "Alula"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u043b\u044c\u0446\u0435"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -82,7 +124,7 @@
         }
     ],
     "wof:id":1108720641,
-    "wof:lastmodified":1560448401,
+    "wof:lastmodified":1564148778,
     "wof:name":"Alula",
     "wof:parent_id":85676825,
     "wof:placetype":"county",

@@ -50,6 +50,15 @@
     "name:eng_x_variant":[
         "Alahsa"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\uff1d\u30cf\u30b5\u30fc"
+    ],
+    "name:sun_x_preferred":[
+        "Al-Ahsa"
+    ],
+    "name:vie_x_preferred":[
+        "Al-Ahsa"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1108720555,
-    "wof:lastmodified":1560448400,
+    "wof:lastmodified":1564148775,
     "wof:name":"Al-Ahsa",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

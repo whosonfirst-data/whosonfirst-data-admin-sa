@@ -25,6 +25,12 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0646 \u0645\u062e\u0644\u062f"
+    ],
+    "name:nno_x_preferred":[
+        "Qarn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327441489,
-    "wof:lastmodified":1536667626,
+    "wof:lastmodified":1564148534,
     "wof:name":"Qarn",
     "wof:parent_id":1108720797,
     "wof:placetype":"locality",

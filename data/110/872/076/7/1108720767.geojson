@@ -44,7 +44,46 @@
     "name:ara_x_preferred":[
         "\u062a\u0628\u0648\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Tabuk"
+    ],
+    "name:deu_x_preferred":[
+        "Tabuk"
+    ],
     "name:eng_x_preferred":[
+        "Tabuk"
+    ],
+    "name:eus_x_preferred":[
+        "Tabuk"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0628\u0648\u06a9"
+    ],
+    "name:ilo_x_preferred":[
+        "Tabuk"
+    ],
+    "name:ita_x_preferred":[
+        "Tabuk"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ubd80\ud06c"
+    ],
+    "name:nld_x_preferred":[
+        "Tabuk"
+    ],
+    "name:nor_x_preferred":[
+        "Tabuk"
+    ],
+    "name:pol_x_preferred":[
+        "Tabuk"
+    ],
+    "name:swe_x_preferred":[
+        "Tabuk"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0628\u0648\u06a9"
+    ],
+    "name:war_x_preferred":[
         "Tabuk"
     ],
     "src:geom":"meso",
@@ -82,7 +121,7 @@
         }
     ],
     "wof:id":1108720767,
-    "wof:lastmodified":1560448391,
+    "wof:lastmodified":1564148767,
     "wof:name":"Tabuk",
     "wof:parent_id":85676833,
     "wof:placetype":"county",

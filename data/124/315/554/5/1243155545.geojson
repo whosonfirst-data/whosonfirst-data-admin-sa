@@ -25,8 +25,20 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u064a\u062d\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0627\u06cc\u0647\u0627"
+    ],
+    "name:nno_x_preferred":[
+        "Al Mulayha'"
+    ],
     "name:und_x_variant":[
         "Al Mulay\u1e29\u0101\u2019"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u06cc\u062d\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243155545,
-    "wof:lastmodified":1537699338,
+    "wof:lastmodified":1564148931,
     "wof:name":"Al Mulayha'",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",

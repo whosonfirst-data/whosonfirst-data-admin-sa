@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u064a\u0636\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0641\u0627\u06cc\u062f\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Al Faydah"
+    ],
     "name:und_x_variant":[
         "Al Fay\u1e11ah"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1327048531,
-    "wof:lastmodified":1537699312,
+    "wof:lastmodified":1564148518,
     "wof:name":"Al Faydah",
     "wof:parent_id":1108720569,
     "wof:placetype":"locality",

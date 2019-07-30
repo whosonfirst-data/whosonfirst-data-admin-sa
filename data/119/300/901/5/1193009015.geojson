@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0651\u064f\u0636\u064a\u0645\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Ar Rudaymah"
+    ],
     "name:und_x_variant":[
         "Ar Ruway\u1e11\u0101t",
         "Ra\u1e11aymah",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1193009015,
-    "wof:lastmodified":1537699181,
+    "wof:lastmodified":1564148735,
     "wof:name":"Ar Rudaymah",
     "wof:parent_id":1108720653,
     "wof:placetype":"locality",

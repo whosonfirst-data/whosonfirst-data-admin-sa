@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0631\u064a\u0639\u064a\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u06cc\u0639\u06cc\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Ad Dur`iyah"
+    ],
     "name:und_x_variant":[
         "Ad Duray\u2018\u012byah",
         "Ad Dur\u2018\u012byah"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1309769799,
-    "wof:lastmodified":1537699336,
+    "wof:lastmodified":1564148874,
     "wof:name":"Ad Duray`iyah",
     "wof:parent_id":1108720759,
     "wof:placetype":"locality",

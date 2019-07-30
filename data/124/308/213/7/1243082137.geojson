@@ -25,8 +25,14 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Baq`a'"
+    ],
     "name:und_x_variant":[
         "Baq\u2018\u0101\u2019"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0642\u0627\u0639"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243082137,
-    "wof:lastmodified":1537699223,
+    "wof:lastmodified":1564148913,
     "wof:name":"Baq`a'",
     "wof:parent_id":1108720797,
     "wof:placetype":"locality",

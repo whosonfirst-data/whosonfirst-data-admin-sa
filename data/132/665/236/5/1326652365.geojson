@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u062d\u0631\u0636"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0631\u0636"
+    ],
+    "name:fra_x_preferred":[
+        "Harad"
+    ],
+    "name:nno_x_preferred":[
+        "Haradh"
+    ],
     "name:und_x_variant":[
         "Haradh",
         "Haradh Camp",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1326652365,
-    "wof:lastmodified":1537699210,
+    "wof:lastmodified":1564148530,
     "wof:name":"Harad",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

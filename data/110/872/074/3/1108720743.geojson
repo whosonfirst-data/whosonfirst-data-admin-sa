@@ -44,6 +44,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0646\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Ranyah"
+    ],
     "name:eng_x_preferred":[
         "Ranyah"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108720743,
-    "wof:lastmodified":1560448402,
+    "wof:lastmodified":1564148782,
     "wof:name":"Ranyah",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

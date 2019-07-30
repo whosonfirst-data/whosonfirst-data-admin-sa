@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u062c\u0644\u0627\u062c\u0644"
     ],
+    "name:nno_x_preferred":[
+        "Jalajil"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017calad\u017cil"
+    ],
+    "name:tgl_x_preferred":[
+        "Jalajil"
+    ],
     "name:und_x_variant":[
         "Djal\u0101djil",
         "Jal\u0101jil"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1259476981,
-    "wof:lastmodified":1537699206,
+    "wof:lastmodified":1564148973,
     "wof:name":"Jalajil",
     "wof:parent_id":1108720613,
     "wof:placetype":"locality",

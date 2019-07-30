@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0628\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0628\u0629"
+    ],
+    "name:nno_x_preferred":[
+        "Turubah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u0628\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226528575,
-    "wof:lastmodified":1537699290,
+    "wof:lastmodified":1564149027,
     "wof:name":"Turubah",
     "wof:parent_id":1108720675,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Ar Rafah"
+    ],
     "name:und_x_variant":[
         "Ar R\u0101fah"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293184495,
-    "wof:lastmodified":1537699338,
+    "wof:lastmodified":1564148637,
     "wof:name":"Ar Rafah",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",

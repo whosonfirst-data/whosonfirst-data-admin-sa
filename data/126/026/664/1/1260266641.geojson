@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0648"
     ],
+    "name:nno_x_preferred":[
+        "Jaww"
+    ],
     "name:und_x_variant":[
         "Jaw",
         "Jaww"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260266641,
-    "wof:lastmodified":1537699205,
+    "wof:lastmodified":1564148757,
     "wof:name":"Jaww",
     "wof:parent_id":1108720695,
     "wof:placetype":"locality",

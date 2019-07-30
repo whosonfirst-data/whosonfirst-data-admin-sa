@@ -44,8 +44,53 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0645\u0627\u0621"
     ],
+    "name:cat_x_preferred":[
+        "Tayma"
+    ],
+    "name:deu_x_preferred":[
+        "Tayma"
+    ],
     "name:eng_x_preferred":[
         "Tayma"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0645\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tayma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d9\u05de\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Tayma"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u0947\u0907\u092e\u093e"
+    ],
+    "name:nno_x_preferred":[
+        "Tayma"
+    ],
+    "name:pol_x_preferred":[
+        "Tajma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Taima"
+    ],
+    "name:tgl_x_preferred":[
+        "Tayma"
+    ],
+    "name:tur_x_preferred":[
+        "Teyma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043c\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0645\u0627"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -82,7 +127,7 @@
         }
     ],
     "wof:id":1108720771,
-    "wof:lastmodified":1560448390,
+    "wof:lastmodified":1564148762,
     "wof:name":"Tayma",
     "wof:parent_id":85676833,
     "wof:placetype":"county",

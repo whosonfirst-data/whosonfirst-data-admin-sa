@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sarum"
+    ],
     "name:und_x_variant":[
         "\u015ear\u016bm"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276531635,
-    "wof:lastmodified":1537699178,
+    "wof:lastmodified":1564148687,
     "wof:name":"Sarum",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",

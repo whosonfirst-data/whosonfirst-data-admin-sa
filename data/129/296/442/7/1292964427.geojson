@@ -26,6 +26,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Malgocta"
+    ],
     "name:und_x_variant":[
         "Malq\u016b\u0163ah",
         "Malgocta"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1292964427,
-    "wof:lastmodified":1537699197,
+    "wof:lastmodified":1564148634,
     "wof:name":"Malgocta",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",

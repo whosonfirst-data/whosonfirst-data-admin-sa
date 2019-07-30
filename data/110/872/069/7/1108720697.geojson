@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "Farasan"
     ],
+    "name:pol_x_preferred":[
+        "Farasan"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108720697,
-    "wof:lastmodified":1560448405,
+    "wof:lastmodified":1564148792,
     "wof:name":"Farasan",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

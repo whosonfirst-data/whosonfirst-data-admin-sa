@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u0628\u0648\u0635"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06a9\u0631\u0628\u0627\u0633"
+    ],
+    "name:nno_x_preferred":[
+        "Al Karbus"
+    ],
     "name:und_x_variant":[
         "Al Karb\u016bs",
         "Al Karb\u016b\u015f"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1242653695,
-    "wof:lastmodified":1537699257,
+    "wof:lastmodified":1564148948,
     "wof:name":"Al Karbus",
     "wof:parent_id":1108720713,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Ar Rukubah"
+    ],
     "name:und_x_variant":[
         "Ar Ruk\u016bbah"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260056365,
-    "wof:lastmodified":1537699236,
+    "wof:lastmodified":1564148760,
     "wof:name":"Ar Rukubah",
     "wof:parent_id":1108720759,
     "wof:placetype":"locality",

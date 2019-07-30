@@ -25,8 +25,17 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0639\u06cc\u0631\u06cc\u0629"
+    ],
+    "name:nno_x_preferred":[
+        "Ma`riyah"
+    ],
     "name:und_x_variant":[
         "Ma\u2018r\u012byah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0639\u0631\u06cc\u0627\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276859473,
-    "wof:lastmodified":1537699195,
+    "wof:lastmodified":1564148674,
     "wof:name":"Ma`riyah",
     "wof:parent_id":1108720609,
     "wof:placetype":"locality",

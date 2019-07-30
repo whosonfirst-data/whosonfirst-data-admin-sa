@@ -25,8 +25,23 @@
     "iso:country":"SA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0642\u0631\u0641\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u0642\u06cc\u0631\u0641\u0627"
+    ],
+    "name:ind_x_preferred":[
+        "Abu Qirfah"
+    ],
+    "name:nno_x_preferred":[
+        "Abu Qirfah"
+    ],
     "name:und_x_variant":[
         "Ab\u016b Qirfah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0648 \u0642\u0631\u0641\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1242858007,
-    "wof:lastmodified":1537699337,
+    "wof:lastmodified":1564148945,
     "wof:name":"Abu Qirfah",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",

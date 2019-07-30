@@ -28,6 +28,30 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0648\u0627\u0645\u064a\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u0648\u0627\u0645\u06cc\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0443\u0430\u043c\u0438\u044f"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Awamia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0648\u0627\u0645\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Al-Awamia"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Awamia"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0410\u0432\u0430\u043c\u0438\u044f"
+    ],
+    "name:szl_x_preferred":[
+        "Al-Awamijja"
+    ],
     "name:und_x_variant":[
         "\u2019Aw\u0101m\u012byah",
         "Awamiya",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1361025879,
-    "wof:lastmodified":1548452891,
+    "wof:lastmodified":1564148843,
     "wof:name":"Al `Awwamiyah",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "Kul\u0101kh"
     ],
+    "name:nno_x_preferred":[
+        "Kulakh"
+    ],
     "name:und_x_variant":[
         "Kulaikh"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1344230741,
-    "wof:lastmodified":1537699200,
+    "wof:lastmodified":1564148555,
     "wof:name":"Kulakh",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

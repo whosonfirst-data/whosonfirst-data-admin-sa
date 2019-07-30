@@ -28,8 +28,23 @@
     "name:ara_x_preferred":[
         "Al \u2018Aw\u0101l\u012b"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0648\u0627\u0644\u064a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u0648\u0644\u06cc"
+    ],
+    "name:ind_x_preferred":[
+        "Al-'Awali"
+    ],
+    "name:nno_x_preferred":[
+        "Al `Awali"
+    ],
     "name:und_x_variant":[
         "\u2018Awali"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0639\u0648\u0627\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1361026099,
-    "wof:lastmodified":1548452893,
+    "wof:lastmodified":1564148854,
     "wof:name":"Al `Awali",
     "wof:parent_id":1108720605,
     "wof:placetype":"neighbourhood",
