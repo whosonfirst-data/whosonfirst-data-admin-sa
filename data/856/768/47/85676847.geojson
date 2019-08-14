@@ -25,6 +25,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":20.118259,
     "lbl:longitude":41.476799,
     "meso:name_loc":"\u0627\u0644\u0628\u0627\u062d\u0629",
@@ -345,7 +348,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563326892,
+    "wof:lastmodified":1565736234,
     "wof:name":"Al-Bahah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

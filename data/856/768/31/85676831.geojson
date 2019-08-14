@@ -25,6 +25,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":27.542875,
     "lbl:longitude":41.401062,
     "meso:name_loc":"\u062d\u0627\u0626\u0644",
@@ -417,7 +420,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563326890,
+    "wof:lastmodified":1565736233,
     "wof:name":"Ha'il",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

@@ -15,6 +15,9 @@
     "itu:country_code":[
         "966"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":23.801889,
     "lbl:longitude":44.708041,
     "mps:latitude":23.801889,
@@ -1122,7 +1125,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563326882,
+    "wof:lastmodified":1565736229,
     "wof:name":"Saudi Arabia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

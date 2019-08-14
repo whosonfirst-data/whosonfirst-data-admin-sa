@@ -25,6 +25,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RI"
+    ],
     "lbl:latitude":23.198703,
     "lbl:longitude":45.648245,
     "meso:name_loc":"\u0627\u0644\u0631\u064a\u0627\u0636",
@@ -323,7 +326,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563326893,
+    "wof:lastmodified":1565736234,
     "wof:name":"Ar Riyad",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

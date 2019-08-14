@@ -25,6 +25,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SH"
+    ],
     "lbl:latitude":22.531202,
     "lbl:longitude":50.149595,
     "meso:name_loc":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
@@ -370,7 +373,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563326887,
+    "wof:lastmodified":1565736232,
     "wof:name":"Eastern Province",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

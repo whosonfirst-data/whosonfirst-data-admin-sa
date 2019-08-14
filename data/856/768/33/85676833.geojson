@@ -25,6 +25,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TB"
+    ],
     "lbl:latitude":28.585494,
     "lbl:longitude":37.218628,
     "meso:name_loc":"\u062a\u0628\u0648\u0643",
@@ -365,7 +368,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563326886,
+    "wof:lastmodified":1565736231,
     "wof:name":"Tabuk",
     "wof:parent_id":85632253,
     "wof:placetype":"region",
