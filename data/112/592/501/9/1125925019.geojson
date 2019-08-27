@@ -9,15 +9,18 @@
     "geom:bbox":"42.6052,20.00054,42.6052,20.00054",
     "geom:latitude":20.00054,
     "geom:longitude":42.6052,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":81828,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":81828,
     "iso:country":"SA",
+    "lbl:bbox":"42.5852,19.98054,42.6252,20.02054",
     "lbl:latitude":20.00054,
     "lbl:longitude":42.6052,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0634\u0629"
@@ -73,9 +76,6 @@
     "name:tur_x_preferred":[
         "Bi\u015fa"
     ],
-    "name:unk_x_variant":[
-        "Bisha"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0634\u06c1"
     ],
@@ -94,7 +94,7 @@
     "qs_pg:qs_id":65140,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1125925019,
-    "wof:lastmodified":1563327159,
+    "wof:lastmodified":1566638478,
     "wof:name":"Qal\u2018at B\u012bshah",
     "wof:parent_id":1108720681,
     "wof:placetype":"locality",

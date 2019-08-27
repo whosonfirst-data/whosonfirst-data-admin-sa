@@ -9,15 +9,18 @@
     "geom:bbox":"38.21603,30.49987,38.21603,30.49987",
     "geom:latitude":30.49987,
     "geom:longitude":38.21603,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":40019,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":40019,
     "iso:country":"SA",
+    "lbl:bbox":"38.19603,30.47987,38.23603,30.51987",
     "lbl:latitude":30.49987,
     "lbl:longitude":38.21603,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0637\u0628\u0631\u062c\u0644"
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "Tubard\u017cal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0162abarjal"
     ],
     "qs_pg:aaroncc":"SA",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":64947,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125924801,
-    "wof:lastmodified":1563327160,
+    "wof:lastmodified":1566638479,
     "wof:name":"\u0162ubarjal",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

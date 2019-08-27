@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11441890.454038,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.609833,24.495341,39.609833,24.495341",
     "geom:latitude":24.495341,
     "geom:longitude":39.609833,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"39.604833,24.490341,39.614833,24.500341",
     "lbl:latitude":24.495341,
     "lbl:longitude":39.609833,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.494102,
     "mps:longitude":39.611146,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     ],
     "name:eng_x_variant":[
         "Ohud"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u062d\u062f"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -68,17 +67,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676825,
         102191569,
         85632253,
-        1108720605,
-        85676825
+        1108720605
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948946,
-        "qs:id":1346229,
         "qs_pg:id":1346229
     },
     "wof:country":"SA",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939559,
+    "wof:lastmodified":1566638210,
     "wof:name":"\u0627\u062d\u062f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

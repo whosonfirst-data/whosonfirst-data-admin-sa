@@ -10,10 +10,14 @@
     "geom:latitude":25.70393,
     "geom:longitude":45.86796,
     "iso:country":"SA",
+    "lbl:bbox":"45.84796,25.68393,45.88796,25.72393",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tumayr"
     ],
     "qs:gn_country":"SA",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":396550,
         "gp:id":1939421,
-        "qs:id":124563
+        "qs_pg:id":124563
     },
     "wof:country":"SA",
     "wof:created":1459008762,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421168351,
-    "wof:lastmodified":1505340590,
+    "wof:lastmodified":1566638459,
     "wof:name":"\u062a\u0645\u064a\u0631",
     "wof:parent_id":1108720613,
     "wof:placetype":"locality",

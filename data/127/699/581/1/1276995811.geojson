@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.34364,17.94228,43.38364,17.98228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0631\u0642\u0627\u0646"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1276995811,
-    "wof:lastmodified":1564148682,
+    "wof:lastmodified":1566638298,
     "wof:name":"Zarqan",
     "wof:parent_id":1108720797,
     "wof:placetype":"locality",

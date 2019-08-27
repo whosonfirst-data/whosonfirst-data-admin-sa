@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.18054,27.92335,42.22054,27.96335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "An Niz\u0327\u012bm"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259462325,
-    "wof:lastmodified":1537699295,
+    "wof:lastmodified":1566638532,
     "wof:name":"An Nizim",
     "wof:parent_id":1108720675,
     "wof:placetype":"locality",

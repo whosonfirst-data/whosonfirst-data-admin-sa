@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.07609,19.20597,42.11609,19.24597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kha\u1e11r\u0101\u2019"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343967901,
-    "wof:lastmodified":1537699203,
+    "wof:lastmodified":1566638173,
     "wof:name":"Khadrah",
     "wof:parent_id":1108720649,
     "wof:placetype":"locality",

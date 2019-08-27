@@ -12,6 +12,8 @@
     "iso:country":"SA",
     "lbl:latitude":26.260742,
     "lbl:longitude":50.068553,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":26.260742,
     "mps:longitude":50.068553,
     "mz:hierarchy_label":1,
@@ -147,7 +149,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0445\u0440\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Az\u0327 Z\u0327ahr\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -295,12 +297,12 @@
     "wof:concordances":{
         "gn:id":107797,
         "gp:id":1939801,
-        "qs:id":1119492,
+        "qs_pg:id":1119492,
         "wd:id":"Q268915",
         "wk:page":"Dhahran"
     },
     "wof:concordances_alt":{
-        "qs:id":65654
+        "qs_pg:id":65654
     },
     "wof:country":"SA",
     "wof:created":1459009654,
@@ -315,7 +317,7 @@
         }
     ],
     "wof:id":421190321,
-    "wof:lastmodified":1563327143,
+    "wof:lastmodified":1566638469,
     "wof:name":"Dhahran",
     "wof:parent_id":1108720599,
     "wof:placetype":"locality",

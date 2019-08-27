@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":18.96875,
     "lbl:longitude":41.818495,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Aseer",
     "meso:adm1_loc":"\u0639\u0633\u064a\u0631",
     "meso:diss_me":"AlmajardahAseer",
@@ -41,6 +43,7 @@
     "mps:longitude":41.818495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0627\u0631\u062f\u0629"
     ],
@@ -51,9 +54,9 @@
         "Almajardah"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-15",
+    "src:population_date":"2004-09-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-15",
     "statoids:capital":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108720609,
-    "wof:lastmodified":1560448406,
+    "wof:lastmodified":1566638393,
     "wof:name":"Al-Majardah",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

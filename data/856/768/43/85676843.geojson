@@ -30,6 +30,7 @@
     ],
     "lbl:latitude":29.805681,
     "lbl:longitude":39.721926,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u062c\u0648\u0641",
     "mps:latitude":29.549985,
     "mps:longitude":38.794777,
@@ -192,7 +193,7 @@
         "Al Jawf"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb2\u0bcd  \u0b9c\u0bbe\u0bb5\u0bcd\u0baa\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b85\u0bb2\u0bcd \u0b9c\u0bbe\u0bb5\u0bcd\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c4d \u0c1c\u0c3e\u0c2b\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -213,9 +214,6 @@
         "\u0415\u043b\u044c-\u0414\u0436\u0430\u0443\u0444"
     ],
     "name:und_x_variant":[
-        "\u0627\u0644\u062c\u0648\u0641"
-    ],
-    "name:unk_x_variant":[
         "Al-Jauf"
     ],
     "name:urd_x_preferred":[
@@ -308,9 +306,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-27",
+    "src:population_date":"2010-04-27",
     "statoids:area_km":"100,212",
     "statoids:area_mi":"38,692",
     "statoids:as_of_date":"2010-04-27",
@@ -334,7 +332,7 @@
         "gp:id":2346950,
         "hasc:id":"SA.JF",
         "iso:id":"SA-12",
-        "qs:id":1135305,
+        "qs_pg:id":1135305,
         "wd:id":"Q1471266"
     },
     "wof:country":"SA",
@@ -353,7 +351,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565736233,
+    "wof:lastmodified":1566638232,
     "wof:name":"Al Jawf",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

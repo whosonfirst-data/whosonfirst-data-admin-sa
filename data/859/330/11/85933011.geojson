@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6136410.348713,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.774139,24.68002,46.774139,24.68002",
     "geom:latitude":24.68002,
     "geom:longitude":46.774139,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"46.769139,24.67502,46.779139,24.68502",
     "lbl:latitude":24.68002,
     "lbl:longitude":46.774139,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.677464,
     "mps:longitude":46.770009,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Rabwa Al Janoubiyah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0631\u0628\u0648\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -65,17 +64,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948985,
-        "qs:id":1346230,
         "qs_pg:id":1346230
     },
     "wof:country":"SA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939561,
+    "wof:lastmodified":1566638210,
     "wof:name":"\u0627\u0644\u0631\u0628\u0648\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

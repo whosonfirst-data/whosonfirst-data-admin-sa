@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.69321,25.54852,42.73321,25.58852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0636\u064a\u0627\u0621"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327050083,
-    "wof:lastmodified":1537699302,
+    "wof:lastmodified":1566638152,
     "wof:name":"Al Ghadya'",
     "wof:parent_id":1108720645,
     "wof:placetype":"locality",

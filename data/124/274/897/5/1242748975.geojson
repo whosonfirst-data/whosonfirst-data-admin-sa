@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"40.76976,21.26671,40.80976,21.30671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Shira`ayn"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242748975,
-    "wof:lastmodified":1564148914,
+    "wof:lastmodified":1566638490,
     "wof:name":"Shira`ayn",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

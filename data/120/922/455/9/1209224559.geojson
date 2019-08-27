@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.73429,26.38594,43.77429,26.42594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u064e\u0631\u0639\u0627\u0621"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209224559,
-    "wof:lastmodified":1548455911,
+    "wof:lastmodified":1566638317,
     "wof:name":"Al Qar`a'",
     "wof:parent_id":1108720687,
     "wof:placetype":"locality",

@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"50.01228,26.52816,50.02228,26.53816",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85676819,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1361025901,
-    "wof:lastmodified":1548452891,
+    "wof:lastmodified":1566638431,
     "wof:name":"Imhaish",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",

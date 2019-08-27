@@ -10,13 +10,16 @@
     "geom:latitude":24.60778,
     "geom:longitude":46.74472,
     "iso:country":"SA",
+    "lbl:bbox":"46.73972,24.60278,46.74972,24.61278",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Man\u015f\u016brah"
     ],
     "qs:gn_country":"SA",
@@ -39,16 +42,16 @@
     "qs:woe_id":22725967,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":448602,
         "gp:id":22725967,
-        "qs:id":1016929
+        "qs_pg:id":1016929
     },
     "wof:country":"SA",
     "wof:created":1459009429,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421185003,
-    "wof:lastmodified":1531858553,
+    "wof:lastmodified":1566638472,
     "wof:name":"Al Mansurah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,7 @@
     ],
     "lbl:latitude":20.118259,
     "lbl:longitude":41.476799,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0628\u0627\u062d\u0629",
     "mps:latitude":20.135004,
     "mps:longitude":41.45764,
@@ -190,7 +191,7 @@
         "Al Bahah"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb2\u0bcd  \u0baa\u0bb9\u0ba4\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b85\u0bb2\u0bcd \u0baa\u0bb9\u0ba4\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c4d \u0c2c\u0c39\u0c3e\u0c39\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -206,12 +207,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0411\u0430\u0445\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u0627\u0644\u0628\u0627\u062d\u0629"
-    ],
-    "name:unk_x_variant":[
-        "Al-Baha"
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0628\u0627\u062d\u06c1"
@@ -303,9 +298,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-27",
+    "src:population_date":"2010-04-27",
     "statoids:area_km":"9,921",
     "statoids:area_mi":"3,831",
     "statoids:as_of_date":"2010-04-27",
@@ -329,7 +324,7 @@
         "gp:id":2346949,
         "hasc:id":"SA.BA",
         "iso:id":"SA-11",
-        "qs:id":1135304,
+        "qs_pg:id":1135304,
         "wd:id":"Q852774"
     },
     "wof:country":"SA",
@@ -348,7 +343,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565736234,
+    "wof:lastmodified":1566638234,
     "wof:name":"Al-Bahah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

@@ -11,10 +11,14 @@
     "geom:longitude":43.2534,
     "gn:country":"SA",
     "gn:fcode":"PPL",
-    "gn:pop":5205,
+    "gn:population":5205,
     "iso:country":"SA",
+    "lbl:bbox":"43.2334,26.42322,43.2734,26.46322",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Al Fuwayliq",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":397513,
         "gp:id":1937593,
-        "qs:id":124565
+        "qs_pg:id":124565
     },
     "wof:country":"SA",
     "wof:created":1469052845,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890453195,
-    "wof:lastmodified":1505343649,
+    "wof:lastmodified":1566638474,
     "wof:name":"Al Fuwayliq",
     "wof:parent_id":1108720569,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6696721.632153,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.086121,26.577229,50.086121,26.577229",
     "geom:latitude":26.577229,
     "geom:longitude":50.086121,
@@ -13,8 +13,10 @@
     "gn:longitude":50.03694,
     "gn:population":85371,
     "iso:country":"SA",
+    "lbl:bbox":"50.081121,26.572229,50.091121,26.582229",
     "lbl:latitude":26.577229,
     "lbl:longitude":50.086121,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.580116,
     "mps:longitude":50.075357,
     "mz:hierarchy_label":0,
@@ -44,10 +46,6 @@
         "T\u00e5r\u00f8t",
         "T\u00e5r\u00f8t fort"
     ],
-    "name:unk_x_variant":[
-        "Darin Fort",
-        "Tarut"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"00",
@@ -74,19 +72,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720627,
-        85676819
+        1108720627
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":101554,
         "gp:id":1939993,
-        "qs:id":59011
+        "qs_pg:id":59011
     },
     "wof:country":"SA",
     "wof:geomhash":"1150458ae58608958617899c0706916e",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935988,
+    "wof:lastmodified":1566638211,
     "wof:name":"Tarut",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

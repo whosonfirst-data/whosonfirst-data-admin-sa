@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.09405,16.67758,43.13405,16.71758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0637\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343738499,
-    "wof:lastmodified":1537699336,
+    "wof:lastmodified":1566638205,
     "wof:name":"Al Mahattah",
     "wof:parent_id":1108720759,
     "wof:placetype":"locality",

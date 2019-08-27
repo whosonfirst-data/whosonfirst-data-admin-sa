@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.04004,21.90491,42.08004,21.94491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "As S\u016bq"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243077751,
-    "wof:lastmodified":1537699228,
+    "wof:lastmodified":1566638484,
     "wof:name":"As Suq",
     "wof:parent_id":1108720601,
     "wof:placetype":"locality",

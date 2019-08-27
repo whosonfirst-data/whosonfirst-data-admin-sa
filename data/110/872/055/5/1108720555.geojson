@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":21.713609,
     "lbl:longitude":50.544082,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Ash Sharqiyah",
     "meso:adm1_loc":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
     "meso:diss_me":"AlahsaAsh Sharqiyah",
@@ -41,6 +43,7 @@
     "mps:longitude":50.544082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0627\u062d\u0633\u0627\u0621"
     ],
@@ -60,9 +63,9 @@
         "Al-Ahsa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-15",
+    "src:population_date":"2004-09-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-15",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108720555,
-    "wof:lastmodified":1564148775,
+    "wof:lastmodified":1566638371,
     "wof:name":"Al-Ahsa",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

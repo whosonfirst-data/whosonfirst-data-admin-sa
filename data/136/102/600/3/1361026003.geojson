@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.86348,26.28133,43.87348,26.29133",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064f\u0635\u064f\u0631"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1361026003,
-    "wof:lastmodified":1548452892,
+    "wof:lastmodified":1566638437,
     "wof:name":"Al Busur",
     "wof:parent_id":1108720687,
     "wof:placetype":"neighbourhood",

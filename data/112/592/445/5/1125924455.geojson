@@ -9,17 +9,20 @@
     "geom:bbox":"41.6331,21.21406,41.6331,21.21406",
     "geom:latitude":21.21406,
     "geom:longitude":41.6331,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":23235,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":23235,
     "iso:country":"SA",
+    "lbl:bbox":"41.6131,21.19406,41.6531,21.23406",
     "lbl:latitude":21.21406,
     "lbl:longitude":41.6331,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramadan"
     ],
     "qs_pg:aaroncc":"SA",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":64748,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125924455,
-    "wof:lastmodified":1509401010,
+    "wof:lastmodified":1566638479,
     "wof:name":"Turabah",
     "wof:parent_id":1108720781,
     "wof:placetype":"locality",

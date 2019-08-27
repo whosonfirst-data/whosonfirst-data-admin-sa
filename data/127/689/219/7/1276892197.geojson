@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.58107,17.19612,42.62107,17.23612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shakh\u012br"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276892197,
-    "wof:lastmodified":1537699176,
+    "wof:lastmodified":1566638283,
     "wof:name":"Shakhir",
     "wof:parent_id":1108720753,
     "wof:placetype":"locality",

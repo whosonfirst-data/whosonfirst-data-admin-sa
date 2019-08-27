@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.03,18.73,42.07,18.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243186883,
-    "wof:lastmodified":1536682628,
+    "wof:lastmodified":1566638516,
     "wof:name":"Salayah",
     "wof:parent_id":1108720729,
     "wof:placetype":"locality",

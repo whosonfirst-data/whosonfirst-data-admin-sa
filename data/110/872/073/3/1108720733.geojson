@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":27.277865,
     "lbl:longitude":47.083486,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Ash Sharqiyah",
     "meso:adm1_loc":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
     "meso:diss_me":"Qaryah alulyaAsh Sharqiyah",
@@ -41,6 +43,7 @@
     "mps:longitude":47.083486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
     ],
@@ -51,9 +54,9 @@
         "Qaryah alulya"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-15",
+    "src:population_date":"2004-09-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-15",
     "statoids:capital":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108720733,
-    "wof:lastmodified":1560448401,
+    "wof:lastmodified":1566638376,
     "wof:name":"Qaryah al-Ulya",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

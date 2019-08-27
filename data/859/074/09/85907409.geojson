@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9772580.613878,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.57731,24.73379,46.57731,24.73379",
     "geom:latitude":24.73379,
     "geom:longitude":46.57731,
     "iso:country":"SA",
+    "lbl:bbox":"46.57231,24.72879,46.58231,24.73879",
     "lbl:latitude":24.73379,
     "lbl:longitude":46.57731,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.734359,
     "mps:longitude":46.58789,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Al Marih"
-    ],
-    "name:unk_x_variant":[
         "Al Marih"
     ],
     "qs:gn_adm0_cc":"SA",
@@ -57,12 +56,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720543,
-        85676813
+        1108720543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936562,
+    "wof:lastmodified":1566638215,
     "wof:name":"Al Marih",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

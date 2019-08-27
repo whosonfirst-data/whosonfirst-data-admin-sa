@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"40.09694,30.04278,40.13694,30.08278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u1e11 \u1e10ab\u2018\u012byah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277050001,
-    "wof:lastmodified":1537699288,
+    "wof:lastmodified":1566638291,
     "wof:name":"Ad Dab`iyah",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

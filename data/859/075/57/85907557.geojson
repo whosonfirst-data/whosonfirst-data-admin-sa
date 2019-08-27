@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10541178.276996,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.186231,21.484343,39.186231,21.484343",
     "geom:latitude":21.484343,
     "geom:longitude":39.186231,
     "iso:country":"SA",
+    "lbl:bbox":"39.181231,21.479343,39.191231,21.489343",
     "lbl:latitude":21.484343,
     "lbl:longitude":39.186231,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.478748,
     "mps:longitude":39.185326,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:eng_x_preferred":[
         "Al Balad"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0628\u0644\u062f"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -58,12 +57,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676857,
         102191569,
         85632253,
-        1108720715,
-        85676857
+        1108720715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936593,
+    "wof:lastmodified":1566638217,
     "wof:name":"\u0627\u0644\u0628\u0644\u062f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

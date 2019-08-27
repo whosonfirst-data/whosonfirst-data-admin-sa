@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6918138.680851,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.77051,24.729464,46.77051,24.729464",
     "geom:latitude":24.729464,
     "geom:longitude":46.77051,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"46.76551,24.724464,46.77551,24.734464",
     "lbl:latitude":24.729464,
     "lbl:longitude":46.77051,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.735113,
     "mps:longitude":46.769913,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Roudah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0631\u0648\u0636\u0629"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -65,17 +64,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948348,
-        "qs:id":383489,
         "qs_pg:id":383489
     },
     "wof:country":"SA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939530,
+    "wof:lastmodified":1566638226,
     "wof:name":"\u0627\u0644\u0631\u0648\u0636\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

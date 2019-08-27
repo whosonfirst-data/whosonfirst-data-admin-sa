@@ -12,6 +12,8 @@
     "iso:country":"SA",
     "lbl:latitude":21.558873,
     "lbl:longitude":39.250351,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":21.558873,
     "mps:longitude":39.250351,
     "mz:hierarchy_label":1,
@@ -418,7 +420,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0438\u0434\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Djidda"
     ],
     "name:urd_x_preferred":[
@@ -584,12 +586,12 @@
     "wof:concordances":{
         "gn:id":105343,
         "gp:id":1939873,
-        "qs:id":900255,
+        "qs_pg:id":900255,
         "wd:id":"Q374365",
         "wk:page":"Jeddah"
     },
     "wof:concordances_alt":{
-        "qs:id":65441
+        "qs_pg:id":65441
     },
     "wof:country":"SA",
     "wof:created":1459010046,
@@ -604,7 +606,7 @@
         }
     ],
     "wof:id":421200923,
-    "wof:lastmodified":1563327146,
+    "wof:lastmodified":1566638470,
     "wof:name":"Jeddah",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",

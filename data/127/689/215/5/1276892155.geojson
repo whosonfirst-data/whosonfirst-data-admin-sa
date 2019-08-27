@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"45.13665,20.47173,45.17665,20.51173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062f\u064a_\u0627\u0644\u062f\u0648\u0627\u0633\u0631_(\u0645\u062d\u0627\u0641\u0638\u0629)"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1276892155,
-    "wof:lastmodified":1564148663,
+    "wof:lastmodified":1566638284,
     "wof:name":"Wadi ad-Dawasir",
     "wof:parent_id":1108720789,
     "wof:placetype":"locality",

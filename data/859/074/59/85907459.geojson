@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9489291.963096,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.62691,24.680296,46.62691,24.680296",
     "geom:latitude":24.680296,
     "geom:longitude":46.62691,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"46.62191,24.675296,46.63191,24.685296",
     "lbl:latitude":24.680296,
     "lbl:longitude":46.62691,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.680934,
     "mps:longitude":46.626065,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:eng_x_variant":[
         "Al Safarat",
         "As Safarat District"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0633\u0641\u0627\u0631\u0627\u062a"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -66,17 +65,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726034,
-        "qs:id":902477,
         "qs_pg:id":902477
     },
     "wof:country":"SA",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936578,
+    "wof:lastmodified":1566638213,
     "wof:name":"\u0627\u0644\u0633\u0641\u0627\u0631\u0627\u062a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

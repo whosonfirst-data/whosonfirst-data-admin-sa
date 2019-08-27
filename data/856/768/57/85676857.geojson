@@ -30,6 +30,7 @@
     ],
     "lbl:latitude":21.939103,
     "lbl:longitude":41.689276,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
     "mps:latitude":21.939103,
     "mps:longitude":41.689276,
@@ -241,9 +242,7 @@
         "\u041c\u0435\u043a\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629"
-    ],
-    "name:unk_x_variant":[
+        "\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
         "Mecca Region"
     ],
     "name:urd_x_preferred":[
@@ -346,9 +345,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-27",
+    "src:population_date":"2010-04-27",
     "statoids:area_km":"153,128",
     "statoids:area_mi":"59,123",
     "statoids:as_of_date":"2010-04-27",
@@ -372,7 +371,7 @@
         "gp:id":2346959,
         "hasc:id":"SA.MK",
         "iso:id":"SA-02",
-        "qs:id":221725,
+        "qs_pg:id":221725,
         "wd:id":"Q234167"
     },
     "wof:country":"SA",
@@ -391,7 +390,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565736230,
+    "wof:lastmodified":1566638228,
     "wof:name":"Makkah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

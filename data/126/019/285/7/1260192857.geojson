@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.5968,19.99904,42.6368,20.03904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rashw\u0101n",
         "Al-Rawsh\u0101n",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260192857,
-    "wof:lastmodified":1537699236,
+    "wof:lastmodified":1566638356,
     "wof:name":"Ar Rawshan",
     "wof:parent_id":1108720681,
     "wof:placetype":"locality",

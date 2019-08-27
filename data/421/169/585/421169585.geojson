@@ -10,8 +10,11 @@
     "geom:latitude":24.75389,
     "geom:longitude":46.60083,
     "iso:country":"SA",
+    "lbl:bbox":"46.59583,24.74889,46.60583,24.75889",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u1e28i\u0163\u0163\u012bn"
@@ -19,7 +22,7 @@
     "name:ara_x_variant":[
         "\u062d\u0637\u064a\u0646"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hittin"
     ],
     "qs:gn_country":"SA",
@@ -42,16 +45,16 @@
     "qs:woe_id":22725978,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720543,
-        85676813
+        1108720543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":448524,
         "gp:id":22725978,
-        "qs:id":1191449
+        "qs_pg:id":1191449
     },
     "wof:country":"SA",
     "wof:created":1459008816,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421169585,
-    "wof:lastmodified":1531858332,
+    "wof:lastmodified":1566638461,
     "wof:name":"\u062d\u0637\u064a\u0646",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.63673,22.59094,39.67673,22.63094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sha\u2018bah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293171799,
-    "wof:lastmodified":1537699177,
+    "wof:lastmodified":1566638268,
     "wof:name":"Sha`bah",
     "wof:parent_id":1108720725,
     "wof:placetype":"locality",

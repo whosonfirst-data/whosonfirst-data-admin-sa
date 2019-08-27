@@ -10,13 +10,16 @@
     "geom:latitude":24.74278,
     "geom:longitude":46.61472,
     "iso:country":"SA",
+    "lbl:bbox":"46.60972,24.73778,46.61972,24.74778",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u062e\u064a\u0644"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "An Nakh\u012bl"
     ],
     "qs:gn_country":"SA",
@@ -39,16 +42,16 @@
     "qs:woe_id":22726035,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720543,
-        85676813
+        1108720543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":448544,
         "gp:id":22726035,
-        "qs:id":907630
+        "qs_pg:id":907630
     },
     "wof:country":"SA",
     "wof:created":1459009328,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421182377,
-    "wof:lastmodified":1531858486,
+    "wof:lastmodified":1566638472,
     "wof:name":"\u0627\u0644\u0646\u062e\u064a\u0644",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

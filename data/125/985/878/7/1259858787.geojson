@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.9585,27.42684,42.9985,27.46684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064e\u062f\u0627\u0626\u0639"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259858787,
-    "wof:lastmodified":1537699306,
+    "wof:lastmodified":1566638534,
     "wof:name":"Al Bada'i`",
     "wof:parent_id":1108720675,
     "wof:placetype":"locality",

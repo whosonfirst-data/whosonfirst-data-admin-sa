@@ -30,6 +30,7 @@
     ],
     "lbl:latitude":19.125512,
     "lbl:longitude":42.97186,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0639\u0633\u064a\u0631",
     "mps:latitude":19.228652,
     "mps:longitude":43.025265,
@@ -239,9 +240,6 @@
         "\u0410\u0441\u0456\u0440"
     ],
     "name:und_x_variant":[
-        "\u0639\u0633\u064a\u0631"
-    ],
-    "name:unk_x_variant":[
         "Province of Upper Asir"
     ],
     "name:urd_x_preferred":[
@@ -334,9 +332,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-27",
+    "src:population_date":"2010-04-27",
     "statoids:area_km":"76,693",
     "statoids:area_mi":"29,611",
     "statoids:as_of_date":"2010-04-27",
@@ -361,7 +359,7 @@
         "gp:id":2346955,
         "hasc:id":"SA.AS",
         "iso:id":"SA-14",
-        "qs:id":1135308,
+        "qs_pg:id":1135308,
         "unlc:id":"SA-14",
         "wd:id":"Q779855"
     },
@@ -381,7 +379,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565736230,
+    "wof:lastmodified":1566638229,
     "wof:name":"Aseer",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

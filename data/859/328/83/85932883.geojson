@@ -9,14 +9,16 @@
     "geom:bbox":"39.827395,21.421874,39.827395,21.421874",
     "geom:latitude":21.421874,
     "geom:longitude":39.827395,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"SA",
+    "gn:fcode":"PPLX",
     "gn:latitude":21.41866,
     "gn:longitude":39.83356,
+    "gn:population":0,
     "iso:country":"SA",
+    "lbl:bbox":"39.822395,21.416874,39.832395,21.426874",
     "lbl:latitude":21.421874,
     "lbl:longitude":39.827395,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.412884,
     "mps:longitude":39.829985,
     "mz:hierarchy_label":0,
@@ -71,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85676857,
         102191569,
@@ -82,7 +84,6 @@
     "wof:concordances":{
         "gn:id":448543,
         "gp:id":55948479,
-        "qs:id":893112,
         "qs_pg:id":893112,
         "wd:id":"Q4699984"
     },
@@ -102,7 +103,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563326878,
+    "wof:lastmodified":1566638226,
     "wof:name":"\u0627\u062c\u064a\u0627\u062f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.62833,18.245,42.63833,18.255",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Hijla",
         "\u1e28ajlah"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1361025939,
-    "wof:lastmodified":1548452891,
+    "wof:lastmodified":1566638422,
     "wof:name":"Hajlah",
     "wof:parent_id":1108720533,
     "wof:placetype":"neighbourhood",

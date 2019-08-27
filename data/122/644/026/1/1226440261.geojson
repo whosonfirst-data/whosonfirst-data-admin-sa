@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"47.83556,28.08472,47.87556,28.12472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Kabr\u012bt"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226440261,
-    "wof:lastmodified":1537699291,
+    "wof:lastmodified":1566638551,
     "wof:name":"Al Kabrit",
     "wof:parent_id":1108720591,
     "wof:placetype":"locality",

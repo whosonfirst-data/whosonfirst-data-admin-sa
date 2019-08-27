@@ -10,10 +10,13 @@
     "geom:latitude":26.27357,
     "geom:longitude":44.00966,
     "iso:country":"SA",
+    "lbl:bbox":"44.00466,26.26857,44.01466,26.27857",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ruwak"
     ],
     "qs:gn_country":"SA",
@@ -36,16 +39,16 @@
     "qs:woe_id":1939228,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676827,
         102191569,
         85632253,
-        1108720687,
-        85676827
+        1108720687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":102713,
         "gp:id":1939228,
-        "qs:id":1001528
+        "qs_pg:id":1001528
     },
     "wof:country":"SA",
     "wof:created":1459009414,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421184545,
-    "wof:lastmodified":1531858538,
+    "wof:lastmodified":1566638470,
     "wof:name":"\u0631\u0648\u0627\u0642",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

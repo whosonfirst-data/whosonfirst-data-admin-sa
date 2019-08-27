@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.24667,22.51333,39.28667,22.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259397475,
-    "wof:lastmodified":1536981419,
+    "wof:lastmodified":1566638525,
     "wof:name":"Kulayyah",
     "wof:parent_id":1108720739,
     "wof:placetype":"locality",

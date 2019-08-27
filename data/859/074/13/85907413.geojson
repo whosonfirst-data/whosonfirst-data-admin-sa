@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7709643.405159,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.749896,24.795975,46.749896,24.795975",
     "geom:latitude":24.795975,
     "geom:longitude":46.749896,
     "gn:latitude":24.78917,
     "gn:longitude":46.73528,
     "iso:country":"SA",
+    "lbl:bbox":"46.744896,24.790975,46.754896,24.800975",
     "lbl:latitude":24.795975,
     "lbl:longitude":46.749896,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.796189,
     "mps:longitude":46.748604,
     "mz:hierarchy_label":0,
@@ -35,9 +37,8 @@
         "Ghernata",
         "Ghirnatah"
     ],
-    "name:unk_x_variant":[
-        "Ghirn\u0101\u0163ah",
-        "\u063a\u0631\u0646\u0627\u0637\u0629"
+    "name:und_x_variant":[
+        "Ghirn\u0101\u0163ah"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_fcode":"PPLX",
@@ -68,18 +69,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":448533,
         "gp:id":22725986,
-        "qs:id":262714
+        "qs_pg:id":262714
     },
     "wof:country":"SA",
     "wof:geomhash":"8e4b08b2ec2cedf0be34addbda3819d9",
@@ -97,7 +98,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936563,
+    "wof:lastmodified":1566638216,
     "wof:name":"\u063a\u0631\u0646\u0627\u0637\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

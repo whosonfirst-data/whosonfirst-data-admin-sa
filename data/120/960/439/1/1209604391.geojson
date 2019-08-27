@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"45.84979,25.27678,45.88979,25.31678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Th\u0101diq"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1209604391,
-    "wof:lastmodified":1564148716,
+    "wof:lastmodified":1566638324,
     "wof:name":"Thadiq",
     "wof:parent_id":1108720775,
     "wof:placetype":"locality",

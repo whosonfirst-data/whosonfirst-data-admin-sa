@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.13,17.98,43.17,18.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Alist\u0101"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259601439,
-    "wof:lastmodified":1537699260,
+    "wof:lastmodified":1566638541,
     "wof:name":"Alista",
     "wof:parent_id":1108720761,
     "wof:placetype":"locality",

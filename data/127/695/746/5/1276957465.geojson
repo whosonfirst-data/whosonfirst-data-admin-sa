@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.65554,21.55182,39.69554,21.59182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Fay\u1e11"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276957465,
-    "wof:lastmodified":1537699267,
+    "wof:lastmodified":1566638289,
     "wof:name":"Al Fayd",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",

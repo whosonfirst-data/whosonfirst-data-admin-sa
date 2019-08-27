@@ -10,13 +10,16 @@
     "geom:latitude":24.63611,
     "geom:longitude":46.72417,
     "iso:country":"SA",
+    "lbl:bbox":"46.71917,24.63111,46.72917,24.64111",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0642\u0628"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Marqab"
     ],
     "qs:gn_country":"SA",
@@ -39,16 +42,16 @@
     "qs:woe_id":22725924,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":448614,
         "gp:id":22725924,
-        "qs:id":401045
+        "qs_pg:id":401045
     },
     "wof:country":"SA",
     "wof:created":1459009804,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421194409,
-    "wof:lastmodified":1531858727,
+    "wof:lastmodified":1566638461,
     "wof:name":"\u0627\u0644\u0645\u0631\u0643\u0628",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":25.9371,
     "geom:longitude":49.67761,
     "iso:country":"SA",
+    "lbl:bbox":"49.65761,25.9171,49.69761,25.9571",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0642\u064a\u0642"
@@ -88,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u043a\u0430\u0439\u043a"
     ],
-    "name:unk_x_variant":[
-        "Buqayq"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0642\u06cc\u0642"
     ],
@@ -131,7 +132,7 @@
     "wof:concordances":{
         "gn:id":107312,
         "gp:id":1939567,
-        "qs:id":781793,
+        "qs_pg:id":781793,
         "wd:id":"Q27177",
         "wk:page":"Abqaiq"
     },
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":421174347,
-    "wof:lastmodified":1563327128,
+    "wof:lastmodified":1566638463,
     "wof:name":"Abqaiq",
     "wof:parent_id":1108720685,
     "wof:placetype":"locality",

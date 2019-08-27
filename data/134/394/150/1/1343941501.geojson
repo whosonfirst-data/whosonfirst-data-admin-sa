@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.87278,24.29944,43.91278,24.33944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ar Rum\u0101d\u012by\u0101t",
         "Ar Ram\u0101d\u012by\u0101t"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343941501,
-    "wof:lastmodified":1537699237,
+    "wof:lastmodified":1566638198,
     "wof:name":"Ar Ramadiyat",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7677783.901704,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.667441,24.742727,46.667441,24.742727",
     "geom:latitude":24.742727,
     "geom:longitude":46.667441,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"46.662441,24.737727,46.672441,24.747727",
     "lbl:latitude":24.742727,
     "lbl:longitude":46.667441,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.742073,
     "mps:longitude":46.664848,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:eng_x_variant":[
         "Al Malik Fahad Quarter",
         "King Fand District"
-    ],
-    "name:unk_x_variant":[
-        "\u0645\u0631\u0628\u0639 \u0627\u0644\u0645\u0644\u0643 \u0641\u0647\u062f"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -66,17 +65,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726020,
-        "qs:id":1180086,
         "qs_pg:id":1180086
     },
     "wof:country":"SA",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936576,
+    "wof:lastmodified":1566638215,
     "wof:name":"\u0645\u0631\u0628\u0639 \u0627\u0644\u0645\u0644\u0643 \u0641\u0647\u062f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

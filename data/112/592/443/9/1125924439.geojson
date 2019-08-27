@@ -9,15 +9,18 @@
     "geom:bbox":"38.66374,31.67252,38.66374,31.67252",
     "geom:latitude":31.67252,
     "geom:longitude":38.66374,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":40819,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":40819,
     "iso:country":"SA",
+    "lbl:bbox":"38.64374,31.65252,38.68374,31.69252",
     "lbl:latitude":31.67252,
     "lbl:longitude":38.66374,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "Ma\u1e29a\u0163\u0163at a\u0163 \u0162urayf"
@@ -37,7 +40,7 @@
     "name:tur_x_preferred":[
         "Tureyf"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "E\u1e6d \u1e6curaif"
     ],
     "name:zho_x_preferred":[
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":64747,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125924439,
-    "wof:lastmodified":1509401010,
+    "wof:lastmodified":1566638479,
     "wof:name":"\u0162urayf",
     "wof:parent_id":1108720779,
     "wof:placetype":"locality",

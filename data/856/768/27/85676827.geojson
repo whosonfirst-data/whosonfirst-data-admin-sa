@@ -30,6 +30,7 @@
     ],
     "lbl:latitude":26.174592,
     "lbl:longitude":43.370698,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0642\u0635\u064a\u0645",
     "mps:latitude":25.981699,
     "mps:longitude":43.194629,
@@ -217,9 +218,6 @@
         "\u0415\u043b\u044c-\u041a\u0430\u0441\u0438\u043c"
     ],
     "name:und_x_variant":[
-        "\u0627\u0644\u0642\u0635\u064a\u0645"
-    ],
-    "name:unk_x_variant":[
         "El Qasim"
     ],
     "name:urd_x_preferred":[
@@ -312,9 +310,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-27",
+    "src:population_date":"2010-04-27",
     "statoids:area_km":"58,046",
     "statoids:area_mi":"22,412",
     "statoids:as_of_date":"2010-04-27",
@@ -338,7 +336,7 @@
         "gp:id":2346952,
         "hasc:id":"SA.QS",
         "iso:id":"SA-05",
-        "qs:id":1135306,
+        "qs_pg:id":1135306,
         "wd:id":"Q1105411"
     },
     "wof:country":"SA",
@@ -357,7 +355,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565736231,
+    "wof:lastmodified":1566638230,
     "wof:name":"Al-Qassim",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

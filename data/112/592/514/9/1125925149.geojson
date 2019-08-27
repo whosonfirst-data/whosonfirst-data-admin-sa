@@ -9,17 +9,20 @@
     "geom:bbox":"45.46147,25.07007,45.46147,25.07007",
     "geom:latitude":25.07007,
     "geom:longitude":45.46147,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8885,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":8885,
     "iso:country":"SA",
+    "lbl:bbox":"45.44147,25.05007,45.48147,25.09007",
     "lbl:latitude":25.07007,
     "lbl:longitude":45.46147,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marr\u0101t"
     ],
     "qs_pg:aaroncc":"SA",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":65184,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125925149,
-    "wof:lastmodified":1509401047,
+    "wof:lastmodified":1566638481,
     "wof:name":"Mar\u0101t",
     "wof:parent_id":1108720657,
     "wof:placetype":"locality",

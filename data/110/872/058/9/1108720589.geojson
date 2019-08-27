@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":22.391215,
     "lbl:longitude":39.911189,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Makkah",
     "meso:adm1_loc":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
     "meso:diss_me":"AlkamilMakkah",
@@ -41,6 +43,7 @@
     "mps:longitude":39.911189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Al-Kamil"
     ],
@@ -93,9 +96,9 @@
         "Al-Kamil"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-15",
+    "src:population_date":"2004-09-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-15",
     "statoids:capital":"",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108720589,
-    "wof:lastmodified":1564148795,
+    "wof:lastmodified":1566638391,
     "wof:name":"Al-Kamil",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

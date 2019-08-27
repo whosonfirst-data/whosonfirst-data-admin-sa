@@ -9,17 +9,20 @@
     "geom:bbox":"48.49132,28.43905,48.49132,28.43905",
     "geom:latitude":28.43905,
     "geom:longitude":48.49132,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":54857,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":54857,
     "iso:country":"SA",
+    "lbl:bbox":"48.47132,28.41905,48.51132,28.45905",
     "lbl:latitude":28.43905,
     "lbl:longitude":48.49132,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ra\u2019s al Khafj\u012b"
     ],
     "qs_pg:aaroncc":"SA",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":66285,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125927299,
-    "wof:lastmodified":1509401169,
+    "wof:lastmodified":1566638481,
     "wof:name":"Al Khafj\u012b",
     "wof:parent_id":1108720591,
     "wof:placetype":"locality",

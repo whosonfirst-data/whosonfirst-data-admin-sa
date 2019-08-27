@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.57473,24.54502,39.58473,24.55502",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Al \u2018Uy\u016bn"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1361026129,
-    "wof:lastmodified":1564148849,
+    "wof:lastmodified":1566638434,
     "wof:name":"Al `Uyun",
     "wof:parent_id":1108720605,
     "wof:placetype":"neighbourhood",

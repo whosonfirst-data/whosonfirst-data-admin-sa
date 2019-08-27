@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"48.45479,27.45324,48.49479,27.49324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naairiya",
         "An Nu\u2018ayr\u012bya",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259977161,
-    "wof:lastmodified":1537699239,
+    "wof:lastmodified":1566638527,
     "wof:name":"An Nu`ayriyah",
     "wof:parent_id":1108720623,
     "wof:placetype":"locality",

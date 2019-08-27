@@ -10,8 +10,12 @@
     "geom:latitude":20.01288,
     "geom:longitude":41.46767,
     "iso:country":"SA",
+    "lbl:bbox":"41.44767,19.99288,41.48767,20.03288",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0627\u062d\u0629"
@@ -103,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0411\u0430\u0445\u0430"
     ],
-    "name:unk_x_variant":[
-        "Al B\u0101\u1e29ah"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0628\u0627\u062d\u06c1"
     ],
@@ -151,7 +152,7 @@
     "wof:concordances":{
         "gn:id":109953,
         "gp:id":1937501,
-        "qs:id":1353383,
+        "qs_pg:id":1353383,
         "wd:id":"Q27176",
         "wk:page":"Al Bahah"
     },
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421182677,
-    "wof:lastmodified":1563327148,
+    "wof:lastmodified":1566638472,
     "wof:name":"\u0627\u0644\u0628\u0627\u062d\u0629",
     "wof:parent_id":1108720567,
     "wof:placetype":"locality",

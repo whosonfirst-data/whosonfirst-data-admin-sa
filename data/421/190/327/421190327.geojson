@@ -10,8 +10,12 @@
     "geom:latitude":17.490552,
     "geom:longitude":44.132659,
     "iso:country":"SA",
+    "lbl:bbox":"44.112659,17.470552,44.152659,17.510552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1939932,
-        "qs:id":1119494
+        "qs_pg:id":1119494
     },
     "wof:country":"SA",
     "wof:created":1459009654,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421190327,
-    "wof:lastmodified":1500025177,
+    "wof:lastmodified":1566638469,
     "wof:name":"\u0627\u0628\u0627 \u0627\u0644\u0633\u0639\u0648\u062f",
     "wof:parent_id":1108720731,
     "wof:placetype":"locality",

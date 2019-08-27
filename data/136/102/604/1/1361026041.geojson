@@ -24,8 +24,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"49.99444,26.53389,50.00444,26.54389",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Hall\u0101t",
         "Hellat",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1361026041,
-    "wof:lastmodified":1548452892,
+    "wof:lastmodified":1566638428,
     "wof:name":"Hillat Muhish",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",

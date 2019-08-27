@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"46.70376,22.27206,46.74376,22.31206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0641\u0644\u0627\u062c"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1210010257,
-    "wof:lastmodified":1564148733,
+    "wof:lastmodified":1566638336,
     "wof:name":"Layla",
     "wof:parent_id":1108720553,
     "wof:placetype":"locality",

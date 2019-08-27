@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.0055,17.7019,42.0455,17.7419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0642\u064a\u0642"
     ],
@@ -44,8 +48,7 @@
         "Ash Shuqayq Rukbah",
         "Shukeik",
         "Ash Shuqaiq",
-        "Shuqaiq",
-        "Ash Shuqayq"
+        "Shuqaiq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1260043509,
-    "wof:lastmodified":1564148759,
+    "wof:lastmodified":1566638356,
     "wof:name":"Ash Shuqayq",
     "wof:parent_id":1108720631,
     "wof:placetype":"locality",

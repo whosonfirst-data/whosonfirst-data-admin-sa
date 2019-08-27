@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"41.88,16.91333,41.92,16.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "But\u00f3q",
         "B\u016b \u0162awq"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327048169,
-    "wof:lastmodified":1537699220,
+    "wof:lastmodified":1566638155,
     "wof:name":"Bu Tawq",
     "wof:parent_id":1108720697,
     "wof:placetype":"locality",

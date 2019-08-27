@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"41.93552,19.53314,41.97552,19.57314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u0627\u0626\u0639\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260098589,
-    "wof:lastmodified":1537699250,
+    "wof:lastmodified":1566638348,
     "wof:name":"Al Mashayaah",
     "wof:parent_id":1108720673,
     "wof:placetype":"locality",

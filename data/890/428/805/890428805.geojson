@@ -11,11 +11,15 @@
     "geom:longitude":49.91639,
     "gn:country":"SA",
     "gn:fcode":"PPL",
-    "gn:pop":11813,
+    "gn:population":11813,
     "iso:country":"SA",
+    "lbl:bbox":"49.89639,26.63361,49.93639,26.67361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Umm es Sahich"
     ],
     "qs:name":"Umm as S\u0101hik",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":101035,
         "gp:id":1939492,
-        "qs:id":64709
+        "qs_pg:id":64709
     },
     "wof:country":"SA",
     "wof:created":1469051773,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890428805,
-    "wof:lastmodified":1505343508,
+    "wof:lastmodified":1566638474,
     "wof:name":"Umm as S\u0101hik",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

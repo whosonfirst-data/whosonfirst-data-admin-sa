@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2784324.112664,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.57461,24.735002,46.57461,24.735002",
     "geom:latitude":24.735002,
     "geom:longitude":46.57461,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"46.56961,24.730002,46.57961,24.740002",
     "lbl:latitude":24.735002,
     "lbl:longitude":46.57461,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.732612,
     "mps:longitude":46.566905,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Al Bujayri"
-    ],
-    "name:unk_x_variant":[
         "Al Bujayri"
     ],
     "qs:gn_adm0_cc":"SA",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720543,
-        85676813
+        1108720543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725982,
-        "qs:id":1180083,
         "qs_pg:id":1180083
     },
     "wof:country":"SA",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936562,
+    "wof:lastmodified":1566638214,
     "wof:name":"Al Bujayri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

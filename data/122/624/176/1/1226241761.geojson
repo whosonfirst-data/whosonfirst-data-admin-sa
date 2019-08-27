@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"38.90237,24.01829,38.94237,24.05829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Umm \u2018Am\u0101yin"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226241761,
-    "wof:lastmodified":1537699167,
+    "wof:lastmodified":1566638567,
     "wof:name":"Umm `Amayin",
     "wof:parent_id":1108720671,
     "wof:placetype":"locality",

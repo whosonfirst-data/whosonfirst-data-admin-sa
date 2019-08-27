@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"45.79771,28.23036,45.80771,28.24036",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Al F\u012bw\u0101n"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1361026213,
-    "wof:lastmodified":1548452896,
+    "wof:lastmodified":1566638424,
     "wof:name":"Al Fiwan",
     "wof:parent_id":1108720699,
     "wof:placetype":"neighbourhood",

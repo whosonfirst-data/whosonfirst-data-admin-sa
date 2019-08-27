@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.88,21.24667,42.92,21.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Waibani",
         "Wayb\u0101n\u012b"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343968207,
-    "wof:lastmodified":1537699163,
+    "wof:lastmodified":1566638173,
     "wof:name":"Waybani",
     "wof:parent_id":1108720743,
     "wof:placetype":"locality",

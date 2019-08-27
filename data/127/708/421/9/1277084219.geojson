@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.50135,18.0071,43.54135,18.0471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Mal\u0101\u1e29ah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277084219,
-    "wof:lastmodified":1537699325,
+    "wof:lastmodified":1566638275,
     "wof:name":"Al Malahah",
     "wof:parent_id":1108720797,
     "wof:placetype":"locality",

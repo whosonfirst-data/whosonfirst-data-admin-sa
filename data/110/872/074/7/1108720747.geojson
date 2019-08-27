@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":18.185868,
     "lbl:longitude":42.196538,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Aseer",
     "meso:adm1_loc":"\u0639\u0633\u064a\u0631",
     "meso:diss_me":"Rijal AlmaAseer",
@@ -41,6 +43,7 @@
     "mps:longitude":42.196538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0631\u062c\u0627\u0644 \u0627\u0644\u0645\u0639"
     ],
@@ -51,9 +54,9 @@
         "Rijal alma"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-15",
+    "src:population_date":"2004-09-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-15",
     "statoids:capital":"",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108720747,
-    "wof:lastmodified":1560448401,
+    "wof:lastmodified":1566638377,
     "wof:name":"Rijal Alma",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

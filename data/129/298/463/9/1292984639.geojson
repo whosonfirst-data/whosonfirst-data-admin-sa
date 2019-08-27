@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"45.79166,20.80977,45.83166,20.84977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "I\u1e29m\u0101m",
         "Qa\u015fr \u1e28im\u0101m",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292984639,
-    "wof:lastmodified":1537699187,
+    "wof:lastmodified":1566638259,
     "wof:name":"Qasr Hamam",
     "wof:parent_id":1108720663,
     "wof:placetype":"locality",

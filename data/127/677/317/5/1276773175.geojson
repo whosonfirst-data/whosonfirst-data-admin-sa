@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.29667,26.59667,42.33667,26.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276773175,
-    "wof:lastmodified":1536686380,
+    "wof:lastmodified":1566638297,
     "wof:name":"Ash Shirthah",
     "wof:parent_id":1108720661,
     "wof:placetype":"locality",

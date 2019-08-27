@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"45.5862,25.57714,45.6262,25.61714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al \u1e28u\u015f\u016bn"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327452023,
-    "wof:lastmodified":1537699261,
+    "wof:lastmodified":1566638169,
     "wof:name":"Al Husun",
     "wof:parent_id":1108720613,
     "wof:placetype":"locality",

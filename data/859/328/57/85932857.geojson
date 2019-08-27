@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19378861.069919,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.797805,21.407309,39.797805,21.407309",
     "geom:latitude":21.407309,
     "geom:longitude":39.797805,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"39.792805,21.402309,39.802805,21.412309",
     "lbl:latitude":21.407309,
     "lbl:longitude":39.797805,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.411133,
     "mps:longitude":39.791312,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Resaifah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0631\u0635\u064a\u0641\u0629"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -65,17 +64,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676857,
         102191569,
         85632253,
-        1108720727,
-        85676857
+        1108720727
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948354,
-        "qs:id":383490,
         "qs_pg:id":383490
     },
     "wof:country":"SA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939532,
+    "wof:lastmodified":1566638224,
     "wof:name":"\u0627\u0644\u0631\u0635\u064a\u0641\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

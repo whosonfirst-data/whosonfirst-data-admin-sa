@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.20307,23.34498,39.24307,23.38498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243477123,
-    "wof:lastmodified":1536761545,
+    "wof:lastmodified":1566638501,
     "wof:name":"Diraybis",
     "wof:parent_id":1108720671,
     "wof:placetype":"locality",

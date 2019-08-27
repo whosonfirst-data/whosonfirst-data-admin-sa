@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"44.20945,24.18682,44.24945,24.22682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ar Raf\u0101yi\u2018",
         "Ar Raf\u0101\u2019i\u2018"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209704731,
-    "wof:lastmodified":1537699238,
+    "wof:lastmodified":1566638312,
     "wof:name":"Ar Rafa'i`",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",

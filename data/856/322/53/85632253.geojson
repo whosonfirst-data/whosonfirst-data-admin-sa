@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":23.801889,
     "lbl:longitude":44.708041,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":23.801889,
     "mps:longitude":44.708041,
     "mz:hierarchy_label":1,
@@ -894,15 +896,10 @@
     "name:und_x_colloquial":[
         "Saudi-Arabia"
     ],
-    "name:und_x_preferred":[
-        "Arabiemiirikunnat",
-        "Saudova Arabija",
-        "Sa\u00fad\u00ed-Arab\u00eda"
-    ],
     "name:und_x_variant":[
-        "Kraljevina Saudova Arabija"
-    ],
-    "name:unk_x_variant":[
+        "Arabiemiirikunnat",
+        "Sa\u00fad\u00ed-Arab\u00eda",
+        "Kraljevina Saudova Arabija",
         "Al Mamlakah al \u2018Arab\u012byah as Su\u2018\u016bd\u012byah"
     ],
     "name:urd_x_preferred":[
@@ -921,8 +918,7 @@
         "\u1ea2 R\u1eadp Saudi"
     ],
     "name:vie_x_variant":[
-        "A-r\u1eadp X\u00ea-\u00fat",
-        "\u1ea2-r\u1eadp X\u00ea-\u00fat  (Saudi Arabia)"
+        "\u1ea2-r\u1eadp X\u00ea-\u00fat (Saudi Arabia)"
     ],
     "name:vol_x_preferred":[
         "Sauda-Larab\u00e4n"
@@ -1058,7 +1054,7 @@
         "meso",
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"966",
     "statoids:ds":"SA",
@@ -1103,7 +1099,7 @@
         "mzb:id":"saudi-arabia",
         "ne:adm0_a3":"SAU",
         "nyt:id":"7554621737741533021",
-        "qs:id":65045,
+        "qs_pg:id":65045,
         "uncrt:id":"SA",
         "wd:id":"Q851",
         "wk:page":"Saudi Arabia",
@@ -1125,7 +1121,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565736229,
+    "wof:lastmodified":1566638226,
     "wof:name":"Saudi Arabia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

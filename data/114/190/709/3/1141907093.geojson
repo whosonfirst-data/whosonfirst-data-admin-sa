@@ -10,10 +10,14 @@
     "geom:latitude":29.620219,
     "geom:longitude":43.494802,
     "iso:country":"SA",
+    "lbl:bbox":"43.4748022042,29.6002191356,43.5148022042,29.6402191356",
     "lbl:latitude":29.620219,
     "lbl:longitude":43.494802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0641\u062d\u0627\u0621"
     ],
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":1141907093,
-    "wof:lastmodified":1564149041,
+    "wof:lastmodified":1566638581,
     "wof:name":"Rafha",
     "wof:parent_id":1108720741,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"41.04667,20.11333,41.08667,20.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28i\u015fn al Quhayb"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243376351,
-    "wof:lastmodified":1537699209,
+    "wof:lastmodified":1566638487,
     "wof:name":"Hisn al Quhayb",
     "wof:parent_id":1108720735,
     "wof:placetype":"locality",
