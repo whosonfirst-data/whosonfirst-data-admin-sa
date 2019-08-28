@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4165660.009817,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.733396,24.664032,46.733396,24.664032",
     "geom:latitude":24.664032,
     "geom:longitude":46.733396,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"46.728396,24.659032,46.738396,24.669032",
     "lbl:latitude":24.664032,
     "lbl:longitude":46.733396,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.665738,
     "mps:longitude":46.733499,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Malaz Al Shamali"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0645\u0644\u0632 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -65,17 +64,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948705,
-        "qs:id":986759,
         "qs_pg:id":986759
     },
     "wof:country":"SA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939551,
+    "wof:lastmodified":1566638220,
     "wof:name":"\u0627\u0644\u0645\u0644\u0632 \u0627\u0644\u0634\u0645\u0627\u0644\u064a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

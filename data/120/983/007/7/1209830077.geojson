@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.31187,29.21554,43.35187,29.25554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u062f\u0642"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209830077,
-    "wof:lastmodified":1537699291,
+    "wof:lastmodified":1566638311,
     "wof:name":"Al Hadaq",
     "wof:parent_id":1108720741,
     "wof:placetype":"locality",

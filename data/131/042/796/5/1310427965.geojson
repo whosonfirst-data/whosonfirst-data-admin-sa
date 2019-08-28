@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.20614,25.62364,43.24614,25.66364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al As\u0101mir"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310427965,
-    "wof:lastmodified":1537699304,
+    "wof:lastmodified":1566638406,
     "wof:name":"Al Asamir",
     "wof:parent_id":1108720645,
     "wof:placetype":"locality",

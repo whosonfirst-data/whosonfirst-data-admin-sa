@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"40.04347,21.49603,40.08347,21.53603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Ash Shara'i` al `Ulya"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293560107,
-    "wof:lastmodified":1564148630,
+    "wof:lastmodified":1566638257,
     "wof:name":"Ash Shara'i` al `Ulya",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",

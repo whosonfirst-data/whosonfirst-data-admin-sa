@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"50.06333,26.53,50.10333,26.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rufai\u2018a",
         "Rufay\u2018ah"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276778063,
-    "wof:lastmodified":1537699181,
+    "wof:lastmodified":1566638297,
     "wof:name":"Rufay`ah",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

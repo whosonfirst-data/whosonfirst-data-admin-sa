@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"40.29226,23.49045,40.33226,23.53045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u015f \u015ea\u2018biyah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226365183,
-    "wof:lastmodified":1537699334,
+    "wof:lastmodified":1566638578,
     "wof:name":"As Sa`biyah",
     "wof:parent_id":1108720607,
     "wof:placetype":"locality",

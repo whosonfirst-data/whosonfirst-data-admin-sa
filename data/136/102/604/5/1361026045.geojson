@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.545,18.21167,42.555,18.22167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Ad D\u0101r as Sufl\u00e1"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1361026045,
-    "wof:lastmodified":1548452892,
+    "wof:lastmodified":1566638428,
     "wof:name":"Ad Dar as Sufla",
     "wof:parent_id":1108720533,
     "wof:placetype":"neighbourhood",

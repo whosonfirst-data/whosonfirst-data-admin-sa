@@ -10,10 +10,13 @@
     "geom:latitude":26.43389,
     "geom:longitude":50.11528,
     "iso:country":"SA",
+    "lbl:bbox":"50.11028,26.42889,50.12028,26.43889",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ash Shu\u2018aybah"
     ],
     "qs:gn_country":"SA",
@@ -36,16 +39,16 @@
     "qs:woe_id":1938364,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720541,
-        85676819
+        1108720541
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":389860,
         "gp:id":1938364,
-        "qs:id":1189745
+        "qs_pg:id":1189745
     },
     "wof:country":"SA",
     "wof:created":1459010183,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421204359,
-    "wof:lastmodified":1531858844,
+    "wof:lastmodified":1566638461,
     "wof:name":"Ash Shu\u2019aybah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

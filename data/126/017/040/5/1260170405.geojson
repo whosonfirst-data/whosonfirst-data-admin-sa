@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"44.13231,25.25852,44.17231,25.29852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0651\u0650\u0646\u0651\u064e\u0627\u0631\u064a\u0651\u064e\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260170405,
-    "wof:lastmodified":1537699318,
+    "wof:lastmodified":1566638353,
     "wof:name":"As Sinnariyah",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",

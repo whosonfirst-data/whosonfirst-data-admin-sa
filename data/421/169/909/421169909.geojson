@@ -10,8 +10,11 @@
     "geom:latitude":26.280599,
     "geom:longitude":50.205202,
     "iso:country":"SA",
+    "lbl:bbox":"50.200202,26.275599,50.210202,26.285599",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,15 +36,15 @@
     "qs:woe_id":55948380,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720599,
-        85676819
+        1108720599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948380,
-        "qs:id":523864
+        "qs_pg:id":523864
     },
     "wof:country":"SA",
     "wof:created":1459008829,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":421169909,
-    "wof:lastmodified":1531858337,
+    "wof:lastmodified":1566638461,
     "wof:name":"\u0627\u0644\u062b\u0642\u0628\u0647 3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

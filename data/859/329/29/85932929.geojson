@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8601350.803999,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.170349,26.334611,50.170349,26.334611",
     "geom:latitude":26.334611,
     "geom:longitude":50.170349,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"50.165349,26.329611,50.175349,26.339611",
     "lbl:latitude":26.334611,
     "lbl:longitude":50.170349,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.338581,
     "mps:longitude":50.160921,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Northern Al Dohah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062f\u0648\u062d\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -63,17 +62,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720599,
-        85676819
+        1108720599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948686,
-        "qs:id":524058,
         "qs_pg:id":524058
     },
     "wof:country":"SA",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939547,
+    "wof:lastmodified":1566638221,
     "wof:name":"\u0627\u0644\u062f\u0648\u062d\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9610498.64578,
+    "geom:area_square_m":0.0,
     "geom:bbox":"40.432433,21.30124,40.432433,21.30124",
     "geom:latitude":21.30124,
     "geom:longitude":40.432433,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"40.427433,21.29624,40.437433,21.30624",
     "lbl:latitude":21.30124,
     "lbl:longitude":40.432433,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.299611,
     "mps:longitude":40.433115,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Jabra"
-    ],
-    "name:unk_x_variant":[
-        "\u062c\u0628\u0631\u0647"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -63,17 +62,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676857,
         102191569,
         85632253,
-        1108720639,
-        85676857
+        1108720639
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948804,
-        "qs:id":21733,
         "qs_pg:id":21733
     },
     "wof:country":"SA",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939555,
+    "wof:lastmodified":1566638223,
     "wof:name":"\u062c\u0628\u0631\u0647",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

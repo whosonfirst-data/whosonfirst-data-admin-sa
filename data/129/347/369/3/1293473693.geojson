@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"46.71333,22.23,46.75333,22.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u2018Amm\u0101r"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293473693,
-    "wof:lastmodified":1537699240,
+    "wof:lastmodified":1566638250,
     "wof:name":"`Ammar",
     "wof:parent_id":1108720553,
     "wof:placetype":"locality",

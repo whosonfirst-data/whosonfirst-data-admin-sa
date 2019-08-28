@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"41.77507,19.38306,41.81507,19.42306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bur\u0101q",
         "Bar\u0101q",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209022343,
-    "wof:lastmodified":1548455901,
+    "wof:lastmodified":1566638326,
     "wof:name":"Al Barraq",
     "wof:parent_id":1108720633,
     "wof:placetype":"locality",

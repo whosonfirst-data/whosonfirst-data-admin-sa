@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.15111,24.83861,39.19111,24.87861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209614261,
-    "wof:lastmodified":1548455924,
+    "wof:lastmodified":1566638320,
     "wof:name":"Altammah",
     "wof:parent_id":1108720605,
     "wof:placetype":"locality",

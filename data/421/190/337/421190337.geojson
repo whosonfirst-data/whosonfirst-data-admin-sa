@@ -10,8 +10,12 @@
     "geom:latitude":25.410872,
     "geom:longitude":49.68584,
     "iso:country":"SA",
+    "lbl:bbox":"49.66584,25.390872,49.70584,25.430872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1940015,
-        "qs:id":1119506
+        "qs_pg:id":1119506
     },
     "wof:country":"SA",
     "wof:created":1459009654,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421190337,
-    "wof:lastmodified":1527716389,
+    "wof:lastmodified":1566638466,
     "wof:name":"Umran",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":45.57792,
     "gn:country":"SA",
     "gn:fcode":"PPL",
-    "gn:pop":24097,
+    "gn:population":24097,
     "iso:country":"SA",
+    "lbl:bbox":"45.55792,20.44067,45.59792,20.48067",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -55,7 +58,7 @@
     "name:tur_x_preferred":[
         "Es Suleyil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sulaiyil"
     ],
     "name:urd_x_preferred":[
@@ -177,7 +180,7 @@
     "wof:concordances":{
         "gn:id":108048,
         "gp:id":1939770,
-        "qs:id":65683,
+        "qs_pg:id":65683,
         "wd:id":"Q27221",
         "wk:page":"As Sulayyil"
     },
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":890441453,
-    "wof:lastmodified":1563327151,
+    "wof:lastmodified":1566638473,
     "wof:name":"As Sulayyil",
     "wof:parent_id":1108720663,
     "wof:placetype":"locality",

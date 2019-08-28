@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.724,17.05357,42.764,17.09357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0162\u0101hir\u012byah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259801755,
-    "wof:lastmodified":1537699171,
+    "wof:lastmodified":1566638544,
     "wof:name":"Tahiriyah",
     "wof:parent_id":1108720689,
     "wof:placetype":"locality",

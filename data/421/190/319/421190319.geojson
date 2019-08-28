@@ -12,6 +12,8 @@
     "iso:country":"SA",
     "lbl:latitude":21.262184,
     "lbl:longitude":40.42631,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":21.262184,
     "mps:longitude":40.42631,
     "mz:hierarchy_label":1,
@@ -234,7 +236,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0457\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u0101if"
     ],
     "name:urd_x_preferred":[
@@ -384,11 +386,11 @@
     "wof:concordances":{
         "gn:id":107968,
         "gp:id":1939791,
-        "qs:id":1119491,
+        "qs_pg:id":1119491,
         "wd:id":"Q182640"
     },
     "wof:concordances_alt":{
-        "qs:id":65682
+        "qs_pg:id":65682
     },
     "wof:country":"SA",
     "wof:created":1459009654,
@@ -403,7 +405,7 @@
         }
     ],
     "wof:id":421190319,
-    "wof:lastmodified":1563327142,
+    "wof:lastmodified":1566638469,
     "wof:name":"Ta'if",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

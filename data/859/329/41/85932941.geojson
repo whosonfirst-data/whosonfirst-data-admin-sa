@@ -11,8 +11,10 @@
     "geom:longitude":50.117704,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"50.112704,26.447439,50.122704,26.457439",
     "lbl:latitude":26.452439,
     "lbl:longitude":50.117704,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.453355,
     "mps:longitude":50.132491,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Talal"
-    ],
-    "name:unk_x_variant":[
-        "\u0637\u0644\u0627\u0644"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632253
@@ -71,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948698,
-        "qs:id":1318503,
         "qs_pg:id":1318503
     },
     "wof:country":"SA",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548455951,
+    "wof:lastmodified":1566638222,
     "wof:name":"\u0637\u0644\u0627\u0644",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

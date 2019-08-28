@@ -9,13 +9,14 @@
     "geom:bbox":"49.9399632529,26.5221533793,50.0542213387,26.6294735344",
     "geom:latitude":26.572852,
     "geom:longitude":49.99774,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":98259,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":98259,
     "iso:country":"SA",
     "lbl:latitude":26.571139,
     "lbl:longitude":49.990939,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":26.571139,
     "mps:longitude":49.990939,
     "mz:hierarchy_label":1,
@@ -124,8 +125,7 @@
         "\u0415\u043b\u044c-\u041a\u0430\u0442\u0456\u0444"
     ],
     "name:und_x_variant":[
-        "El Katif",
-        "Al Qa\u0163\u012bf"
+        "El Katif"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0637\u06cc\u0641"
@@ -247,8 +247,7 @@
         "qs_pg"
     ],
     "src:geom_via":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -275,7 +274,7 @@
         }
     ],
     "wof:id":1125781573,
-    "wof:lastmodified":1564148904,
+    "wof:lastmodified":1566638483,
     "wof:name":"Al Qatif",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

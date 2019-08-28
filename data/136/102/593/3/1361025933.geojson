@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.53331,24.40828,39.54331,24.41828",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Aby\u0101r \u2018Al\u012b"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1361025933,
-    "wof:lastmodified":1564148834,
+    "wof:lastmodified":1566638423,
     "wof:name":"Abyar `Ali",
     "wof:parent_id":1108720605,
     "wof:placetype":"neighbourhood",

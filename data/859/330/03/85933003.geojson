@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":26434979.667796,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.125182,26.302491,50.125182,26.302491",
     "geom:latitude":26.302491,
     "geom:longitude":50.125182,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"50.120182,26.297491,50.130182,26.307491",
     "lbl:latitude":26.302491,
     "lbl:longitude":50.125182,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.304396,
     "mps:longitude":50.124668,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     ],
     "name:eng_x_variant":[
         "Aramco"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0631\u0627\u0645\u0643\u0648"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -66,17 +65,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720599,
-        85676819
+        1108720599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948947,
-        "qs:id":476824,
         "qs_pg:id":476824
     },
     "wof:country":"SA",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939560,
+    "wof:lastmodified":1566638210,
     "wof:name":"\u0627\u0631\u0627\u0645\u0643\u0648",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

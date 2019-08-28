@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.645,24.395,39.655,24.405",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0642\u0628\u0627\u0621"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1361026065,
-    "wof:lastmodified":1564148851,
+    "wof:lastmodified":1566638436,
     "wof:name":"Qaba'",
     "wof:parent_id":1108720605,
     "wof:placetype":"neighbourhood",

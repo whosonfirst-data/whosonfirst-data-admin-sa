@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"41.6826,27.46718,41.6926,27.47718",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "Sid\u012bs"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1361025935,
-    "wof:lastmodified":1564148834,
+    "wof:lastmodified":1566638423,
     "wof:name":"Sidis",
     "wof:parent_id":1108720703,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.23742,27.26209,42.27742,27.30209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Ar Ruw\u0101q"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276739223,
-    "wof:lastmodified":1537699293,
+    "wof:lastmodified":1566638285,
     "wof:name":"Ar Ruwaq",
     "wof:parent_id":1108720661,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"40.09149,21.5974,40.13149,21.6374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u064a\u0645\u0629"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Zaima",
-        "Zaymah",
-        "Az Zaymah"
+        "Zaymah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293862699,
-    "wof:lastmodified":1564148650,
+    "wof:lastmodified":1566638273,
     "wof:name":"Az Zaymah",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",

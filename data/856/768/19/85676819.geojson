@@ -30,6 +30,7 @@
     ],
     "lbl:latitude":22.531202,
     "lbl:longitude":50.149595,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
     "mps:latitude":22.531202,
     "mps:longitude":50.149595,
@@ -205,7 +206,7 @@
         "Ash Sharqiyah"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1   \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -223,9 +224,6 @@
         "\u0415\u0448-\u0428\u0430\u0440\u043a\u0456\u0439\u044f"
     ],
     "name:und_x_variant":[
-        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
-    ],
-    "name:unk_x_variant":[
         "Hasa"
     ],
     "name:urd_x_preferred":[
@@ -325,9 +323,9 @@
         "meso"
     ],
     "src:geom_via":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-27",
+    "src:population_date":"2010-04-27",
     "statoids:area_km":"672,522",
     "statoids:area_mi":"259,662",
     "statoids:as_of_date":"2010-04-27",
@@ -353,7 +351,7 @@
         "gp:id":2346954,
         "hasc:id":"SA.SH",
         "iso:id":"SA-04",
-        "qs:id":1135307,
+        "qs_pg:id":1135307,
         "unlc:id":"SA-04",
         "wd:id":"Q953508"
     },
@@ -373,7 +371,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565736232,
+    "wof:lastmodified":1566638231,
     "wof:name":"Eastern Province",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

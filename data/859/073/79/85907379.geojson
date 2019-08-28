@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7588124.040032,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.74175,24.642982,46.74175,24.642982",
     "geom:latitude":24.642982,
     "geom:longitude":46.74175,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"46.73675,24.637982,46.74675,24.647982",
     "lbl:latitude":24.642982,
     "lbl:longitude":46.74175,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.63977,
     "mps:longitude":46.759586,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:eng_x_variant":[
         "Al Sinaieyah",
         "As Sina'iyah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -66,17 +65,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725923,
-        "qs:id":482698,
         "qs_pg:id":482698
     },
     "wof:country":"SA",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936553,
+    "wof:lastmodified":1566638213,
     "wof:name":"\u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

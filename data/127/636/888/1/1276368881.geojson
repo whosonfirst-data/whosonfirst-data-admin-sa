@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.4485,24.35418,39.4885,24.39418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al Mufri\u1e29\u0101t"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1276368881,
-    "wof:lastmodified":1564148689,
+    "wof:lastmodified":1566638303,
     "wof:name":"Al Mufrihat",
     "wof:parent_id":1108720605,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7622624.259911,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.778011,24.719806,46.778011,24.719806",
     "geom:latitude":24.719806,
     "geom:longitude":46.778011,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"46.773011,24.714806,46.783011,24.724806",
     "lbl:latitude":24.719806,
     "lbl:longitude":46.778011,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.716844,
     "mps:longitude":46.78189,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:eng_x_variant":[
         "Al Rayan",
         "Ar Rayyan"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0631\u064a\u0627\u0646"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -66,17 +65,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725997,
-        "qs:id":234044,
         "qs_pg:id":234044
     },
     "wof:country":"SA",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936567,
+    "wof:lastmodified":1566638216,
     "wof:name":"\u0627\u0644\u0631\u064a\u0627\u0646",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

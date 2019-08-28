@@ -10,10 +10,14 @@
     "geom:latitude":30.11713,
     "geom:longitude":40.38925,
     "iso:country":"SA",
+    "lbl:bbox":"40.36925,30.09713,40.40925,30.13713",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u015euwayr"
     ],
     "qs:gn_country":"SA",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":392753,
         "gp:id":1939381,
-        "qs:id":433181
+        "qs_pg:id":433181
     },
     "wof:country":"SA",
     "wof:created":1459009959,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421198745,
-    "wof:lastmodified":1505340757,
+    "wof:lastmodified":1566638465,
     "wof:name":"Suwayr",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

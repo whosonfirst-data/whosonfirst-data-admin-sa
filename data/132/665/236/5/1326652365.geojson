@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"49.0377,24.1285,49.0777,24.1685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0631\u0636"
     ],
@@ -38,7 +42,6 @@
         "Haradh"
     ],
     "name:und_x_variant":[
-        "Haradh",
         "Haradh Camp",
         "\u1e28ara\u1e11"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1326652365,
-    "wof:lastmodified":1564148530,
+    "wof:lastmodified":1566638164,
     "wof:name":"Harad",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

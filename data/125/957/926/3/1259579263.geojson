@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"45.0508,23.96873,45.0908,24.00873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ma\u1e29\u0101riqah",
         "Muhairqa",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259579263,
-    "wof:lastmodified":1537699193,
+    "wof:lastmodified":1566638537,
     "wof:name":"Muhayriqah",
     "wof:parent_id":1108720637,
     "wof:placetype":"locality",

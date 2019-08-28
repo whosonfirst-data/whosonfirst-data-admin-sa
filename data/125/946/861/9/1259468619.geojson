@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"44.25778,26.24083,44.29778,26.28083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ruway\u1e11ah",
         "Ar Ruway\u1e11ah",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259468619,
-    "wof:lastmodified":1537699235,
+    "wof:lastmodified":1566638532,
     "wof:name":"Ar Ruwaydat",
     "wof:parent_id":1108720659,
     "wof:placetype":"locality",

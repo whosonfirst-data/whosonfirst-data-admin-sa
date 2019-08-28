@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"44.3904,25.48972,44.4304,25.52972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0636\u0629 \u0648\u064f\u0634\u064e\u064a\u0644\u0627\u0646"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226832967,
-    "wof:lastmodified":1537699322,
+    "wof:lastmodified":1566638570,
     "wof:name":"Rawdat Wuthaylan",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",

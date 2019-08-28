@@ -10,10 +10,13 @@
     "geom:latitude":18.0,
     "geom:longitude":43.43333,
     "iso:country":"SA",
+    "lbl:bbox":"43.42833,17.995,43.43833,18.005",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suwayd"
     ],
     "qs:gn_country":"SA",
@@ -36,16 +39,16 @@
     "qs:woe_id":1939975,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676851,
         102191569,
         85632253,
-        1108720797,
-        85676851
+        1108720797
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":101671,
         "gp:id":1939975,
-        "qs:id":59014
+        "qs_pg:id":59014
     },
     "wof:country":"SA",
     "wof:created":1459010147,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421203327,
-    "wof:lastmodified":1531858822,
+    "wof:lastmodified":1566638462,
     "wof:name":"Suayda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

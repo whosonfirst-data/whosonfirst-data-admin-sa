@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.7936,26.43026,42.8336,26.47026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062b\u0627\u0628\u062a\u064a\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259397097,
-    "wof:lastmodified":1537699321,
+    "wof:lastmodified":1566638525,
     "wof:name":"Ath Thabitiyah",
     "wof:parent_id":1108720569,
     "wof:placetype":"locality",

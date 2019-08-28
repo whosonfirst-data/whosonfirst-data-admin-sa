@@ -11,8 +11,10 @@
     "geom:longitude":50.042092,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"50.037092,26.580883,50.047092,26.590883",
     "lbl:latitude":26.585883,
     "lbl:longitude":50.042092,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.583986,
     "mps:longitude":50.031314,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Murjan"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0645\u0631\u062c\u0627\u0646"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -62,8 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632253
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948593,
-        "qs:id":991498,
         "qs_pg:id":991498
     },
     "wof:country":"SA",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548455950,
+    "wof:lastmodified":1566638222,
     "wof:name":"\u0627\u0644\u0645\u0631\u062c\u0627\u0646",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"38.665,25.77306,38.705,25.81306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wayb\u0101n"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360194523,
-    "wof:lastmodified":1537699329,
+    "wof:lastmodified":1566638448,
     "wof:name":"Wayban",
     "wof:parent_id":1108720641,
     "wof:placetype":"locality",

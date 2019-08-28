@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"38.87527,23.87686,38.91527,23.91686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0631\u0645\u0627\u0621"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1360183655,
-    "wof:lastmodified":1564148863,
+    "wof:lastmodified":1566638445,
     "wof:name":"Al Kharma'",
     "wof:parent_id":1108720671,
     "wof:placetype":"locality",

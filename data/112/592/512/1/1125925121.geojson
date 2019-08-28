@@ -9,20 +9,23 @@
     "geom:bbox":"42.5572,17.45988,42.5572,17.45988",
     "geom:latitude":17.45988,
     "geom:longitude":42.5572,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6117,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":6117,
     "iso:country":"SA",
+    "lbl:bbox":"42.5372,17.43988,42.5772,17.47988",
     "lbl:latitude":17.45988,
     "lbl:longitude":42.5572,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0633\u0644\u064a\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Masliya"
     ],
     "qs_pg:aaroncc":"SA",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":65173,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125925121,
-    "wof:lastmodified":1509401046,
+    "wof:lastmodified":1566638481,
     "wof:name":"Misl\u012byah",
     "wof:parent_id":1108720677,
     "wof:placetype":"locality",

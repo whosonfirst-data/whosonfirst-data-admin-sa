@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"38.15585,30.51312,38.19585,30.55312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uwaysi\u0163"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209733609,
-    "wof:lastmodified":1537699287,
+    "wof:lastmodified":1566638329,
     "wof:name":"Uwaysit",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

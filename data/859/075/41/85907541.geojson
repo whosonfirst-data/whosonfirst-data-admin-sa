@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9337481.576022,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.174991,21.568863,39.174991,21.568863",
     "geom:latitude":21.568863,
     "geom:longitude":39.174991,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"39.169991,21.563863,39.179991,21.573863",
     "lbl:latitude":21.568863,
     "lbl:longitude":39.174991,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.572176,
     "mps:longitude":39.184097,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:eng_x_variant":[
         "Al Faysaleyyah",
         "Al Faysalexyyah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0641\u064a\u0635\u0644\u064a\u0629"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -64,17 +63,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676857,
         102191569,
         85632253,
-        1108720715,
-        85676857
+        1108720715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726085,
-        "qs:id":485009,
         "qs_pg:id":485009
     },
     "wof:country":"SA",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936588,
+    "wof:lastmodified":1566638219,
     "wof:name":"\u0627\u0644\u0641\u064a\u0635\u0644\u064a\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

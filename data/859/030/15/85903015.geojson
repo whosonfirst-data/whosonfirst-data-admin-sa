@@ -9,14 +9,16 @@
     "geom:bbox":"39.127808,21.792658,39.127808,21.792658",
     "geom:latitude":21.792658,
     "geom:longitude":39.127808,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:latitude":21.80389,
     "gn:longitude":39.13667,
+    "gn:population":0,
     "iso:country":"SA",
+    "lbl:bbox":"39.122808,21.787658,39.132808,21.797658",
     "lbl:latitude":21.792658,
     "lbl:longitude":39.127808,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.792657,
     "mps:longitude":39.127808,
     "mz:hierarchy_label":0,
@@ -59,9 +61,8 @@
     "name:nno_x_preferred":[
         "Al Kura`"
     ],
-    "name:unk_x_variant":[
-        "Al-Kir\u00e2\u2018",
-        "Al Kura"
+    "name:und_x_variant":[
+        "Al-Kir\u00e2\u2018"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_fcode":"PPL",
@@ -110,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":24,
     "wof:belongsto":[
         85676857,
@@ -122,7 +123,6 @@
     "wof:concordances":{
         "gn:id":109280,
         "gp:id":1939646,
-        "qs:id":44411,
         "qs_pg:id":44411,
         "wd:id":"Q4704265",
         "wk:page":"Al Kura`"
@@ -143,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563326865,
+    "wof:lastmodified":1566638211,
     "wof:name":"Al Kura",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4041848.815273,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.205034,26.307368,50.205034,26.307368",
     "geom:latitude":26.307368,
     "geom:longitude":50.205034,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"50.200034,26.302368,50.210034,26.312368",
     "lbl:latitude":26.307368,
     "lbl:longitude":50.205034,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.310952,
     "mps:longitude":50.20354,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     ],
     "name:eng_x_variant":[
         "Al Hezam Al Akhdhar"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062d\u0632\u0627\u0645 \u0627\u0644\u0627\u062e\u0636\u0631"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -65,17 +64,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720599,
-        85676819
+        1108720599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948422,
-        "qs:id":1111565,
         "qs_pg:id":1111565
     },
     "wof:country":"SA",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939534,
+    "wof:lastmodified":1566638225,
     "wof:name":"\u0627\u0644\u062d\u0632\u0627\u0645 \u0627\u0644\u0627\u062e\u0636\u0631",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7488459.458367,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.731676,24.777322,46.731676,24.777322",
     "geom:latitude":24.777322,
     "geom:longitude":46.731676,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"SA",
+    "gn:fcode":"PPLX",
     "gn:latitude":24.78028,
     "gn:longitude":46.7175,
+    "gn:population":0,
     "iso:country":"SA",
+    "lbl:bbox":"46.726676,24.772322,46.736676,24.782322",
     "lbl:latitude":24.777322,
     "lbl:longitude":46.731676,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.77729,
     "mps:longitude":46.732117,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     ],
     "name:eng_x_variant":[
         "Al Izdihar"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0627\u0632\u062f\u0647\u0627\u0631"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_fcode":"PPLX",
@@ -92,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85676813,
         102191569,
@@ -103,7 +102,6 @@
     "wof:concordances":{
         "gn:id":448535,
         "gp:id":22726016,
-        "qs:id":1096241,
         "qs_pg:id":1096241
     },
     "wof:country":"SA",
@@ -122,7 +120,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379459,
+    "wof:lastmodified":1566638214,
     "wof:name":"\u0627\u0644\u0627\u0632\u062f\u0647\u0627\u0631",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

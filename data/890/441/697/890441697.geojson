@@ -11,10 +11,14 @@
     "geom:longitude":45.03675,
     "gn:country":"SA",
     "gn:fcode":"PPLL",
-    "gn:pop":1488,
+    "gn:population":1488,
     "iso:country":"SA",
+    "lbl:bbox":"45.01675,27.76248,45.05675,27.80248",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"\u1e28ajrat al Khinbish",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":391699,
         "gp:id":1939444,
-        "qs:id":124555
+        "qs_pg:id":124555
     },
     "wof:country":"SA",
     "wof:created":1469052333,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890441697,
-    "wof:lastmodified":1505343584,
+    "wof:lastmodified":1566638473,
     "wof:name":"\u1e28ajrat al Khinbish",
     "wof:parent_id":1108720699,
     "wof:placetype":"locality",

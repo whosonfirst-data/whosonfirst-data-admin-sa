@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.87024,16.71341,42.91024,16.75341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Quwayda'"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326701789,
-    "wof:lastmodified":1564148523,
+    "wof:lastmodified":1566638160,
     "wof:name":"Quwayda'",
     "wof:parent_id":1108720549,
     "wof:placetype":"locality",

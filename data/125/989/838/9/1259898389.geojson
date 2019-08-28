@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"41.31333,19.08,41.35333,19.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Mushrif"
     ],
     "name:und_x_variant":[
         "Mishrif",
-        "Meshrif",
-        "Mushrif"
+        "Meshrif"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259898389,
-    "wof:lastmodified":1564148989,
+    "wof:lastmodified":1566638545,
     "wof:name":"Mushrif",
     "wof:parent_id":1108720633,
     "wof:placetype":"locality",

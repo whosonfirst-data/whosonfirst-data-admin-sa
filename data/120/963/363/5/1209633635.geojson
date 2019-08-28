@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.73434,23.7086,39.77434,23.7486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abu Rubaiq",
         "Ab\u016b Rubayq"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209633635,
-    "wof:lastmodified":1548455922,
+    "wof:lastmodified":1566638309,
     "wof:name":"Abu Rubayq",
     "wof:parent_id":1108720605,
     "wof:placetype":"locality",

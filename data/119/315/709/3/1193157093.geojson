@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.38,25.84667,43.42,25.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abu Marwa",
         "Ab\u016b Marwah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193157093,
-    "wof:lastmodified":1537699279,
+    "wof:lastmodified":1566638340,
     "wof:name":"Abu Marwah",
     "wof:parent_id":1108720687,
     "wof:placetype":"locality",

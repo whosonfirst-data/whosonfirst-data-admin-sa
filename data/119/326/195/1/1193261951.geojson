@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.09245,22.26272,39.13245,22.30272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062b\u0648\u0644"
     ],
@@ -44,8 +48,7 @@
         "Suval"
     ],
     "name:und_x_variant":[
-        "T\u016bwal",
-        "Thuwal"
+        "T\u016bwal"
     ],
     "name:urd_x_preferred":[
         "\u062b\u0648\u0644"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1193261951,
-    "wof:lastmodified":1564148744,
+    "wof:lastmodified":1566638345,
     "wof:name":"Thuwal",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",

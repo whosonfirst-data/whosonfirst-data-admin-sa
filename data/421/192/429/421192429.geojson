@@ -10,13 +10,16 @@
     "geom:latitude":26.51333,
     "geom:longitude":49.99167,
     "iso:country":"SA",
+    "lbl:bbox":"49.98667,26.50833,49.99667,26.51833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0634"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jish"
     ],
     "qs:gn_country":"SA",
@@ -39,16 +42,16 @@
     "qs:woe_id":1938802,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720627,
-        85676819
+        1108720627
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":105301,
         "gp:id":1938802,
-        "qs:id":1168191
+        "qs_pg:id":1168191
     },
     "wof:country":"SA",
     "wof:created":1459009736,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421192429,
-    "wof:lastmodified":1531858686,
+    "wof:lastmodified":1566638460,
     "wof:name":"\u0627\u0644\u062c\u0627\u0634",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

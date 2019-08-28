@@ -9,15 +9,18 @@
     "geom:bbox":"49.94331,26.56324,49.94331,26.56324",
     "geom:latitude":26.56324,
     "geom:longitude":49.94331,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11460,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":11460,
     "iso:country":"SA",
+    "lbl:bbox":"49.92331,26.54324,49.96331,26.58324",
     "lbl:latitude":26.56324,
     "lbl:longitude":49.94331,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "Al Awj\u0101m"
@@ -46,7 +49,7 @@
     "name:tur_x_preferred":[
         "El Evcem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Ajam"
     ],
     "qs_pg:aaroncc":"SA",
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":66562,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125928063,
-    "wof:lastmodified":1563327161,
+    "wof:lastmodified":1566638480,
     "wof:name":"Al Awj\u0101m",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

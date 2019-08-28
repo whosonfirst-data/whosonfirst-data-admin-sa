@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"46.22991,24.45649,46.26991,24.49649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ghat Ghat"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310194227,
-    "wof:lastmodified":1537699266,
+    "wof:lastmodified":1566638413,
     "wof:name":"Al Ghatghat",
     "wof:parent_id":1108720621,
     "wof:placetype":"locality",

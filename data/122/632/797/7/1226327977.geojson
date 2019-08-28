@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.71024,25.36666,42.75024,25.40666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u0630\u0627\u0648\u064a\u0651\u064e\u0629"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226327977,
-    "wof:lastmodified":1537699258,
+    "wof:lastmodified":1566638558,
     "wof:name":"Al Jardhawiyah",
     "wof:parent_id":1108720645,
     "wof:placetype":"locality",

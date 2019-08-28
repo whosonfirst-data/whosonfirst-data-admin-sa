@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"40.28,20.08,40.32,20.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Riy\u0101\u1e11"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209686677,
-    "wof:lastmodified":1548455926,
+    "wof:lastmodified":1566638318,
     "wof:name":"Riyad",
     "wof:parent_id":1108720603,
     "wof:placetype":"locality",

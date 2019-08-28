@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"41.49667,20.01333,41.53667,20.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Qazz\u0101\u1e29ah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344075353,
-    "wof:lastmodified":1537699246,
+    "wof:lastmodified":1566638186,
     "wof:name":"Al Qazzahah",
     "wof:parent_id":1108720567,
     "wof:placetype":"locality",

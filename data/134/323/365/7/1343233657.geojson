@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.71222,16.97778,42.75222,17.01778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Khabath Sa`id"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343233657,
-    "wof:lastmodified":1564148561,
+    "wof:lastmodified":1566638190,
     "wof:name":"Khabath Sa`id",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",

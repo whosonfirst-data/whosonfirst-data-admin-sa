@@ -10,13 +10,16 @@
     "geom:latitude":24.63667,
     "geom:longitude":46.59667,
     "iso:country":"SA",
+    "lbl:bbox":"46.59167,24.63167,46.60167,24.64167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0647\u062c\u0631\u0629 \u0644\u0628\u0646"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hijrat Laban"
     ],
     "qs:gn_country":"SA",
@@ -39,16 +42,16 @@
     "qs:woe_id":22726032,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":448673,
         "gp:id":22726032,
-        "qs:id":1182147
+        "qs_pg:id":1182147
     },
     "wof:country":"SA",
     "wof:created":1459009750,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421192853,
-    "wof:lastmodified":1531858701,
+    "wof:lastmodified":1566638460,
     "wof:name":"\u0647\u062c\u0631\u0647 \u0648\u0627\u062f\u064a \u0644\u0628\u0646",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

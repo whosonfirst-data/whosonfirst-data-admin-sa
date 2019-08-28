@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3707898.121121,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.700409,24.712903,46.700409,24.712903",
     "geom:latitude":24.712903,
     "geom:longitude":46.700409,
     "iso:country":"SA",
+    "lbl:bbox":"46.695409,24.707903,46.705409,24.717903",
     "lbl:latitude":24.712903,
     "lbl:longitude":46.700409,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.715862,
     "mps:longitude":46.700416,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     ],
     "name:eng_x_variant":[
         "Al Olayya"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0639\u0644\u064a\u0627"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -63,12 +62,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936559,
+    "wof:lastmodified":1566638212,
     "wof:name":"\u0627\u0644\u0639\u0644\u064a\u0627",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

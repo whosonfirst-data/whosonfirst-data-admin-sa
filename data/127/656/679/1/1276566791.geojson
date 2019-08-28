@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"41.99342,18.60178,42.03342,18.64178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jawz\u0101n"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276566791,
-    "wof:lastmodified":1537699204,
+    "wof:lastmodified":1566638286,
     "wof:name":"Jawzan",
     "wof:parent_id":1108720729,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.27185,17.9135,43.31185,17.9535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Z\u0327\u0101hir"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1343575775,
-    "wof:lastmodified":1564148568,
+    "wof:lastmodified":1566638196,
     "wof:name":"Zahir",
     "wof:parent_id":1108720797,
     "wof:placetype":"locality",

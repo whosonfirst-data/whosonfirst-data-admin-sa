@@ -12,6 +12,8 @@
     "iso:country":"SA",
     "lbl:latitude":24.569874,
     "lbl:longitude":46.822839,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":24.569874,
     "mps:longitude":46.822839,
     "mz:hierarchy_label":1,
@@ -453,9 +455,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440-\u0420\u0456\u044f\u0434"
     ],
-    "name:unk_x_variant":[
-        "Riad"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0627\u0636"
     ],
@@ -628,7 +627,7 @@
     "wof:concordances":{
         "gn:id":108410,
         "gp:id":1939753,
-        "qs:id":241147,
+        "qs_pg:id":241147,
         "wd:id":"Q3692",
         "wk:page":"Riyadh"
     },
@@ -645,7 +644,7 @@
         }
     ],
     "wof:id":421204501,
-    "wof:lastmodified":1563327124,
+    "wof:lastmodified":1566638461,
     "wof:name":"Riyadh",
     "wof:parent_id":1108720657,
     "wof:placetype":"locality",

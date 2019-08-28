@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.65389,16.97778,42.69389,17.01778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Malgocta"
     ],
     "name:und_x_variant":[
-        "Malq\u016b\u0163ah",
-        "Malgocta"
+        "Malq\u016b\u0163ah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1292964427,
-    "wof:lastmodified":1564148634,
+    "wof:lastmodified":1566638260,
     "wof:name":"Malgocta",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",

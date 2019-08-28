@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4825760.771745,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.221028,26.295485,50.221028,26.295485",
     "geom:latitude":26.295485,
     "geom:longitude":50.221028,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"50.216028,26.290485,50.226028,26.300485",
     "lbl:latitude":26.295485,
     "lbl:longitude":50.221028,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.295877,
     "mps:longitude":50.217701,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Khobar North 1"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062e\u0628\u0631 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 1"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -62,17 +61,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720599,
-        85676819
+        1108720599
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948369,
-        "qs:id":383491,
         "qs_pg:id":383491
     },
     "wof:country":"SA",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939532,
+    "wof:lastmodified":1566638223,
     "wof:name":"\u0627\u0644\u062e\u0628\u0631 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

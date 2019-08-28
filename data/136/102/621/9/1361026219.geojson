@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"39.90879,21.56425,39.91879,21.57425",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Ar Raw\u1e11ah"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1361026219,
-    "wof:lastmodified":1548452896,
+    "wof:lastmodified":1566638424,
     "wof:name":"Ar Rawdah",
     "wof:parent_id":1108720727,
     "wof:placetype":"neighbourhood",

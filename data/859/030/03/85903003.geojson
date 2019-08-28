@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10415994.795534,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.661255,24.764123,46.661255,24.764123",
     "geom:latitude":24.764123,
     "geom:longitude":46.661255,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"46.656255,24.759123,46.666255,24.769123",
     "lbl:latitude":24.764123,
     "lbl:longitude":46.661255,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.763043,
     "mps:longitude":46.657154,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     "name:eng_x_variant":[
         "Al Mur\u00f8j",
         "Al Marooj"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0645\u0631\u0648\u062c"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -71,17 +70,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1937893,
-        "qs:id":1119448,
         "qs_pg:id":1119448
     },
     "wof:country":"SA",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935983,
+    "wof:lastmodified":1566638210,
     "wof:name":"\u0627\u0644\u0645\u0631\u0648\u062c",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

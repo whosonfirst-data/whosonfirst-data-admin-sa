@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.77631,16.63688,42.81631,16.67688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0627\u0628\u064a"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1277140529,
-    "wof:lastmodified":1564148671,
+    "wof:lastmodified":1566638290,
     "wof:name":"Al Marabi",
     "wof:parent_id":1108720759,
     "wof:placetype":"locality",

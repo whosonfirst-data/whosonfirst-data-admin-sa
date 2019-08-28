@@ -23,8 +23,11 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"46.65794,24.38876,46.66794,24.39876",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "D\u012br\u0101b"
     ],
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1361025911,
-    "wof:lastmodified":1548452891,
+    "wof:lastmodified":1566638432,
     "wof:name":"Dirab",
     "wof:parent_id":1108720657,
     "wof:placetype":"neighbourhood",

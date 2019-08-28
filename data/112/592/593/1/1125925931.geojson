@@ -9,20 +9,23 @@
     "geom:bbox":"44.59964,25.18251,44.59964,25.18251",
     "geom:latitude":25.18251,
     "geom:longitude":44.59964,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11717,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":11717,
     "iso:country":"SA",
+    "lbl:bbox":"44.57964,25.16251,44.61964,25.20251",
     "lbl:latitude":25.18251,
     "lbl:longitude":44.59964,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "S\u0101jir"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "As S\u0101jir"
     ],
     "qs_pg:aaroncc":"SA",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":65687,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125925931,
-    "wof:lastmodified":1509401086,
+    "wof:lastmodified":1566638475,
     "wof:name":"S\u0101jir",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",

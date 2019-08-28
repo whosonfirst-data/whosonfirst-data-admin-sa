@@ -9,16 +9,19 @@
     "geom:bbox":"46.76556,24.72361,46.76556,24.72361",
     "geom:latitude":24.72361,
     "geom:longitude":46.76556,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"SA",
+    "gn:fcode":"PPLX",
     "gn:latitude":24.73628,
     "gn:longitude":46.75671,
+    "gn:population":0,
     "iso:country":"SA",
+    "lbl:bbox":"46.76056,24.71861,46.77056,24.72861",
     "lbl:latitude":24.72361,
     "lbl:longitude":46.76556,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u0636\u0629"
@@ -26,9 +29,8 @@
     "name:eng_x_preferred":[
         "Ar Rawdah"
     ],
-    "name:unk_x_variant":[
-        "Ar Raw\u1e11ah",
-        "Ar Rawdah"
+    "name:und_x_variant":[
+        "Ar Raw\u1e11ah"
     ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
@@ -51,7 +53,7 @@
     "qs_pg:woe_adm0":23424938,
     "qs_pg:woe_id":22725991,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424938,
     "woe:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
     "woe:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
@@ -66,7 +68,6 @@
     "wof:concordances":{
         "gn:id":413847,
         "gp:id":22725991,
-        "qs:id":1182153,
         "qs_pg:id":1182153
     },
     "wof:country":"SA",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1126068533,
-    "wof:lastmodified":1534379459,
+    "wof:lastmodified":1566638483,
     "wof:name":"Ar Rawdah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.070418,26.447328,50.070418,26.447328",
     "geom:latitude":26.447328,
     "geom:longitude":50.070418,
     "iso:country":"SA",
+    "lbl:bbox":"50.065418,26.442328,50.075418,26.452328",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -37,7 +41,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948377,
-        "qs:id":1001034
+        "qs_pg:id":1001034
     },
     "wof:country":"SA",
     "wof:created":1459009413,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":421184515,
-    "wof:lastmodified":1531858535,
+    "wof:lastmodified":1566638471,
     "wof:name":"\u0627\u0644\u0639\u0646\u0648\u062f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

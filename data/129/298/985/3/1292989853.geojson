@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"46.83302,23.46945,46.87302,23.50945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hillah",
         "Al Hilla",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292989853,
-    "wof:lastmodified":1537699263,
+    "wof:lastmodified":1566638260,
     "wof:name":"Al Hillah",
     "wof:parent_id":1108720707,
     "wof:placetype":"locality",

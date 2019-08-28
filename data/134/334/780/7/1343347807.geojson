@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.2487,27.23173,42.2887,27.27173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u064e\u0643"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343347807,
-    "wof:lastmodified":1537699293,
+    "wof:lastmodified":1566638199,
     "wof:name":"Rakk",
     "wof:parent_id":1108720661,
     "wof:placetype":"locality",

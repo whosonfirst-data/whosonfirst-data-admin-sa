@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"38.69784,24.38105,38.73784,24.42105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Maqrah"
     ],
     "name:und_x_variant":[
-        "Maqra",
-        "Maqrah"
+        "Maqra"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0642\u0631\u06c1"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326634919,
-    "wof:lastmodified":1564148528,
+    "wof:lastmodified":1566638163,
     "wof:name":"Maqrah",
     "wof:parent_id":1108720795,
     "wof:placetype":"locality",

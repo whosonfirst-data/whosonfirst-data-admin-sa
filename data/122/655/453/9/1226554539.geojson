@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"43.19749,17.92807,43.23749,17.96807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al M\u0101ni\u2018"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226554539,
-    "wof:lastmodified":1537699253,
+    "wof:lastmodified":1566638571,
     "wof:name":"Al Mani`",
     "wof:parent_id":1108720761,
     "wof:placetype":"locality",

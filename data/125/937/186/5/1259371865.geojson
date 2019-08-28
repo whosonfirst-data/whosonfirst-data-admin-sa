@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"45.14101,25.75605,45.18101,25.79605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al Fur\u016bth\u012b"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259371865,
-    "wof:lastmodified":1537699267,
+    "wof:lastmodified":1566638526,
     "wof:name":"Al Furuthi",
     "wof:parent_id":1108720613,
     "wof:placetype":"locality",

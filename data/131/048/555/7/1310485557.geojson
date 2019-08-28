@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"44.99432,24.05519,45.03432,24.09519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0631\u064a\u0631\u064a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310485557,
-    "wof:lastmodified":1537699310,
+    "wof:lastmodified":1566638398,
     "wof:name":"Al Ghurayri",
     "wof:parent_id":1108720637,
     "wof:placetype":"locality",

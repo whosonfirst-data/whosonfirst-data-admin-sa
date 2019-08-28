@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":22.776315,
     "lbl:longitude":39.272519,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Makkah",
     "meso:adm1_loc":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
     "meso:diss_me":"RabighMakkah",
@@ -41,6 +43,7 @@
     "mps:longitude":39.272519,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0628\u063a"
     ],
@@ -90,9 +93,9 @@
         "\u62c9\u6bd4\u683c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-09-15",
+    "src:population_date":"2004-09-15",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-09-15",
     "statoids:capital":"",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108720739,
-    "wof:lastmodified":1564148779,
+    "wof:lastmodified":1566638376,
     "wof:name":"Rabigh",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

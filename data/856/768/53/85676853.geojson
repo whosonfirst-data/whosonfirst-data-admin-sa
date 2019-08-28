@@ -30,6 +30,7 @@
     ],
     "lbl:latitude":17.312986,
     "lbl:longitude":42.776512,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u062c\u0627\u0632\u0627\u0646",
     "mps:latitude":17.286535,
     "mps:longitude":42.780591,
@@ -174,9 +175,6 @@
         "\u0414\u0436\u0438\u0437\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "\u062c\u0627\u0632\u0627\u0646"
-    ],
-    "name:unk_x_variant":[
         "Jaizan"
     ],
     "name:urd_x_preferred":[
@@ -269,9 +267,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-27",
+    "src:population_date":"2010-04-27",
     "statoids:area_km":"11,671",
     "statoids:area_mi":"4,506",
     "statoids:as_of_date":"2010-04-27",
@@ -296,7 +294,7 @@
         "gp:id":2346956,
         "hasc:id":"SA.JZ",
         "iso:id":"SA-09",
-        "qs:id":1135309,
+        "qs_pg:id":1135309,
         "unlc:id":"SA-09",
         "wd:id":"Q269973"
     },
@@ -316,7 +314,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565736233,
+    "wof:lastmodified":1566638233,
     "wof:name":"Jizan",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

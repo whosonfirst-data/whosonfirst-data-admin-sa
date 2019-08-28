@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10881514.862004,
+    "geom:area_square_m":0.0,
     "geom:bbox":"49.595243,25.444228,49.595243,25.444228",
     "geom:latitude":25.444228,
     "geom:longitude":49.595243,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"49.590243,25.439228,49.600243,25.449228",
     "lbl:latitude":25.444228,
     "lbl:longitude":49.595243,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.442525,
     "mps:longitude":49.594334,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Alrashediyah"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0631\u0627\u0634\u062f\u064a\u0629"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -63,17 +62,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720555,
-        85676819
+        1108720555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948920,
-        "qs:id":383505,
         "qs_pg:id":383505
     },
     "wof:country":"SA",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939555,
+    "wof:lastmodified":1566638221,
     "wof:name":"\u0627\u0644\u0631\u0627\u0634\u062f\u064a\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

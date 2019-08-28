@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"40.46596,22.8557,40.50596,22.8957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u015f \u015eul\u1e29an\u012byah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209246467,
-    "wof:lastmodified":1548455913,
+    "wof:lastmodified":1566638314,
     "wof:name":"As Sulhaniyah",
     "wof:parent_id":1108720607,
     "wof:placetype":"locality",

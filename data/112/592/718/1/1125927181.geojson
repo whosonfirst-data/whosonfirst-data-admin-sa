@@ -9,13 +9,14 @@
     "geom:bbox":"50.0918995555,26.029582977,50.2448361251,26.4211489594",
     "geom:latitude":26.22854,
     "geom:longitude":50.170852,
-    "gn:gn_country":"SA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":165799,
+    "gn:country":"SA",
+    "gn:fcode":"PPL",
     "gn:population":165799,
     "iso:country":"SA",
     "lbl:latitude":26.246921,
     "lbl:longitude":50.176098,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":26.246921,
     "mps:longitude":50.176098,
     "mz:hierarchy_label":1,
@@ -181,9 +182,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0425\u0443\u0431\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Al Khobar"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u062e\u0628\u0631"
     ],
@@ -211,8 +209,7 @@
         "qs_pg"
     ],
     "src:geom_via":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -240,7 +237,7 @@
         }
     ],
     "wof:id":1125927181,
-    "wof:lastmodified":1563327163,
+    "wof:lastmodified":1566638481,
     "wof:name":"Khobar",
     "wof:parent_id":1108720599,
     "wof:placetype":"locality",

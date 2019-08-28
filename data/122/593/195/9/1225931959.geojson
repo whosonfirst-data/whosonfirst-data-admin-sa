@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"42.68627,18.02235,42.72627,18.06235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0639\u0627\u0621"
     ],
     "name:und_x_variant":[
         "Al Qara\u2018ah",
         "Al Qar\u2018\u0101\u2019",
-        "\u0627\u0644\u0642\u0631\u0639\u0627\u0621",
         "Al Qar\u2018ah"
     ],
     "src:geom":"geonames",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1225931959,
-    "wof:lastmodified":1537699248,
+    "wof:lastmodified":1566638548,
     "wof:name":"Al Qar`a'",
     "wof:parent_id":1108720533,
     "wof:placetype":"locality",

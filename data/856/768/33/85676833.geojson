@@ -30,6 +30,7 @@
     ],
     "lbl:latitude":28.585494,
     "lbl:longitude":37.218628,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u062a\u0628\u0648\u0643",
     "mps:latitude":27.941615,
     "mps:longitude":36.833225,
@@ -147,7 +148,7 @@
         "\u0d24\u0d2c\u0d42\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
     ],
     "name:mar_x_preferred":[
-        "\u0924\u093e\u092c\u0942\u0915  \u092a\u094d\u0930\u0926\u0947\u0936"
+        "\u0924\u093e\u092c\u0942\u0915 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
     "name:msa_x_preferred":[
         "Tabuk"
@@ -204,7 +205,7 @@
         "Tabuk"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0baa\u0bc2\u0b95\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0ba4\u0baa\u0bc2\u0b95\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c2c\u0c41\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -220,12 +221,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0431\u0443\u043a"
-    ],
-    "name:und_x_variant":[
-        "\u062a\u0628\u0648\u0643"
-    ],
-    "name:unk_x_variant":[
-        "Min\u0163aqat Tab\u016bk"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0628\u0648\u06a9"
@@ -320,9 +315,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-27",
+    "src:population_date":"2010-04-27",
     "statoids:area_km":"146,072",
     "statoids:area_mi":"56,399",
     "statoids:as_of_date":"2010-04-27",
@@ -348,7 +343,7 @@
         "gp:id":2346962,
         "hasc:id":"SA.TB",
         "iso:id":"SA-07",
-        "qs:id":221726,
+        "qs_pg:id":221726,
         "unlc:id":"SA-07",
         "wd:id":"Q1315953"
     },
@@ -368,7 +363,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565736231,
+    "wof:lastmodified":1566638229,
     "wof:name":"Tabuk",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

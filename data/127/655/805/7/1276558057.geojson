@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"41.86333,16.81333,41.90333,16.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Haima"
     ],
     "name:und_x_variant":[
-        "H\u00e9ma",
-        "Haima"
+        "H\u00e9ma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276558057,
-    "wof:lastmodified":1564148681,
+    "wof:lastmodified":1566638297,
     "wof:name":"Haima",
     "wof:parent_id":1108720697,
     "wof:placetype":"locality",

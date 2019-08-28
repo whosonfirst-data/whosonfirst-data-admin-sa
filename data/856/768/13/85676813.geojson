@@ -30,6 +30,7 @@
     ],
     "lbl:latitude":23.198703,
     "lbl:longitude":45.648245,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0631\u064a\u0627\u0636",
     "mps:latitude":23.127021,
     "mps:longitude":45.805114,
@@ -180,12 +181,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440-\u0420\u0456\u044f\u0434"
     ],
-    "name:und_x_variant":[
-        "\u0627\u0644\u0631\u064a\u0627\u0636"
-    ],
-    "name:unk_x_variant":[
-        "Riyadh"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0644\u0631\u064a\u0627\u0636"
     ],
@@ -279,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-27",
+    "src:population_date":"2010-04-27",
     "statoids:area_km":"404,240",
     "statoids:area_mi":"156,078",
     "statoids:as_of_date":"2010-04-27",
@@ -306,7 +301,7 @@
         "gp:id":2346951,
         "hasc:id":"SA.RI",
         "iso:id":"SA-01",
-        "qs:id":1135302,
+        "qs_pg:id":1135302,
         "unlc:id":"SA-01",
         "wd:id":"Q1249255"
     },
@@ -326,7 +321,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565736234,
+    "wof:lastmodified":1566638235,
     "wof:name":"Ar Riyad",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

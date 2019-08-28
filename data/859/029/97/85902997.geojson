@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4067063.301544,
+    "geom:area_square_m":0.0,
     "geom:bbox":"46.566854,24.746175,46.566854,24.746175",
     "geom:latitude":24.746175,
     "geom:longitude":46.566854,
     "gn:id":"",
     "iso:country":"SA",
+    "lbl:bbox":"46.561854,24.741175,46.571854,24.751175",
     "lbl:latitude":24.746175,
     "lbl:longitude":46.566854,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.749726,
     "mps:longitude":46.565893,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
         "Dhar\u012byah",
         "Ad Diriyah"
     ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062f\u0631\u0639\u064a\u0629"
-    ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
     "qs:gn_local":108410,
@@ -80,17 +79,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720543,
-        85676813
+        1108720543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1937394,
-        "qs:id":1119446,
         "qs_pg:id":1119446
     },
     "wof:country":"SA",
@@ -109,7 +107,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935981,
+    "wof:lastmodified":1566638217,
     "wof:name":"\u0627\u0644\u062f\u0631\u0639\u064a\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
