@@ -84,6 +84,9 @@
     },
     "wof:country":"SA",
     "wof:created":1476123375,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"00eb4e618d5e2512f2263c2fd4edf472",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108720599,
-    "wof:lastmodified":1566638382,
+    "wof:lastmodified":1582326304,
     "wof:name":"Al-Khubar",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

@@ -293,6 +293,9 @@
         "wd:id":"Q201781"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"757d00e76e65d5f4669ed90e5ba0ec2b",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566638234,
+    "wof:lastmodified":1582326299,
     "wof:name":"Northern Borders",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

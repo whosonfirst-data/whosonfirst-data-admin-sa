@@ -328,6 +328,9 @@
         "wd:id":"Q852774"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"79966c97ec5232bcb1a68fca14d7e019",
     "wof:hierarchy":[
         {
@@ -343,7 +346,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566638234,
+    "wof:lastmodified":1582326299,
     "wof:name":"Al-Bahah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

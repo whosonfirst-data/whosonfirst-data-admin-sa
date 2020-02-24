@@ -77,6 +77,10 @@
         "qs_pg:id":1119476
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2671ff62eba1c154476e77829f2bb6ec",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566638211,
+    "wof:lastmodified":1582326292,
     "wof:name":"Al Aziziyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

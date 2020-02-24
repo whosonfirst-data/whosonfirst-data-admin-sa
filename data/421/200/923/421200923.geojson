@@ -595,6 +595,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459010046,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"724414df5916fe8b21a46d7708f9f162",
     "wof:hierarchy":[
         {
@@ -606,7 +609,7 @@
         }
     ],
     "wof:id":421200923,
-    "wof:lastmodified":1566638470,
+    "wof:lastmodified":1582326306,
     "wof:name":"Jeddah",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",

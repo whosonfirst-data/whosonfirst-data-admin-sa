@@ -88,6 +88,9 @@
         "wd:id":"Q4699984"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ff6e2a996c84b1046326693e6c9967e",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566638226,
+    "wof:lastmodified":1582326294,
     "wof:name":"\u0627\u062c\u064a\u0627\u062f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

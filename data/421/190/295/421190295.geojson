@@ -375,6 +375,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459009653,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eff05d531ad60e1e08bebfa269434a80",
     "wof:hierarchy":[
         {
@@ -386,7 +389,7 @@
         }
     ],
     "wof:id":421190295,
-    "wof:lastmodified":1566638467,
+    "wof:lastmodified":1582326306,
     "wof:name":"Abha",
     "wof:parent_id":1108720533,
     "wof:placetype":"locality",

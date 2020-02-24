@@ -633,6 +633,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459010188,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"143c540291e9f4bebd4e42a6a35fd769",
     "wof:hierarchy":[
         {
@@ -644,7 +647,7 @@
         }
     ],
     "wof:id":421204501,
-    "wof:lastmodified":1566638461,
+    "wof:lastmodified":1582326305,
     "wof:name":"Riyadh",
     "wof:parent_id":1108720657,
     "wof:placetype":"locality",

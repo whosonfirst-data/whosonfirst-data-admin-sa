@@ -263,6 +263,9 @@
     },
     "wof:country":"SA",
     "wof:created":1497290505,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"d14102ec56a1edc136c2a4ecdc89f2ce",
     "wof:hierarchy":[
         {
@@ -274,7 +277,7 @@
         }
     ],
     "wof:id":1125781573,
-    "wof:lastmodified":1566638483,
+    "wof:lastmodified":1582326306,
     "wof:name":"Al Qatif",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

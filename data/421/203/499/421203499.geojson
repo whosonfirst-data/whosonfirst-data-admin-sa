@@ -251,6 +251,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459010154,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ba5e47352123e316069c1abf89196385",
     "wof:hierarchy":[
         {
@@ -262,7 +265,7 @@
         }
     ],
     "wof:id":421203499,
-    "wof:lastmodified":1566638462,
+    "wof:lastmodified":1582326305,
     "wof:name":"Hafar al Batin",
     "wof:parent_id":1108720699,
     "wof:placetype":"locality",

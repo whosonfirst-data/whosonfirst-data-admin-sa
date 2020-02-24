@@ -403,6 +403,9 @@
         "wd:id":"Q243656"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be5b99ab70eb792ac8c26cc81a302e20",
     "wof:hierarchy":[
         {
@@ -418,7 +421,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566638232,
+    "wof:lastmodified":1582326299,
     "wof:name":"Ha'il",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

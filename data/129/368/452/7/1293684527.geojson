@@ -77,6 +77,9 @@
         "gn:id":108655
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"058c3d2ee3fadad9afbaeb0e25d01740",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1293684527,
-    "wof:lastmodified":1566638254,
+    "wof:lastmodified":1582326300,
     "wof:name":"Anik",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

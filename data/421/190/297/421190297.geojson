@@ -400,6 +400,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459009653,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14db3559abc9b323b2454e05be33f62d",
     "wof:hierarchy":[
         {
@@ -411,7 +414,7 @@
         }
     ],
     "wof:id":421190297,
-    "wof:lastmodified":1566638468,
+    "wof:lastmodified":1582326306,
     "wof:name":"Dammam",
     "wof:parent_id":1108720541,
     "wof:placetype":"locality",

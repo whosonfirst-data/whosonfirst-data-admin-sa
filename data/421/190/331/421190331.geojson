@@ -173,6 +173,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459009654,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"52a282317d60eed02815b6d30855db73",
     "wof:hierarchy":[
         {
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":421190331,
-    "wof:lastmodified":1566638466,
+    "wof:lastmodified":1582326306,
     "wof:name":"Khamis Mushait",
     "wof:parent_id":1108720717,
     "wof:placetype":"locality",

@@ -669,6 +669,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459010176,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6034a8b66afa59a3581215d87b226f56",
     "wof:hierarchy":[
         {
@@ -680,7 +683,7 @@
         }
     ],
     "wof:id":421204201,
-    "wof:lastmodified":1566638462,
+    "wof:lastmodified":1582326305,
     "wof:name":"Mecca",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",

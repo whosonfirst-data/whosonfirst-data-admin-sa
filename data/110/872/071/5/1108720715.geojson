@@ -81,6 +81,9 @@
     },
     "wof:country":"SA",
     "wof:created":1476123438,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"988af8e9bef5b9d6be6b38c3d2ea86b7",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108720715,
-    "wof:lastmodified":1566638362,
+    "wof:lastmodified":1582326303,
     "wof:name":"Jiddah",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

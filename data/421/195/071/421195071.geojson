@@ -232,6 +232,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459009830,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2fb3cd824299635791ae9188ad753097",
     "wof:hierarchy":[
         {
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":421195071,
-    "wof:lastmodified":1566638460,
+    "wof:lastmodified":1582326305,
     "wof:name":"Al Kharj",
     "wof:parent_id":1108720595,
     "wof:placetype":"locality",

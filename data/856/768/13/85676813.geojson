@@ -306,6 +306,9 @@
         "wd:id":"Q1249255"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ab5ff223c1dccae1cbf61313851c9c5",
     "wof:hierarchy":[
         {
@@ -321,7 +324,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566638235,
+    "wof:lastmodified":1582326299,
     "wof:name":"Ar Riyad",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

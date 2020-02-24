@@ -84,6 +84,9 @@
     },
     "wof:country":"SA",
     "wof:created":1476123389,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"dd580f694fee9253d7e1bf5e81271ed3",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108720627,
-    "wof:lastmodified":1566638367,
+    "wof:lastmodified":1582326303,
     "wof:name":"Al-Qatif",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

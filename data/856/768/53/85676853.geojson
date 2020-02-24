@@ -299,6 +299,9 @@
         "wd:id":"Q269973"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"308abb5a75b947bb5cf43fca53eed599",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566638233,
+    "wof:lastmodified":1582326299,
     "wof:name":"Jizan",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

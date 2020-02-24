@@ -84,6 +84,9 @@
     },
     "wof:country":"SA",
     "wof:created":1476123368,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"879e5fe81cfb624518d3e77a894dafd7",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108720585,
-    "wof:lastmodified":1566638393,
+    "wof:lastmodified":1582326304,
     "wof:name":"Al-Jubayl",
     "wof:parent_id":85676819,
     "wof:placetype":"county",
