@@ -84,6 +84,9 @@
     },
     "wof:country":"SA",
     "wof:created":1476123345,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"c6a0996b8e5832af27d97d85e502521b",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108720541,
-    "wof:lastmodified":1566638369,
+    "wof:lastmodified":1582326303,
     "wof:name":"Ad-Dammam",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

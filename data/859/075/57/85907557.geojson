@@ -69,6 +69,9 @@
         "gp:id":22726098
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"39faef4c5964951abfc460dad4483242",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566638217,
+    "wof:lastmodified":1582326293,
     "wof:name":"\u0627\u0644\u0628\u0644\u062f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

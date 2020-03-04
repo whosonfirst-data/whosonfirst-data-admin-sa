@@ -336,6 +336,9 @@
         "wd:id":"Q1471266"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0af121438abc25d735b3b747d237c535",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566638232,
+    "wof:lastmodified":1582326298,
     "wof:name":"Al Jawf",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

@@ -394,6 +394,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459009654,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2ad95425120f8e705152249262e59001",
     "wof:hierarchy":[
         {
@@ -405,7 +408,7 @@
         }
     ],
     "wof:id":421190319,
-    "wof:lastmodified":1566638469,
+    "wof:lastmodified":1582326306,
     "wof:name":"Ta'if",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

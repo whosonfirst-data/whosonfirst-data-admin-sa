@@ -340,6 +340,9 @@
         "wd:id":"Q1105411"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e9b9667360e85ff1b2df7510bb2970ec",
     "wof:hierarchy":[
         {
@@ -355,7 +358,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566638230,
+    "wof:lastmodified":1582326297,
     "wof:name":"Al-Qassim",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

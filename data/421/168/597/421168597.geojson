@@ -334,6 +334,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459008770,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ec723688fe5db554f88ca690d53f73d",
     "wof:hierarchy":[
         {
@@ -345,7 +348,7 @@
         }
     ],
     "wof:id":421168597,
-    "wof:lastmodified":1566638459,
+    "wof:lastmodified":1582326305,
     "wof:name":"Al Hofuf",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

@@ -128,6 +128,9 @@
         "wk:page":"Al Kura`"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2aed59b39786a04a5d1a5e0d5701aa02",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566638211,
+    "wof:lastmodified":1582326292,
     "wof:name":"Al Kura",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

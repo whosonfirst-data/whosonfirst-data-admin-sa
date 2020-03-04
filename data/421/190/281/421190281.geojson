@@ -212,6 +212,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459009653,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0af538aeeedb941570b267c3c1d862d6",
     "wof:hierarchy":[
         {
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":421190281,
-    "wof:lastmodified":1566638467,
+    "wof:lastmodified":1582326306,
     "wof:name":"Al Qunfudhah",
     "wof:parent_id":1108720633,
     "wof:placetype":"locality",

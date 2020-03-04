@@ -356,6 +356,10 @@
         "wd:id":"Q236027"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b54c4d0b3a48d3696f927bf7e7ce0d3",
     "wof:hierarchy":[
         {
@@ -371,7 +375,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566638235,
+    "wof:lastmodified":1582326300,
     "wof:name":"Al Madinah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

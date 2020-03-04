@@ -226,6 +226,9 @@
     },
     "wof:country":"SA",
     "wof:created":1497296679,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"2b530e61e3dae48ed5a93c12c6950610",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":1125927181,
-    "wof:lastmodified":1566638481,
+    "wof:lastmodified":1582326306,
     "wof:name":"Khobar",
     "wof:parent_id":1108720599,
     "wof:placetype":"locality",

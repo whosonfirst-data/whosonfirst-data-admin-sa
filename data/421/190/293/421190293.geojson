@@ -322,6 +322,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459009653,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fee0e568519893f0df1d46eba1fa0d4c",
     "wof:hierarchy":[
         {
@@ -333,7 +336,7 @@
         }
     ],
     "wof:id":421190293,
-    "wof:lastmodified":1566638467,
+    "wof:lastmodified":1582326306,
     "wof:name":"Yanbu",
     "wof:parent_id":1108720795,
     "wof:placetype":"locality",

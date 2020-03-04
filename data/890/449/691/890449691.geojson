@@ -190,6 +190,9 @@
     },
     "wof:country":"SA",
     "wof:created":1469052703,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"989337455d0ede81d138085afa6c848c",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":890449691,
-    "wof:lastmodified":1566638473,
+    "wof:lastmodified":1582326306,
     "wof:name":"Saihat",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

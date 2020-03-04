@@ -1050,9 +1050,9 @@
     "reversegeo:longitude":44.708041,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes",
-        "meso",
-        "naturalearth"
+        "meso"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1107,6 +1107,12 @@
     },
     "wof:country":"SA",
     "wof:country_alpha3":"SAU",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "quattroshapes",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"02c3f4dddec77e82ec4c4b8217ac2a1b",
     "wof:hierarchy":[
         {
@@ -1121,7 +1127,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566638226,
+    "wof:lastmodified":1583210046,
     "wof:name":"Saudi Arabia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

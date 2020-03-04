@@ -68,6 +68,9 @@
         "gp:id":22725981
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57bd023401dd8d1bc7332d0476992037",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566638215,
+    "wof:lastmodified":1582326292,
     "wof:name":"Al Marih",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

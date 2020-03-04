@@ -364,6 +364,9 @@
         "wd:id":"Q779855"
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35eaaebb0c64c2a02403e9e75d7c9a99",
     "wof:hierarchy":[
         {
@@ -379,7 +382,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566638229,
+    "wof:lastmodified":1582326297,
     "wof:name":"Aseer",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

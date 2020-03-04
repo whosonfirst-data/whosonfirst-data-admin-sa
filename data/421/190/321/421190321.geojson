@@ -306,6 +306,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459009654,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e5023f68433e60498c30673741347a88",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":421190321,
-    "wof:lastmodified":1566638469,
+    "wof:lastmodified":1582326306,
     "wof:name":"Dhahran",
     "wof:parent_id":1108720599,
     "wof:placetype":"locality",

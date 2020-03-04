@@ -338,6 +338,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459009654,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc3b9bed9a0c512b762277067b36e762",
     "wof:hierarchy":[
         {
@@ -349,7 +352,7 @@
         }
     ],
     "wof:id":421190329,
-    "wof:lastmodified":1566638469,
+    "wof:lastmodified":1582326306,
     "wof:name":"Tabuk",
     "wof:parent_id":1108720767,
     "wof:placetype":"locality",

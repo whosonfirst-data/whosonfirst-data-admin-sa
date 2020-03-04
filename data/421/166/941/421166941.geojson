@@ -536,6 +536,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459008708,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ceccd1e9cc84acca1e3c71f8d5e23ca",
     "wof:hierarchy":[
         {
@@ -547,7 +550,7 @@
         }
     ],
     "wof:id":421166941,
-    "wof:lastmodified":1566638460,
+    "wof:lastmodified":1582326305,
     "wof:name":"Medina",
     "wof:parent_id":1108720605,
     "wof:placetype":"locality",

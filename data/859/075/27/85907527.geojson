@@ -76,6 +76,10 @@
         "qs_pg:id":366862
     },
     "wof:country":"SA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92366cb353184ff8969129c6c04e0bcf",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566638218,
+    "wof:lastmodified":1582326293,
     "wof:name":"\u0627\u0644\u0632\u0647\u0631\u0627\u0621",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

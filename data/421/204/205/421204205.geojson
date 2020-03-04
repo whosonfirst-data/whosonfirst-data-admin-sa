@@ -332,6 +332,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459010177,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cb8490f753c76fbc40a444f80a7ac52a",
     "wof:hierarchy":[
         {
@@ -343,7 +346,7 @@
         }
     ],
     "wof:id":421204205,
-    "wof:lastmodified":1566638461,
+    "wof:lastmodified":1582326305,
     "wof:name":"Buraydah",
     "wof:parent_id":1108720687,
     "wof:placetype":"locality",

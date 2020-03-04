@@ -292,6 +292,9 @@
     },
     "wof:country":"SA",
     "wof:created":1459009654,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cccdb0b5e3f31e839abdf98a807559ca",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":421190323,
-    "wof:lastmodified":1566638467,
+    "wof:lastmodified":1582326306,
     "wof:name":"Ha'il",
     "wof:parent_id":1108720703,
     "wof:placetype":"locality",

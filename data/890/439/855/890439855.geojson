@@ -311,6 +311,10 @@
     },
     "wof:country":"SA",
     "wof:created":1469052252,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "unknown"
+    ],
     "wof:geomhash":"519d3c39ea2b31a0c4f725aca526dff4",
     "wof:hierarchy":[
         {
@@ -322,7 +326,7 @@
         }
     ],
     "wof:id":890439855,
-    "wof:lastmodified":1566638474,
+    "wof:lastmodified":1582326306,
     "wof:name":"Al Jubayl",
     "wof:parent_id":1108720585,
     "wof:placetype":"locality",
