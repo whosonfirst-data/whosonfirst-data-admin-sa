@@ -1083,9 +1083,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Saudi_Arabia",
-        "digitalenvoy:country_code":[
-            682
-        ],
+        "digitalenvoy:country_code":682,
         "fb:id":"en.saudi_arabia",
         "fifa:id":"KSA",
         "fips:code":"SA",
@@ -1130,7 +1128,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529219,
+    "wof:lastmodified":1583797427,
     "wof:name":"Saudi Arabia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
