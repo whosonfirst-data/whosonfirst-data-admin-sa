@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0642\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "An Naqrah"
+    ],
     "qs:gn_country":"SA",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":395015,
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":421185149,
-    "wof:lastmodified":1566638473,
-    "wof:name":"\u0627\u0644\u0646\u0642\u0631\u0629",
+    "wof:lastmodified":1601068393,
+    "wof:name":"An Naqrah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

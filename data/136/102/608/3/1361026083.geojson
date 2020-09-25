@@ -16,6 +16,12 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u0627\u064a\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Al Cheraia"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":1361026083,
-    "wof:lastmodified":1566638435,
-    "wof:name":"\u0627\u0644\u0634\u0631\u0627\u064a\u0639",
+    "wof:lastmodified":1601068391,
+    "wof:name":"Al Cheraia",
     "wof:parent_id":1108720727,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

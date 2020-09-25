@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0641\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "An Nafal"
+    ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
     "qs_pg:gn_fcode":"PPLX",
@@ -72,8 +78,8 @@
         }
     ],
     "wof:id":1126061859,
-    "wof:lastmodified":1534379459,
-    "wof:name":"\u0627\u0644\u0646\u0641\u0644",
+    "wof:lastmodified":1601068393,
+    "wof:name":"An Nafal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

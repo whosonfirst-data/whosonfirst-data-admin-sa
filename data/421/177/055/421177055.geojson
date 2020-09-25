@@ -17,10 +17,14 @@
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u015eiy\u0101\u1e29"
+        "\u0635\u064a\u0627\u062d"
     ],
     "name:ara_x_variant":[
-        "\u0635\u064a\u0627\u062d"
+        "\u0635\u064a\u0627\u062d",
+        "\u015eiy\u0101\u1e29"
+    ],
+    "name:eng_x_preferred":[
+        "Siyah"
     ],
     "qs:gn_country":"SA",
     "qs:gn_fcode":"PPLX",
@@ -67,8 +71,8 @@
         }
     ],
     "wof:id":421177055,
-    "wof:lastmodified":1566638471,
-    "wof:name":"\u0635\u064a\u0627\u062d",
+    "wof:lastmodified":1601068398,
+    "wof:name":"Siyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

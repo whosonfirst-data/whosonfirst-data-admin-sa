@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0641\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Arafah"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421190311,
-    "wof:lastmodified":1566638469,
-    "wof:name":"\u0639\u0631\u0641\u0647",
+    "wof:lastmodified":1601068398,
+    "wof:name":"Arafah",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",

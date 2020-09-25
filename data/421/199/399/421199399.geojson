@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jubail"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -44,7 +50,7 @@
     },
     "wof:country":"SA",
     "wof:created":1459009988,
-    "wof:geomhash":"9aae0f3eed242d4f62300a2c18b51502",
+    "wof:geomhash":"84d274cee2f7abb6eb4ad1d588d0565a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":421199399,
-    "wof:lastmodified":1476123547,
-    "wof:name":"\u0627\u0644\u062c\u0628\u064a\u0644",
+    "wof:lastmodified":1601068389,
+    "wof:name":"Al Jubail",
     "wof:parent_id":85676819,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-sa",
