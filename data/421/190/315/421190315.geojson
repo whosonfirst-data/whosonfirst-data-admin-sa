@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"42.5670425,16.883855,42.5670425,16.883855",
+    "geom:bbox":"42.567042,16.883855,42.567042,16.883855",
     "geom:latitude":16.883855,
     "geom:longitude":42.567042,
     "iso:country":"SA",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0632\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Jazan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676853,
-        1108720713
+        1108720713,
+        85676853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"SA",
     "wof:created":1459009654,
-    "wof:geomhash":"357f13765dfc82048f70dc0a27c896a5",
+    "wof:geomhash":"087034f6cfdd8852245a53d3abb6bc3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421190315,
-    "wof:lastmodified":1566638467,
-    "wof:name":"\u062c\u0627\u0632\u0627\u0646",
+    "wof:lastmodified":1601423089,
+    "wof:name":"Jazan",
     "wof:parent_id":1108720713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.5670425,
+    42.567042,
     16.883855,
-    42.5670425,
+    42.567042,
     16.883855
 ],
-  "geometry": {"coordinates":[42.5670425,16.883855],"type":"Point"}
+  "geometry": {"coordinates":[42.567042,16.883855],"type":"Point"}
 }

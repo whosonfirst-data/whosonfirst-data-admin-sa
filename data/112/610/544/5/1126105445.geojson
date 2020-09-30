@@ -21,6 +21,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u0646\u0627\u0637\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ghirnatah"
+    ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
     "qs_pg:gn_fcode":"PPLX",
@@ -48,10 +54,10 @@
     "woe:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,8 +79,8 @@
         }
     ],
     "wof:id":1126105445,
-    "wof:lastmodified":1566638481,
-    "wof:name":"\u063a\u0631\u0646\u0627\u0637\u0629",
+    "wof:lastmodified":1601423089,
+    "wof:name":"Ghirnatah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

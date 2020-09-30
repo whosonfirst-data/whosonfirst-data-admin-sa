@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.3881395,24.514162,46.3881395,24.514162",
+    "geom:bbox":"46.38814,24.514162,46.38814,24.514162",
     "geom:latitude":24.514162,
     "geom:longitude":46.38814,
     "iso:country":"SA",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0648\u0631 \u0645\u0642\u0628\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Moqbel Palaces"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676813,
-        1108720695
+        1108720695,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"SA",
     "wof:created":1459009653,
-    "wof:geomhash":"e167d81747fbeb17f8d45ae7942ad064",
+    "wof:geomhash":"26c819c1d0a02ebe50426b57ab3b3be3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421190291,
-    "wof:lastmodified":1566638468,
-    "wof:name":"\u0642\u0635\u0648\u0631 \u0645\u0642\u0628\u0644",
+    "wof:lastmodified":1601423085,
+    "wof:name":"Al Moqbel Palaces",
     "wof:parent_id":1108720695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.3881395,
+    46.38814,
     24.514162,
-    46.3881395,
+    46.38814,
     24.514162
 ],
-  "geometry": {"coordinates":[46.3881395,24.514162],"type":"Point"}
+  "geometry": {"coordinates":[46.38814,24.514162],"type":"Point"}
 }
