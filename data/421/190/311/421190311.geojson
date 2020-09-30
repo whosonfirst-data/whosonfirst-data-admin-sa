@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676857,
-        1108720639
+        1108720639,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190311,
-    "wof:lastmodified":1601068398,
+    "wof:lastmodified":1601423087,
     "wof:name":"Arafah",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

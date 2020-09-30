@@ -42,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676825,
-        1108720795
+        1108720795,
+        85676825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":421190285,
-    "wof:lastmodified":1601068401,
+    "wof:lastmodified":1601423094,
     "wof:name":"Yanbu Industrial",
     "wof:parent_id":1108720795,
     "wof:placetype":"locality",

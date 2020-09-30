@@ -54,10 +54,10 @@
     "woe:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1126105445,
-    "wof:lastmodified":1601068399,
+    "wof:lastmodified":1601423089,
     "wof:name":"Ghirnatah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

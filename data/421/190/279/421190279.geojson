@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676813,
-        1108720667
+        1108720667,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190279,
-    "wof:lastmodified":1601068390,
+    "wof:lastmodified":1601423087,
     "wof:name":"Az Zulfi",
     "wof:parent_id":1108720667,
     "wof:placetype":"locality",

@@ -42,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676857,
-        1108720727
+        1108720727,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":421190277,
-    "wof:lastmodified":1601068391,
+    "wof:lastmodified":1601423083,
     "wof:name":"Al Cheraia",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",

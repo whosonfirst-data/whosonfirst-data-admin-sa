@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.1534915,24.004991,47.1534915,24.004991",
+    "geom:bbox":"47.153492,24.004991,47.153492,24.004991",
     "geom:latitude":24.004991,
     "geom:longitude":47.153492,
     "iso:country":"SA",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676813,
-        1108720595
+        1108720595,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"SA",
     "wof:created":1459009652,
-    "wof:geomhash":"4c3c5408b22c86f5cfc990c201eb0f04",
+    "wof:geomhash":"414827b2e99beb0a29f7fce1375b8910",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190275,
-    "wof:lastmodified":1601068390,
+    "wof:lastmodified":1601423083,
     "wof:name":"Ad Dilam",
     "wof:parent_id":1108720595,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.1534915,
+    47.153492,
     24.004991,
-    47.1534915,
+    47.153492,
     24.004991
 ],
-  "geometry": {"coordinates":[47.1534915,24.004991],"type":"Point"}
+  "geometry": {"coordinates":[47.153492,24.004991],"type":"Point"}
 }

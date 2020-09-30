@@ -53,10 +53,10 @@
     "woe:name_adm1":"\u0645\u0643\u0629",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720727
+        1108720727,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1126069633,
-    "wof:lastmodified":1601068388,
+    "wof:lastmodified":1601423083,
     "wof:name":"Ajyad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

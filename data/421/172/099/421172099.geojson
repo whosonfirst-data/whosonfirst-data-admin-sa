@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"40.3201955,21.077619,40.3201955,21.077619",
+    "geom:bbox":"40.320195,21.077619,40.320195,21.077619",
     "geom:latitude":21.077619,
     "geom:longitude":40.320195,
     "iso:country":"SA",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676857,
-        1108720639
+        1108720639,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"SA",
     "wof:created":1459008920,
-    "wof:geomhash":"d2b667cf41a5a3a9f1feb759551dccd4",
+    "wof:geomhash":"32f2a81c0369b9dc2449b5ecbb29ec50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421172099,
-    "wof:lastmodified":1601068391,
+    "wof:lastmodified":1601423086,
     "wof:name":"Al Shifa",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.3201955,
+    40.320195,
     21.077619,
-    40.3201955,
+    40.320195,
     21.077619
 ],
-  "geometry": {"coordinates":[40.3201955,21.077619],"type":"Point"}
+  "geometry": {"coordinates":[40.320195,21.077619],"type":"Point"}
 }

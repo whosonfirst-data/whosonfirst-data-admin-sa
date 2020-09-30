@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.0537965,26.715713,50.0537965,26.715713",
+    "geom:bbox":"50.053796,26.715713,50.053796,26.715713",
     "geom:latitude":26.715713,
     "geom:longitude":50.053796,
     "iso:country":"SA",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676819,
-        1108720745
+        1108720745,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"SA",
     "wof:created":1459009653,
-    "wof:geomhash":"23d891cb0ab5917f7921f62fd455f710",
+    "wof:geomhash":"f2e276c14dfe5cccd9f54a2c1c466430",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190283,
-    "wof:lastmodified":1601068396,
+    "wof:lastmodified":1601423091,
     "wof:name":"Ras Tanura",
     "wof:parent_id":1108720745,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.0537965,
+    50.053796,
     26.715713,
-    50.0537965,
+    50.053796,
     26.715713
 ],
-  "geometry": {"coordinates":[50.0537965,26.715713],"type":"Point"}
+  "geometry": {"coordinates":[50.053796,26.715713],"type":"Point"}
 }

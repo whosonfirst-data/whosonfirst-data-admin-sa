@@ -35,10 +35,10 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1108720599
+        1108720599,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":890443133,
-    "wof:lastmodified":1601068389,
+    "wof:lastmodified":1601423083,
     "wof:name":"Al Bandariyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

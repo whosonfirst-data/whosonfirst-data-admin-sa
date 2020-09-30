@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676819,
-        1108720541
+        1108720541,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421172097,
-    "wof:lastmodified":1601068399,
+    "wof:lastmodified":1601423083,
     "wof:name":"Al Dhabia Castle",
     "wof:parent_id":1108720541,
     "wof:placetype":"locality",

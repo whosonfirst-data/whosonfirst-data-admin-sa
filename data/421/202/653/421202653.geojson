@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"40.261974,21.3635405,40.261974,21.3635405",
+    "geom:bbox":"40.261974,21.36354,40.261974,21.36354",
     "geom:latitude":21.36354,
     "geom:longitude":40.261974,
     "iso:country":"SA",
@@ -21,7 +21,7 @@
         "\u0627\u0644\u0647\u062f\u0627"
     ],
     "name:eng_x_preferred":[
-        "Al Hada "
+        "Al Hada"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676857,
-        1108720639
+        1108720639,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"SA",
     "wof:created":1459010125,
-    "wof:geomhash":"a280b2041571ec4d5dcc2263e22359e9",
+    "wof:geomhash":"e72f8c7e7b96ec7ab05f52c48679d029",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,8 +66,8 @@
         }
     ],
     "wof:id":421202653,
-    "wof:lastmodified":1601068393,
-    "wof:name":"Al Hada ",
+    "wof:lastmodified":1601423084,
+    "wof:name":"Al Hada",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -77,9 +77,9 @@
 },
   "bbox": [
     40.261974,
-    21.3635405,
+    21.36354,
     40.261974,
-    21.3635405
+    21.36354
 ],
-  "geometry": {"coordinates":[40.261974,21.3635405],"type":"Point"}
+  "geometry": {"coordinates":[40.261974,21.36354],"type":"Point"}
 }
