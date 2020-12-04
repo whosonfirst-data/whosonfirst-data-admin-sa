@@ -286,10 +286,11 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676853,
-        1108720713
+        1108720713,
+        85676853
     ],
     "wof:breaches":[],
+    "wof:capital_of":85676853,
     "wof:concordances":{
         "gn:id":105299,
         "gp:id":1939874,
@@ -309,7 +310,7 @@
         }
     ],
     "wof:id":890439853,
-    "wof:lastmodified":1566638474,
+    "wof:lastmodified":1607124827,
     "wof:name":"J\u012bz\u0101n",
     "wof:parent_id":1108720713,
     "wof:placetype":"locality",

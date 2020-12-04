@@ -248,10 +248,11 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676843,
-        1108720757
+        1108720757,
+        85676843
     ],
     "wof:breaches":[],
+    "wof:capital_of":85676843,
     "wof:concordances":{
         "gn:id":102527,
         "gp:id":1939255,
@@ -272,7 +273,7 @@
         }
     ],
     "wof:id":421175379,
-    "wof:lastmodified":1566638465,
+    "wof:lastmodified":1607124827,
     "wof:name":"Sakaka",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",
