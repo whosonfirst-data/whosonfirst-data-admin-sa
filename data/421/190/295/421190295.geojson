@@ -364,7 +364,9 @@
         85676851
     ],
     "wof:breaches":[],
-    "wof:capital_of":85676851,
+    "wof:capital_of":[
+        85676851
+    ],
     "wof:concordances":{
         "gn:id":110690,
         "gp:id":1939566,
@@ -390,7 +392,7 @@
         }
     ],
     "wof:id":421190295,
-    "wof:lastmodified":1607124827,
+    "wof:lastmodified":1607462741,
     "wof:name":"Abha",
     "wof:parent_id":1108720533,
     "wof:placetype":"locality",

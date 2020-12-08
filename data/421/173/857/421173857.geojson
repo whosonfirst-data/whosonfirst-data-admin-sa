@@ -249,7 +249,9 @@
         85676809
     ],
     "wof:breaches":[],
-    "wof:capital_of":85676809,
+    "wof:capital_of":[
+        85676809
+    ],
     "wof:concordances":{
         "gn:id":103630,
         "gp:id":56447937,
@@ -271,7 +273,7 @@
         }
     ],
     "wof:id":421173857,
-    "wof:lastmodified":1607124825,
+    "wof:lastmodified":1607462739,
     "wof:name":"\u0646\u062c\u0631\u0627\u0646",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

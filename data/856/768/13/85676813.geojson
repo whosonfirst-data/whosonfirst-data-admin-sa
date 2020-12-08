@@ -295,6 +295,9 @@
         85632253
     ],
     "wof:breaches":[],
+    "wof:capital":[
+        421204501
+    ],
     "wof:concordances":{
         "fips:code":"SA10",
         "gn:id":108411,
@@ -324,7 +327,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1607124826,
+    "wof:lastmodified":1607462739,
     "wof:name":"Ar Riyad",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

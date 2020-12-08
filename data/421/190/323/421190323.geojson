@@ -281,7 +281,9 @@
         85676831
     ],
     "wof:breaches":[],
-    "wof:capital_of":85676831,
+    "wof:capital_of":[
+        85676831
+    ],
     "wof:concordances":{
         "gn:id":106281,
         "gp:id":1939851,
@@ -307,7 +309,7 @@
         }
     ],
     "wof:id":421190323,
-    "wof:lastmodified":1607124826,
+    "wof:lastmodified":1607462740,
     "wof:name":"Ha'il",
     "wof:parent_id":1108720703,
     "wof:placetype":"locality",

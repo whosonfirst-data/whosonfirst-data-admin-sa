@@ -389,7 +389,9 @@
         85676819
     ],
     "wof:breaches":[],
-    "wof:capital_of":85676819,
+    "wof:capital_of":[
+        85676819
+    ],
     "wof:concordances":{
         "gn:id":110336,
         "gp:id":1939574,
@@ -415,7 +417,7 @@
         }
     ],
     "wof:id":421190297,
-    "wof:lastmodified":1607124826,
+    "wof:lastmodified":1607462740,
     "wof:name":"Dammam",
     "wof:parent_id":1108720541,
     "wof:placetype":"locality",
