@@ -54,10 +54,13 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676837,
-        1108720651
+        1108720651,
+        85676837
     ],
     "wof:breaches":[],
+    "wof:capital_of":[
+        85676837
+    ],
     "wof:concordances":{
         "gn:id":108512,
         "qs_pg:id":65837
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125926431,
-    "wof:lastmodified":1566638476,
+    "wof:lastmodified":1607462741,
     "wof:name":"\u2018Ar\u2018ar",
     "wof:parent_id":1108720651,
     "wof:placetype":"locality",

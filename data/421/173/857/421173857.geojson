@@ -243,12 +243,15 @@
     "src:geom":"quattroshapes",
     "src:population":"quattroshapes",
     "wof:belongsto":[
-        85676809,
         102191569,
         85632253,
-        1108720731
+        1108720731,
+        85676809
     ],
     "wof:breaches":[],
+    "wof:capital_of":[
+        85676809
+    ],
     "wof:concordances":{
         "gn:id":103630,
         "gp:id":56447937,
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":421173857,
-    "wof:lastmodified":1566638463,
+    "wof:lastmodified":1607462739,
     "wof:name":"\u0646\u062c\u0631\u0627\u0646",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

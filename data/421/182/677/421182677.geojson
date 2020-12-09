@@ -145,10 +145,13 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676847,
-        1108720567
+        1108720567,
+        85676847
     ],
     "wof:breaches":[],
+    "wof:capital_of":[
+        85676847
+    ],
     "wof:concordances":{
         "gn:id":109953,
         "gp:id":1937501,
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421182677,
-    "wof:lastmodified":1566638472,
+    "wof:lastmodified":1607462741,
     "wof:name":"\u0627\u0644\u0628\u0627\u062d\u0629",
     "wof:parent_id":1108720567,
     "wof:placetype":"locality",

@@ -327,6 +327,9 @@
         85676833
     ],
     "wof:breaches":[],
+    "wof:capital_of":[
+        85676833
+    ],
     "wof:concordances":{
         "gn:id":101628,
         "gp:id":1939987,
@@ -352,7 +355,7 @@
         }
     ],
     "wof:id":421190329,
-    "wof:lastmodified":1587163137,
+    "wof:lastmodified":1607462740,
     "wof:name":"Tabuk",
     "wof:parent_id":1108720767,
     "wof:placetype":"locality",

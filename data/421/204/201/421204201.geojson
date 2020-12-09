@@ -692,6 +692,9 @@
         85676857
     ],
     "wof:breaches":[],
+    "wof:capital_of":[
+        85676857
+    ],
     "wof:concordances":{
         "gn:id":104515,
         "gp:id":1939897,
@@ -716,7 +719,7 @@
         }
     ],
     "wof:id":421204201,
-    "wof:lastmodified":1587427680,
+    "wof:lastmodified":1607462741,
     "wof:name":"Mecca",
     "wof:parent_id":1108720727,
     "wof:placetype":"locality",
