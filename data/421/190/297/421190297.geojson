@@ -180,10 +180,10 @@
         "\u062f\u0645\u0627\u0645"
     ],
     "name:pol_x_preferred":[
-        "Ad-Dammam"
+        "Dammam"
     ],
     "name:pol_x_variant":[
-        "Dammam"
+        "Ad-Dammam"
     ],
     "name:por_x_preferred":[
         "Dammam"
@@ -395,6 +395,7 @@
     "wof:concordances":{
         "gn:id":110336,
         "gp:id":1939574,
+        "ne:id":1159136389,
         "qs_pg:id":66772,
         "wd:id":"Q160320"
     },
@@ -417,7 +418,7 @@
         }
     ],
     "wof:id":421190297,
-    "wof:lastmodified":1608675973,
+    "wof:lastmodified":1608677520,
     "wof:megacity":1,
     "wof:name":"Dammam",
     "wof:parent_id":1108720541,

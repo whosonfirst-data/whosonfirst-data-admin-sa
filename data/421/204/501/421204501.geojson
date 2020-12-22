@@ -240,10 +240,10 @@
         "R\u00edad"
     ],
     "name:ita_x_preferred":[
-        "Riyad"
+        "Riad"
     ],
     "name:ita_x_variant":[
-        "Riad"
+        "Riyad"
     ],
     "name:jav_x_preferred":[
         "Riyadh"
@@ -653,6 +653,7 @@
     "wof:concordances":{
         "gn:id":108410,
         "gp:id":1939753,
+        "ne:id":1159151581,
         "qs_pg:id":241147,
         "wd:id":"Q3692",
         "wk:page":"Riyadh"
@@ -673,7 +674,7 @@
         }
     ],
     "wof:id":421204501,
-    "wof:lastmodified":1608675987,
+    "wof:lastmodified":1608677557,
     "wof:megacity":1,
     "wof:name":"Riyadh",
     "wof:parent_id":1108720657,

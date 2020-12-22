@@ -489,10 +489,10 @@
         "Makka"
     ],
     "name:swe_x_preferred":[
-        "Mecka"
+        "Mekka"
     ],
     "name:swe_x_variant":[
-        "Mekka"
+        "Mecka"
     ],
     "name:szl_x_preferred":[
         "Mekka"
@@ -699,6 +699,7 @@
         "gn:id":104515,
         "gp:id":1939897,
         "loc:id":"n79032243",
+        "ne:id":1159151279,
         "qs_pg:id":238646,
         "wd:id":"Q5806",
         "wk:page":"Mecca"
@@ -719,7 +720,7 @@
         }
     ],
     "wof:id":421204201,
-    "wof:lastmodified":1608675982,
+    "wof:lastmodified":1608677545,
     "wof:megacity":1,
     "wof:name":"Mecca",
     "wof:parent_id":1108720727,

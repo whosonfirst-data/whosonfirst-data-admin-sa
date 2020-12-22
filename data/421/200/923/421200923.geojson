@@ -204,11 +204,11 @@
         "Jeddah"
     ],
     "name:ita_x_preferred":[
-        "Jedda"
+        "Gedda"
     ],
     "name:ita_x_variant":[
         "Jeddah",
-        "Gedda"
+        "Jedda"
     ],
     "name:jav_x_preferred":[
         "Jeddah"
@@ -367,13 +367,13 @@
         "Jeddah"
     ],
     "name:spa_x_preferred":[
-        "Jedda"
+        "Yeda"
     ],
     "name:spa_x_variant":[
         "Yida",
         "Yidda",
         "Jeddah",
-        "Yeda"
+        "Jedda"
     ],
     "name:sqi_x_preferred":[
         "Xheda"
@@ -388,10 +388,10 @@
         "Jeddah"
     ],
     "name:swe_x_preferred":[
-        "Jidda"
+        "Jeddah"
     ],
     "name:swe_x_variant":[
-        "Jeddah"
+        "Jidda"
     ],
     "name:szl_x_preferred":[
         "D\u017cudda"
@@ -589,6 +589,7 @@
     "wof:concordances":{
         "gn:id":105343,
         "gp:id":1939873,
+        "ne:id":1159151277,
         "qs_pg:id":900255,
         "wd:id":"Q374365",
         "wk:page":"Jeddah"
@@ -612,7 +613,7 @@
         }
     ],
     "wof:id":421200923,
-    "wof:lastmodified":1608675982,
+    "wof:lastmodified":1608677545,
     "wof:megacity":1,
     "wof:name":"Jeddah",
     "wof:parent_id":1108720715,
