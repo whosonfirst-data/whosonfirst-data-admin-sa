@@ -589,6 +589,7 @@
     "wof:concordances":{
         "gn:id":105343,
         "gp:id":1939873,
+        "ne:id":1159151277,
         "qs_pg:id":900255,
         "wd:id":"Q374365",
         "wk:page":"Jeddah"
@@ -612,7 +613,8 @@
         }
     ],
     "wof:id":421200923,
-    "wof:lastmodified":1587427680,
+    "wof:lastmodified":1608688183,
+    "wof:megacity":1,
     "wof:name":"Jeddah",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",
