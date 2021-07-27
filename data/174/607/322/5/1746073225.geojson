@@ -1,0 +1,69 @@
+{
+  "id": 1746073225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001413,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.227394,21.327375,39.26117,21.376549",
+    "geom:latitude":21.352982,
+    "geom:longitude":39.245883,
+    "iso:country":"SA",
+    "lbl:latitude":21.353281,
+    "lbl:longitude":39.245883,
+    "mps:latitude":21.353281,
+    "mps:longitude":39.245883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0645\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khomrah"
+    ],
+    "name:eng_x_variant":[
+        "Khumrah"
+    ],
+    "name:nno_x_preferred":[
+        "Khumrah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"SA",
+    "wof:geomhash":"a06eb4b670948305bd4baa43db23f7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":1746073225,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746073225,
+    "wof:lastmodified":1627428326,
+    "wof:name":"Al Khomrah",
+    "wof:parent_id":1108720715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.227394,
+    21.327375,
+    39.26117,
+    21.376549
+],
+  "geometry": {"coordinates":[[[39.227394,21.375971],[39.259805,21.376549],[39.26117,21.327859],[39.236439,21.327375],[39.236708,21.330751],[39.234472,21.333064],[39.229133,21.36487],[39.227394,21.375971]]],"type":"Polygon"}
+}
