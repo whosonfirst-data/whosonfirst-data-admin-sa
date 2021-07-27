@@ -1,0 +1,55 @@
+{
+  "id": 1746072895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000284,
+    "geom:bbox":"50.196051,26.201021,50.213399,26.219318",
+    "geom:latitude":26.209989,
+    "geom:longitude":50.205284,
+    "iso:country":"SA",
+    "lbl:latitude":26.209969,
+    "lbl:longitude":50.205284,
+    "mps:latitude":26.209969,
+    "mps:longitude":50.205284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0633\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jisr"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413381,
+    "wof:geomhash":"dc77e5584c3409307ea02ada3515b08e",
+    "wof:hierarchy":[],
+    "wof:id":1746072895,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413381,
+    "wof:name":"Al Jisr",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.196051,
+    26.201021,
+    50.213399,
+    26.219318
+],
+  "geometry": {"coordinates":[[[50.196051,26.201615],[50.19658,26.203279],[50.19711,26.205774],[50.197507,26.207675],[50.197375,26.210289],[50.196315,26.217893],[50.213399,26.219318],[50.213266,26.201021],[50.196051,26.201615]]],"type":"Polygon"}
+}

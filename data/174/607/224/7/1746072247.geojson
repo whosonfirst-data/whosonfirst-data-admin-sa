@@ -1,0 +1,55 @@
+{
+  "id": 1746072247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001714,
+    "geom:bbox":"47.249602,25.040264,47.312212,25.087551",
+    "geom:latitude":25.06439,
+    "geom:longitude":47.280529,
+    "iso:country":"SA",
+    "lbl:latitude":25.064069,
+    "lbl:longitude":47.280529,
+    "mps:latitude":25.064069,
+    "mps:longitude":47.280529,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Al Majd"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413118,
+    "wof:geomhash":"917791abcf4ec75056a8062935bc601b",
+    "wof:hierarchy":[],
+    "wof:id":1746072247,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413118,
+    "wof:name":"Al Majd",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.249602,
+    25.040264,
+    47.312212,
+    25.087551
+],
+  "geometry": {"coordinates":[[[47.249602,25.070696],[47.301088,25.087551],[47.312212,25.060456],[47.309522,25.0599],[47.304242,25.057291],[47.301602,25.055334],[47.297282,25.053595],[47.293682,25.051855],[47.291042,25.050768],[47.286723,25.049246],[47.281923,25.047507],[47.277123,25.046855],[47.272083,25.045115],[47.268003,25.044245],[47.260678,25.040264],[47.253603,25.057943],[47.249602,25.070696]]],"type":"Polygon"}
+}

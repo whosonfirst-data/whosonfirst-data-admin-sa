@@ -1,0 +1,55 @@
+{
+  "id": 1746072079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000783,
+    "geom:bbox":"46.716286,24.646908,46.754671,24.681725",
+    "geom:latitude":24.662883,
+    "geom:longitude":46.734435,
+    "iso:country":"SA",
+    "lbl:latitude":24.662944,
+    "lbl:longitude":46.737924,
+    "mps:latitude":24.662944,
+    "mps:longitude":46.737924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0632"
+    ],
+    "name:eng_x_preferred":[
+        "Al Malaz"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413023,
+    "wof:geomhash":"f984f8802cc9892c9d0f206f9cf69721",
+    "wof:hierarchy":[],
+    "wof:id":1746072079,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413023,
+    "wof:name":"Al Malaz",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.716286,
+    24.646908,
+    46.754671,
+    24.681725
+],
+  "geometry": {"coordinates":[[[46.748282,24.66618],[46.754671,24.654041],[46.753819,24.653616],[46.752275,24.653349],[46.746419,24.653136],[46.742107,24.653083],[46.739977,24.652977],[46.738753,24.652604],[46.737475,24.651965],[46.734068,24.649357],[46.733216,24.646908],[46.716286,24.651113],[46.717511,24.658141],[46.71815,24.667031],[46.725603,24.666499],[46.727519,24.666393],[46.728797,24.667031],[46.728584,24.667564],[46.728052,24.668309],[46.727945,24.668522],[46.727626,24.669267],[46.727732,24.6698],[46.727945,24.670119],[46.728158,24.670545],[46.726135,24.67885],[46.739871,24.68098],[46.740935,24.681725],[46.742532,24.679809],[46.748282,24.66618]]],"type":"Polygon"}
+}

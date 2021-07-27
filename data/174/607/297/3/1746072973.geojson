@@ -1,0 +1,55 @@
+{
+  "id": 1746072973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:bbox":"49.998697,26.551266,50.001172,26.553618",
+    "geom:latitude":26.552618,
+    "geom:longitude":49.999821,
+    "iso:country":"SA",
+    "lbl:latitude":26.552606,
+    "lbl:longitude":49.999798,
+    "mps:latitude":26.552606,
+    "mps:longitude":49.999798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u062c\u0632\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Al Jazm"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413412,
+    "wof:geomhash":"9be8502efa033545e6ff5e6efa6bce1c",
+    "wof:hierarchy":[],
+    "wof:id":1746072973,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413412,
+    "wof:name":"Umm Al Jazm",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.998697,
+    26.551266,
+    50.001172,
+    26.553618
+],
+  "geometry": {"coordinates":[[[49.998697,26.553618],[50.001172,26.553521],[50.00103,26.553303],[50.001002,26.552984],[50.000975,26.552566],[50.000947,26.55232],[50.000837,26.552075],[50.000563,26.551903],[50.000151,26.551657],[49.999295,26.551266],[49.999107,26.551461],[49.998888,26.551804],[49.998833,26.552148],[49.998697,26.553618]]],"type":"Polygon"}
+}

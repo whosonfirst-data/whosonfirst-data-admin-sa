@@ -1,0 +1,55 @@
+{
+  "id": 1746072587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001466,
+    "geom:bbox":"39.497936,24.422007,39.545829,24.465907",
+    "geom:latitude":24.445431,
+    "geom:longitude":39.521208,
+    "iso:country":"SA",
+    "lbl:latitude":24.4447,
+    "lbl:longitude":39.521208,
+    "mps:latitude":24.4447,
+    "mps:longitude":39.521208,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0641\u0627\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Ad Difa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413255,
+    "wof:geomhash":"9eb1db944a2a2282c0d91beca6ad2a96",
+    "wof:hierarchy":[],
+    "wof:id":1746072587,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413255,
+    "wof:name":"Ad Difa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.497936,
+    24.422007,
+    39.545829,
+    24.465907
+],
+  "geometry": {"coordinates":[[[39.545829,24.459908],[39.539512,24.436159],[39.539128,24.435209],[39.538579,24.433709],[39.531329,24.422007],[39.521662,24.425908],[39.514962,24.427108],[39.50892,24.429608],[39.498375,24.433609],[39.498485,24.434209],[39.497936,24.436509],[39.498265,24.437309],[39.50222,24.454809],[39.503648,24.465907],[39.545829,24.459908]]],"type":"Polygon"}
+}

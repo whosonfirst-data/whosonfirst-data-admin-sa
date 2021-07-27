@@ -1,0 +1,55 @@
+{
+  "id": 1746072291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:bbox":"46.560499,24.743321,46.573489,24.759066",
+    "geom:latitude":24.751762,
+    "geom:longitude":46.566193,
+    "iso:country":"SA",
+    "lbl:latitude":24.752272,
+    "lbl:longitude":46.56575,
+    "mps:latitude":24.752272,
+    "mps:longitude":46.56575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0644\u062f\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khalidiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413135,
+    "wof:geomhash":"45232f36ef5d77461fb2b16a9393cfad",
+    "wof:hierarchy":[],
+    "wof:id":1746072291,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413135,
+    "wof:name":"Al Khalidiyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.560499,
+    24.743321,
+    46.573489,
+    24.759066
+],
+  "geometry": {"coordinates":[[[46.565422,24.759066],[46.573489,24.750242],[46.570827,24.748432],[46.568698,24.746728],[46.56561,24.743321],[46.5638,24.748538],[46.563268,24.748645],[46.562096,24.74971],[46.560499,24.751839],[46.560986,24.755733],[46.562735,24.757482],[46.565422,24.759066]]],"type":"Polygon"}
+}

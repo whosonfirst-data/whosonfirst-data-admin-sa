@@ -1,0 +1,55 @@
+{
+  "id": 1746072399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000347,
+    "geom:bbox":"39.198589,21.455878,39.222197,21.484174",
+    "geom:latitude":21.468985,
+    "geom:longitude":39.210356,
+    "iso:country":"SA",
+    "lbl:latitude":21.467896,
+    "lbl:longitude":39.212144,
+    "mps:latitude":21.467896,
+    "mps:longitude":39.212144,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u0644\u0629 \u0627\u0644\u064a\u0645\u0627\u0646\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "An Nazlah Al Yamaniyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413182,
+    "wof:geomhash":"d8f9f3f897e973ec9e93972502bb3e4b",
+    "wof:hierarchy":[],
+    "wof:id":1746072399,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413182,
+    "wof:name":"An Nazlah Al Yamaniyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.198589,
+    21.455878,
+    39.222197,
+    21.484174
+],
+  "geometry": {"coordinates":[[[39.198589,21.473535],[39.207057,21.481674],[39.207261,21.481967],[39.207391,21.482191],[39.207428,21.482433],[39.207669,21.484174],[39.212968,21.481778],[39.212672,21.473639],[39.22064,21.470155],[39.218491,21.469327],[39.222197,21.461084],[39.216814,21.455878],[39.214397,21.457002],[39.211678,21.458127],[39.209986,21.458577],[39.207448,21.458689],[39.207483,21.46512],[39.198885,21.464775],[39.200738,21.468431],[39.200442,21.469362],[39.200442,21.470983],[39.198589,21.473535]]],"type":"Polygon"}
+}

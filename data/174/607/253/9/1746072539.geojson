@@ -1,0 +1,55 @@
+{
+  "id": 1746072539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000317,
+    "geom:bbox":"39.576325,24.390848,39.593873,24.423813",
+    "geom:latitude":24.408002,
+    "geom:longitude":39.584753,
+    "iso:country":"SA",
+    "lbl:latitude":24.407551,
+    "lbl:longitude":39.584154,
+    "mps:latitude":24.407551,
+    "mps:longitude":39.584154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u0628\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jabirah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413237,
+    "wof:geomhash":"4604686b0fda7237aa1060020c4cd161",
+    "wof:hierarchy":[],
+    "wof:id":1746072539,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413237,
+    "wof:name":"Al Jabirah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.576325,
+    24.390848,
+    39.593873,
+    24.423813
+],
+  "geometry": {"coordinates":[[[39.593873,24.390848],[39.588353,24.393224],[39.583959,24.395525],[39.581895,24.396884],[39.581433,24.397525],[39.579236,24.405328],[39.578577,24.41293],[39.576458,24.413924],[39.577863,24.419832],[39.576709,24.420182],[39.576325,24.422032],[39.584845,24.423813],[39.585305,24.422557],[39.587831,24.418757],[39.58871,24.417156],[39.58893,24.415856],[39.589039,24.414956],[39.58893,24.413455],[39.58882,24.411955],[39.58871,24.410555],[39.58893,24.409254],[39.589369,24.407654],[39.591346,24.403352],[39.592005,24.400251],[39.593873,24.390848]]],"type":"Polygon"}
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1746072219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001512,
+    "geom:bbox":"46.937323,24.321166,46.978408,24.401819",
+    "geom:latitude":24.361619,
+    "geom:longitude":46.960287,
+    "iso:country":"SA",
+    "lbl:latitude":24.360391,
+    "lbl:longitude":46.959976,
+    "mps:latitude":24.360391,
+    "mps:longitude":46.959976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u0634\u0639\u0627\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Al Shaal"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413103,
+    "wof:geomhash":"dc11ce9cd7793fb20d28a3565633fd09",
+    "wof:hierarchy":[],
+    "wof:id":1746072219,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413103,
+    "wof:name":"Umm Al Shaal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.937323,
+    24.321166,
+    46.978408,
+    24.401819
+],
+  "geometry": {"coordinates":[[[46.978408,24.401819],[46.978048,24.398204],[46.976243,24.392397],[46.973597,24.386591],[46.971191,24.380674],[46.969627,24.375415],[46.969146,24.369279],[46.969146,24.363252],[46.969266,24.354376],[46.968785,24.350211],[46.969266,24.347691],[46.969146,24.3398],[46.966018,24.332566],[46.963733,24.327414],[46.963011,24.321166],[46.958801,24.321714],[46.956395,24.32292],[46.951824,24.326537],[46.947373,24.329935],[46.945087,24.332456],[46.944726,24.336183],[46.942681,24.3398],[46.937323,24.34479],[46.944073,24.345156],[46.95026,24.352843],[46.948653,24.358772],[46.954921,24.371289],[46.956274,24.400942],[46.978408,24.401819]]],"type":"Polygon"}
+}

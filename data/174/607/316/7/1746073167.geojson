@@ -1,0 +1,55 @@
+{
+  "id": 1746073167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:bbox":"49.998974,26.51719,50.017466,26.532537",
+    "geom:latitude":26.525442,
+    "geom:longitude":50.007171,
+    "iso:country":"SA",
+    "lbl:latitude":26.525621,
+    "lbl:longitude":50.006995,
+    "mps:latitude":26.525621,
+    "mps:longitude":50.006995,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u0648\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Anwar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413523,
+    "wof:geomhash":"2413db9171570cd7439b0d905711cf54",
+    "wof:hierarchy":[],
+    "wof:id":1746073167,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413523,
+    "wof:name":"Al Anwar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.998974,
+    26.51719,
+    50.017466,
+    26.532537
+],
+  "geometry": {"coordinates":[[[50.012709,26.532537],[50.01525,26.528151],[50.016053,26.526714],[50.017466,26.524185],[50.009004,26.520039],[50.006465,26.519101],[50.004249,26.518596],[50.002919,26.517983],[50.001105,26.517442],[49.999493,26.51719],[49.999614,26.517767],[49.999695,26.519137],[49.999534,26.520003],[49.999131,26.520976],[49.999574,26.521986],[49.999977,26.522563],[50.00034,26.523536],[49.998974,26.529553],[50.00235,26.529889],[50.003284,26.531561],[50.012709,26.532537]]],"type":"Polygon"}
+}

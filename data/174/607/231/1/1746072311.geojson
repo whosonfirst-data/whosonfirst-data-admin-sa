@@ -1,0 +1,55 @@
+{
+  "id": 1746072311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000499,
+    "geom:bbox":"39.057137,21.732625,39.0894,21.763713",
+    "geom:latitude":21.748487,
+    "geom:longitude":39.072682,
+    "iso:country":"SA",
+    "lbl:latitude":21.748586,
+    "lbl:longitude":39.072437,
+    "mps:latitude":21.748586,
+    "mps:longitude":39.072437,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u0648\u0627\u062c"
+    ],
+    "name:eng_x_preferred":[
+        "Al Amwaj"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413144,
+    "wof:geomhash":"331115bf6dc68217e30943f40ac9c59f",
+    "wof:hierarchy":[],
+    "wof:id":1746072311,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413144,
+    "wof:name":"Al Amwaj",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.057137,
+    21.732625,
+    39.0894,
+    21.763713
+],
+  "geometry": {"coordinates":[[[39.077357,21.763713],[39.0894,21.749076],[39.066173,21.732625],[39.061222,21.742472],[39.058693,21.745001],[39.057137,21.748908],[39.077357,21.763713]]],"type":"Polygon"}
+}

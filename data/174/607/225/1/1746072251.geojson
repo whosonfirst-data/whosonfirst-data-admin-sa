@@ -1,0 +1,55 @@
+{
+  "id": 1746072251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001205,
+    "geom:bbox":"47.218941,25.026479,47.260678,25.070696",
+    "geom:latitude":25.048287,
+    "geom:longitude":47.238652,
+    "iso:country":"SA",
+    "lbl:latitude":25.048343,
+    "lbl:longitude":47.238652,
+    "mps:latitude":25.048343,
+    "mps:longitude":47.238652,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0633\u0627\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Risalah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413121,
+    "wof:geomhash":"82b40657f4f37d5e564a8beba044ff5e",
+    "wof:hierarchy":[],
+    "wof:id":1746072251,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413121,
+    "wof:name":"Al Risalah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.218941,
+    25.026479,
+    47.260678,
+    25.070696
+],
+  "geometry": {"coordinates":[[[47.218941,25.060499],[47.249602,25.070696],[47.253603,25.057943],[47.260678,25.040264],[47.258403,25.039027],[47.252883,25.0362],[47.249043,25.034026],[47.244723,25.031416],[47.235843,25.028807],[47.229363,25.027067],[47.225469,25.026479],[47.218941,25.060499]]],"type":"Polygon"}
+}

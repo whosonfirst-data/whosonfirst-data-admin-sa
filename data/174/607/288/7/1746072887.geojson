@@ -1,0 +1,55 @@
+{
+  "id": 1746072887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000268,
+    "geom:bbox":"50.165333,26.286407,50.189358,26.308294",
+    "geom:latitude":26.297649,
+    "geom:longitude":50.178172,
+    "iso:country":"SA",
+    "lbl:latitude":26.297964,
+    "lbl:longitude":50.17698,
+    "mps:latitude":26.297964,
+    "mps:longitude":50.17698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Al Olaya"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413378,
+    "wof:geomhash":"d46923a28ae00f3b2835c5d47d9374ce",
+    "wof:hierarchy":[],
+    "wof:id":1746072887,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413378,
+    "wof:name":"Al Olaya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.165333,
+    26.286407,
+    50.189358,
+    26.308294
+],
+  "geometry": {"coordinates":[[[50.175739,26.308294],[50.184861,26.306783],[50.183536,26.300016],[50.189358,26.286407],[50.175751,26.290382],[50.173935,26.291705],[50.165333,26.297591],[50.165518,26.29768],[50.172013,26.30312],[50.175739,26.308294]]],"type":"Polygon"}
+}

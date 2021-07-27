@@ -1,0 +1,55 @@
+{
+  "id": 1746073201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:bbox":"39.288232,21.425121,39.312029,21.444399",
+    "geom:latitude":21.435524,
+    "geom:longitude":39.301504,
+    "iso:country":"SA",
+    "lbl:latitude":21.432532,
+    "lbl:longitude":39.306642,
+    "mps:latitude":21.432532,
+    "mps:longitude":39.306642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u064a\u0631 \u0641\u0648\u0627\u0632 \u0627\u0644\u0634\u0645\u0627\u0644\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Amir Fawaz Ash Shamaly"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413539,
+    "wof:geomhash":"ab99774eb8835334eb64ec5260315aca",
+    "wof:hierarchy":[],
+    "wof:id":1746073201,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413539,
+    "wof:name":"Al Amir Fawaz Ash Shamaly",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.288232,
+    21.425121,
+    39.312029,
+    21.444399
+],
+  "geometry": {"coordinates":[[[39.30943,21.425953],[39.307939,21.427298],[39.304816,21.429941],[39.299479,21.434909],[39.296469,21.436865],[39.293801,21.437975],[39.291189,21.438873],[39.288232,21.439637],[39.289694,21.444399],[39.295542,21.442812],[39.296841,21.441602],[39.297735,21.440695],[39.298466,21.439939],[39.300821,21.43873],[39.302445,21.436689],[39.303826,21.436084],[39.304726,21.435581],[39.305044,21.435403],[39.309674,21.435933],[39.312029,21.432909],[39.310729,21.425121],[39.309836,21.4255],[39.30943,21.425953]]],"type":"Polygon"}
+}

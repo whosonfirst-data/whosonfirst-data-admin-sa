@@ -4,22 +4,26 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000038,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.192663,21.48533,39.192663,21.48533",
-    "geom:latitude":21.48533,
-    "geom:longitude":39.192663,
+    "geom:bbox":"39.190344,21.484631,39.199728,21.491675",
+    "geom:latitude":21.487481,
+    "geom:longitude":39.195655,
     "iso:country":"SA",
-    "lbl:bbox":"39.187663,21.4803305,39.197663,21.4903305",
     "lbl:max_zoom":18.0,
+    "mps:latitude":21.487518,
+    "mps:longitude":39.195726,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u062d\u064a\u0641\u0629"
     ],
     "name:eng_x_preferred":[
+        "As Sahifah"
+    ],
+    "name:eng_x_variant":[
         "As Sahifa"
     ],
     "qs:gn_country":null,
@@ -40,12 +44,15 @@
     "qs:qs_id":347101,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22726097,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
+        85676857,
         102191569,
         85632253,
-        1108720715,
-        85676857
+        1108720715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +61,10 @@
     },
     "wof:country":"SA",
     "wof:created":1459009048,
-    "wof:geomhash":"61dc60b236319b3437ad91c8e48c77dd",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e0b2a031c57bc8660d83f9ddfc38ff7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,8 +76,8 @@
         }
     ],
     "wof:id":421174907,
-    "wof:lastmodified":1601423087,
-    "wof:name":"As Sahifa",
+    "wof:lastmodified":1627413187,
+    "wof:name":"As Sahifah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.192663,
-    21.48533,
-    39.192663,
-    21.48533
+    39.190344,
+    21.484631,
+    39.199728,
+    21.491675
 ],
-  "geometry": {"coordinates":[39.192663,21.48533],"type":"Point"}
+  "geometry": {"coordinates":[[[39.190344,21.487846],[39.191686,21.488123],[39.191723,21.488295],[39.194818,21.489951],[39.195429,21.490123],[39.196578,21.490727],[39.197801,21.491675],[39.199395,21.486649],[39.199728,21.485476],[39.198672,21.484993],[39.198005,21.484735],[39.197282,21.484631],[39.196041,21.484718],[39.195059,21.484838],[39.193039,21.48539],[39.192409,21.48558],[39.190686,21.487114],[39.190344,21.487846]]],"type":"Polygon"}
 }

@@ -1,0 +1,55 @@
+{
+  "id": 1746073149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:bbox":"50.024478,26.508521,50.035701,26.514765",
+    "geom:latitude":26.51139,
+    "geom:longitude":50.031051,
+    "iso:country":"SA",
+    "lbl:latitude":26.51121,
+    "lbl:longitude":50.031159,
+    "mps:latitude":26.51121,
+    "mps:longitude":50.031159,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062f\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Badr"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413514,
+    "wof:geomhash":"94c3e2fe9bbb0e9e667890c54e444b94",
+    "wof:hierarchy":[],
+    "wof:id":1746073149,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413514,
+    "wof:name":"Al Badr",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.024478,
+    26.508521,
+    50.035701,
+    26.514765
+],
+  "geometry": {"coordinates":[[[50.028585,26.508521],[50.028585,26.508521],[50.027057,26.50987],[50.025083,26.511745],[50.024478,26.512647],[50.030321,26.513584],[50.035318,26.514765],[50.035661,26.513413],[50.035701,26.51271],[50.03558,26.512006],[50.035439,26.511159],[50.035278,26.510348],[50.035258,26.510023],[50.035349,26.509311],[50.035502,26.508785],[50.03179,26.508668],[50.028585,26.508521]]],"type":"Polygon"}
+}

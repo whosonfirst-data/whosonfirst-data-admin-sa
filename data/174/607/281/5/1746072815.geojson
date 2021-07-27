@@ -1,0 +1,55 @@
+{
+  "id": 1746072815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000191,
+    "geom:bbox":"50.061505,26.450246,50.081038,26.464354",
+    "geom:latitude":26.457222,
+    "geom:longitude":50.071362,
+    "iso:country":"SA",
+    "lbl:latitude":26.457426,
+    "lbl:longitude":50.071548,
+    "mps:latitude":26.457426,
+    "mps:longitude":50.071548,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Aziziyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413346,
+    "wof:geomhash":"7d13e3c831a4bf00ff8c1fa22391bc3b",
+    "wof:hierarchy":[],
+    "wof:id":1746072815,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413346,
+    "wof:name":"Al Aziziyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.061505,
+    26.450246,
+    50.081038,
+    26.464354
+],
+  "geometry": {"coordinates":[[[50.062564,26.453566],[50.061505,26.460561],[50.061968,26.464354],[50.062101,26.464236],[50.062829,26.463702],[50.06316,26.463406],[50.068523,26.462576],[50.070377,26.462932],[50.07104,26.462991],[50.071702,26.462576],[50.072761,26.462161],[50.077065,26.46145],[50.081038,26.45902],[50.081038,26.452202],[50.08064,26.450246],[50.077926,26.451195],[50.062564,26.453566]]],"type":"Polygon"}
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1746072991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:bbox":"50.011685,26.560795,50.022999,26.570448",
+    "geom:latitude":26.565388,
+    "geom:longitude":50.017473,
+    "iso:country":"SA",
+    "lbl:latitude":26.565448,
+    "lbl:longitude":50.017474,
+    "mps:latitude":26.565448,
+    "mps:longitude":50.017474,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0632\u0627\u0645\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khuzama"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413420,
+    "wof:geomhash":"ceb7781c97acacd54685ce6bad03c2ac",
+    "wof:hierarchy":[],
+    "wof:id":1746072991,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413420,
+    "wof:name":"Al Khuzama",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.011685,
+    26.560795,
+    50.022999,
+    26.570448
+],
+  "geometry": {"coordinates":[[[50.022202,26.561213],[50.012893,26.560795],[50.012049,26.566421],[50.011685,26.568851],[50.016628,26.569785],[50.021681,26.570448],[50.022559,26.565462],[50.022999,26.563472],[50.022779,26.561286],[50.022202,26.561213]]],"type":"Polygon"}
+}

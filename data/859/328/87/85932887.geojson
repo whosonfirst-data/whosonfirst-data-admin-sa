@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000087,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.610375,24.46927,39.610375,24.46927",
-    "geom:latitude":24.46927,
-    "geom:longitude":39.610375,
+    "geom:bbox":"39.604871,24.463983,39.619645,24.473581",
+    "geom:latitude":24.468324,
+    "geom:longitude":39.612829,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"39.605375,24.46427,39.615375,24.47427",
     "lbl:latitude":24.46927,
     "lbl:longitude":39.610375,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.46458,
-    "mps:longitude":39.611561,
+    "mps:latitude":24.46812,
+    "mps:longitude":39.612829,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u062d\u0631\u0645"
     ],
     "name:eng_x_preferred":[
-        "Al Haram"
-    ],
-    "name:eng_x_variant":[
         "Al Haram"
     ],
     "qs:gn_adm0_cc":"SA",
@@ -59,17 +55,18 @@
     "qs:woe_lau":0,
     "qs:woe_local":1937801,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676825,
         102191569,
         85632253,
-        1108720605
+        1108720605,
+        85676825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,9 +76,10 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"2da8a50b63ae744ab54adc33072f444e",
+    "wof:geomhash":"b1d312b0a580232edef5f31461969628",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,8 +94,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326294,
-    "wof:name":"\u0627\u0644\u062d\u0631\u0645",
+    "wof:lastmodified":1627419822,
+    "wof:name":"Al Haram",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -106,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.610375,
-    24.46927,
-    39.610375,
-    24.46927
+    39.604871,
+    24.463983,
+    39.619645,
+    24.473581
 ],
-  "geometry": {"coordinates":[39.610375,24.46927],"type":"Point"}
+  "geometry": {"coordinates":[[[39.617394,24.464291],[39.616899,24.464633],[39.61646,24.464933],[39.616185,24.465183],[39.615691,24.465382],[39.614977,24.465332],[39.614153,24.465332],[39.60943,24.465532],[39.608166,24.465482],[39.607727,24.465233],[39.607507,24.464883],[39.607343,24.464433],[39.607288,24.463983],[39.606684,24.463983],[39.605915,24.464083],[39.60542,24.464283],[39.604981,24.464733],[39.604871,24.465133],[39.604871,24.465832],[39.604907,24.46724],[39.607123,24.467332],[39.606199,24.471004],[39.613714,24.470831],[39.614043,24.473581],[39.615746,24.473231],[39.61657,24.472931],[39.617448,24.472381],[39.617998,24.471881],[39.618437,24.471331],[39.618986,24.470582],[39.619426,24.469482],[39.619587,24.468797],[39.61959,24.468782],[39.619645,24.468032],[39.619426,24.467082],[39.619151,24.466332],[39.618767,24.465782],[39.618327,24.465083],[39.617668,24.464483],[39.617394,24.464291]]],"type":"Polygon"}
 }

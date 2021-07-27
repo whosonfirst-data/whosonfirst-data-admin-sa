@@ -1,0 +1,55 @@
+{
+  "id": 1746072363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000246,
+    "geom:bbox":"39.207669,21.470947,39.243493,21.487002",
+    "geom:latitude":21.47997,
+    "geom:longitude":39.22813,
+    "iso:country":"SA",
+    "lbl:latitude":21.478611,
+    "lbl:longitude":39.229351,
+    "mps:latitude":21.478611,
+    "mps:longitude":39.229351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u063a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Ath Thaghr"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413168,
+    "wof:geomhash":"e791c7e76e266c6b21b3842374e36e3f",
+    "wof:hierarchy":[],
+    "wof:id":1746072363,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413168,
+    "wof:name":"Ath Thaghr",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.207669,
+    21.470947,
+    39.243493,
+    21.487002
+],
+  "geometry": {"coordinates":[[[39.20803,21.487002],[39.232806,21.482011],[39.233352,21.484243],[39.23924,21.483533],[39.243384,21.484141],[39.243439,21.48338],[39.243493,21.483025],[39.24322,21.482416],[39.241748,21.479677],[39.237354,21.470947],[39.229099,21.474628],[39.212968,21.481778],[39.207669,21.484174],[39.20803,21.487002]]],"type":"Polygon"}
+}

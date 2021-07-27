@@ -1,0 +1,55 @@
+{
+  "id": 1746072115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000498,
+    "geom:bbox":"46.794745,24.692785,46.82722,24.722626",
+    "geom:latitude":24.707175,
+    "geom:longitude":46.810824,
+    "iso:country":"SA",
+    "lbl:latitude":24.707006,
+    "lbl:longitude":46.810579,
+    "mps:latitude":24.707006,
+    "mps:longitude":46.810579,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Salam"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413044,
+    "wof:geomhash":"7e920960139a2926476f5b6b75cebdd5",
+    "wof:hierarchy":[],
+    "wof:id":1746072115,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413044,
+    "wof:name":"Al Salam",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.794745,
+    24.692785,
+    46.82722,
+    24.722626
+],
+  "geometry": {"coordinates":[[[46.82722,24.700558],[46.821258,24.697683],[46.816744,24.695813],[46.809439,24.692785],[46.794745,24.712483],[46.811221,24.722626],[46.82722,24.700558]]],"type":"Polygon"}
+}

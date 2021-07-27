@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00078,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.174991,21.568863,39.174991,21.568863",
-    "geom:latitude":21.568863,
-    "geom:longitude":39.174991,
+    "geom:bbox":"39.165447,21.555888,39.202212,21.587182",
+    "geom:latitude":21.571787,
+    "geom:longitude":39.183819,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"39.169991,21.563863,39.179991,21.573863",
-    "lbl:latitude":21.568863,
-    "lbl:longitude":39.174991,
+    "lbl:latitude":21.572455,
+    "lbl:longitude":39.183819,
     "lbl:max_zoom":18.0,
-    "mps:latitude":21.572176,
-    "mps:longitude":39.184097,
+    "mps:latitude":21.572455,
+    "mps:longitude":39.183819,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,7 +29,7 @@
         "\u0627\u0644\u0641\u064a\u0635\u0644\u064a\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Faysalexyyah"
+        "Al Faisaliyah"
     ],
     "name:eng_x_variant":[
         "Al Faysaleyyah",
@@ -58,17 +57,18 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939873,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720715
+        1108720715,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,9 +78,10 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "mz"
     ],
-    "wof:geomhash":"a5bf294839945fedc43a3685fe068571",
+    "wof:geomhash":"474d7473be62073099463461c2ad5e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,8 +96,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326293,
-    "wof:name":"\u0627\u0644\u0641\u064a\u0635\u0644\u064a\u0629",
+    "wof:lastmodified":1627419817,
+    "wof:name":"Al Faisaliyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -105,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.174991,
-    21.568863,
-    39.174991,
-    21.568863
+    39.165447,
+    21.555888,
+    39.202212,
+    21.587182
 ],
-  "geometry": {"coordinates":[39.174991,21.568863],"type":"Point"}
+  "geometry": {"coordinates":[[[39.165447,21.580841],[39.176862,21.584563],[39.185756,21.587044],[39.186646,21.587182],[39.187535,21.586906],[39.197171,21.579876],[39.198505,21.580152],[39.199098,21.578497],[39.199691,21.572983],[39.202212,21.562368],[39.187535,21.559334],[39.173749,21.555888],[39.165447,21.580841]]],"type":"Polygon"}
 }

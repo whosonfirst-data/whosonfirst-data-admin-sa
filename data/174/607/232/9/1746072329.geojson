@@ -1,0 +1,58 @@
+{
+  "id": 1746072329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001051,
+    "geom:bbox":"39.186361,21.803086,39.224065,21.852654",
+    "geom:latitude":21.825092,
+    "geom:longitude":39.205769,
+    "iso:country":"SA",
+    "lbl:latitude":21.824675,
+    "lbl:longitude":39.205483,
+    "mps:latitude":21.824675,
+    "mps:longitude":39.205483,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u0648\u0633\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Frosiyah"
+    ],
+    "name:eng_x_variant":[
+        "\u0627\u0644\u0641\u0631\u0648\u0633\u064a\u0629"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413154,
+    "wof:geomhash":"3571bd760045bdadf94bc93d1bb87180",
+    "wof:hierarchy":[],
+    "wof:id":1746072329,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413154,
+    "wof:name":"Al Frosiyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.186361,
+    21.803086,
+    39.224065,
+    21.852654
+],
+  "geometry": {"coordinates":[[[39.224065,21.813777],[39.213678,21.808693],[39.196607,21.803086],[39.186361,21.829087],[39.186379,21.829098],[39.191235,21.83214],[39.193247,21.833622],[39.194446,21.834528],[39.195339,21.835434],[39.196594,21.836652],[39.198575,21.838904],[39.201626,21.842229],[39.204255,21.845378],[39.206788,21.848262],[39.209656,21.850613],[39.212763,21.852654],[39.221569,21.82058],[39.224065,21.813777]]],"type":"Polygon"}
+}

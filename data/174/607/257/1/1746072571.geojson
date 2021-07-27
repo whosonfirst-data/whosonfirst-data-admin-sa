@@ -1,0 +1,55 @@
+{
+  "id": 1746072571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000321,
+    "geom:bbox":"39.573773,24.432609,39.600862,24.453634",
+    "geom:latitude":24.443011,
+    "geom:longitude":39.587379,
+    "iso:country":"SA",
+    "lbl:latitude":24.443009,
+    "lbl:longitude":39.587585,
+    "mps:latitude":24.443009,
+    "mps:longitude":39.587585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0648\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Urwah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413249,
+    "wof:geomhash":"d19c4367214c374396320016709095a4",
+    "wof:hierarchy":[],
+    "wof:id":1746072571,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413249,
+    "wof:name":"Urwah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.573773,
+    24.432609,
+    39.600862,
+    24.453634
+],
+  "geometry": {"coordinates":[[[39.590481,24.453634],[39.600862,24.436484],[39.58249,24.432609],[39.581446,24.437459],[39.580568,24.440209],[39.579854,24.440859],[39.578426,24.442059],[39.577272,24.443409],[39.575734,24.445309],[39.573773,24.447005],[39.573839,24.447059],[39.575762,24.448559],[39.579112,24.450409],[39.580925,24.451534],[39.581803,24.451984],[39.582737,24.452334],[39.583726,24.452484],[39.585318,24.452434],[39.586142,24.452234],[39.587186,24.452234],[39.588174,24.452484],[39.590481,24.453634]]],"type":"Polygon"}
+}

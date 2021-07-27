@@ -1,0 +1,55 @@
+{
+  "id": 1746072869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:bbox":"50.215584,26.300431,50.223993,26.323164",
+    "geom:latitude":26.311662,
+    "geom:longitude":50.219988,
+    "iso:country":"SA",
+    "lbl:latitude":26.311494,
+    "lbl:longitude":50.220328,
+    "mps:latitude":26.311494,
+    "mps:longitude":50.220328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0631\u0645\u0648\u0643"
+    ],
+    "name:eng_x_preferred":[
+        "Al Yarmok"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413370,
+    "wof:geomhash":"4eea554618a36e647711c56284db21b8",
+    "wof:hierarchy":[],
+    "wof:id":1746072869,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413370,
+    "wof:name":"Al Yarmok",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.215584,
+    26.300431,
+    50.223993,
+    26.323164
+],
+  "geometry": {"coordinates":[[[50.217362,26.301314],[50.21757,26.303221],[50.216709,26.316873],[50.216561,26.317698],[50.215584,26.323164],[50.217835,26.322452],[50.220616,26.321621],[50.22141,26.321027],[50.22194,26.320315],[50.22247,26.319365],[50.223993,26.309216],[50.22247,26.300431],[50.217362,26.301314]]],"type":"Polygon"}
+}

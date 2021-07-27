@@ -1,0 +1,55 @@
+{
+  "id": 1746073139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00018,
+    "geom:bbox":"49.965198,26.512803,49.984905,26.526753",
+    "geom:latitude":26.519713,
+    "geom:longitude":49.975046,
+    "iso:country":"SA",
+    "lbl:latitude":26.519605,
+    "lbl:longitude":49.975046,
+    "mps:latitude":26.519605,
+    "mps:longitude":49.975046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0633\u0643\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Iskan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413510,
+    "wof:geomhash":"3873d3fdb98a093d1498c21f59e32f7c",
+    "wof:hierarchy":[],
+    "wof:id":1746073139,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413510,
+    "wof:name":"Al Iskan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.965198,
+    26.512803,
+    49.984905,
+    26.526753
+],
+  "geometry": {"coordinates":[[[49.979218,26.526544],[49.98015,26.524465],[49.984905,26.514368],[49.971922,26.512803],[49.965198,26.522153],[49.970806,26.526753],[49.975713,26.525917],[49.979218,26.526544]]],"type":"Polygon"}
+}

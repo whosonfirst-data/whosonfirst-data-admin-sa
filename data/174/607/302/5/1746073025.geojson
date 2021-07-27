@@ -1,0 +1,55 @@
+{
+  "id": 1746073025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:bbox":"49.962487,26.575821,49.973307,26.594779",
+    "geom:latitude":26.585181,
+    "geom:longitude":49.967718,
+    "iso:country":"SA",
+    "lbl:latitude":26.584908,
+    "lbl:longitude":49.967615,
+    "mps:latitude":26.584908,
+    "mps:longitude":49.967615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u0627\u062f\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bawadi"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413433,
+    "wof:geomhash":"fe3c249693a978e4b47b50c53df6954b",
+    "wof:hierarchy":[],
+    "wof:id":1746073025,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413433,
+    "wof:name":"Al Bawadi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.962487,
+    26.575821,
+    49.973307,
+    26.594779
+],
+  "geometry": {"coordinates":[[[49.972373,26.590163],[49.972923,26.587658],[49.973307,26.586528],[49.972044,26.58643],[49.973032,26.582943],[49.973197,26.580683],[49.971714,26.580487],[49.972373,26.578768],[49.972923,26.577245],[49.965947,26.575821],[49.962487,26.58034],[49.963036,26.592471],[49.963805,26.593503],[49.970122,26.594779],[49.970836,26.592422],[49.972318,26.590654],[49.972373,26.590163]]],"type":"Polygon"}
+}

@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000774,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.77051,24.729464,46.77051,24.729464",
-    "geom:latitude":24.729464,
-    "geom:longitude":46.77051,
+    "geom:bbox":"46.748835,24.714546,46.787062,24.752891",
+    "geom:latitude":24.734051,
+    "geom:longitude":46.76713,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"46.76551,24.724464,46.77551,24.734464",
     "lbl:latitude":24.729464,
     "lbl:longitude":46.77051,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.735113,
-    "mps:longitude":46.769913,
+    "mps:latitude":24.734339,
+    "mps:longitude":46.76684,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,7 +29,7 @@
         "\u0627\u0644\u0631\u0648\u0636\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Roudah"
+        "Al Rawdah"
     ],
     "name:eng_x_variant":[
         "Al Roudah"
@@ -59,17 +58,18 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939753,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,9 +79,10 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "mz"
     ],
-    "wof:geomhash":"aa6f03e0b4ebef4779e1400dea5b7575",
+    "wof:geomhash":"f5c325cc9a7690c5d563846a4ed61691",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,20 +97,22 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326294,
-    "wof:name":"\u0627\u0644\u0631\u0648\u0636\u0629",
+    "wof:lastmodified":1627419820,
+    "wof:name":"Al Rawdah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126068533
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    46.77051,
-    24.729464,
-    46.77051,
-    24.729464
+    46.748835,
+    24.714546,
+    46.787062,
+    24.752891
 ],
-  "geometry": {"coordinates":[46.77051,24.729464],"type":"Point"}
+  "geometry": {"coordinates":[[[46.76999,24.752891],[46.774331,24.747135],[46.787062,24.730255],[46.787013,24.730225],[46.783366,24.727909],[46.783124,24.727759],[46.761751,24.714546],[46.748835,24.740091],[46.76999,24.752891]]],"type":"Polygon"}
 }

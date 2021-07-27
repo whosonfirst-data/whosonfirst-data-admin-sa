@@ -1,0 +1,55 @@
+{
+  "id": 1746073043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:bbox":"50.004407,26.549962,50.009048,26.555563",
+    "geom:latitude":26.552751,
+    "geom:longitude":50.006686,
+    "iso:country":"SA",
+    "lbl:latitude":26.552665,
+    "lbl:longitude":50.006642,
+    "mps:latitude":26.552665,
+    "mps:longitude":50.006642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u064a\u0643\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Kuwaikib"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413441,
+    "wof:geomhash":"ea7968542e9525f1bb611bc081de3f1a",
+    "wof:hierarchy":[],
+    "wof:id":1746073043,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413441,
+    "wof:name":"Kuwaikib",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.004407,
+    26.549962,
+    50.009048,
+    26.555563
+],
+  "geometry": {"coordinates":[[[50.009048,26.550306],[50.007318,26.549962],[50.006989,26.550601],[50.005341,26.550281],[50.005341,26.551092],[50.004407,26.551362],[50.004627,26.553843],[50.00449,26.554973],[50.006996,26.555384],[50.008087,26.555563],[50.009048,26.550306]]],"type":"Polygon"}
+}

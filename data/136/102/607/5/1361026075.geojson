@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001185,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.67833,24.5499,39.67833,24.5499",
-    "geom:latitude":24.5499,
-    "geom:longitude":39.67833,
+    "geom:bbox":"39.645597,24.519537,39.688341,24.579687",
+    "geom:latitude":24.552385,
+    "geom:longitude":39.667576,
     "gn:admin1_code":"5.0",
     "gn:asciiname":"Al Wu'ayrah",
     "gn:country_code":"SA",
@@ -23,19 +23,35 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"39.67333,24.5449,39.68333,24.5549",
+    "lbl:latitude":24.561422,
+    "lbl:longitude":39.669357,
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.561422,
+    "mps:longitude":39.669357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
+        "\u0648\u0639\u064a\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0648\u0639\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Wairah"
+    ],
+    "name:eng_x_variant":[
+        "Al Wu'ayrah"
     ],
     "name:und_x_variant":[
         "Al Wu\u2019ayrah",
         "Al Wa\u2018\u012brah"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85676825,
         102191569,
@@ -48,7 +64,10 @@
         "gn:id":9616339
     },
     "wof:country":"SA",
-    "wof:geomhash":"e1eb9d69e41992d194f545d58d9c151c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c5d24773ea3a088ba1df73ecfba65414",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +79,8 @@
         }
     ],
     "wof:id":1361026075,
-    "wof:lastmodified":1566638437,
-    "wof:name":"Al Wu'ayrah",
+    "wof:lastmodified":1627413283,
+    "wof:name":"Wairah",
     "wof:parent_id":1108720605,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -72,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.67833,
-    24.5499,
-    39.67833,
-    24.5499
+    39.645597,
+    24.519537,
+    39.688341,
+    24.579687
 ],
-  "geometry": {"coordinates":[39.67833,24.5499],"type":"Point"}
+  "geometry": {"coordinates":[[[39.663268,24.541122],[39.666234,24.545019],[39.665026,24.550515],[39.657776,24.559307],[39.649867,24.567599],[39.645597,24.578503],[39.652091,24.579137],[39.664174,24.579637],[39.671644,24.579687],[39.673182,24.577189],[39.670216,24.575291],[39.672687,24.571145],[39.677301,24.573343],[39.679168,24.570796],[39.679992,24.556859],[39.678729,24.55611],[39.67829,24.547217],[39.676697,24.546968],[39.674225,24.544819],[39.67428,24.54397],[39.674006,24.543171],[39.673347,24.542921],[39.671205,24.54337],[39.672468,24.540223],[39.67818,24.537675],[39.680322,24.537575],[39.688341,24.531179],[39.686625,24.529288],[39.685485,24.528931],[39.680651,24.526732],[39.676038,24.524334],[39.670875,24.519937],[39.663186,24.519537],[39.660549,24.520536],[39.658553,24.521747],[39.659643,24.532029],[39.66195,24.532129],[39.664367,24.537325],[39.663268,24.541122]]],"type":"Polygon"}
 }

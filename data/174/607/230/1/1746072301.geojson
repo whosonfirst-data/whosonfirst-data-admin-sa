@@ -1,0 +1,55 @@
+{
+  "id": 1746072301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:bbox":"46.583192,24.724932,46.598559,24.735898",
+    "geom:latitude":24.729035,
+    "geom:longitude":46.590035,
+    "iso:country":"SA",
+    "lbl:latitude":24.729643,
+    "lbl:longitude":46.589511,
+    "mps:latitude":24.729643,
+    "mps:longitude":46.589511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0647\u062f\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Shohda"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413139,
+    "wof:geomhash":"e5200f21fbcfa7da53a828c972fb8bda",
+    "wof:hierarchy":[],
+    "wof:id":1746072301,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413139,
+    "wof:name":"Al Shohda",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.583192,
+    24.724932,
+    46.598559,
+    24.735898
+],
+  "geometry": {"coordinates":[[[46.592698,24.72559],[46.583192,24.724932],[46.583192,24.726977],[46.585747,24.731662],[46.588729,24.734643],[46.590192,24.735898],[46.592123,24.733139],[46.597446,24.72739],[46.598559,24.726581],[46.597774,24.725666],[46.592698,24.72559]]],"type":"Polygon"}
+}

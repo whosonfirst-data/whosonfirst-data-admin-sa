@@ -1,0 +1,55 @@
+{
+  "id": 1746072043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00046,
+    "geom:bbox":"46.759334,24.747135,46.790646,24.776315",
+    "geom:latitude":24.761758,
+    "geom:longitude":46.775113,
+    "iso:country":"SA",
+    "lbl:latitude":24.761672,
+    "lbl:longitude":46.775114,
+    "mps:latitude":24.761672,
+    "mps:longitude":46.775114,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0643 \u0641\u064a\u0635\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "King Faisal"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413004,
+    "wof:geomhash":"9b4665b5c865f8ac89d709b9bec7f1d0",
+    "wof:hierarchy":[],
+    "wof:id":1746072043,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413004,
+    "wof:name":"King Faisal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.759334,
+    24.747135,
+    46.790646,
+    24.776315
+],
+  "geometry": {"coordinates":[[[46.776165,24.776315],[46.785109,24.763964],[46.790646,24.756724],[46.774331,24.747135],[46.76999,24.752891],[46.759334,24.767671],[46.768712,24.77163],[46.770416,24.772908],[46.773397,24.774825],[46.776165,24.776315]]],"type":"Polygon"}
+}

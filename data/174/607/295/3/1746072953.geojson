@@ -1,0 +1,55 @@
+{
+  "id": 1746072953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:bbox":"50.044036,26.582237,50.051449,26.597107",
+    "geom:latitude":26.589512,
+    "geom:longitude":50.047714,
+    "iso:country":"SA",
+    "lbl:latitude":26.589406,
+    "lbl:longitude":50.047644,
+    "mps:latitude":26.589406,
+    "mps:longitude":50.047644,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0648\u062c"
+    ],
+    "name:eng_x_preferred":[
+        "Al Muruj"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413404,
+    "wof:geomhash":"42c3cdc00a28dbbd7a398a80ab3c4690",
+    "wof:hierarchy":[],
+    "wof:id":1746072953,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413404,
+    "wof:name":"Al Muruj",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.044036,
+    26.582237,
+    50.051449,
+    26.597107
+],
+  "geometry": {"coordinates":[[[50.051449,26.582802],[50.045737,26.582237],[50.044036,26.593642],[50.044549,26.593696],[50.04552,26.597107],[50.049397,26.596566],[50.051003,26.591943],[50.050131,26.59147],[50.051449,26.582802]]],"type":"Polygon"}
+}

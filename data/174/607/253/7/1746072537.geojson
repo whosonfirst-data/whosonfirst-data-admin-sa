@@ -1,0 +1,55 @@
+{
+  "id": 1746072537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000686,
+    "geom:bbox":"39.620507,24.387623,39.658572,24.423699",
+    "geom:latitude":24.406734,
+    "geom:longitude":39.639178,
+    "iso:country":"SA",
+    "lbl:latitude":24.407035,
+    "lbl:longitude":39.63889,
+    "mps:latitude":24.407035,
+    "mps:longitude":39.63889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "As Sad"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413236,
+    "wof:geomhash":"68946d87ebeee7085f3dc4c937b1f94d",
+    "wof:hierarchy":[],
+    "wof:id":1746072537,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413236,
+    "wof:name":"As Sad",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.620507,
+    24.387623,
+    39.658572,
+    24.423699
+],
+  "geometry": {"coordinates":[[[39.642651,24.423699],[39.645446,24.413855],[39.647368,24.410805],[39.647533,24.409954],[39.651757,24.403037],[39.654069,24.399251],[39.655551,24.400101],[39.658572,24.394549],[39.64322,24.387623],[39.623751,24.411005],[39.622817,24.412505],[39.621938,24.414656],[39.620895,24.418607],[39.620507,24.42061],[39.621293,24.420482],[39.627664,24.421182],[39.634506,24.422175],[39.635244,24.422282],[39.642603,24.423682],[39.642651,24.423699]]],"type":"Polygon"}
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1746072541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000892,
+    "geom:bbox":"39.584845,24.369347,39.61897,24.426432",
+    "geom:latitude":24.39592,
+    "geom:longitude":39.601146,
+    "iso:country":"SA",
+    "lbl:latitude":24.396131,
+    "lbl:longitude":39.601146,
+    "mps:latitude":24.396131,
+    "mps:longitude":39.601146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u0646\u0648\u0646\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Ranuna"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413238,
+    "wof:geomhash":"757ce8038c610648bc375311f83bc97d",
+    "wof:hierarchy":[],
+    "wof:id":1746072541,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413238,
+    "wof:name":"Ar Ranuna",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.584845,
+    24.369347,
+    39.61897,
+    24.426432
+],
+  "geometry": {"coordinates":[[[39.61897,24.376684],[39.608318,24.371788],[39.598711,24.369347],[39.598486,24.370337],[39.593873,24.390848],[39.592005,24.400251],[39.591346,24.403352],[39.589369,24.407654],[39.58893,24.409254],[39.58871,24.410555],[39.58882,24.411955],[39.58893,24.413455],[39.589039,24.414956],[39.58893,24.415856],[39.58871,24.417156],[39.587831,24.418757],[39.585305,24.422557],[39.584845,24.423813],[39.597378,24.426432],[39.598102,24.422807],[39.60667,24.403903],[39.61897,24.376684]]],"type":"Polygon"}
+}

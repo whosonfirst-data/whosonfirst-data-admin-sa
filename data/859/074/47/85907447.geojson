@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000357,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.73258,24.753762,46.73258,24.753762",
-    "geom:latitude":24.753762,
-    "geom:longitude":46.73258,
+    "geom:bbox":"46.712819,24.751714,46.738884,24.776025",
+    "geom:latitude":24.763953,
+    "geom:longitude":46.725861,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"46.72758,24.748762,46.73758,24.758762",
-    "lbl:latitude":24.753762,
-    "lbl:longitude":46.73258,
+    "lbl:latitude":24.763899,
+    "lbl:longitude":46.725861,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.754251,
-    "mps:longitude":46.7333,
+    "mps:latitude":24.763899,
+    "mps:longitude":46.725861,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -33,8 +32,7 @@
         "Al Mughrazat"
     ],
     "name:eng_x_variant":[
-        "Al Mugharazat",
-        "Al Mughrazat"
+        "Al Mugharazat"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -60,17 +58,18 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939753,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,9 +79,10 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "mz"
     ],
-    "wof:geomhash":"5125d25553994ce7f31c4121300ec4c3",
+    "wof:geomhash":"31ffa4e8a8738d7b231ca73f70deb368",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +97,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326293,
-    "wof:name":"\u0627\u0644\u0645\u063a\u0631\u0632\u0627\u062a",
+    "wof:lastmodified":1627419810,
+    "wof:name":"Al Mughrazat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -107,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.73258,
-    24.753762,
-    46.73258,
-    24.753762
+    46.712819,
+    24.751714,
+    46.738884,
+    24.776025
 ],
-  "geometry": {"coordinates":[46.73258,24.753762],"type":"Point"}
+  "geometry": {"coordinates":[[[46.738884,24.759772],[46.721213,24.751714],[46.712819,24.768368],[46.730666,24.776025],[46.738884,24.759772]]],"type":"Polygon"}
 }

@@ -1,0 +1,55 @@
+{
+  "id": 1746072757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:bbox":"50.096598,26.42465,50.107887,26.438567",
+    "geom:latitude":26.432785,
+    "geom:longitude":50.101849,
+    "iso:country":"SA",
+    "lbl:latitude":26.433258,
+    "lbl:longitude":50.101957,
+    "mps:latitude":26.433258,
+    "mps:longitude":50.101957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062f\u0627\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Adamah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413322,
+    "wof:geomhash":"499a97bcc41e62a611201f42937f7cc3",
+    "wof:hierarchy":[],
+    "wof:id":1746072757,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413322,
+    "wof:name":"Al Adamah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.096598,
+    26.42465,
+    50.107887,
+    26.438567
+],
+  "geometry": {"coordinates":[[[50.096664,26.438567],[50.107788,26.438448],[50.107887,26.428606],[50.105239,26.428665],[50.104179,26.428487],[50.102656,26.427717],[50.100483,26.426611],[50.096627,26.42465],[50.096598,26.432905],[50.096664,26.438567]]],"type":"Polygon"}
+}

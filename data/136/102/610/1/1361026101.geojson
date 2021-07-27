@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-07-27",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -26,7 +27,7 @@
     "lbl:bbox":"49.98444,26.56389,49.99444,26.57389",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Al Quday\u1e29"
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":1361026101,
-    "wof:lastmodified":1566638424,
+    "wof:lastmodified":1627413422,
     "wof:name":"Al Qudayh",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1361025913
+    ],
     "wof:supersedes":[
         1276972273
     ],

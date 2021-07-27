@@ -1,0 +1,55 @@
+{
+  "id": 1746072557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000245,
+    "geom:bbox":"39.625679,24.422175,39.652307,24.442309",
+    "geom:latitude":24.431529,
+    "geom:longitude":39.638527,
+    "iso:country":"SA",
+    "lbl:latitude":24.430232,
+    "lbl:longitude":39.638728,
+    "mps:latitude":24.430232,
+    "mps:longitude":39.638728,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0647\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ihn"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413244,
+    "wof:geomhash":"5fed1247504f69ac1a6c9f41858e84f6",
+    "wof:hierarchy":[],
+    "wof:id":1746072557,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413244,
+    "wof:name":"Al Ihn",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.625679,
+    24.422175,
+    39.652307,
+    24.442309
+],
+  "geometry": {"coordinates":[[[39.633047,24.442309],[39.633829,24.440234],[39.635532,24.439384],[39.637729,24.438084],[39.652307,24.429779],[39.648974,24.426883],[39.645569,24.424683],[39.642651,24.423699],[39.642603,24.423682],[39.635244,24.422282],[39.634506,24.422175],[39.632896,24.428121],[39.631523,24.433546],[39.631083,24.434846],[39.630534,24.435646],[39.629216,24.436746],[39.626689,24.438897],[39.625679,24.441113],[39.625852,24.441109],[39.628049,24.441159],[39.629861,24.441359],[39.631838,24.441909],[39.633047,24.442309]]],"type":"Polygon"}
+}

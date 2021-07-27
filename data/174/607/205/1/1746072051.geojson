@@ -1,0 +1,55 @@
+{
+  "id": 1746072051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000156,
+    "geom:bbox":"46.725417,24.610826,46.74735,24.630218",
+    "geom:latitude":24.620273,
+    "geom:longitude":46.73584,
+    "iso:country":"SA",
+    "lbl:latitude":24.621594,
+    "lbl:longitude":46.739329,
+    "mps:latitude":24.621594,
+    "mps:longitude":46.739329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u0628\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ghobairah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413007,
+    "wof:geomhash":"c72788c6f74a2cbeb8cc75924474540b",
+    "wof:hierarchy":[],
+    "wof:id":1746072051,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413007,
+    "wof:name":"Ghobairah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.725417,
+    24.610826,
+    46.74735,
+    24.630218
+],
+  "geometry": {"coordinates":[[[46.739205,24.630218],[46.740855,24.626424],[46.741281,24.62504],[46.741814,24.624295],[46.74224,24.623869],[46.743304,24.623124],[46.74405,24.623124],[46.745647,24.622804],[46.746286,24.622591],[46.74735,24.621952],[46.728398,24.610826],[46.725417,24.61752],[46.735452,24.621087],[46.735053,24.622818],[46.734919,24.626225],[46.73484,24.626943],[46.73444,24.627662],[46.733722,24.629073],[46.739205,24.630218]]],"type":"Polygon"}
+}

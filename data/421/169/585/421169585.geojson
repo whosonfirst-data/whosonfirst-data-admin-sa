@@ -4,23 +4,27 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001633,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.60083,24.75389,46.60083,24.75389",
-    "geom:latitude":24.75389,
-    "geom:longitude":46.60083,
+    "geom:bbox":"46.572531,24.735898,46.629281,24.786124",
+    "geom:latitude":24.761978,
+    "geom:longitude":46.600687,
     "iso:country":"SA",
-    "lbl:bbox":"46.59583,24.74889,46.60583,24.75889",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.761249,
+    "mps:longitude":46.601117,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u1e28i\u0163\u0163\u012bn"
+        "\u062d\u0637\u064a\u0646"
     ],
     "name:ara_x_variant":[
-        "\u062d\u0637\u064a\u0646"
+        "\u1e28i\u0163\u0163\u012bn"
+    ],
+    "name:eng_x_preferred":[
+        "Hitteen"
     ],
     "name:und_x_variant":[
         "Hittin"
@@ -43,12 +47,15 @@
     "qs:qs_id":1191449,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22725978,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720543
+        1108720543,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +65,10 @@
     },
     "wof:country":"SA",
     "wof:created":1459008816,
-    "wof:geomhash":"0f678a1f9215441648910c32c718f1b1",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"150fd52992307b3dcd6f7bf47b290e51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,8 +80,8 @@
         }
     ],
     "wof:id":421169585,
-    "wof:lastmodified":1566638461,
-    "wof:name":"\u062d\u0637\u064a\u0646",
+    "wof:lastmodified":1627419792,
+    "wof:name":"Hitteen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -80,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.60083,
-    24.75389,
-    46.60083,
-    24.75389
+    46.572531,
+    24.735898,
+    46.629281,
+    24.786124
 ],
-  "geometry": {"coordinates":[46.60083,24.75389],"type":"Point"}
+  "geometry": {"coordinates":[[[46.572531,24.775157],[46.579186,24.777606],[46.583445,24.778884],[46.585255,24.77899],[46.586639,24.778884],[46.588236,24.778245],[46.590366,24.777606],[46.592389,24.777713],[46.595796,24.779097],[46.612832,24.786124],[46.629281,24.753208],[46.59171,24.737199],[46.590192,24.735898],[46.587384,24.740766],[46.586,24.743321],[46.584723,24.747048],[46.582806,24.752584],[46.582114,24.753969],[46.579984,24.758867],[46.572531,24.775157]]],"type":"Polygon"}
 }

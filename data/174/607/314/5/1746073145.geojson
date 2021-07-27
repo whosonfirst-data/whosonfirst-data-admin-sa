@@ -1,0 +1,55 @@
+{
+  "id": 1746073145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:bbox":"49.985591,26.492161,49.996742,26.505531",
+    "geom:latitude":26.499937,
+    "geom:longitude":49.990759,
+    "iso:country":"SA",
+    "lbl:latitude":26.500257,
+    "lbl:longitude":49.990308,
+    "mps:latitude":26.500257,
+    "mps:longitude":49.990308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0627\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rimal"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413512,
+    "wof:geomhash":"7eaed3a291921bdb25b3712de3a92ab4",
+    "wof:hierarchy":[],
+    "wof:id":1746073145,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413512,
+    "wof:name":"Ar Rimal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.985591,
+    26.492161,
+    49.996742,
+    26.505531
+],
+  "geometry": {"coordinates":[[[49.98991,26.492161],[49.989419,26.492803],[49.989096,26.493776],[49.98821,26.495508],[49.987364,26.496842],[49.986598,26.49778],[49.986034,26.498285],[49.985873,26.498862],[49.985591,26.504848],[49.996742,26.505531],[49.992536,26.492357],[49.98991,26.492161]]],"type":"Polygon"}
+}

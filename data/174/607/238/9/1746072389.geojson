@@ -1,0 +1,55 @@
+{
+  "id": 1746072389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001393,
+    "geom:bbox":"39.26117,21.286327,39.296437,21.328669",
+    "geom:latitude":21.306705,
+    "geom:longitude":39.278591,
+    "iso:country":"SA",
+    "lbl:latitude":21.306756,
+    "lbl:longitude":39.278826,
+    "mps:latitude":21.306756,
+    "mps:longitude":39.278826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0636\u064a\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Fadeylah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413177,
+    "wof:geomhash":"6f57d93e12dc24a4709e1ce6efb89923",
+    "wof:hierarchy":[],
+    "wof:id":1746072389,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413177,
+    "wof:name":"Al Fadeylah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26117,
+    21.286327,
+    39.296437,
+    21.328669
+],
+  "geometry": {"coordinates":[[[39.296217,21.323886],[39.296437,21.286789],[39.26204,21.286327],[39.26117,21.327859],[39.271477,21.328206],[39.272719,21.327396],[39.274582,21.328669],[39.279176,21.326818],[39.296217,21.323886]]],"type":"Polygon"}
+}

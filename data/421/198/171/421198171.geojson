@@ -4,18 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000503,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.68694,24.57,46.68694,24.57",
-    "geom:latitude":24.57,
-    "geom:longitude":46.68694,
+    "geom:bbox":"46.659085,24.556504,46.705249,24.586422",
+    "geom:latitude":24.572526,
+    "geom:longitude":46.683589,
     "iso:country":"SA",
-    "lbl:bbox":"46.68194,24.565,46.69194,24.575",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.572124,
+    "mps:longitude":46.683939,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0645\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Namar"
+    ],
     "name:und_x_variant":[
         "Nam\u0101r"
     ],
@@ -37,12 +44,15 @@
     "qs:qs_id":401082,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22726025,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +62,10 @@
     },
     "wof:country":"SA",
     "wof:created":1459009939,
-    "wof:geomhash":"3ab374170267fb72a39405f9c4d36843",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"27664d3e9447988122695c1a41d9ab06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,8 +77,8 @@
         }
     ],
     "wof:id":421198171,
-    "wof:lastmodified":1566638465,
-    "wof:name":"\u0646\u0645\u0627\u0631",
+    "wof:lastmodified":1627419800,
+    "wof:name":"Namar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -74,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.68694,
-    24.57,
-    46.68694,
-    24.57
+    46.659085,
+    24.556504,
+    46.705249,
+    24.586422
 ],
-  "geometry": {"coordinates":[46.68694,24.57],"type":"Point"}
+  "geometry": {"coordinates":[[[46.67486,24.556504],[46.667076,24.563132],[46.664368,24.566087],[46.663556,24.566457],[46.662202,24.56658],[46.660983,24.566703],[46.659085,24.568121],[46.664378,24.569161],[46.667397,24.569979],[46.672463,24.572231],[46.679371,24.576478],[46.684028,24.579906],[46.68546,24.581186],[46.686637,24.582209],[46.687588,24.582664],[46.690028,24.584323],[46.691639,24.585056],[46.693543,24.585739],[46.695934,24.586081],[46.698863,24.586129],[46.703499,24.586422],[46.705249,24.586104],[46.705163,24.584465],[46.704595,24.582762],[46.703317,24.580846],[46.701047,24.578433],[46.696292,24.575168],[46.687137,24.56722],[46.680679,24.561543],[46.67486,24.556504]]],"type":"Polygon"}
 }

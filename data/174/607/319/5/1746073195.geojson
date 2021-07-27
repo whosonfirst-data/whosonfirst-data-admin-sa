@@ -1,0 +1,55 @@
+{
+  "id": 1746073195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000215,
+    "geom:bbox":"50.049553,26.471122,50.067828,26.493396",
+    "geom:latitude":26.481861,
+    "geom:longitude":50.059886,
+    "iso:country":"SA",
+    "lbl:latitude":26.481471,
+    "lbl:longitude":50.060509,
+    "mps:latitude":26.481471,
+    "mps:longitude":50.060509,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u062b\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kawthar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413537,
+    "wof:geomhash":"3daaa0a9cae89826b6a33fb6828f7b19",
+    "wof:hierarchy":[],
+    "wof:id":1746073195,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413537,
+    "wof:name":"Al Kawthar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.049553,
+    26.471122,
+    50.067828,
+    26.493396
+],
+  "geometry": {"coordinates":[[[50.055777,26.493396],[50.063408,26.488477],[50.067828,26.479232],[50.067194,26.47392],[50.05851,26.471122],[50.053526,26.483351],[50.052864,26.484536],[50.051738,26.485366],[50.050811,26.485721],[50.049553,26.486432],[50.05101,26.487618],[50.051871,26.488151],[50.053261,26.488803],[50.054188,26.489336],[50.054742,26.489941],[50.055322,26.491173],[50.055648,26.492828],[50.055777,26.493396]]],"type":"Polygon"}
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1746073001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:bbox":"50.003941,26.561335,50.006507,26.563069",
+    "geom:latitude":26.562199,
+    "geom:longitude":50.005081,
+    "iso:country":"SA",
+    "lbl:latitude":26.562168,
+    "lbl:longitude":50.005081,
+    "mps:latitude":26.562168,
+    "mps:longitude":50.005081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0645\u0627\u0633\u064a\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shamasiyyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413423,
+    "wof:geomhash":"80ca68fac009ae41e4a9f58ef0c62ce9",
+    "wof:hierarchy":[],
+    "wof:id":1746073001,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413423,
+    "wof:name":"Ash Shamasiyyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.003941,
+    26.561335,
+    50.006507,
+    26.563069
+],
+  "geometry": {"coordinates":[[[50.004034,26.563069],[50.006507,26.562544],[50.005808,26.561335],[50.003941,26.561728],[50.004034,26.563069]]],"type":"Polygon"}
+}

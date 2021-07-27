@@ -1,0 +1,55 @@
+{
+  "id": 1746072077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:bbox":"46.728875,24.629073,46.739205,24.639534",
+    "geom:latitude":24.633931,
+    "geom:longitude":46.734385,
+    "iso:country":"SA",
+    "lbl:latitude":24.634157,
+    "lbl:longitude":46.734033,
+    "mps:latitude":24.634157,
+    "mps:longitude":46.734033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u0644\u062d\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "As Salhiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413022,
+    "wof:geomhash":"b50dad07bc608e75c520c75a495d4cce",
+    "wof:hierarchy":[],
+    "wof:id":1746072077,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413022,
+    "wof:name":"As Salhiyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.728875,
+    24.629073,
+    46.739205,
+    24.639534
+],
+  "geometry": {"coordinates":[[[46.739205,24.630218],[46.733722,24.629073],[46.733349,24.629978],[46.732923,24.63051],[46.73263,24.63083],[46.732311,24.631149],[46.732045,24.631336],[46.731512,24.631735],[46.73098,24.632374],[46.730527,24.632933],[46.728875,24.635679],[46.73665,24.639534],[46.736863,24.637351],[46.737555,24.634423],[46.738513,24.631921],[46.739205,24.630218]]],"type":"Polygon"}
+}

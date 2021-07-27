@@ -4,20 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00064,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.783723,24.690861,46.783723,24.690861",
-    "geom:latitude":24.690861,
-    "geom:longitude":46.783723,
+    "geom:bbox":"46.77345,24.679582,46.809439,24.712483",
+    "geom:latitude":24.695206,
+    "geom:longitude":46.790292,
     "iso:country":"SA",
-    "lbl:bbox":"46.778723,24.685861,46.788723,24.695861",
     "lbl:latitude":24.690861,
     "lbl:longitude":46.783723,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.693532,
-    "mps:longitude":46.79216,
+    "mps:latitude":24.695865,
+    "mps:longitude":46.792064,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -29,10 +28,10 @@
         "\u0627\u0644\u0631\u0648\u0627\u0628\u064a"
     ],
     "name:eng_x_preferred":[
-        "Ar Rawabi"
+        "Al Rawabi"
     ],
     "name:eng_x_variant":[
-        "Al Rawabi"
+        "Ar Rawabi"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -58,16 +57,17 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939753,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,9 +75,10 @@
     },
     "wof:country":"SA",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"4d9a812a218bff7394624fe51c9871f2",
+    "wof:geomhash":"0e31a1bf64f621b8a921351883c91e09",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,8 +93,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326292,
-    "wof:name":"\u0627\u0644\u0631\u0648\u0627\u0628\u064a",
+    "wof:lastmodified":1627419806,
+    "wof:name":"Al Rawabi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -102,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.783723,
-    24.690861,
-    46.783723,
-    24.690861
+    46.77345,
+    24.679582,
+    46.809439,
+    24.712483
 ],
-  "geometry": {"coordinates":[46.783723,24.690861],"type":"Point"}
+  "geometry": {"coordinates":[[[46.809439,24.692785],[46.79613,24.685971],[46.791764,24.684054],[46.777496,24.679582],[46.776964,24.682351],[46.776325,24.685758],[46.775899,24.688526],[46.77345,24.694595],[46.781862,24.697364],[46.778135,24.702155],[46.794745,24.712483],[46.809439,24.692785]]],"type":"Polygon"}
 }

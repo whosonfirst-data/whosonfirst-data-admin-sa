@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000167,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.708696,24.601928,46.708696,24.601928",
-    "geom:latitude":24.601928,
-    "geom:longitude":46.708696,
+    "geom:bbox":"46.702981,24.585912,46.711747,24.617241",
+    "geom:latitude":24.599559,
+    "geom:longitude":46.707875,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"46.703696,24.596928,46.713696,24.606928",
     "lbl:latitude":24.601928,
     "lbl:longitude":46.708696,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.598017,
-    "mps:longitude":46.704294,
+    "mps:latitude":24.598549,
+    "mps:longitude":46.707354,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -27,10 +26,13 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
+        "\u0639\u062a\u064a\u0642\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0639\u062a\u064a\u0642\u0647"
     ],
     "name:eng_x_preferred":[
-        "'utaiqah"
+        "Utayqah"
     ],
     "name:eng_x_variant":[
         "Itaiygah",
@@ -60,17 +62,18 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939753,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,9 +83,10 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"0634c91f1dc1d9c81ffbfe958bf16057",
+    "wof:geomhash":"7282e1613abbd7970d7bd32ec93db458",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,8 +101,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326292,
-    "wof:name":"\u0639\u062a\u064a\u0642\u0647",
+    "wof:lastmodified":1627419804,
+    "wof:name":"Utayqah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -107,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.708696,
-    24.601928,
-    46.708696,
-    24.601928
+    46.702981,
+    24.585912,
+    46.711747,
+    24.617241
 ],
-  "geometry": {"coordinates":[46.708696,24.601928],"type":"Point"}
+  "geometry": {"coordinates":[[[46.706518,24.585912],[46.705249,24.586104],[46.705211,24.586835],[46.704672,24.58968],[46.703288,24.595217],[46.703159,24.596087],[46.702981,24.597293],[46.703211,24.599062],[46.70398,24.6006],[46.705826,24.603214],[46.706595,24.604521],[46.706627,24.604684],[46.706902,24.606059],[46.707056,24.609135],[46.706783,24.61402],[46.70657,24.617241],[46.709152,24.616895],[46.709658,24.616895],[46.709968,24.616965],[46.710723,24.605981],[46.711747,24.590603],[46.71167,24.589988],[46.711362,24.589296],[46.710517,24.588604],[46.706518,24.585912]]],"type":"Polygon"}
 }

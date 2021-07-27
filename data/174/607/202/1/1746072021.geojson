@@ -1,0 +1,58 @@
+{
+  "id": 1746072021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000279,
+    "geom:bbox":"46.649606,24.674179,46.668985,24.701935",
+    "geom:latitude":24.686412,
+    "geom:longitude":46.658083,
+    "iso:country":"SA",
+    "lbl:latitude":24.686199,
+    "lbl:longitude":46.657936,
+    "mps:latitude":24.686199,
+    "mps:longitude":46.657936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u062d\u0645\u0627\u0645 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Al Hamam Al Sharki"
+    ],
+    "name:eng_x_variant":[
+        "\u0627\u0645 \u0627\u0644\u062d\u0645\u0627\u0645 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627412993,
+    "wof:geomhash":"8ddd107e10b28a3174a5d6cc2eb3a331",
+    "wof:hierarchy":[],
+    "wof:id":1746072021,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627412993,
+    "wof:name":"Umm Al Hamam Al Sharki",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.649606,
+    24.674179,
+    46.668985,
+    24.701935
+],
+  "geometry": {"coordinates":[[[46.668985,24.675137],[46.6676,24.674817],[46.664726,24.67503],[46.662702,24.675137],[46.661212,24.674605],[46.659615,24.674179],[46.658443,24.674392],[46.656953,24.674605],[46.651416,24.687169],[46.65099,24.688553],[46.649606,24.695261],[46.649606,24.696645],[46.649819,24.697284],[46.650458,24.698136],[46.652268,24.699733],[46.655235,24.701935],[46.657805,24.697284],[46.661212,24.691321],[46.665471,24.68472],[46.666003,24.683655],[46.66611,24.682697],[46.66611,24.681525],[46.666323,24.680354],[46.666962,24.679183],[46.667494,24.678118],[46.668985,24.675137]]],"type":"Polygon"}
+}

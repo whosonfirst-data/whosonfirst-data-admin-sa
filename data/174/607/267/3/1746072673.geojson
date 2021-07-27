@@ -1,0 +1,55 @@
+{
+  "id": 1746072673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:bbox":"39.591635,24.457284,39.603168,24.467132",
+    "geom:latitude":24.463466,
+    "geom:longitude":39.597474,
+    "iso:country":"SA",
+    "lbl:latitude":24.463177,
+    "lbl:longitude":39.597584,
+    "mps:latitude":24.463177,
+    "mps:longitude":39.597584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0642\u064a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "As Suqya"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413287,
+    "wof:geomhash":"4e47bcf2147cb60831bdc2d8ecb05f4d",
+    "wof:hierarchy":[],
+    "wof:id":1746072673,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413287,
+    "wof:name":"As Suqya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.591635,
+    24.457284,
+    39.603168,
+    24.467132
+],
+  "geometry": {"coordinates":[[[39.596852,24.457284],[39.592568,24.463633],[39.591909,24.465133],[39.591635,24.467082],[39.60229,24.467132],[39.6024,24.466382],[39.602454,24.465832],[39.602564,24.465083],[39.602729,24.464633],[39.602894,24.464183],[39.603168,24.463783],[39.602839,24.463233],[39.60218,24.462583],[39.60185,24.461983],[39.601411,24.461283],[39.596852,24.457284]]],"type":"Polygon"}
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1746072839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000305,
+    "geom:bbox":"50.008898,26.332155,50.033662,26.354703",
+    "geom:latitude":26.343626,
+    "geom:longitude":50.023397,
+    "iso:country":"SA",
+    "lbl:latitude":26.343265,
+    "lbl:longitude":50.023585,
+    "mps:latitude":26.343265,
+    "mps:longitude":50.023585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0645\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Amal"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413355,
+    "wof:geomhash":"20689fcbfe87a3c1d43d5e01bbd3721c",
+    "wof:hierarchy":[],
+    "wof:id":1746072839,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413355,
+    "wof:name":"Al Amal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.008898,
+    26.332155,
+    50.033662,
+    26.354703
+],
+  "geometry": {"coordinates":[[[50.030351,26.354703],[50.033662,26.338801],[50.023465,26.332155],[50.008898,26.346277],[50.030351,26.354703]]],"type":"Polygon"}
+}

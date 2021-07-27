@@ -1,0 +1,55 @@
+{
+  "id": 1746072669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:bbox":"39.587845,24.47578,39.604981,24.495606",
+    "geom:latitude":24.488074,
+    "geom:longitude":39.597421,
+    "iso:country":"SA",
+    "lbl:latitude":24.488917,
+    "lbl:longitude":39.597291,
+    "mps:latitude":24.488917,
+    "mps:longitude":39.597291,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rayah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413286,
+    "wof:geomhash":"40af8441a2fadda0d60c89b3330f83ab",
+    "wof:hierarchy":[],
+    "wof:id":1746072669,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413286,
+    "wof:name":"Ar Rayah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.587845,
+    24.47578,
+    39.604981,
+    24.495606
+],
+  "geometry": {"coordinates":[[[39.603114,24.485827],[39.603114,24.484078],[39.603278,24.482828],[39.603773,24.481079],[39.604432,24.47798],[39.604981,24.47578],[39.602125,24.479579],[39.601081,24.480629],[39.599873,24.481429],[39.596358,24.483328],[39.594436,24.484528],[39.592404,24.485628],[39.589712,24.486527],[39.587845,24.487327],[39.589548,24.490276],[39.59158,24.492375],[39.59223,24.492827],[39.593667,24.493825],[39.596138,24.494774],[39.598335,24.495224],[39.599983,24.495524],[39.601574,24.495606],[39.601686,24.494624],[39.602509,24.490076],[39.602839,24.488377],[39.603114,24.485827]]],"type":"Polygon"}
+}

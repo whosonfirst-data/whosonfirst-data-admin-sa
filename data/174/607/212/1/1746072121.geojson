@@ -1,0 +1,55 @@
+{
+  "id": 1746072121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00036,
+    "geom:bbox":"46.686485,24.761071,46.712819,24.785016",
+    "geom:latitude":24.77298,
+    "geom:longitude":46.69963,
+    "iso:country":"SA",
+    "lbl:latitude":24.773027,
+    "lbl:longitude":46.69963,
+    "mps:latitude":24.773027,
+    "mps:longitude":46.69963,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0639\u0627\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Taawun"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413048,
+    "wof:geomhash":"fbff10b7da686a8f5b89456697b0bd90",
+    "wof:hierarchy":[],
+    "wof:id":1746072121,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413048,
+    "wof:name":"Al Taawun",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.686485,
+    24.761071,
+    46.712819,
+    24.785016
+],
+  "geometry": {"coordinates":[[[46.712819,24.768368],[46.694671,24.761071],[46.686485,24.777437],[46.704428,24.785016],[46.712819,24.768368]]],"type":"Polygon"}
+}

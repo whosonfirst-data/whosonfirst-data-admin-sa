@@ -1,0 +1,55 @@
+{
+  "id": 1746072465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000531,
+    "geom:bbox":"39.210743,21.431287,39.255273,21.455878",
+    "geom:latitude":21.444312,
+    "geom:longitude":39.232221,
+    "iso:country":"SA",
+    "lbl:latitude":21.441413,
+    "lbl:longitude":39.232558,
+    "mps:latitude":21.441413,
+    "mps:longitude":39.232558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0632\u064a\u0631\u064a\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Al Waziriyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413207,
+    "wof:geomhash":"4d689c9f2ae4080dd6461e6d1af63e0a",
+    "wof:hierarchy":[],
+    "wof:id":1746072465,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413207,
+    "wof:name":"Al Waziriyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.210743,
+    21.431287,
+    39.255273,
+    21.455878
+],
+  "geometry": {"coordinates":[[[39.210743,21.450106],[39.216814,21.455878],[39.225152,21.451941],[39.226602,21.451266],[39.227629,21.451041],[39.230348,21.450704],[39.255273,21.44937],[39.25408,21.446657],[39.253285,21.445115],[39.252887,21.444683],[39.252092,21.44419],[39.244803,21.439379],[39.234745,21.431287],[39.229592,21.433533],[39.227375,21.434565],[39.22607,21.435719],[39.210743,21.450106]]],"type":"Polygon"}
+}

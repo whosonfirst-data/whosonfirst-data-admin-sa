@@ -1,0 +1,55 @@
+{
+  "id": 1746072613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000701,
+    "geom:bbox":"39.683722,24.404984,39.708717,24.475955",
+    "geom:latitude":24.441439,
+    "geom:longitude":39.699008,
+    "iso:country":"SA",
+    "lbl:latitude":24.443038,
+    "lbl:longitude":39.700239,
+    "mps:latitude":24.443038,
+    "mps:longitude":39.700239,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u062f\u0631\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hadra"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413265,
+    "wof:geomhash":"3f42c0550e70345887bd6f0fd485f809",
+    "wof:hierarchy":[],
+    "wof:id":1746072613,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413265,
+    "wof:name":"Al Hadra",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.683722,
+    24.404984,
+    39.708717,
+    24.475955
+],
+  "geometry": {"coordinates":[[[39.708717,24.475955],[39.706603,24.454159],[39.705834,24.445759],[39.702758,24.428558],[39.698474,24.411955],[39.696157,24.407188],[39.695854,24.404984],[39.685567,24.41083],[39.683722,24.411881],[39.693805,24.423933],[39.696002,24.453934],[39.697955,24.475038],[39.708717,24.475955]]],"type":"Polygon"}
+}

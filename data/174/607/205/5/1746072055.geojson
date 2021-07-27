@@ -1,0 +1,55 @@
+{
+  "id": 1746072055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000203,
+    "geom:bbox":"46.669925,24.642822,46.690173,24.660763",
+    "geom:latitude":24.650843,
+    "geom:longitude":46.680284,
+    "iso:country":"SA",
+    "lbl:latitude":24.651349,
+    "lbl:longitude":46.680974,
+    "mps:latitude":24.651349,
+    "mps:longitude":46.680974,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Nasiriyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413012,
+    "wof:geomhash":"cdff2529a57191e062e40e60911dc767",
+    "wof:hierarchy":[],
+    "wof:id":1746072055,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413012,
+    "wof:name":"Al Nasiriyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.669925,
+    24.642822,
+    46.690173,
+    24.660763
+],
+  "geometry": {"coordinates":[[[46.690173,24.650009],[46.688789,24.648784],[46.688576,24.647294],[46.688257,24.646761],[46.687618,24.646548],[46.68634,24.646229],[46.68453,24.646016],[46.682294,24.645909],[46.680803,24.645483],[46.678993,24.644632],[46.676012,24.643673],[46.672392,24.642822],[46.669925,24.650531],[46.671008,24.651127],[46.67878,24.65661],[46.684956,24.660763],[46.690173,24.650009]]],"type":"Polygon"}
+}

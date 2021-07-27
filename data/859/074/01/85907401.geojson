@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-07-27",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,7 +19,7 @@
     "mps:latitude":24.608798,
     "mps:longitude":46.757514,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -97,12 +98,14 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326292,
+    "wof:lastmodified":1627413007,
     "wof:name":"\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421185003
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -1,0 +1,55 @@
+{
+  "id": 1746072905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000382,
+    "geom:bbox":"50.213531,26.235474,50.226491,26.279357",
+    "geom:latitude":26.255896,
+    "geom:longitude":50.219851,
+    "iso:country":"SA",
+    "lbl:latitude":26.256151,
+    "lbl:longitude":50.219727,
+    "mps:latitude":26.256151,
+    "mps:longitude":50.219727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0627\u062d\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "As Sahil"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413386,
+    "wof:geomhash":"6f63cd94f5d03312838890b302f502a1",
+    "wof:hierarchy":[],
+    "wof:id":1746072905,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413386,
+    "wof:name":"As Sahil",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.213531,
+    26.235474,
+    50.226491,
+    26.279357
+],
+  "geometry": {"coordinates":[[[50.213531,26.266414],[50.215782,26.266176],[50.218166,26.279357],[50.219225,26.278644],[50.22002,26.275082],[50.226491,26.274803],[50.22524,26.269542],[50.224339,26.253214],[50.224224,26.237475],[50.224028,26.236235],[50.214061,26.235474],[50.214326,26.237969],[50.214657,26.241235],[50.215716,26.249015],[50.215451,26.251153],[50.213531,26.266414]]],"type":"Polygon"}
+}

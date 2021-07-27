@@ -1,0 +1,55 @@
+{
+  "id": 1746072157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:bbox":"46.705825,24.616895,46.711168,24.626068",
+    "geom:latitude":24.621021,
+    "geom:longitude":46.708541,
+    "iso:country":"SA",
+    "lbl:latitude":24.621238,
+    "lbl:longitude":46.708274,
+    "mps:latitude":24.621238,
+    "mps:longitude":46.708274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u062a\u0632\u0647 \u0633\u0644\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Salam Park"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413067,
+    "wof:geomhash":"7b8acaf64c42b620da16dc8e9ffd087e",
+    "wof:hierarchy":[],
+    "wof:id":1746072157,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413067,
+    "wof:name":"Salam Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.705825,
+    24.616895,
+    46.711168,
+    24.626068
+],
+  "geometry": {"coordinates":[[[46.711168,24.626068],[46.709968,24.616965],[46.709658,24.616895],[46.709152,24.616895],[46.70657,24.617241],[46.705825,24.622698],[46.711168,24.626068]]],"type":"Polygon"}
+}

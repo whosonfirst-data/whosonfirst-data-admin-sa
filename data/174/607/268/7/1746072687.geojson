@@ -1,0 +1,55 @@
+{
+  "id": 1746072687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:bbox":"39.61657,24.468797,39.63466,24.480729",
+    "geom:latitude":24.473802,
+    "geom:longitude":39.625551,
+    "iso:country":"SA",
+    "lbl:latitude":24.474122,
+    "lbl:longitude":39.625551,
+    "mps:latitude":24.474122,
+    "mps:longitude":39.625551,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0645\u0639\u0627\u0648\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Muawiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413292,
+    "wof:geomhash":"9505cd59fcaece479ce9c0202be9ab28",
+    "wof:hierarchy":[],
+    "wof:id":1746072687,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413292,
+    "wof:name":"Bani Muawiyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.61657,
+    24.468797,
+    39.63466,
+    24.480729
+],
+  "geometry": {"coordinates":[[[39.628818,24.480729],[39.63466,24.469925],[39.619587,24.468797],[39.619426,24.469482],[39.618986,24.470582],[39.618437,24.471331],[39.617998,24.471881],[39.617448,24.472381],[39.61657,24.472931],[39.617229,24.473181],[39.617723,24.473981],[39.618547,24.47548],[39.6197,24.47708],[39.620909,24.47788],[39.622172,24.47858],[39.62349,24.47883],[39.625907,24.479029],[39.627335,24.479529],[39.628818,24.480729]]],"type":"Polygon"}
+}

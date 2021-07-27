@@ -1,0 +1,55 @@
+{
+  "id": 1746072619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000208,
+    "geom:bbox":"39.5681,24.467107,39.584165,24.489313",
+    "geom:latitude":24.47828,
+    "geom:longitude":39.576224,
+    "iso:country":"SA",
+    "lbl:latitude":24.478863,
+    "lbl:longitude":39.576346,
+    "mps:latitude":24.478863,
+    "mps:longitude":39.576346,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0628\u0644\u062a\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qiblatayn"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413267,
+    "wof:geomhash":"85db37fb8ca59b2263fdff669268e18f",
+    "wof:hierarchy":[],
+    "wof:id":1746072619,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413267,
+    "wof:name":"Al Qiblatayn",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.5681,
+    24.467107,
+    39.584165,
+    24.489313
+],
+  "geometry": {"coordinates":[[[39.57708,24.467107],[39.576833,24.468507],[39.576229,24.469557],[39.575405,24.471006],[39.574856,24.471706],[39.573428,24.473006],[39.571835,24.474706],[39.570901,24.475805],[39.569693,24.477105],[39.569308,24.477855],[39.568649,24.479054],[39.568265,24.480004],[39.5681,24.481254],[39.56832,24.482653],[39.569528,24.485203],[39.571638,24.489313],[39.574828,24.487027],[39.579497,24.484428],[39.582298,24.482678],[39.584165,24.480829],[39.584157,24.480813],[39.583396,24.479379],[39.582462,24.47693],[39.582023,24.475081],[39.581913,24.473831],[39.581913,24.471881],[39.582078,24.469682],[39.582517,24.467882],[39.582737,24.467132],[39.57708,24.467107]]],"type":"Polygon"}
+}

@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000411,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.181366,21.596151,39.181366,21.596151",
-    "geom:latitude":21.596151,
-    "geom:longitude":39.181366,
+    "geom:bbox":"39.155518,21.580841,39.176862,21.616122",
+    "geom:latitude":21.598781,
+    "geom:longitude":39.166037,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"39.176366,21.591151,39.186366,21.601151",
-    "lbl:latitude":21.596151,
-    "lbl:longitude":39.181366,
+    "lbl:latitude":21.598915,
+    "lbl:longitude":39.165875,
     "lbl:max_zoom":18.0,
-    "mps:latitude":21.60749,
-    "mps:longitude":39.169915,
+    "mps:latitude":21.598915,
+    "mps:longitude":39.165875,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,9 +29,6 @@
         "\u0627\u0644\u0628\u0648\u0627\u062f\u064a"
     ],
     "name:eng_x_preferred":[
-        "Al Bawadi"
-    ],
-    "name:eng_x_variant":[
         "Al Bawadi"
     ],
     "qs:gn_adm0_cc":"SA",
@@ -57,17 +53,18 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939873,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720715
+        1108720715,
+        85676857
     ],
     "wof:breaches":[
         85907531
@@ -79,9 +76,10 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"1e60c8ca24e5ac5b7c7fcabd6a11244f",
+    "wof:geomhash":"cfc2c669dd06a307cd37ccd5be6c482e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,8 +94,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326293,
-    "wof:name":"\u0627\u0644\u0628\u0648\u0627\u062f\u064a",
+    "wof:lastmodified":1627419815,
+    "wof:name":"Al Bawadi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -106,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.181366,
-    21.596151,
-    39.181366,
-    21.596151
+    39.155518,
+    21.580841,
+    39.176862,
+    21.616122
 ],
-  "geometry": {"coordinates":[39.181366,21.596151],"type":"Point"}
+  "geometry": {"coordinates":[[[39.155518,21.61379],[39.167077,21.616122],[39.176862,21.584563],[39.165447,21.580841],[39.159989,21.597467],[39.157699,21.604463],[39.155518,21.61379]]],"type":"Polygon"}
 }

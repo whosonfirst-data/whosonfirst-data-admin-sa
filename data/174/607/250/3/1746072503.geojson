@@ -1,0 +1,55 @@
+{
+  "id": 1746072503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000558,
+    "geom:bbox":"39.148695,21.506621,39.180049,21.541686",
+    "geom:latitude":21.526362,
+    "geom:longitude":39.162311,
+    "iso:country":"SA",
+    "lbl:latitude":21.526354,
+    "lbl:longitude":39.157323,
+    "mps:latitude":21.526354,
+    "mps:longitude":39.157323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hamra"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413223,
+    "wof:geomhash":"de775265261318382083b8f0d81fe623",
+    "wof:hierarchy":[],
+    "wof:id":1746072503,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413223,
+    "wof:name":"Al Hamra",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.148695,
+    21.506621,
+    39.180049,
+    21.541686
+],
+  "geometry": {"coordinates":[[[39.148695,21.517407],[39.148695,21.530378],[39.156552,21.534239],[39.170191,21.540307],[39.176862,21.541686],[39.180049,21.52962],[39.163965,21.523069],[39.165373,21.520173],[39.166559,21.515553],[39.161593,21.514036],[39.160036,21.511416],[39.16011,21.509968],[39.154982,21.506621],[39.150069,21.517767],[39.148695,21.517407]]],"type":"Polygon"}
+}

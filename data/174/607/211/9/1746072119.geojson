@@ -1,0 +1,58 @@
+{
+  "id": 1746072119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001135,
+    "geom:bbox":"46.820379,24.713335,46.865339,24.765002",
+    "geom:latitude":24.738935,
+    "geom:longitude":46.844275,
+    "iso:country":"SA",
+    "lbl:latitude":24.739158,
+    "lbl:longitude":46.843935,
+    "mps:latitude":24.739158,
+    "mps:longitude":46.843935,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0633\u064a\u0645 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Naseem Al Sharki"
+    ],
+    "name:eng_x_variant":[
+        "\u0627\u0644\u0646\u0633\u064a\u0645 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413046,
+    "wof:geomhash":"830fb752decc456e3cc5290c328dc5bd",
+    "wof:hierarchy":[],
+    "wof:id":1746072119,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413046,
+    "wof:name":"Al Naseem Al Sharki",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.820379,
+    24.713335,
+    46.865339,
+    24.765002
+],
+  "geometry": {"coordinates":[[[46.856182,24.743361],[46.859589,24.738037],[46.862357,24.734417],[46.865339,24.729732],[46.864913,24.725686],[46.863209,24.722279],[46.855304,24.717603],[46.84809,24.713335],[46.820379,24.750854],[46.836377,24.76093],[46.839625,24.763219],[46.841488,24.765002],[46.856182,24.743361]]],"type":"Polygon"}
+}

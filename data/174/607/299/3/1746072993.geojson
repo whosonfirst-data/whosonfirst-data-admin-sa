@@ -1,0 +1,55 @@
+{
+  "id": 1746072993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:bbox":"50.001304,26.557798,50.004105,26.559518",
+    "geom:latitude":26.55859,
+    "geom:longitude":50.002705,
+    "iso:country":"SA",
+    "lbl:latitude":26.558678,
+    "lbl:longitude":50.002705,
+    "mps:latitude":26.558678,
+    "mps:longitude":50.002705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0627\u0631\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jarrari"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413420,
+    "wof:geomhash":"b3db59d99dd95160b0da479cb7f02783",
+    "wof:hierarchy":[],
+    "wof:id":1746072993,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413420,
+    "wof:name":"Al Jarrari",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.001304,
+    26.557798,
+    50.004105,
+    26.559518
+],
+  "geometry": {"coordinates":[[[50.004105,26.557798],[50.001315,26.557877],[50.001304,26.55797],[50.001387,26.558437],[50.001442,26.558732],[50.001661,26.559076],[50.001826,26.559518],[50.003199,26.559518],[50.004078,26.558658],[50.004105,26.557798]]],"type":"Polygon"}
+}

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000043,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.99083,26.55139,49.99083,26.55139",
-    "geom:latitude":26.55139,
-    "geom:longitude":49.99083,
+    "geom:bbox":"49.985335,26.54699,49.993945,26.554222",
+    "geom:latitude":26.550721,
+    "geom:longitude":49.990087,
     "gn:admin1_code":"6",
     "gn:asciiname":"Khuwaylidiyah",
     "gn:cc2":"SA",
@@ -24,29 +24,45 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"49.98583,26.54639,49.99583,26.55639",
     "lbl:max_zoom":18.0,
+    "mps:latitude":26.550674,
+    "mps:longitude":49.990087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u064a\u0644\u062f\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khuwaildiyah"
+    ],
+    "name:eng_x_variant":[
+        "Khuwaylidiyah",
+        "Khuwaildiya"
+    ],
     "name:und_x_variant":[
-        "Khuwaildiya",
         "Khuwayl\u012bd\u012byah"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
+        1108720627,
         1210014267,
-        1108720627
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":104852
     },
     "wof:country":"SA",
-    "wof:geomhash":"98ee485032522ab65a9f3b0ba9eb3f9f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"031598b1d22610313b12eb1737469d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1361026109,
-    "wof:lastmodified":1566638424,
-    "wof:name":"Khuwaylidiyah",
+    "wof:lastmodified":1627419791,
+    "wof:name":"Al Khuwaildiyah",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.99083,
-    26.55139,
-    49.99083,
-    26.55139
+    49.985335,
+    26.54699,
+    49.993945,
+    26.554222
 ],
-  "geometry": {"coordinates":[49.99083,26.55139],"type":"Point"}
+  "geometry": {"coordinates":[[[49.993945,26.54699],[49.990223,26.547671],[49.988136,26.548335],[49.986296,26.549243],[49.985335,26.550693],[49.986159,26.552928],[49.993368,26.554222],[49.993409,26.554138],[49.993574,26.553628],[49.993546,26.552873],[49.99334,26.55006],[49.993945,26.54699]]],"type":"Polygon"}
 }

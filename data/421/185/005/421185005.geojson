@@ -4,20 +4,24 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000837,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.84778,24.70528,46.84778,24.70528",
-    "geom:latitude":24.70528,
-    "geom:longitude":46.84778,
+    "geom:bbox":"46.816744,24.677533,46.856488,24.717603",
+    "geom:latitude":24.696104,
+    "geom:longitude":46.839319,
     "iso:country":"SA",
-    "lbl:bbox":"46.84278,24.70028,46.85278,24.71028",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.695782,
+    "mps:longitude":46.83962,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0639\u0627\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Saadah"
     ],
     "name:und_x_variant":[
         "A\u015f \u015ea\u2018\u0101dah"
@@ -40,12 +44,15 @@
     "qs:qs_id":1016931,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22726004,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,10 @@
     },
     "wof:country":"SA",
     "wof:created":1459009429,
-    "wof:geomhash":"8db010191656b15c2ac3247a108225cc",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"ab10d09b51b9b4a74cab26574844f2a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,8 +77,8 @@
         }
     ],
     "wof:id":421185005,
-    "wof:lastmodified":1566638473,
-    "wof:name":"\u0627\u0644\u0633\u0639\u0627\u062f\u0629",
+    "wof:lastmodified":1627419796,
+    "wof:name":"Al Saadah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -77,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.84778,
-    24.70528,
-    46.84778,
-    24.70528
+    46.816744,
+    24.677533,
+    46.856488,
+    24.717603
 ],
-  "geometry": {"coordinates":[46.84778,24.70528],"type":"Point"}
+  "geometry": {"coordinates":[[[46.855304,24.717603],[46.856488,24.691374],[46.827154,24.677533],[46.816744,24.695813],[46.821258,24.697683],[46.82722,24.700558],[46.84809,24.713335],[46.855304,24.717603]]],"type":"Polygon"}
 }

@@ -1,0 +1,55 @@
+{
+  "id": 1746072633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000304,
+    "geom:bbox":"39.64177,24.483089,39.666086,24.507608",
+    "geom:latitude":24.495044,
+    "geom:longitude":39.654514,
+    "iso:country":"SA",
+    "lbl:latitude":24.495497,
+    "lbl:longitude":39.654754,
+    "mps:latitude":24.495497,
+    "mps:longitude":39.654754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0638\u0627\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Shizat"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413272,
+    "wof:geomhash":"f4431698949b3562f4b447d2ddc7e4ab",
+    "wof:hierarchy":[],
+    "wof:id":1746072633,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413272,
+    "wof:name":"Shizat",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.64177,
+    24.483089,
+    39.666086,
+    24.507608
+],
+  "geometry": {"coordinates":[[[39.666086,24.496521],[39.664174,24.494374],[39.66585,24.492925],[39.664751,24.492425],[39.66368,24.491301],[39.662719,24.490576],[39.660385,24.488402],[39.660138,24.488452],[39.659149,24.489426],[39.656925,24.487752],[39.656348,24.487077],[39.656073,24.486327],[39.655744,24.486652],[39.654123,24.486677],[39.653876,24.484778],[39.651711,24.483089],[39.648755,24.486277],[39.644031,24.491575],[39.641944,24.493675],[39.64177,24.493818],[39.657137,24.507608],[39.659726,24.504045],[39.666086,24.496521]]],"type":"Polygon"}
+}

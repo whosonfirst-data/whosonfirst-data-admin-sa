@@ -1,0 +1,55 @@
+{
+  "id": 1746073133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:bbox":"50.082529,26.561003,50.090767,26.579001",
+    "geom:latitude":26.570662,
+    "geom:longitude":50.086508,
+    "iso:country":"SA",
+    "lbl:latitude":26.573411,
+    "lbl:longitude":50.086998,
+    "mps:latitude":26.573411,
+    "mps:longitude":50.086998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0648\u0627\u0631\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "As Sawari"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413507,
+    "wof:geomhash":"72b53b0b78bad22876e49becec30d295",
+    "wof:hierarchy":[],
+    "wof:id":1746073133,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413507,
+    "wof:name":"As Sawari",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.082529,
+    26.561003,
+    50.090767,
+    26.579001
+],
+  "geometry": {"coordinates":[[[50.086796,26.561003],[50.083078,26.561084],[50.083274,26.562012],[50.084176,26.566291],[50.084396,26.5686],[50.083957,26.572333],[50.083627,26.574151],[50.083325,26.574519],[50.082529,26.574642],[50.083408,26.575182],[50.082947,26.577302],[50.083517,26.577515],[50.085495,26.578277],[50.087554,26.578694],[50.089139,26.579001],[50.089449,26.577994],[50.090767,26.570823],[50.0889,26.570724],[50.088241,26.566107],[50.087692,26.563257],[50.087692,26.561784],[50.086796,26.561003]]],"type":"Polygon"}
+}

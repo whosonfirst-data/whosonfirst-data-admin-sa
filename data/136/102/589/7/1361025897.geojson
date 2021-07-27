@@ -4,24 +4,31 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.99167,26.55778,49.99167,26.55778",
-    "geom:latitude":26.55778,
-    "geom:longitude":49.99167,
+    "geom:bbox":"49.990169,26.549913,49.999295,26.559131",
+    "geom:latitude":26.554779,
+    "geom:longitude":49.995479,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":7740,
     "iso:country":"SA",
-    "lbl:bbox":"49.98667,26.55278,49.99667,26.56278",
-    "lbl:latitude":26.55778,
-    "lbl:longitude":49.99167,
+    "lbl:latitude":26.555181,
+    "lbl:longitude":49.995849,
     "lbl:max_zoom":18.0,
+    "mps:latitude":26.555181,
+    "mps:longitude":49.995849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0648\u0628\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "At Tawbi"
+    ],
+    "name:eng_x_variant":[
         "At T\u016bb\u012b"
     ],
     "name:und_x_variant":[
@@ -38,15 +45,18 @@
     "qs_pg:pop_sr":5,
     "qs_pg:qs_id":64772,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
+        1108720627,
         1125924487,
-        1108720627
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +65,10 @@
     },
     "wof:country":"SA",
     "wof:created":1497296595,
-    "wof:geomhash":"dbe9f635314c657d3ff6c2e9ac7d11a1",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"98d8dc69a949b67d86df7f80e794d34b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,8 +80,8 @@
         }
     ],
     "wof:id":1361025897,
-    "wof:lastmodified":1566638430,
-    "wof:name":"At T\u016bb\u012b",
+    "wof:lastmodified":1627419790,
+    "wof:name":"At Tawbi",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",
     "wof:population":7740,
@@ -81,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.99167,
-    26.55778,
-    49.99167,
-    26.55778
+    49.990169,
+    26.549913,
+    49.999295,
+    26.559131
 ],
-  "geometry": {"coordinates":[49.99167,26.55778],"type":"Point"}
+  "geometry": {"coordinates":[[[49.99334,26.55006],[49.993546,26.552873],[49.993574,26.553628],[49.993409,26.554138],[49.993368,26.554222],[49.992736,26.555501],[49.992338,26.556202],[49.992036,26.556447],[49.991185,26.556877],[49.990841,26.557086],[49.990169,26.558351],[49.990635,26.558633],[49.993354,26.558339],[49.996869,26.558768],[49.998162,26.559131],[49.998297,26.557802],[49.998448,26.556324],[49.998488,26.555894],[49.998697,26.553618],[49.998833,26.552148],[49.998888,26.551804],[49.999107,26.551461],[49.999295,26.551266],[49.995482,26.550036],[49.994933,26.549913],[49.994576,26.549913],[49.99334,26.55006]]],"type":"Polygon"}
 }

@@ -1,0 +1,55 @@
+{
+  "id": 1746072303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001166,
+    "geom:bbox":"39.012889,21.778497,39.082345,21.823942",
+    "geom:latitude":21.801877,
+    "geom:longitude":39.050008,
+    "iso:country":"SA",
+    "lbl:latitude":21.797108,
+    "lbl:longitude":39.053428,
+    "mps:latitude":21.797108,
+    "mps:longitude":39.053428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0645\u0631\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Az Zomorod"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413140,
+    "wof:geomhash":"49d30ef49cdad5c00a17bb3a85ab8463",
+    "wof:hierarchy":[],
+    "wof:id":1746072303,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413140,
+    "wof:name":"Az Zomorod",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.012889,
+    21.778497,
+    39.082345,
+    21.823942
+],
+  "geometry": {"coordinates":[[[39.074876,21.811088],[39.082345,21.802084],[39.05929,21.785166],[39.050201,21.778497],[39.048721,21.780001],[39.048721,21.780806],[39.042084,21.788305],[39.041222,21.793306],[39.038776,21.799166],[39.035389,21.802473],[39.033306,21.806278],[39.031639,21.806278],[39.031193,21.803333],[39.029972,21.802889],[39.025806,21.806278],[39.019974,21.809555],[39.01664,21.81286],[39.015778,21.81286],[39.015415,21.814194],[39.012889,21.816705],[39.023682,21.823942],[39.038583,21.809186],[39.058948,21.810569],[39.074876,21.811088]]],"type":"Polygon"}
+}

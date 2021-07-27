@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000313,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.188587,21.516865,39.188587,21.516865",
-    "geom:latitude":21.516865,
-    "geom:longitude":39.188587,
+    "geom:bbox":"39.180049,21.501569,39.193762,21.531978",
+    "geom:latitude":21.516983,
+    "geom:longitude":39.187521,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"39.183587,21.511865,39.193587,21.521865",
-    "lbl:latitude":21.516865,
-    "lbl:longitude":39.188587,
+    "lbl:latitude":21.517179,
+    "lbl:longitude":39.18739,
     "lbl:max_zoom":18.0,
-    "mps:latitude":21.516474,
-    "mps:longitude":39.193451,
+    "mps:latitude":21.517179,
+    "mps:longitude":39.18739,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,7 +29,7 @@
         "\u0627\u0644\u0634\u0631\u0641\u064a\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Sharafeyyah"
+        "Ash Sharafiyah"
     ],
     "name:eng_x_variant":[
         "Al Sharafeyyah"
@@ -57,17 +56,18 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939873,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720715
+        1108720715,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,9 +77,10 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"efb4162fea2c54aa47d3998fd774bc0c",
+    "wof:geomhash":"5a7a88206f3c0081e37e385d6348758a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,8 +95,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326293,
-    "wof:name":"\u0627\u0644\u0634\u0631\u0641\u064a\u0629",
+    "wof:lastmodified":1627419817,
+    "wof:name":"Ash Sharafiyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -104,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.188587,
-    21.516865,
-    39.188587,
-    21.516865
+    39.180049,
+    21.501569,
+    39.193762,
+    21.531978
 ],
-  "geometry": {"coordinates":[39.188587,21.516865],"type":"Point"}
+  "geometry": {"coordinates":[[[39.180049,21.52962],[39.192513,21.531978],[39.192595,21.5261],[39.192731,21.516457],[39.193385,21.51108],[39.193762,21.502934],[39.193057,21.502658],[39.192131,21.50252],[39.190797,21.50252],[39.189463,21.502658],[39.188573,21.502692],[39.187276,21.502554],[39.186164,21.502382],[39.184348,21.501727],[39.183929,21.501569],[39.183422,21.502727],[39.183199,21.503658],[39.182532,21.510623],[39.181828,21.520932],[39.180568,21.527689],[39.180049,21.52962]]],"type":"Polygon"}
 }

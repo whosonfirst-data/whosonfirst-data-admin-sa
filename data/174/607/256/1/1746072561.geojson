@@ -1,0 +1,55 @@
+{
+  "id": 1746072561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000354,
+    "geom:bbox":"39.633047,24.429779,39.668088,24.451184",
+    "geom:latitude":24.440624,
+    "geom:longitude":39.652159,
+    "iso:country":"SA",
+    "lbl:latitude":24.43851,
+    "lbl:longitude":39.651893,
+    "mps:latitude":24.43851,
+    "mps:longitude":39.651893,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0647\u0632\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Mahzur"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413246,
+    "wof:geomhash":"3a4905bf21fca790477d9f329d33bea3",
+    "wof:hierarchy":[],
+    "wof:id":1746072561,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413246,
+    "wof:name":"Mahzur",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.633047,
+    24.429779,
+    39.668088,
+    24.451184
+],
+  "geometry": {"coordinates":[[[39.652307,24.429779],[39.637729,24.438084],[39.635532,24.439384],[39.633829,24.440234],[39.633047,24.442309],[39.633558,24.442491],[39.63431,24.442759],[39.635573,24.443309],[39.637056,24.443759],[39.639418,24.444259],[39.64167,24.444359],[39.650293,24.445009],[39.652874,24.445659],[39.655181,24.446659],[39.656774,24.447659],[39.658311,24.448309],[39.659522,24.448686],[39.662815,24.449709],[39.667209,24.451059],[39.668088,24.451184],[39.667648,24.448184],[39.66677,24.445284],[39.665342,24.442584],[39.664243,24.440484],[39.660948,24.436784],[39.656224,24.433184],[39.652307,24.429779]]],"type":"Polygon"}
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1746072947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000189,
+    "geom:bbox":"50.035807,26.5563,50.05403,26.569524",
+    "geom:latitude":26.562974,
+    "geom:longitude":50.044894,
+    "iso:country":"SA",
+    "lbl:latitude":26.562968,
+    "lbl:longitude":50.044894,
+    "mps:latitude":26.562968,
+    "mps:longitude":50.044894,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0627\u0637\u0626"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shati"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413402,
+    "wof:geomhash":"b2cd9b9b9551a6a168ece22a9e5696c2",
+    "wof:hierarchy":[],
+    "wof:id":1746072947,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413402,
+    "wof:name":"Ash Shati",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.035807,
+    26.5563,
+    50.05403,
+    26.569524
+],
+  "geometry": {"coordinates":[[[50.035807,26.567628],[50.052368,26.569524],[50.05403,26.558461],[50.037499,26.5563],[50.035807,26.567628]]],"type":"Polygon"}
+}

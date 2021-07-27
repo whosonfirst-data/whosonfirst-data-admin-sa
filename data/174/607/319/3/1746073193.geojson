@@ -1,0 +1,55 @@
+{
+  "id": 1746073193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000389,
+    "geom:bbox":"39.543192,24.376247,39.560836,24.411938",
+    "geom:latitude":24.392601,
+    "geom:longitude":39.551189,
+    "iso:country":"SA",
+    "lbl:latitude":24.391993,
+    "lbl:longitude":39.550475,
+    "mps:latitude":24.391993,
+    "mps:longitude":39.550475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0647\u0628\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shahba"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413536,
+    "wof:geomhash":"e57cbd8e3b3bc8297823b57e129c8e0a",
+    "wof:hierarchy":[],
+    "wof:id":1746073193,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413536,
+    "wof:name":"Ash Shahba",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.543192,
+    24.376247,
+    39.560836,
+    24.411938
+],
+  "geometry": {"coordinates":[[[39.553202,24.409179],[39.560836,24.376716],[39.550911,24.376247],[39.550442,24.377466],[39.548026,24.381669],[39.545609,24.386271],[39.543632,24.391673],[39.543192,24.396275],[39.543412,24.401477],[39.545609,24.406679],[39.547257,24.41018],[39.547696,24.41128],[39.548047,24.411938],[39.548099,24.41191],[39.553202,24.409179]]],"type":"Polygon"}
+}

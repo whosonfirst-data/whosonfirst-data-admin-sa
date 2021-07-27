@@ -1,0 +1,55 @@
+{
+  "id": 1746072919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000388,
+    "geom:bbox":"50.111674,26.156136,50.136723,26.180191",
+    "geom:latitude":26.167541,
+    "geom:longitude":50.125491,
+    "iso:country":"SA",
+    "lbl:latitude":26.167373,
+    "lbl:longitude":50.12573,
+    "mps:latitude":26.167373,
+    "mps:longitude":50.12573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062c\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Raja"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413392,
+    "wof:geomhash":"2adfeccea91afea9c1e521e252cae385",
+    "wof:hierarchy":[],
+    "wof:id":1746072919,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413392,
+    "wof:name":"Ar Raja",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.111674,
+    26.156136,
+    50.136723,
+    26.180191
+],
+  "geometry": {"coordinates":[[[50.136723,26.176898],[50.132665,26.156136],[50.111674,26.159491],[50.116408,26.168059],[50.121275,26.180191],[50.123897,26.179451],[50.129572,26.177849],[50.136723,26.176898]]],"type":"Polygon"}
+}

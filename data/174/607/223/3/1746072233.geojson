@@ -1,0 +1,55 @@
+{
+  "id": 1746072233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002817,
+    "geom:bbox":"46.823864,24.588604,46.913527,24.645696",
+    "geom:latitude":24.612691,
+    "geom:longitude":46.873929,
+    "iso:country":"SA",
+    "lbl:latitude":24.612479,
+    "lbl:longitude":46.874609,
+    "mps:latitude":24.612479,
+    "mps:longitude":46.874609,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0627\u0639\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mishael"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413111,
+    "wof:geomhash":"0745d98dd6f2836ec0d99b8609c7dca3",
+    "wof:hierarchy":[],
+    "wof:id":1746072233,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413111,
+    "wof:name":"Al Mishael",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.823864,
+    24.588604,
+    46.913527,
+    24.645696
+],
+  "geometry": {"coordinates":[[[46.896949,24.645696],[46.89784,24.644431],[46.899378,24.640279],[46.9003,24.637049],[46.901377,24.632897],[46.902607,24.627053],[46.903684,24.619978],[46.904914,24.614749],[46.905683,24.61075],[46.907067,24.607213],[46.908605,24.604291],[46.913527,24.595678],[46.909836,24.595986],[46.896148,24.594448],[46.877385,24.590142],[46.869804,24.588834],[46.868465,24.588604],[46.849552,24.592269],[46.848625,24.592448],[46.847938,24.59305],[46.846164,24.594602],[46.842627,24.598908],[46.839551,24.601676],[46.836168,24.604137],[46.832323,24.606444],[46.823864,24.611673],[46.83498,24.616842],[46.896949,24.645696]]],"type":"Polygon"}
+}

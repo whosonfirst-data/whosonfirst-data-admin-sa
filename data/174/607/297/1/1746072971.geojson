@@ -1,0 +1,55 @@
+{
+  "id": 1746072971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:bbox":"50.012893,26.550773,50.022202,26.561213",
+    "geom:latitude":26.556773,
+    "geom:longitude":50.017577,
+    "iso:country":"SA",
+    "lbl:latitude":26.556749,
+    "lbl:longitude":50.017488,
+    "mps:latitude":26.556749,
+    "mps:longitude":50.017488,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0645\u0633\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khamisah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413411,
+    "wof:geomhash":"fa3f24a16587b2c5755057ede854816e",
+    "wof:hierarchy":[],
+    "wof:id":1746072971,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413411,
+    "wof:name":"Al Khamisah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.012893,
+    26.550773,
+    50.022202,
+    26.561213
+],
+  "geometry": {"coordinates":[[[50.021983,26.553622],[50.016133,26.550773],[50.013827,26.556423],[50.012893,26.560795],[50.022202,26.561213],[50.021983,26.560476],[50.021571,26.559591],[50.021022,26.558584],[50.020802,26.557651],[50.020802,26.55657],[50.021077,26.555391],[50.021983,26.553622]]],"type":"Polygon"}
+}

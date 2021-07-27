@@ -1,0 +1,55 @@
+{
+  "id": 1746072267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0014,
+    "geom:bbox":"46.844901,24.839493,46.884523,24.905252",
+    "geom:latitude":24.877074,
+    "geom:longitude":46.862306,
+    "iso:country":"SA",
+    "lbl:latitude":24.877034,
+    "lbl:longitude":46.862306,
+    "mps:latitude":24.877034,
+    "mps:longitude":46.862306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bayan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413126,
+    "wof:geomhash":"8624098657969d0c59915ac4a6db3d9c",
+    "wof:hierarchy":[],
+    "wof:id":1746072267,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413126,
+    "wof:name":"Al Bayan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.844901,
+    24.839493,
+    46.884523,
+    24.905252
+],
+  "geometry": {"coordinates":[[[46.867595,24.905252],[46.884523,24.885697],[46.881247,24.882478],[46.877527,24.877579],[46.876087,24.871047],[46.875247,24.867345],[46.872607,24.861466],[46.869727,24.857655],[46.866967,24.855913],[46.863127,24.852755],[46.859287,24.848618],[46.854248,24.842629],[46.850177,24.839493],[46.850648,24.841431],[46.851368,24.846004],[46.851368,24.852755],[46.848248,24.872135],[46.844901,24.892148],[46.844901,24.892148],[46.867595,24.905252]]],"type":"Polygon"}
+}

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000062,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.98472,26.54139,49.98472,26.54139",
-    "geom:latitude":26.54139,
-    "geom:longitude":49.98472,
+    "geom:bbox":"49.980102,26.536542,49.994432,26.547843",
+    "geom:latitude":26.542032,
+    "geom:longitude":49.986822,
     "gn:admin1_code":"6",
     "gn:asciiname":"Jarudiyah",
     "gn:cc2":"SA",
@@ -24,13 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"49.97972,26.53639,49.98972,26.54639",
     "lbl:max_zoom":18.0,
+    "mps:latitude":26.541041,
+    "mps:longitude":49.988722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0627\u0631\u0648\u062f\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jarudiyah"
+    ],
+    "name:eng_x_variant":[
+        "Jarudiyah"
     ],
     "name:fas_x_preferred":[
         "\u0632\u06cc\u062f\u06cc\u0647 \u062c\u0627\u0631\u0648\u062f\u06cc\u0647"
@@ -43,23 +50,28 @@
     ],
     "name:und_x_variant":[
         "Jurudiya",
-        "Jarudiya",
         "Jar\u016bd\u012byah"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
+        1108720627,
         1277069403,
-        1108720627
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":105394
     },
     "wof:country":"SA",
-    "wof:geomhash":"ace392bda0de24b61fc074d91ae0c1d8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"29e60a9db74688ab69196b850b95c644",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,8 +83,8 @@
         }
     ],
     "wof:id":1361026069,
-    "wof:lastmodified":1566638435,
-    "wof:name":"Jarudiyah",
+    "wof:lastmodified":1627419791,
+    "wof:name":"Al Jarudiyah",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -83,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.98472,
-    26.54139,
-    49.98472,
-    26.54139
+    49.980102,
+    26.536542,
+    49.994432,
+    26.547843
 ],
-  "geometry": {"coordinates":[49.98472,26.54139],"type":"Point"}
+  "geometry": {"coordinates":[[[49.980102,26.544444],[49.980976,26.547843],[49.98364,26.547647],[49.983749,26.546246],[49.985397,26.543323],[49.987649,26.542733],[49.98666,26.544232],[49.989324,26.544551],[49.990587,26.5418],[49.992208,26.542095],[49.992565,26.540817],[49.992976,26.539564],[49.993114,26.538901],[49.994322,26.538852],[49.994343,26.538435],[49.994432,26.53669],[49.992784,26.536542],[49.992674,26.536788],[49.99251,26.537083],[49.99229,26.537427],[49.99207,26.537722],[49.991851,26.537918],[49.991576,26.538016],[49.991246,26.538066],[49.990972,26.538213],[49.990642,26.53836],[49.990313,26.538606],[49.989928,26.539196],[49.987676,26.538655],[49.987182,26.53954],[49.986853,26.539196],[49.986523,26.538852],[49.985919,26.538704],[49.98537,26.540031],[49.984765,26.539884],[49.983118,26.540915],[49.983722,26.541751],[49.980976,26.541358],[49.981909,26.544158],[49.980102,26.544444]]],"type":"Polygon"}
 }

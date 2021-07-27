@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000011,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.07684,26.5953,50.07684,26.5953",
-    "geom:latitude":26.5953,
-    "geom:longitude":50.07684,
+    "geom:bbox":"50.075136,26.593257,50.079453,26.596854",
+    "geom:latitude":26.595195,
+    "geom:longitude":50.077278,
     "gn:admin1_code":"6",
     "gn:asciiname":"Az Zawr",
     "gn:country_code":"SA",
@@ -23,35 +23,47 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"50.05684,26.5753,50.09684,26.6153",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":26.595166,
+    "mps:longitude":50.077237,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Az Zour"
+    ],
+    "name:eng_x_variant":[
+        "Az Zawr"
     ],
     "name:und_x_variant":[
         "Z\u016br",
         "Fanyah",
         "Zor",
-        "Zawr",
-        "Az Zawr"
+        "Zawr"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191569,
         85632253,
-        85676819,
-        1108720627
+        1108720627,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":100341
     },
     "wof:country":"SA",
-    "wof:geomhash":"52c8ea02adaa99810b63b4420ed3ad30",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9b79a43452ded8342a56739c96e6def8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,8 +74,8 @@
         }
     ],
     "wof:id":1293806005,
-    "wof:lastmodified":1566638267,
-    "wof:name":"Az Zawr",
+    "wof:lastmodified":1627419789,
+    "wof:name":"Az Zour",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -72,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.07684,
-    26.5953,
-    50.07684,
-    26.5953
+    50.075136,
+    26.593257,
+    50.079453,
+    26.596854
 ],
-  "geometry": {"coordinates":[50.07684,26.5953],"type":"Point"}
+  "geometry": {"coordinates":[[[50.079196,26.59409],[50.07819,26.593994],[50.076872,26.593257],[50.075169,26.594706],[50.075136,26.59629],[50.078684,26.596854],[50.079453,26.595283],[50.079196,26.59409]]],"type":"Polygon"}
 }

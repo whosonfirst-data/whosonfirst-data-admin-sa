@@ -1,0 +1,55 @@
+{
+  "id": 1746072163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:bbox":"46.714778,24.620792,46.723899,24.629951",
+    "geom:latitude":24.625035,
+    "geom:longitude":46.719054,
+    "iso:country":"SA",
+    "lbl:latitude":24.62489,
+    "lbl:longitude":46.718674,
+    "mps:latitude":24.62489,
+    "mps:longitude":46.718674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Jabrah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413071,
+    "wof:geomhash":"8088f6582e22fedc05dca1c08564602f",
+    "wof:hierarchy":[],
+    "wof:id":1746072163,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413071,
+    "wof:name":"Jabrah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.714778,
+    24.620792,
+    46.723899,
+    24.629951
+],
+  "geometry": {"coordinates":[[[46.722325,24.620792],[46.721051,24.623124],[46.720146,24.622857],[46.718363,24.622458],[46.717876,24.622222],[46.71634,24.62504],[46.714778,24.626862],[46.716047,24.627569],[46.717324,24.628075],[46.716316,24.629315],[46.717324,24.629951],[46.719321,24.627183],[46.720572,24.625613],[46.721184,24.625266],[46.721796,24.624841],[46.722382,24.624228],[46.723899,24.620901],[46.722325,24.620792]]],"type":"Polygon"}
+}

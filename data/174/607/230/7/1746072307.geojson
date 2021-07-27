@@ -1,0 +1,55 @@
+{
+  "id": 1746072307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000802,
+    "geom:bbox":"39.05929,21.763713,39.100485,21.802084",
+    "geom:latitude":21.782897,
+    "geom:longitude":39.079875,
+    "iso:country":"SA",
+    "lbl:latitude":21.782913,
+    "lbl:longitude":39.079875,
+    "mps:latitude":21.782913,
+    "mps:longitude":39.079875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0627\u0642\u0648\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Yaqoot"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413142,
+    "wof:geomhash":"b599101c1c7beb5137ee0eeab0851c74",
+    "wof:hierarchy":[],
+    "wof:id":1746072307,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413142,
+    "wof:name":"Al Yaqoot",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05929,
+    21.763713,
+    39.100485,
+    21.802084
+],
+  "geometry": {"coordinates":[[[39.082345,21.802084],[39.100485,21.780632],[39.077357,21.763713],[39.05929,21.785166],[39.082345,21.802084]]],"type":"Polygon"}
+}

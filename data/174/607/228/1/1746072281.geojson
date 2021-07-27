@@ -1,0 +1,55 @@
+{
+  "id": 1746072281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000203,
+    "geom:bbox":"46.56561,24.737465,46.587384,24.753969",
+    "geom:latitude":24.745161,
+    "geom:longitude":46.577471,
+    "iso:country":"SA",
+    "lbl:latitude":24.744891,
+    "lbl:longitude":46.577636,
+    "mps:latitude":24.744891,
+    "mps:longitude":46.577636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u064a\u0635\u0644\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Faisaliyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413132,
+    "wof:geomhash":"20668db5f1e5cc7c36efb9425c143f7a",
+    "wof:hierarchy":[],
+    "wof:id":1746072281,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413132,
+    "wof:name":"Al Faisaliyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.56561,
+    24.737465,
+    46.587384,
+    24.753969
+],
+  "geometry": {"coordinates":[[[46.582114,24.753969],[46.582806,24.752584],[46.584723,24.747048],[46.586,24.743321],[46.587384,24.740766],[46.575406,24.737571],[46.574235,24.737465],[46.573489,24.73853],[46.572691,24.740233],[46.571307,24.741511],[46.570348,24.742043],[46.568538,24.74215],[46.567367,24.742256],[46.56561,24.743321],[46.568698,24.746728],[46.570827,24.748432],[46.573489,24.750242],[46.575619,24.751626],[46.579346,24.753436],[46.582114,24.753969]]],"type":"Polygon"}
+}

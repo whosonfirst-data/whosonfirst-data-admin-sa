@@ -1,0 +1,55 @@
+{
+  "id": 1746072455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000484,
+    "geom:bbox":"39.244611,21.588392,39.270128,21.615488",
+    "geom:latitude":21.603129,
+    "geom:longitude":39.257609,
+    "iso:country":"SA",
+    "lbl:latitude":21.603184,
+    "lbl:longitude":39.257852,
+    "mps:latitude":21.603184,
+    "mps:longitude":39.257852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u062c\u0648\u0627\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ajwad"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413204,
+    "wof:geomhash":"a6df6d9bb9b00376cc17177a9cc90eb3",
+    "wof:hierarchy":[],
+    "wof:id":1746072455,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413204,
+    "wof:name":"Al Ajwad",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.244611,
+    21.588392,
+    39.270128,
+    21.615488
+],
+  "geometry": {"coordinates":[[[39.244611,21.61455],[39.25159,21.615387],[39.253989,21.615488],[39.257697,21.615387],[39.264349,21.615184],[39.269256,21.599571],[39.270128,21.597036],[39.270019,21.595515],[39.269692,21.594095],[39.268711,21.59298],[39.267729,21.59227],[39.266093,21.591865],[39.265003,21.591865],[39.263912,21.591966],[39.26304,21.592473],[39.261731,21.593056],[39.26075,21.592448],[39.259769,21.591332],[39.259114,21.590623],[39.25846,21.589811],[39.257806,21.589507],[39.25617,21.589],[39.254534,21.588595],[39.253662,21.588392],[39.253008,21.588595],[39.252244,21.589102],[39.252026,21.58971],[39.251045,21.591941],[39.249845,21.596351],[39.244611,21.61455]]],"type":"Polygon"}
+}

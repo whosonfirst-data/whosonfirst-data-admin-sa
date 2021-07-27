@@ -1,0 +1,55 @@
+{
+  "id": 1746072353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000192,
+    "geom:bbox":"39.279152,21.435581,39.305133,21.45253",
+    "geom:latitude":21.444804,
+    "geom:longitude":39.292732,
+    "iso:country":"SA",
+    "lbl:latitude":21.446003,
+    "lbl:longitude":39.292929,
+    "mps:latitude":21.446003,
+    "mps:longitude":39.292929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062f\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Adel"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413163,
+    "wof:geomhash":"38e20060e7b546098be9a449a46d5b3e",
+    "wof:hierarchy":[],
+    "wof:id":1746072353,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413163,
+    "wof:name":"Al Adel",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.279152,
+    21.435581,
+    39.305133,
+    21.45253
+],
+  "geometry": {"coordinates":[[[39.279152,21.45253],[39.294446,21.448038],[39.296218,21.447632],[39.305133,21.446795],[39.304726,21.435581],[39.303826,21.436084],[39.302445,21.436689],[39.300821,21.43873],[39.298466,21.439939],[39.297735,21.440695],[39.296841,21.441602],[39.295542,21.442812],[39.289694,21.444399],[39.288232,21.439637],[39.283116,21.441073],[39.279152,21.45253]]],"type":"Polygon"}
+}

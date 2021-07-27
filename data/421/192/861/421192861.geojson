@@ -4,20 +4,24 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000787,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.79667,24.66694,46.79667,24.66694",
-    "geom:latitude":24.66694,
-    "geom:longitude":46.79667,
+    "geom:bbox":"46.777496,24.643314,46.815282,24.685971",
+    "geom:latitude":24.665112,
+    "geom:longitude":46.796434,
     "iso:country":"SA",
-    "lbl:bbox":"46.79167,24.66194,46.80167,24.67194",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.665374,
+    "mps:longitude":46.79672,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0632\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jazeerah"
     ],
     "name:und_x_variant":[
         "Al Jaz\u012brah"
@@ -40,12 +44,15 @@
     "qs:qs_id":1182154,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22726002,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,10 @@
     },
     "wof:country":"SA",
     "wof:created":1459009751,
-    "wof:geomhash":"6ee57c8baa40aaaae277754631bdd54d",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"5f7aba2122dd2c50e30b8fda75efbe37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,8 +77,8 @@
         }
     ],
     "wof:id":421192861,
-    "wof:lastmodified":1566638460,
-    "wof:name":"\u0627\u0644\u062c\u0632\u064a\u0631\u0629",
+    "wof:lastmodified":1627419798,
+    "wof:name":"Al Jazeerah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -77,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.79667,
-    24.66694,
-    46.79667,
-    24.66694
+    46.777496,
+    24.643314,
+    46.815282,
+    24.685971
 ],
-  "geometry": {"coordinates":[46.79667,24.66694],"type":"Point"}
+  "geometry": {"coordinates":[[[46.79613,24.685971],[46.806231,24.66791],[46.815282,24.651726],[46.797128,24.643314],[46.791964,24.653482],[46.788556,24.66035],[46.786746,24.66397],[46.78467,24.666952],[46.782115,24.669933],[46.779666,24.673447],[46.778601,24.675363],[46.777962,24.677812],[46.777496,24.679582],[46.791764,24.684054],[46.79613,24.685971]]],"type":"Polygon"}
 }

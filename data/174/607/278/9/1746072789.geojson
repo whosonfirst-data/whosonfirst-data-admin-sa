@@ -1,0 +1,55 @@
+{
+  "id": 1746072789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000308,
+    "geom:bbox":"50.109212,26.393321,50.12891,26.424989",
+    "geom:latitude":26.410455,
+    "geom:longitude":50.118325,
+    "iso:country":"SA",
+    "lbl:latitude":26.406787,
+    "lbl:longitude":50.119818,
+    "mps:latitude":26.406787,
+    "mps:longitude":50.119818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0641\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shifa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413334,
+    "wof:geomhash":"d0d6d1a7ec5f9d32eb3e9b7be8b0c143",
+    "wof:hierarchy":[],
+    "wof:id":1746072789,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413334,
+    "wof:name":"Ash Shifa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.109212,
+    26.393321,
+    50.12891,
+    26.424989
+],
+  "geometry": {"coordinates":[[[50.123214,26.419514],[50.122719,26.418941],[50.122388,26.417873],[50.118813,26.414315],[50.125368,26.410876],[50.125897,26.412358],[50.12681,26.416307],[50.12891,26.414434],[50.125533,26.403226],[50.118382,26.393321],[50.117223,26.397829],[50.115701,26.400794],[50.110271,26.411172],[50.109543,26.412536],[50.109212,26.414434],[50.109344,26.415501],[50.109553,26.415917],[50.110271,26.41734],[50.115105,26.424989],[50.117555,26.423922],[50.118879,26.423151],[50.119806,26.422558],[50.120799,26.421669],[50.123214,26.419514]]],"type":"Polygon"}
+}

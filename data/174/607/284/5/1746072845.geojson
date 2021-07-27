@@ -1,0 +1,55 @@
+{
+  "id": 1746072845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000403,
+    "geom:bbox":"49.954576,26.371196,49.97844,26.394922",
+    "geom:latitude":26.383318,
+    "geom:longitude":49.965787,
+    "iso:country":"SA",
+    "lbl:latitude":26.384037,
+    "lbl:longitude":49.964821,
+    "mps:latitude":26.384037,
+    "mps:longitude":49.964821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0645\u0627\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Amanah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413358,
+    "wof:geomhash":"d88ef1f7d4d509c32a2b977b47181ec2",
+    "wof:hierarchy":[],
+    "wof:id":1746072845,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413358,
+    "wof:name":"Al Amanah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.954576,
+    26.371196,
+    49.97844,
+    26.394922
+],
+  "geometry": {"coordinates":[[[49.954576,26.392196],[49.972348,26.394922],[49.97844,26.371196],[49.962413,26.374856],[49.954802,26.376594],[49.954576,26.392196]]],"type":"Polygon"}
+}

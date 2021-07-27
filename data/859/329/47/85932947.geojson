@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000289,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.081569,26.468349,50.081569,26.468349",
-    "geom:latitude":26.468349,
-    "geom:longitude":50.081569,
+    "geom:bbox":"50.08283,26.458842,50.097525,26.487179",
+    "geom:latitude":26.471346,
+    "geom:longitude":50.090701,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"50.076569,26.463349,50.086569,26.473349",
     "lbl:latitude":26.468349,
     "lbl:longitude":50.081569,
     "lbl:max_zoom":18.0,
-    "mps:latitude":26.466799,
-    "mps:longitude":50.08184,
+    "mps:latitude":26.472069,
+    "mps:longitude":50.090561,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,7 +29,7 @@
         "\u0627\u0644\u062d\u0645\u0631\u0627\u0621"
     ],
     "name:eng_x_preferred":[
-        "Al Hamraa"
+        "Al Hamra"
     ],
     "name:eng_x_variant":[
         "Al Hamraa"
@@ -57,10 +56,11 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939574,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
@@ -75,9 +75,10 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "mz"
     ],
-    "wof:geomhash":"7c6172eafd3a2aa8a7f149e4c8c38533",
+    "wof:geomhash":"0bcb07240071e8e708ceb5b25ea4a3c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,8 +92,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326294,
-    "wof:name":"\u0627\u0644\u062d\u0645\u0631\u0627\u0621",
+    "wof:lastmodified":1627419824,
+    "wof:name":"Al Hamra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -101,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.081569,
-    26.468349,
-    50.081569,
-    26.468349
+    50.08283,
+    26.458842,
+    50.097525,
+    26.487179
 ],
-  "geometry": {"coordinates":[50.081569,26.468349],"type":"Point"}
+  "geometry": {"coordinates":[[[50.085739,26.458969],[50.08607,26.468148],[50.08283,26.468221],[50.083634,26.469784],[50.084345,26.482677],[50.094148,26.482715],[50.095822,26.486976],[50.096245,26.487179],[50.096697,26.46228],[50.096863,26.461035],[50.097293,26.460027],[50.097525,26.458842],[50.085739,26.458969]]],"type":"Polygon"}
 }

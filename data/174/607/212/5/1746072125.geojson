@@ -1,0 +1,55 @@
+{
+  "id": 1746072125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00064,
+    "geom:bbox":"46.62275,24.580332,46.675758,24.613615",
+    "geom:latitude":24.597631,
+    "geom:longitude":46.648902,
+    "iso:country":"SA",
+    "lbl:latitude":24.597975,
+    "lbl:longitude":46.650689,
+    "mps:latitude":24.597975,
+    "mps:longitude":46.650689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0638\u0647\u0631\u0629 \u0627\u0644\u0628\u062f\u064a\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Dhahrat Al Badeah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413050,
+    "wof:geomhash":"13965c6ff46eb86b6477e01aaa6f9317",
+    "wof:hierarchy":[],
+    "wof:id":1746072125,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413050,
+    "wof:name":"Dhahrat Al Badeah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.62275,
+    24.580332,
+    46.675758,
+    24.613615
+],
+  "geometry": {"coordinates":[[[46.652065,24.58943],[46.649936,24.592326],[46.630446,24.580332],[46.624384,24.58852],[46.62275,24.590727],[46.64234,24.602721],[46.643839,24.600422],[46.66133,24.611216],[46.663729,24.612815],[46.665228,24.613315],[46.666227,24.613515],[46.667127,24.613615],[46.670394,24.613615],[46.670639,24.613205],[46.671253,24.612183],[46.671498,24.61157],[46.67203,24.610098],[46.672847,24.60883],[46.674237,24.607072],[46.675546,24.606336],[46.675758,24.606304],[46.673607,24.603559],[46.66969,24.600971],[46.663256,24.601251],[46.661157,24.596564],[46.65766,24.594536],[46.652065,24.58943]]],"type":"Polygon"}
+}

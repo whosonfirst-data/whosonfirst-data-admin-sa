@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00251,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.00207,24.45984,47.00207,24.45984",
-    "geom:latitude":24.45984,
-    "geom:longitude":47.00207,
+    "geom:bbox":"46.935528,24.438744,47.020883,24.526581",
+    "geom:latitude":24.481796,
+    "geom:longitude":46.979536,
     "gn:admin1_code":"10.0",
     "gn:asciiname":"Dahl Hit",
     "gn:country_code":"SA",
@@ -23,35 +23,48 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"46.99707,24.45484,47.00707,24.46484",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.486571,
+    "mps:longitude":46.978889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
-        "H\u012bt"
-    ],
-    "name:ara_x_variant":[
         "\u0647\u064a\u062a"
     ],
-    "name:und_x_variant":[
-        "Da\u1e29l H\u012bt",
+    "name:ara_x_variant":[
+        "H\u012bt"
+    ],
+    "name:eng_x_preferred":[
         "Hit"
     ],
-    "src:geom":"geonames",
+    "name:eng_x_variant":[
+        "Dahl Hit",
+        "Hyt"
+    ],
+    "name:und_x_variant":[
+        "Da\u1e29l H\u012bt"
+    ],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
+        1108720657,
         1276639619,
-        1108720657
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":414168
     },
     "wof:country":"SA",
-    "wof:geomhash":"412198e86312055d81b808a2d2c27207",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"17875366c98ee746dc43ef1f66b1df3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,8 +76,8 @@
         }
     ],
     "wof:id":1361025961,
-    "wof:lastmodified":1566638432,
-    "wof:name":"Dahl Hit",
+    "wof:lastmodified":1627419790,
+    "wof:name":"Hit",
     "wof:parent_id":1108720657,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -75,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.00207,
-    24.45984,
-    47.00207,
-    24.45984
+    46.935528,
+    24.438744,
+    47.020883,
+    24.526581
 ],
-  "geometry": {"coordinates":[47.00207,24.45984],"type":"Point"}
+  "geometry": {"coordinates":[[[46.994963,24.501646],[46.997801,24.484739],[47.007741,24.460983],[47.020883,24.452728],[47.010269,24.444641],[47.004709,24.438744],[46.935528,24.502534],[46.940884,24.507629],[46.944411,24.511417],[46.94624,24.514814],[46.946893,24.519255],[46.945195,24.525003],[46.947169,24.526581],[46.949625,24.522803],[46.951703,24.519025],[46.959448,24.498812],[46.989673,24.511091],[46.994963,24.501646]]],"type":"Polygon"}
 }

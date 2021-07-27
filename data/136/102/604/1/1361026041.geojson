@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000048,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.99944,26.53889,49.99944,26.53889",
-    "geom:latitude":26.53889,
-    "geom:longitude":49.99944,
+    "geom:bbox":"49.992208,26.53497,50.003989,26.54347",
+    "geom:latitude":26.539529,
+    "geom:longitude":49.998115,
     "gn:admin1_code":"6",
     "gn:asciiname":"Hillat Muhish",
     "gn:cc2":"SA",
@@ -24,18 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"49.99444,26.53389,50.00444,26.54389",
     "lbl:max_zoom":18.0,
+    "mps:latitude":26.540286,
+    "mps:longitude":49.997713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0629 \u0645\u062d\u064a\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Halat Mahish"
+    ],
+    "name:eng_x_variant":[
+        "Hillat Muhish"
+    ],
     "name:und_x_variant":[
         "Hall\u0101t",
         "Hellat",
         "Hellat Imhaish",
         "\u1e28illat Mu\u1e29\u012bsh"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         85676819,
         102191569,
@@ -48,7 +61,10 @@
         "gn:id":106217
     },
     "wof:country":"SA",
-    "wof:geomhash":"16b7613cfdac07f40b0ca341fce08c89",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cf23aacd9531a6918baea6105bc8a119",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +76,8 @@
         }
     ],
     "wof:id":1361026041,
-    "wof:lastmodified":1566638428,
-    "wof:name":"Hillat Muhish",
+    "wof:lastmodified":1627413408,
+    "wof:name":"Halat Mahish",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -72,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.99944,
-    26.53889,
-    49.99944,
-    26.53889
+    49.992208,
+    26.53497,
+    50.003989,
+    26.54347
 ],
-  "geometry": {"coordinates":[49.99944,26.53889],"type":"Point"}
+  "geometry": {"coordinates":[[[49.992208,26.542095],[49.993773,26.542389],[49.994569,26.54347],[49.998826,26.541702],[49.999622,26.540817],[50.002753,26.541407],[50.003989,26.538508],[50.000528,26.537992],[50.000446,26.537451],[50.000474,26.537206],[50.000528,26.536985],[50.000638,26.536862],[50.000803,26.536788],[50.000968,26.536714],[50.001188,26.53669],[50.001572,26.536641],[50.001764,26.536665],[50.001902,26.536641],[50.002698,26.535388],[49.999403,26.53497],[49.99921,26.53551],[49.998194,26.535363],[49.998469,26.537279],[49.99759,26.537378],[49.998112,26.538237],[49.996849,26.538778],[49.995613,26.53868],[49.995283,26.538508],[49.994954,26.538409],[49.994343,26.538435],[49.994322,26.538852],[49.993114,26.538901],[49.992976,26.539564],[49.992565,26.540817],[49.992208,26.542095]]],"type":"Polygon"}
 }

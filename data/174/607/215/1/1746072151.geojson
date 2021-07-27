@@ -1,0 +1,55 @@
+{
+  "id": 1746072151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:bbox":"46.692249,24.617241,46.70657,24.63095",
+    "geom:latitude":24.624739,
+    "geom:longitude":46.700314,
+    "iso:country":"SA",
+    "lbl:latitude":24.625147,
+    "lbl:longitude":46.70045,
+    "mps:latitude":24.625147,
+    "mps:longitude":46.70045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0645\u064a\u0633\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Shumaisi"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413064,
+    "wof:geomhash":"d46da7d31196ec6623b34f7bbd6dc6e6",
+    "wof:hierarchy":[],
+    "wof:id":1746072151,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413064,
+    "wof:name":"Al Shumaisi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.692249,
+    24.617241,
+    46.70657,
+    24.63095
+],
+  "geometry": {"coordinates":[[[46.70657,24.617241],[46.700555,24.618066],[46.699437,24.618439],[46.698798,24.619078],[46.694166,24.625519],[46.693527,24.626318],[46.692995,24.626531],[46.692622,24.626691],[46.692356,24.627223],[46.692309,24.627389],[46.692249,24.627596],[46.692303,24.628501],[46.692303,24.629778],[46.704574,24.63095],[46.705636,24.623947],[46.705825,24.622698],[46.70657,24.617241]]],"type":"Polygon"}
+}

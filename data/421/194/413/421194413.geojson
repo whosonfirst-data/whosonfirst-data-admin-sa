@@ -4,20 +4,24 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001015,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.76694,24.69667,46.76694,24.69667",
-    "geom:latitude":24.69667,
-    "geom:longitude":46.76694,
+    "geom:bbox":"46.731602,24.673101,46.777496,24.714546",
+    "geom:latitude":24.693313,
+    "geom:longitude":46.756681,
     "iso:country":"SA",
-    "lbl:bbox":"46.76194,24.69167,46.77194,24.70167",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.698889,
+    "mps:longitude":46.758941,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0628\u0648\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rabwah"
     ],
     "name:nno_x_preferred":[
         "Ar Rabwah"
@@ -43,12 +47,15 @@
     "qs:qs_id":401062,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22725961,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +65,10 @@
     },
     "wof:country":"SA",
     "wof:created":1459009804,
-    "wof:geomhash":"1525e63d1a2e29ed2718445a0ec4dcf6",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"185f765d276af3dfaf118a43b32d1b2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,8 +80,8 @@
         }
     ],
     "wof:id":421194413,
-    "wof:lastmodified":1566638461,
-    "wof:name":"Ar Rabwah",
+    "wof:lastmodified":1627419799,
+    "wof:name":"Al Rabwah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -80,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.76694,
-    24.69667,
-    46.76694,
-    24.69667
+    46.731602,
+    24.673101,
+    46.777496,
+    24.714546
 ],
-  "geometry": {"coordinates":[46.76694,24.69667],"type":"Point"}
+  "geometry": {"coordinates":[[[46.777496,24.679582],[46.766702,24.675975],[46.760314,24.673101],[46.754458,24.68822],[46.746153,24.685239],[46.740935,24.681725],[46.738061,24.684813],[46.733269,24.686729],[46.731602,24.695142],[46.746419,24.704963],[46.761751,24.714546],[46.768127,24.705456],[46.770469,24.701942],[46.77345,24.694595],[46.775899,24.688526],[46.776325,24.685758],[46.776964,24.682351],[46.777496,24.679582]]],"type":"Polygon"}
 }

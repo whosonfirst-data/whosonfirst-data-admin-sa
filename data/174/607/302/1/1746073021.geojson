@@ -1,0 +1,55 @@
+{
+  "id": 1746073021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:bbox":"49.996444,26.56121,50.001414,26.566265",
+    "geom:latitude":26.563439,
+    "geom:longitude":49.998739,
+    "iso:country":"SA",
+    "lbl:latitude":26.563323,
+    "lbl:longitude":49.998776,
+    "mps:latitude":26.563323,
+    "mps:longitude":49.998776,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0633\u0627\u062f\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Wasadah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413431,
+    "wof:geomhash":"e548c8ca5f2639685401dab425cdc4ad",
+    "wof:hierarchy":[],
+    "wof:id":1746073021,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413431,
+    "wof:name":"Al Wasadah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.996444,
+    26.56121,
+    50.001414,
+    26.566265
+],
+  "geometry": {"coordinates":[[[50.001414,26.561483],[49.99795,26.56121],[49.997844,26.562244],[49.997734,26.562834],[49.997624,26.563202],[49.996444,26.565511],[49.998151,26.566265],[50.000892,26.562342],[50.001414,26.561483]]],"type":"Polygon"}
+}

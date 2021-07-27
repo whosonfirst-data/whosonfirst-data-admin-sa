@@ -1,0 +1,55 @@
+{
+  "id": 1746072443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0011,
+    "geom:bbox":"39.115573,21.783963,39.159555,21.82632",
+    "geom:latitude":21.804333,
+    "geom:longitude":39.140064,
+    "iso:country":"SA",
+    "lbl:latitude":21.802493,
+    "lbl:longitude":39.139645,
+    "mps:latitude":21.802493,
+    "mps:longitude":39.139645,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Taibah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413199,
+    "wof:geomhash":"508d1a517cd40a82d7bb6e1b9b7c89ff",
+    "wof:hierarchy":[],
+    "wof:id":1746072443,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413199,
+    "wof:name":"Taibah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.115573,
+    21.783963,
+    39.159555,
+    21.82632
+],
+  "geometry": {"coordinates":[[[39.115573,21.812414],[39.124392,21.811321],[39.13247,21.816174],[39.144825,21.820732],[39.154962,21.826173],[39.156704,21.82632],[39.159555,21.811762],[39.158252,21.810666],[39.156475,21.808495],[39.155166,21.806238],[39.154511,21.803894],[39.154418,21.800768],[39.154792,21.787657],[39.151893,21.787744],[39.149088,21.787484],[39.143758,21.786876],[39.13824,21.785921],[39.137305,21.785487],[39.137118,21.785052],[39.137484,21.783963],[39.13606,21.785074],[39.132416,21.787242],[39.128487,21.789991],[39.125071,21.793216],[39.122468,21.796477],[39.120403,21.799055],[39.11841,21.802822],[39.117271,21.806259],[39.116204,21.809894],[39.115573,21.812414]]],"type":"Polygon"}
+}

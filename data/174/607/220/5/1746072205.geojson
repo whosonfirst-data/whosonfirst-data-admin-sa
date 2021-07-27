@@ -1,0 +1,55 @@
+{
+  "id": 1746072205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005996,
+    "geom:bbox":"46.551502,24.826585,46.653346,24.969848",
+    "geom:latitude":24.897855,
+    "geom:longitude":46.601878,
+    "iso:country":"SA",
+    "lbl:latitude":24.897661,
+    "lbl:longitude":46.601878,
+    "mps:latitude":24.897661,
+    "mps:longitude":46.601878,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0631\u0636"
+    ],
+    "name:eng_x_preferred":[
+        "Al Arid"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413095,
+    "wof:geomhash":"2fc0d72421a80ecbd4ff220dac3ac8c5",
+    "wof:hierarchy":[],
+    "wof:id":1746072205,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413095,
+    "wof:name":"Al Arid",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.551502,
+    24.826585,
+    46.653346,
+    24.969848
+],
+  "geometry": {"coordinates":[[[46.551502,24.950096],[46.559714,24.955154],[46.566954,24.960478],[46.571001,24.961968],[46.573769,24.963459],[46.5825,24.967292],[46.589101,24.969848],[46.653346,24.842929],[46.61411,24.826585],[46.551502,24.950096]]],"type":"Polygon"}
+}

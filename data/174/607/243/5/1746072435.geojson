@@ -1,0 +1,55 @@
+{
+  "id": 1746072435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001223,
+    "geom:bbox":"39.154418,21.783517,39.198586,21.829087",
+    "geom:latitude":21.804216,
+    "geom:longitude":39.174991,
+    "iso:country":"SA",
+    "lbl:latitude":21.804404,
+    "lbl:longitude":39.17457,
+    "mps:latitude":21.804404,
+    "mps:longitude":39.17457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0634\u0627\u0626\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bashaer"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413196,
+    "wof:geomhash":"5cc40c79d153503dcf3ace709157f240",
+    "wof:hierarchy":[],
+    "wof:id":1746072435,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413196,
+    "wof:name":"Al Bashaer",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.154418,
+    21.783517,
+    39.198586,
+    21.829087
+],
+  "geometry": {"coordinates":[[[39.196607,21.803086],[39.198586,21.798065],[39.181804,21.792676],[39.182981,21.789982],[39.17357,21.78656],[39.173806,21.785759],[39.165839,21.783517],[39.16315,21.785149],[39.158525,21.787024],[39.154792,21.787657],[39.154418,21.800768],[39.154511,21.803894],[39.155166,21.806238],[39.156475,21.808495],[39.158252,21.810666],[39.159555,21.811762],[39.161239,21.813466],[39.163387,21.815071],[39.165608,21.816497],[39.172688,21.820734],[39.186361,21.829087],[39.196607,21.803086]]],"type":"Polygon"}
+}

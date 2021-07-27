@@ -1,0 +1,55 @@
+{
+  "id": 1746072717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000957,
+    "geom:bbox":"50.021876,26.354703,50.062266,26.397532",
+    "geom:latitude":26.376637,
+    "geom:longitude":50.039833,
+    "iso:country":"SA",
+    "lbl:latitude":26.377191,
+    "lbl:longitude":50.039527,
+    "mps:latitude":26.377191,
+    "mps:longitude":50.039527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Manar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413304,
+    "wof:geomhash":"413238ad3e4c58174e0ffc1e1b82e2fb",
+    "wof:hierarchy":[],
+    "wof:id":1746072717,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413304,
+    "wof:name":"Al Manar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.021876,
+    26.354703,
+    50.062266,
+    26.397532
+],
+  "geometry": {"coordinates":[[[50.021876,26.384483],[50.027703,26.387805],[50.031808,26.391601],[50.042932,26.397532],[50.062266,26.374755],[50.05154,26.368111],[50.044653,26.361704],[50.041343,26.359449],[50.030351,26.354703],[50.021876,26.384483]]],"type":"Polygon"}
+}

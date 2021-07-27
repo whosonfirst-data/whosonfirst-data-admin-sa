@@ -1,0 +1,55 @@
+{
+  "id": 1746073185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:bbox":"49.999413,26.468609,50.014449,26.483254",
+    "geom:latitude":26.475792,
+    "geom:longitude":50.006404,
+    "iso:country":"SA",
+    "lbl:latitude":26.47563,
+    "lbl:longitude":50.00629,
+    "mps:latitude":26.47563,
+    "mps:longitude":50.00629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0628\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "An Nabiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413532,
+    "wof:geomhash":"e5d1851b297bacc483f11fa2719b51f6",
+    "wof:hierarchy":[],
+    "wof:id":1746073185,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413532,
+    "wof:name":"An Nabiyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.999413,
+    26.468609,
+    50.014449,
+    26.483254
+],
+  "geometry": {"coordinates":[[[50.00715,26.468609],[49.999413,26.477555],[50.00312,26.483254],[50.007634,26.480007],[50.01392,26.474308],[50.014449,26.473855],[50.00715,26.468609]]],"type":"Polygon"}
+}

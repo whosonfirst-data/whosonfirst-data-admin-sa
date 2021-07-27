@@ -1,0 +1,55 @@
+{
+  "id": 1746072745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000605,
+    "geom:bbox":"50.030351,26.338801,50.072066,26.374755",
+    "geom:latitude":26.357488,
+    "geom:longitude":50.050005,
+    "iso:country":"SA",
+    "lbl:latitude":26.357217,
+    "lbl:longitude":50.050321,
+    "mps:latitude":26.357217,
+    "mps:longitude":50.050321,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Taibah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413318,
+    "wof:geomhash":"713c2a1cef444f6711d43094a2fb4394",
+    "wof:hierarchy":[],
+    "wof:id":1746072745,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413318,
+    "wof:name":"Taibah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.030351,
+    26.338801,
+    50.072066,
+    26.374755
+],
+  "geometry": {"coordinates":[[[50.062266,26.374755],[50.072066,26.363127],[50.033662,26.338801],[50.030351,26.354703],[50.041343,26.359449],[50.044653,26.361704],[50.05154,26.368111],[50.062266,26.374755]]],"type":"Polygon"}
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1746072469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000329,
+    "geom:bbox":"39.2741,21.417107,39.309592,21.443568",
+    "geom:latitude":21.430278,
+    "geom:longitude":39.294437,
+    "iso:country":"SA",
+    "lbl:latitude":21.426364,
+    "lbl:longitude":39.300083,
+    "mps:latitude":21.426364,
+    "mps:longitude":39.300083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u064a\u0631 \u0641\u0648\u0627\u0632 \u0627\u0644\u062c\u0646\u0648\u0628\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Amir Fawaz Al Janouby"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413209,
+    "wof:geomhash":"ddcf5e8c838c01dea257ed4dec2ee42b",
+    "wof:hierarchy":[],
+    "wof:id":1746072469,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413209,
+    "wof:name":"Al Amir Fawaz Al Janouby",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.2741,
+    21.417107,
+    39.309592,
+    21.443568
+],
+  "geometry": {"coordinates":[[[39.288232,21.439637],[39.291189,21.438873],[39.293801,21.437975],[39.296469,21.436865],[39.299479,21.434909],[39.304816,21.429941],[39.307939,21.427298],[39.30943,21.425953],[39.309592,21.423609],[39.304882,21.422778],[39.304719,21.419149],[39.303988,21.417107],[39.30212,21.417712],[39.293836,21.420434],[39.293268,21.419829],[39.29075,21.420736],[39.29473,21.429582],[39.28076,21.434799],[39.2741,21.443568],[39.283116,21.441073],[39.288232,21.439637]]],"type":"Polygon"}
+}

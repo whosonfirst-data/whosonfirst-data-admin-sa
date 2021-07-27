@@ -1,0 +1,55 @@
+{
+  "id": 1746072907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000146,
+    "geom:bbox":"50.213399,26.219318,50.224028,26.236235",
+    "geom:latitude":26.228,
+    "geom:longitude":50.218265,
+    "iso:country":"SA",
+    "lbl:latitude":26.228003,
+    "lbl:longitude":50.218164,
+    "mps:latitude":26.228003,
+    "mps:longitude":50.218164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khawr"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413387,
+    "wof:geomhash":"f3c3679d3240b253cb5b0fdbe35b500b",
+    "wof:hierarchy":[],
+    "wof:id":1746072907,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413387,
+    "wof:name":"Al Khawr",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.213399,
+    26.219318,
+    50.224028,
+    26.236235
+],
+  "geometry": {"coordinates":[[[50.214061,26.235474],[50.224028,26.236235],[50.221433,26.219813],[50.213399,26.219318],[50.214061,26.235474]]],"type":"Polygon"}
+}

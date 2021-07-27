@@ -1,0 +1,55 @@
+{
+  "id": 1746073069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000858,
+    "geom:bbox":"50.092782,26.336692,50.129713,26.375545",
+    "geom:latitude":26.359429,
+    "geom:longitude":50.112692,
+    "iso:country":"SA",
+    "lbl:latitude":26.359745,
+    "lbl:longitude":50.114187,
+    "mps:latitude":26.359745,
+    "mps:longitude":50.114187,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0647\u062c\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Hajr"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413473,
+    "wof:geomhash":"538c6fcd6fb0a87b19410237cd0e87eb",
+    "wof:hierarchy":[],
+    "wof:id":1746073069,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413473,
+    "wof:name":"Hajr",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.092782,
+    26.336692,
+    50.129713,
+    26.375545
+],
+  "geometry": {"coordinates":[[[50.126957,26.34871],[50.125368,26.348117],[50.122322,26.346811],[50.118349,26.343845],[50.116098,26.342064],[50.114183,26.340348],[50.113979,26.340166],[50.111595,26.338504],[50.108459,26.336692],[50.099755,26.359225],[50.097821,26.364136],[50.094919,26.368758],[50.092782,26.371746],[50.104537,26.374787],[50.105236,26.374968],[50.108715,26.375534],[50.108782,26.375545],[50.1112,26.375401],[50.124579,26.373235],[50.126835,26.365147],[50.128931,26.361536],[50.129713,26.360725],[50.128016,26.359627],[50.126957,26.34871]]],"type":"Polygon"}
+}

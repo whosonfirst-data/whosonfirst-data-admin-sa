@@ -1,0 +1,55 @@
+{
+  "id": 1746072685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:bbox":"39.614043,24.472931,39.628818,24.486277",
+    "geom:latitude":24.48079,
+    "geom:longitude":39.620339,
+    "iso:country":"SA",
+    "lbl:latitude":24.481613,
+    "lbl:longitude":39.619611,
+    "mps:latitude":24.481613,
+    "mps:longitude":39.619611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0639\u0628\u062f\u0627\u0644\u0627\u0634\u0647\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Abdul Ashhal"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413291,
+    "wof:geomhash":"d89d64e660a459bcbcb4674f83ccc7bd",
+    "wof:hierarchy":[],
+    "wof:id":1746072685,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413291,
+    "wof:name":"Bani Abdul Ashhal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.614043,
+    24.472931,
+    39.628818,
+    24.486277
+],
+  "geometry": {"coordinates":[[[39.615911,24.485628],[39.618767,24.485927],[39.61992,24.485478],[39.62014,24.486277],[39.620799,24.486077],[39.62382,24.486177],[39.623765,24.485128],[39.624808,24.485228],[39.624863,24.485028],[39.625577,24.485078],[39.625632,24.485428],[39.626456,24.485028],[39.62695,24.484528],[39.62739,24.483728],[39.627884,24.482179],[39.628818,24.480729],[39.627335,24.479529],[39.625907,24.479029],[39.62349,24.47883],[39.622172,24.47858],[39.620909,24.47788],[39.6197,24.47708],[39.618547,24.47548],[39.617723,24.473981],[39.617229,24.473181],[39.61657,24.472931],[39.615746,24.473231],[39.614043,24.473581],[39.615911,24.485628]]],"type":"Polygon"}
+}

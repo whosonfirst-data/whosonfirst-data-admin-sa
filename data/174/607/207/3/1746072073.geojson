@@ -1,0 +1,55 @@
+{
+  "id": 1746072073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00023,
+    "geom:bbox":"46.740935,24.66618,46.760314,24.68822",
+    "geom:latitude":24.678036,
+    "geom:longitude":46.750816,
+    "iso:country":"SA",
+    "lbl:latitude":24.678213,
+    "lbl:longitude":46.750816,
+    "mps:latitude":24.678213,
+    "mps:longitude":46.750816,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u064a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Jareer"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413019,
+    "wof:geomhash":"b0bbc8a8ce2e7df35a42d236fa64c203",
+    "wof:hierarchy":[],
+    "wof:id":1746072073,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413019,
+    "wof:name":"Jareer",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.740935,
+    24.66618,
+    46.760314,
+    24.68822
+],
+  "geometry": {"coordinates":[[[46.760314,24.673101],[46.757546,24.672142],[46.750731,24.66948],[46.748282,24.66618],[46.742532,24.679809],[46.740935,24.681725],[46.746153,24.685239],[46.754458,24.68822],[46.760314,24.673101]]],"type":"Polygon"}
+}

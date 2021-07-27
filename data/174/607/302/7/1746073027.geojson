@@ -1,0 +1,55 @@
+{
+  "id": 1746073027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:bbox":"49.991871,26.566265,50.003789,26.58363",
+    "geom:latitude":26.57548,
+    "geom:longitude":49.998276,
+    "iso:country":"SA",
+    "lbl:latitude":26.57552,
+    "lbl:longitude":49.998186,
+    "mps:latitude":26.57552,
+    "mps:longitude":49.998186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0633\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Husain"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413434,
+    "wof:geomhash":"820579ebed7238dcfd8fbaed671440c1",
+    "wof:hierarchy":[],
+    "wof:id":1746073027,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413434,
+    "wof:name":"Al Husain",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.991871,
+    26.566265,
+    50.003789,
+    26.58363
+],
+  "geometry": {"coordinates":[[[49.994837,26.573045],[49.994617,26.574494],[49.994562,26.575821],[49.994507,26.576607],[49.994178,26.57754],[49.993409,26.580045],[49.992805,26.58088],[49.991871,26.582403],[49.995112,26.583581],[49.997473,26.58363],[49.997913,26.582501],[49.998627,26.581322],[49.999176,26.580929],[50.0,26.581027],[50.000659,26.581076],[50.001208,26.58088],[50.002032,26.580536],[50.003259,26.57981],[50.003789,26.576459],[50.001757,26.576214],[50.002632,26.567565],[50.001085,26.56723],[49.998723,26.566518],[49.998151,26.566265],[49.995661,26.569754],[49.995414,26.570172],[49.995304,26.570638],[49.994837,26.573045]]],"type":"Polygon"}
+}

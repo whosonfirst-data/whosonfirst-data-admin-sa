@@ -1,0 +1,58 @@
+{
+  "id": 1746072029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000357,
+    "geom:bbox":"46.629602,24.674605,46.656953,24.704391",
+    "geom:latitude":24.689986,
+    "geom:longitude":46.644514,
+    "iso:country":"SA",
+    "lbl:latitude":24.690809,
+    "lbl:longitude":46.643167,
+    "mps:latitude":24.690809,
+    "mps:longitude":46.643167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u062d\u0645\u0627\u0645 \u0627\u0644\u063a\u0631\u0628\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Al Hamam Al Gharbi"
+    ],
+    "name:eng_x_variant":[
+        "\u0627\u0645 \u0627\u0644\u062d\u0645\u0627\u0645 \u0627\u0644\u063a\u0631\u0628\u064a"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627412996,
+    "wof:geomhash":"2369b8d1e9a9fdaf77f77f43ec81aa08",
+    "wof:hierarchy":[],
+    "wof:id":1746072029,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627412996,
+    "wof:name":"Umm Al Hamam Al Gharbi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.629602,
+    24.674605,
+    46.656953,
+    24.704391
+],
+  "geometry": {"coordinates":[[[46.656953,24.674605],[46.655782,24.674711],[46.655036,24.675137],[46.653972,24.675456],[46.652587,24.675243],[46.638533,24.684933],[46.635871,24.68653],[46.634699,24.686743],[46.629602,24.694169],[46.653878,24.704391],[46.655235,24.701935],[46.652268,24.699733],[46.650458,24.698136],[46.649819,24.697284],[46.649606,24.696645],[46.649606,24.695261],[46.65099,24.688553],[46.651416,24.687169],[46.656953,24.674605]]],"type":"Polygon"}
+}

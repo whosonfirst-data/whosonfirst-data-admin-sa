@@ -1,0 +1,55 @@
+{
+  "id": 1746072217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008304,
+    "geom:bbox":"46.833996,24.40967,47.004709,24.548739",
+    "geom:latitude":24.480685,
+    "geom:longitude":46.918723,
+    "iso:country":"SA",
+    "lbl:latitude":24.507021,
+    "lbl:longitude":46.881762,
+    "mps:latitude":24.507021,
+    "mps:longitude":46.881762,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u0641\u0627\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Misfat"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413101,
+    "wof:geomhash":"1c487e9145050033f9f435fc93e6b615",
+    "wof:hierarchy":[],
+    "wof:id":1746072217,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413101,
+    "wof:name":"Al Misfat",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.833996,
+    24.40967,
+    47.004709,
+    24.548739
+],
+  "geometry": {"coordinates":[[[47.004709,24.438744],[46.99773,24.432082],[46.994434,24.43439],[46.989819,24.426589],[46.987402,24.424721],[46.980701,24.421865],[46.98081,24.420876],[46.98092,24.420107],[46.977844,24.40967],[46.946981,24.423258],[46.908976,24.472823],[46.90565,24.472823],[46.892665,24.47979],[46.868912,24.471239],[46.863686,24.485491],[46.861311,24.490242],[46.857511,24.493567],[46.833996,24.509997],[46.841076,24.519242],[46.841076,24.520088],[46.841378,24.520874],[46.842043,24.521357],[46.843373,24.521236],[46.844038,24.520874],[46.865255,24.548739],[46.923379,24.511548],[46.935528,24.502534],[47.004709,24.438744]]],"type":"Polygon"}
+}

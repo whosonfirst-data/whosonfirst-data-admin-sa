@@ -1,0 +1,55 @@
+{
+  "id": 1746072203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001139,
+    "geom:bbox":"46.61411,24.802634,46.669903,24.842929",
+    "geom:latitude":24.822785,
+    "geom:longitude":46.643777,
+    "iso:country":"SA",
+    "lbl:latitude":24.829375,
+    "lbl:longitude":46.648003,
+    "mps:latitude":24.829375,
+    "mps:longitude":46.648003,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0627\u0633\u0645\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Yasmeen"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413094,
+    "wof:geomhash":"2e4b2603816bc7d1c10ab7f9598ae8c7",
+    "wof:hierarchy":[],
+    "wof:id":1746072203,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413094,
+    "wof:name":"Al Yasmeen",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61411,
+    24.802634,
+    46.669903,
+    24.842929
+],
+  "geometry": {"coordinates":[[[46.61411,24.826585],[46.653346,24.842929],[46.669903,24.810241],[46.651905,24.802634],[46.643763,24.818919],[46.622449,24.810068],[46.61411,24.826585]]],"type":"Polygon"}
+}

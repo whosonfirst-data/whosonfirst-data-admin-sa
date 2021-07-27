@@ -1,0 +1,55 @@
+{
+  "id": 1746072321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000472,
+    "geom:bbox":"39.137118,21.765671,39.174223,21.787744",
+    "geom:latitude":21.778121,
+    "geom:longitude":39.155765,
+    "iso:country":"SA",
+    "lbl:latitude":21.777521,
+    "lbl:longitude":39.156046,
+    "mps:latitude":21.777521,
+    "mps:longitude":39.156046,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0635\u0627\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Asalah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413149,
+    "wof:geomhash":"c3e19511dded4258fb5fbca8a84c3e7c",
+    "wof:hierarchy":[],
+    "wof:id":1746072321,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413149,
+    "wof:name":"Al Asalah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.137118,
+    21.765671,
+    39.174223,
+    21.787744
+],
+  "geometry": {"coordinates":[[[39.154792,21.787657],[39.158525,21.787024],[39.16315,21.785149],[39.165839,21.783517],[39.166341,21.783213],[39.168751,21.781338],[39.170705,21.779161],[39.172855,21.77656],[39.174223,21.773838],[39.155724,21.767486],[39.15162,21.765671],[39.149862,21.765853],[39.148624,21.770571],[39.147921,21.772147],[39.147517,21.773051],[39.145954,21.775471],[39.143413,21.778314],[39.140417,21.781399],[39.137484,21.783963],[39.137118,21.785052],[39.137305,21.785487],[39.13824,21.785921],[39.143758,21.786876],[39.149088,21.787484],[39.151893,21.787744],[39.154792,21.787657]]],"type":"Polygon"}
+}

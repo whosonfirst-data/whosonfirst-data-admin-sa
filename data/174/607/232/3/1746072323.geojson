@@ -1,0 +1,58 @@
+{
+  "id": 1746072323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001374,
+    "geom:bbox":"39.270374,21.509152,39.315111,21.560885",
+    "geom:latitude":21.535821,
+    "geom:longitude":39.29606,
+    "iso:country":"SA",
+    "lbl:latitude":21.53812,
+    "lbl:longitude":39.294249,
+    "mps:latitude":21.53812,
+    "mps:longitude":39.294249,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u064a\u062e"
+    ],
+    "name:eng_x_preferred":[
+        "Muraikh"
+    ],
+    "name:eng_x_variant":[
+        "\u0645\u0631\u064a\u062e"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413150,
+    "wof:geomhash":"54e0b2a8e84fbb0e2ccb90c6447f536a",
+    "wof:hierarchy":[],
+    "wof:id":1746072323,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413150,
+    "wof:name":"Muraikh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.270374,
+    21.509152,
+    39.315111,
+    21.560885
+],
+  "geometry": {"coordinates":[[[39.306387,21.560885],[39.315111,21.509558],[39.307804,21.509152],[39.306278,21.509964],[39.303115,21.509964],[39.287412,21.52092],[39.284986,21.52163],[39.271464,21.547193],[39.270374,21.548613],[39.272909,21.548511],[39.284141,21.552568],[39.290902,21.558045],[39.291774,21.556726],[39.29461,21.56058],[39.296682,21.559972],[39.301698,21.56058],[39.306387,21.560885]]],"type":"Polygon"}
+}

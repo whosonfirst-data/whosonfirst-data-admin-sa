@@ -1,0 +1,55 @@
+{
+  "id": 1746073061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000283,
+    "geom:bbox":"50.114183,26.334113,50.14511,26.353448",
+    "geom:latitude":26.343652,
+    "geom:longitude":50.131197,
+    "iso:country":"SA",
+    "lbl:latitude":26.342499,
+    "lbl:longitude":50.130142,
+    "mps:latitude":26.342499,
+    "mps:longitude":50.130142,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u0645\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jamiah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413456,
+    "wof:geomhash":"64cf6e2bdd00cf7356f864afdf902f41",
+    "wof:hierarchy":[],
+    "wof:id":1746073061,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413456,
+    "wof:name":"Al Jamiah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.114183,
+    26.334113,
+    50.14511,
+    26.353448
+],
+  "geometry": {"coordinates":[[[50.14511,26.345107],[50.135035,26.337317],[50.132254,26.334113],[50.129738,26.335418],[50.125235,26.33708],[50.122852,26.33886],[50.119673,26.340166],[50.11676,26.340522],[50.114183,26.340348],[50.116098,26.342064],[50.118349,26.343845],[50.122322,26.346811],[50.125368,26.348117],[50.126957,26.34871],[50.131857,26.350371],[50.13477,26.352033],[50.136829,26.353448],[50.14511,26.345107]]],"type":"Polygon"}
+}

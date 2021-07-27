@@ -1,0 +1,55 @@
+{
+  "id": 1746072331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001337,
+    "geom:bbox":"39.196607,21.774259,39.241321,21.819689",
+    "geom:latitude":21.795583,
+    "geom:longitude":39.221761,
+    "iso:country":"SA",
+    "lbl:latitude":21.794474,
+    "lbl:longitude":39.222186,
+    "mps:latitude":21.794474,
+    "mps:longitude":39.222186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u0645\u0627\u0646\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rahmanyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413154,
+    "wof:geomhash":"4f1a68abf5a683b045dadde63c7a9ac1",
+    "wof:hierarchy":[],
+    "wof:id":1746072331,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413154,
+    "wof:name":"Ar Rahmanyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.196607,
+    21.774259,
+    39.241321,
+    21.819689
+],
+  "geometry": {"coordinates":[[[39.241155,21.782702],[39.218429,21.774781],[39.217304,21.777618],[39.207899,21.774259],[39.198586,21.798065],[39.196607,21.803086],[39.213678,21.808693],[39.224065,21.813777],[39.240715,21.819689],[39.24117,21.815117],[39.241044,21.809836],[39.240572,21.806786],[39.239424,21.802983],[39.2386,21.797758],[39.239366,21.793207],[39.24078,21.789665],[39.241321,21.784833],[39.241155,21.782702]]],"type":"Polygon"}
+}

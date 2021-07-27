@@ -1,0 +1,55 @@
+{
+  "id": 1746072015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:bbox":"46.691398,24.61024,46.706783,24.627389",
+    "geom:latitude":24.617065,
+    "geom:longitude":46.697806,
+    "iso:country":"SA",
+    "lbl:latitude":24.615249,
+    "lbl:longitude":46.697281,
+    "mps:latitude":24.615249,
+    "mps:longitude":46.697281,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0627\u062f\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jarradiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627412990,
+    "wof:geomhash":"4270558f8011ff2b81c09c132514671e",
+    "wof:hierarchy":[],
+    "wof:id":1746072015,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627412990,
+    "wof:name":"Al Jarradiyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.691398,
+    24.61024,
+    46.706783,
+    24.627389
+],
+  "geometry": {"coordinates":[[[46.70657,24.617241],[46.706783,24.61402],[46.701034,24.611731],[46.69555,24.61024],[46.695497,24.610453],[46.695337,24.610985],[46.695124,24.611678],[46.694911,24.612103],[46.694432,24.612636],[46.693847,24.612955],[46.693154,24.615032],[46.69282,24.617203],[46.691398,24.626424],[46.692309,24.627389],[46.692356,24.627223],[46.692622,24.626691],[46.692995,24.626531],[46.693527,24.626318],[46.694166,24.625519],[46.698798,24.619078],[46.699437,24.618439],[46.700555,24.618066],[46.70657,24.617241]]],"type":"Polygon"}
+}

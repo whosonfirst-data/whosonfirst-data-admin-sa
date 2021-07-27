@@ -4,32 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000359,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.70889,24.79639,46.70889,24.79639",
-    "geom:latitude":24.79639,
-    "geom:longitude":46.70889,
+    "geom:bbox":"46.696043,24.785016,46.722302,24.80907",
+    "geom:latitude":24.79704,
+    "geom:longitude":46.709208,
     "gn:country":"SA",
     "gn:fcode":"PPLX",
     "gn:latitude":24.79639,
     "gn:longitude":46.70889,
     "gn:population":0,
     "iso:country":"SA",
-    "lbl:bbox":"46.70389,24.79139,46.71389,24.80139",
     "lbl:latitude":24.79639,
     "lbl:longitude":46.70889,
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.797023,
+    "mps:longitude":46.709208,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0644\u0627\u062d"
     ],
     "name:eng_x_preferred":[
-        "Al Falah"
-    ],
-    "name:eng_x_variant":[
         "Al Falah"
     ],
     "name:und_x_variant":[
@@ -55,17 +53,20 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424938,
     "qs_pg:woe_id":22726013,
-    "src:geom":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424938,
     "woe:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
     "woe:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +76,10 @@
     },
     "wof:country":"SA",
     "wof:created":1497308894,
-    "wof:geomhash":"249bd7428277ee80eb629b4737f66e35",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"5c9d42d1fd20d3075032640801504835",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,8 +91,8 @@
         }
     ],
     "wof:id":1126066001,
-    "wof:lastmodified":1566638483,
-    "wof:name":"\u0627\u0644\u0641\u0644\u0627\u062d",
+    "wof:lastmodified":1627419787,
+    "wof:name":"Al Falah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -99,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.70889,
-    24.79639,
-    46.70889,
-    24.79639
+    46.696043,
+    24.785016,
+    46.722302,
+    24.80907
 ],
-  "geometry": {"coordinates":[46.70889,24.79639],"type":"Point"}
+  "geometry": {"coordinates":[[[46.696043,24.801457],[46.71409,24.80907],[46.722302,24.792566],[46.704428,24.785016],[46.696043,24.801457]]],"type":"Polygon"}
 }

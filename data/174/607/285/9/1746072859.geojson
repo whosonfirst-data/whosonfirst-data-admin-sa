@@ -1,0 +1,55 @@
+{
+  "id": 1746072859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000296,
+    "geom:bbox":"50.172081,26.214162,50.197242,26.24462",
+    "geom:latitude":26.22425,
+    "geom:longitude":50.187016,
+    "iso:country":"SA",
+    "lbl:latitude":26.223992,
+    "lbl:longitude":50.188255,
+    "mps:latitude":26.223992,
+    "mps:longitude":50.188255,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0639\u0627\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "At Taawun"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413365,
+    "wof:geomhash":"6ab967d6027695cb4f7e12cdd757a866",
+    "wof:hierarchy":[],
+    "wof:id":1746072859,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413365,
+    "wof:name":"At Taawun",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.172081,
+    26.214162,
+    50.197242,
+    26.24462
+],
+  "geometry": {"coordinates":[[[50.172154,26.214162],[50.172081,26.216111],[50.193005,26.238325],[50.197242,26.24462],[50.196978,26.242839],[50.194991,26.23785],[50.194726,26.234643],[50.194726,26.233848],[50.194726,26.232148],[50.196315,26.217893],[50.193005,26.217536],[50.18784,26.216942],[50.183602,26.215992],[50.180689,26.21516],[50.177776,26.214566],[50.173273,26.21421],[50.172154,26.214162]]],"type":"Polygon"}
+}

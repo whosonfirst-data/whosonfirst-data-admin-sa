@@ -1,0 +1,55 @@
+{
+  "id": 1746072659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00107,
+    "geom:bbox":"39.620278,24.540123,39.666234,24.578503",
+    "geom:latitude":24.559095,
+    "geom:longitude":39.641543,
+    "iso:country":"SA",
+    "lbl:latitude":24.558512,
+    "lbl:longitude":39.641105,
+    "mps:latitude":24.558512,
+    "mps:longitude":39.641105,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0642\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "An Naqs"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413281,
+    "wof:geomhash":"4dccd28afb20cd2544159a07b6e9cab8",
+    "wof:hierarchy":[],
+    "wof:id":1746072659,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413281,
+    "wof:name":"An Naqs",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.620278,
+    24.540123,
+    39.666234,
+    24.578503
+],
+  "geometry": {"coordinates":[[[39.645597,24.578503],[39.649867,24.567599],[39.657776,24.559307],[39.665026,24.550515],[39.666234,24.545019],[39.663268,24.541122],[39.658325,24.54402],[39.650746,24.542921],[39.649867,24.540123],[39.626799,24.551314],[39.620278,24.558706],[39.623009,24.575116],[39.628529,24.575791],[39.636548,24.577289],[39.645446,24.578488],[39.645597,24.578503]]],"type":"Polygon"}
+}

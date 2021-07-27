@@ -1,0 +1,55 @@
+{
+  "id": 1746073095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:bbox":"50.035502,26.496336,50.052654,26.509274",
+    "geom:latitude":26.503377,
+    "geom:longitude":50.043924,
+    "iso:country":"SA",
+    "lbl:latitude":26.503466,
+    "lbl:longitude":50.044055,
+    "mps:latitude":26.503466,
+    "mps:longitude":50.044055,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0633\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Naseem"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413490,
+    "wof:geomhash":"10e40d3e3b6fb41d9e765d0aa44cca37",
+    "wof:hierarchy":[],
+    "wof:id":1746073095,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413490,
+    "wof:name":"Al Naseem",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.035502,
+    26.496336,
+    50.052654,
+    26.509274
+],
+  "geometry": {"coordinates":[[[50.042099,26.496668],[50.035821,26.507696],[50.035502,26.508785],[50.041467,26.508973],[50.045411,26.509274],[50.051728,26.501972],[50.052654,26.50012],[50.049883,26.499109],[50.042282,26.496336],[50.042099,26.496668]]],"type":"Polygon"}
+}

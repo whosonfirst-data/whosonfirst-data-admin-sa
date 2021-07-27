@@ -1,0 +1,55 @@
+{
+  "id": 1746072849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000359,
+    "geom:bbox":"50.062266,26.363127,50.090606,26.388635",
+    "geom:latitude":26.375603,
+    "geom:longitude":50.076718,
+    "iso:country":"SA",
+    "lbl:latitude":26.375592,
+    "lbl:longitude":50.076718,
+    "mps:latitude":26.375592,
+    "mps:longitude":50.076718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062f\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "An Nada"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413360,
+    "wof:geomhash":"1b154a35353258611620eeaeda00c68b",
+    "wof:hierarchy":[],
+    "wof:id":1746072849,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413360,
+    "wof:name":"An Nada",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.062266,
+    26.363127,
+    50.090606,
+    26.388635
+],
+  "geometry": {"coordinates":[[[50.062266,26.374755],[50.081865,26.388635],[50.090606,26.375348],[50.072066,26.363127],[50.062266,26.374755]]],"type":"Polygon"}
+}

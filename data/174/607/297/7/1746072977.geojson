@@ -1,0 +1,55 @@
+{
+  "id": 1746072977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000194,
+    "geom:bbox":"49.965673,26.560592,49.983029,26.576017",
+    "geom:latitude":26.569263,
+    "geom:longitude":49.973337,
+    "iso:country":"SA",
+    "lbl:latitude":26.568826,
+    "lbl:longitude":49.973502,
+    "mps:latitude":26.568826,
+    "mps:longitude":49.973502,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u062a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mashtal"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413413,
+    "wof:geomhash":"dce1c66e1055ece282a52b16ad8d9f2d",
+    "wof:hierarchy":[],
+    "wof:id":1746072977,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413413,
+    "wof:name":"Al Mashtal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.965673,
+    26.560592,
+    49.983029,
+    26.576017
+],
+  "geometry": {"coordinates":[[[49.965673,26.560592],[49.965892,26.564424],[49.966552,26.575673],[49.969462,26.575919],[49.969462,26.575035],[49.971989,26.574986],[49.973527,26.576017],[49.983029,26.575722],[49.982919,26.574494],[49.982589,26.573708],[49.98182,26.572628],[49.981051,26.571596],[49.980392,26.569779],[49.979898,26.567568],[49.979678,26.565701],[49.979623,26.564326],[49.97971,26.563413],[49.975889,26.563],[49.971604,26.562361],[49.968968,26.561919],[49.96732,26.561378],[49.965673,26.560592]]],"type":"Polygon"}
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1746072415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000427,
+    "geom:bbox":"39.192513,21.5261,39.240167,21.540397",
+    "geom:latitude":21.531872,
+    "geom:longitude":39.218504,
+    "iso:country":"SA",
+    "lbl:latitude":21.531866,
+    "lbl:longitude":39.218504,
+    "mps:latitude":21.531866,
+    "mps:longitude":39.218504,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0649 \u0645\u0627\u0644\u0643"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Malik"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413188,
+    "wof:geomhash":"742a79fea7ab4b74b47b30a528e6999a",
+    "wof:hierarchy":[],
+    "wof:id":1746072415,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413188,
+    "wof:name":"Bani Malik",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.192513,
+    21.5261,
+    39.240167,
+    21.540397
+],
+  "geometry": {"coordinates":[[[39.21803,21.536542],[39.237986,21.540397],[39.240167,21.528326],[39.209742,21.526601],[39.192595,21.5261],[39.192513,21.531978],[39.21803,21.536542]]],"type":"Polygon"}
+}

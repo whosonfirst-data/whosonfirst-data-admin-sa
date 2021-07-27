@@ -1,0 +1,55 @@
+{
+  "id": 1746072409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:bbox":"39.189407,21.487846,39.197801,21.496313",
+    "geom:latitude":21.491891,
+    "geom:longitude":39.193386,
+    "iso:country":"SA",
+    "lbl:latitude":21.491928,
+    "lbl:longitude":39.193323,
+    "mps:latitude":21.491928,
+    "mps:longitude":39.193323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0645\u0627\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ammariyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413186,
+    "wof:geomhash":"23a00df648ea4c1985e737d16fdd2f07",
+    "wof:hierarchy":[],
+    "wof:id":1746072409,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413186,
+    "wof:name":"Al Ammariyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.189407,
+    21.487846,
+    39.197801,
+    21.496313
+],
+  "geometry": {"coordinates":[[[39.189407,21.492494],[39.190222,21.492934],[39.192001,21.493847],[39.192854,21.49433],[39.195337,21.496313],[39.19593,21.495641],[39.196634,21.49471],[39.196949,21.494054],[39.197801,21.491675],[39.196578,21.490727],[39.195429,21.490123],[39.194818,21.489951],[39.191723,21.488295],[39.191686,21.488123],[39.190344,21.487846],[39.189463,21.489735],[39.189407,21.49008],[39.1895,21.492115],[39.189407,21.492494]]],"type":"Polygon"}
+}

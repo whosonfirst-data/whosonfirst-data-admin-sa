@@ -1,0 +1,55 @@
+{
+  "id": 1746072727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00026,
+    "geom:bbox":"50.133313,26.36484,50.149616,26.391008",
+    "geom:latitude":26.378281,
+    "geom:longitude":50.142925,
+    "iso:country":"SA",
+    "lbl:latitude":26.381872,
+    "lbl:longitude":50.143895,
+    "mps:latitude":26.381872,
+    "mps:longitude":50.143895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0647\u0636\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "An Nahdah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413310,
+    "wof:geomhash":"53df922f39e620d027679dc5788e8e77",
+    "wof:hierarchy":[],
+    "wof:id":1746072727,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413310,
+    "wof:name":"An Nahdah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.133313,
+    26.36484,
+    50.149616,
+    26.391008
+],
+  "geometry": {"coordinates":[[[50.133313,26.386322],[50.140034,26.391008],[50.140762,26.389911],[50.14543,26.388013],[50.149616,26.386276],[50.149241,26.381322],[50.14908,26.37439],[50.148113,26.367891],[50.146637,26.36484],[50.144901,26.365767],[50.142385,26.365827],[50.136124,26.368848],[50.1402,26.376416],[50.140497,26.37698],[50.140597,26.377246],[50.140531,26.377632],[50.133313,26.386322]]],"type":"Polygon"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1746072025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000342,
+    "geom:bbox":"46.653878,24.674924,46.678195,24.708434",
+    "geom:latitude":24.691177,
+    "geom:longitude":46.666751,
+    "iso:country":"SA",
+    "lbl:latitude":24.691723,
+    "lbl:longitude":46.666567,
+    "mps:latitude":24.691723,
+    "mps:longitude":46.666567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u0630\u0631 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Maathar Al Shemali"
+    ],
+    "name:eng_x_variant":[
+        "\u0627\u0644\u0645\u0639\u0630\u0631 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627412995,
+    "wof:geomhash":"64db2c5b9f5ddb315e7bd73d713d7ebc",
+    "wof:hierarchy":[],
+    "wof:id":1746072025,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627412995,
+    "wof:name":"Al Maathar Al Shemali",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.653878,
+    24.674924,
+    46.678195,
+    24.708434
+],
+  "geometry": {"coordinates":[[[46.678195,24.675363],[46.672924,24.674924],[46.668985,24.675137],[46.667494,24.678118],[46.666962,24.679183],[46.666323,24.680354],[46.66611,24.681525],[46.66611,24.682697],[46.666003,24.683655],[46.665471,24.68472],[46.661212,24.691321],[46.657805,24.697284],[46.655235,24.701935],[46.653878,24.704391],[46.663536,24.708434],[46.677662,24.680474],[46.678088,24.679409],[46.678088,24.678664],[46.678088,24.677812],[46.678088,24.676641],[46.678195,24.675363]]],"type":"Polygon"}
+}

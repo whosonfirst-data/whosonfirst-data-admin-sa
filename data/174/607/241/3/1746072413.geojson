@@ -1,0 +1,55 @@
+{
+  "id": 1746072413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000721,
+    "geom:bbox":"39.142766,21.548718,39.173749,21.580841",
+    "geom:latitude":21.564029,
+    "geom:longitude":39.156574,
+    "iso:country":"SA",
+    "lbl:latitude":21.564591,
+    "lbl:longitude":39.156573,
+    "mps:latitude":21.564591,
+    "mps:longitude":39.156573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0636\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rawdah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413188,
+    "wof:geomhash":"3cf638d70139823c6e49a759d24ab29c",
+    "wof:hierarchy":[],
+    "wof:id":1746072413,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413188,
+    "wof:name":"Ar Rawdah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.142766,
+    21.548718,
+    39.173749,
+    21.580841
+],
+  "geometry": {"coordinates":[[[39.143507,21.574775],[39.165447,21.580841],[39.173749,21.555888],[39.153291,21.549821],[39.143655,21.548718],[39.142766,21.556025],[39.143507,21.574775]]],"type":"Polygon"}
+}

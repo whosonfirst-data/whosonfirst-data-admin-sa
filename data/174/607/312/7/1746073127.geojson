@@ -1,0 +1,55 @@
+{
+  "id": 1746073127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:bbox":"50.079122,26.577515,50.089139,26.588472",
+    "geom:latitude":26.582286,
+    "geom:longitude":50.083957,
+    "iso:country":"SA",
+    "lbl:latitude":26.581156,
+    "lbl:longitude":50.084299,
+    "mps:latitude":26.581156,
+    "mps:longitude":50.084299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u0627\u0628\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Sanabis"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413503,
+    "wof:geomhash":"a99e44f4be8259c8419b5147e10fbdf7",
+    "wof:hierarchy":[],
+    "wof:id":1746073127,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627413503,
+    "wof:name":"Sanabis",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.079122,
+    26.577515,
+    50.089139,
+    26.588472
+],
+  "geometry": {"coordinates":[[[50.089139,26.579001],[50.087554,26.578694],[50.085495,26.578277],[50.083517,26.577515],[50.083243,26.578399],[50.082803,26.578252],[50.081595,26.581739],[50.079892,26.585325],[50.079122,26.586734],[50.079975,26.587265],[50.0797,26.587609],[50.081137,26.588472],[50.08165,26.587326],[50.085604,26.583102],[50.086593,26.583888],[50.08857,26.580843],[50.089139,26.579001]]],"type":"Polygon"}
+}
