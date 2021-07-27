@@ -15,6 +15,7 @@
     "mps:longitude":49.995677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0628 \u0627\u0644\u0646\u0627\u0628\u064a\u0629"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413493,
+    "wof:lastmodified":1627423125,
     "wof:name":"Gharb An Nabiyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

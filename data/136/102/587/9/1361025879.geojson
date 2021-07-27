@@ -30,6 +30,7 @@
     "mps:longitude":49.982552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0648\u0627\u0645\u064a\u0629"
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1361025879,
-    "wof:lastmodified":1627413427,
+    "wof:lastmodified":1627423126,
     "wof:name":"Al Awamiyah",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",

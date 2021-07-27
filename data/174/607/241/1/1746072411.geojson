@@ -15,6 +15,7 @@
     "mps:longitude":39.202016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0628\u064a\u0644"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413187,
+    "wof:lastmodified":1627423114,
     "wof:name":"As Sabil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

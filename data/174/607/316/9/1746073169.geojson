@@ -15,6 +15,7 @@
     "mps:longitude":46.615177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631\u0627\u0628"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413524,
+    "wof:lastmodified":1627423125,
     "wof:name":"Dirab",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

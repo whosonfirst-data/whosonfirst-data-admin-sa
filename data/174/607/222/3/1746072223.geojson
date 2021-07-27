@@ -15,6 +15,7 @@
     "mps:longitude":46.72617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0628\u062f\u0631"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413107,
+    "wof:lastmodified":1627423118,
     "wof:name":"Badr",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

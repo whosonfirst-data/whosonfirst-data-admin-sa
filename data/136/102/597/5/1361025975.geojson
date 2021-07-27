@@ -28,6 +28,7 @@
     "mps:longitude":46.558363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u062d\u064a \u0628\u0646\u0628\u0627\u0646"
@@ -46,11 +47,11 @@
         "geonames"
     ],
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
         1243252509,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1361025975,
-    "wof:lastmodified":1627419791,
+    "wof:lastmodified":1627423126,
     "wof:name":"Banban",
     "wof:parent_id":1108720657,
     "wof:placetype":"neighbourhood",

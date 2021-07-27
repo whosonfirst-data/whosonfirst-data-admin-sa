@@ -15,6 +15,7 @@
     "mps:longitude":50.064445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0648\u062a"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413530,
+    "wof:lastmodified":1627423124,
     "wof:name":"Tarout",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

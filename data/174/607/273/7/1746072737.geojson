@@ -15,6 +15,7 @@
     "mps:longitude":50.042756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u062d\u062f"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413315,
+    "wof:lastmodified":1627423101,
     "wof:name":"Uhud",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

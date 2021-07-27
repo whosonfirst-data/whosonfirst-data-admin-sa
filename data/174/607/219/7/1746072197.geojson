@@ -15,6 +15,7 @@
     "mps:longitude":46.562775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0638\u0647\u0631\u0629 \u0644\u0628\u0646"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413090,
+    "wof:lastmodified":1627423103,
     "wof:name":"Dhahrat Laban",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

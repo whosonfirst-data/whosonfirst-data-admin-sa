@@ -15,6 +15,7 @@
     "mps:longitude":49.994579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0627\u0644\u0645\u0644\u0643 \u0641\u0647\u062f"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413311,
+    "wof:lastmodified":1627423101,
     "wof:name":"Dahiyat Al Malik Fahd",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

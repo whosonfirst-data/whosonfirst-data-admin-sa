@@ -15,6 +15,7 @@
     "mps:longitude":46.637327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0631\u064a\u062c\u0627\u0621 \u0627\u0644\u0648\u0633\u0637\u0649"
     ],
@@ -39,7 +40,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413080,
+    "wof:lastmodified":1627423103,
     "wof:name":"Al Oraija Al Wasta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -22,6 +22,7 @@
     "mps:longitude":46.708808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -70,10 +71,10 @@
     "woe:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1126089327,
-    "wof:lastmodified":1627419788,
+    "wof:lastmodified":1627423128,
     "wof:name":"Al Dirah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

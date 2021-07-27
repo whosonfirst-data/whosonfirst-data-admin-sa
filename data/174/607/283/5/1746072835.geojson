@@ -15,6 +15,7 @@
     "mps:longitude":50.012944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0646\u0648\u0627\u0631"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413354,
+    "wof:lastmodified":1627423114,
     "wof:name":"Al Anwar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,7 @@
     "mps:longitude":46.80376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -49,10 +50,10 @@
         "quattroshapes"
     ],
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":421170785,
-    "wof:lastmodified":1627419793,
+    "wof:lastmodified":1627423127,
     "wof:name":"Al Khaleej",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

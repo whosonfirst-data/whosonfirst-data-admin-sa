@@ -15,6 +15,7 @@
     "mps:longitude":39.190626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0644\u0627\u062d"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413148,
+    "wof:lastmodified":1627423119,
     "wof:name":"Al Falah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

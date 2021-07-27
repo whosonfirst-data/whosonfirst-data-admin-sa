@@ -20,6 +20,7 @@
     "mps:longitude":49.995849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -52,11 +53,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720627,
         1125924487,
-        85676819
+        1108720627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1361025897,
-    "wof:lastmodified":1627419790,
+    "wof:lastmodified":1627423126,
     "wof:name":"At Tawbi",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",

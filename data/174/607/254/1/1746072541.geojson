@@ -15,6 +15,7 @@
     "mps:longitude":39.601146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0627\u0646\u0648\u0646\u0627\u0621"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413238,
+    "wof:lastmodified":1627423120,
     "wof:name":"Ar Ranuna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

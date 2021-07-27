@@ -15,6 +15,7 @@
     "mps:longitude":39.641105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0642\u0633"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413281,
+    "wof:lastmodified":1627423121,
     "wof:name":"An Naqs",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

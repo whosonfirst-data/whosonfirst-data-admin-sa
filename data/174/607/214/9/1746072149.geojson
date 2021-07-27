@@ -15,6 +15,7 @@
     "mps:longitude":46.728002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u062b\u0644\u064a\u0645"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413063,
+    "wof:lastmodified":1627423118,
     "wof:name":"Thulaim",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

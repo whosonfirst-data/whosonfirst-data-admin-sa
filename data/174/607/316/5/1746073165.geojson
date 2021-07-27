@@ -15,6 +15,7 @@
     "mps:longitude":50.077122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u064a\u0646"
     ],
@@ -39,7 +40,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413521,
+    "wof:lastmodified":1627423125,
     "wof:name":"Dareen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

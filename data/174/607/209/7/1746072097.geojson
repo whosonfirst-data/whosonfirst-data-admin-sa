@@ -15,6 +15,7 @@
     "mps:longitude":46.67141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0634\u0628\u0631\u0627"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413035,
+    "wof:lastmodified":1627423119,
     "wof:name":"Shubra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

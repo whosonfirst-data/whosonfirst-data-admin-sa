@@ -15,6 +15,7 @@
     "mps:longitude":46.636679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u062d\u062f"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413029,
+    "wof:lastmodified":1627423119,
     "wof:name":"Ohod",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

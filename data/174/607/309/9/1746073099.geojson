@@ -15,6 +15,7 @@
     "mps:longitude":50.039893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0647\u0648\u0631"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413491,
+    "wof:lastmodified":1627423099,
     "wof:name":"Az Zuhur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

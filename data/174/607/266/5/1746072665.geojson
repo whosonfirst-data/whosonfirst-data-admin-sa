@@ -15,6 +15,7 @@
     "mps:longitude":39.586871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0646\u0627\u0628\u0633"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413284,
+    "wof:lastmodified":1627423107,
     "wof:name":"Al Anabis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,7 @@
     "mps:longitude":50.006423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0648\u064a\u0643\u0629"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413439,
+    "wof:lastmodified":1627423112,
     "wof:name":"Ash Shweikah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

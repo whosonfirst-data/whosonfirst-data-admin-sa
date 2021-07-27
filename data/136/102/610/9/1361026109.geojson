@@ -29,6 +29,7 @@
     "mps:longitude":49.990087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0648\u064a\u0644\u062f\u064a\u0629"
@@ -48,11 +49,11 @@
         "geonames"
     ],
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720627,
         1210014267,
-        85676819
+        1108720627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1361026109,
-    "wof:lastmodified":1627419791,
+    "wof:lastmodified":1627423126,
     "wof:name":"Al Khuwaildiyah",
     "wof:parent_id":1108720627,
     "wof:placetype":"neighbourhood",

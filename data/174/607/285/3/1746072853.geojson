@@ -15,6 +15,7 @@
     "mps:longitude":50.204659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0628\u0646 \u0633\u064a\u0646\u0627\u0621"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413362,
+    "wof:lastmodified":1627423117,
     "wof:name":"Ibn Sina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

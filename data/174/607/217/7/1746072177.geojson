@@ -15,6 +15,7 @@
     "mps:longitude":46.656779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0631\u064a\u062c\u0627\u0621"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413079,
+    "wof:lastmodified":1627423103,
     "wof:name":"Al Uraija",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

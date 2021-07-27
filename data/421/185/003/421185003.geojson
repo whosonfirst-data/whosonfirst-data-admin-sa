@@ -15,6 +15,7 @@
     "mps:longitude":46.744857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":421185003,
-    "wof:lastmodified":1627413007,
+    "wof:lastmodified":1627423128,
     "wof:name":"Al Mansurah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

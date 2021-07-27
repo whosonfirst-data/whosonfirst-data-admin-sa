@@ -28,6 +28,7 @@
     "mps:longitude":46.586864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0639\u0631\u0642\u0629"
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1361026091,
-    "wof:lastmodified":1627413090,
+    "wof:lastmodified":1627423126,
     "wof:name":"Irqah",
     "wof:parent_id":1108720657,
     "wof:placetype":"neighbourhood",

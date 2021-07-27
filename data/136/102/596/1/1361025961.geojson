@@ -28,6 +28,7 @@
     "mps:longitude":46.978889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u062a"
@@ -50,11 +51,11 @@
         "geonames"
     ],
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
         1276639619,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1361025961,
-    "wof:lastmodified":1627419790,
+    "wof:lastmodified":1627423126,
     "wof:name":"Hit",
     "wof:parent_id":1108720657,
     "wof:placetype":"neighbourhood",

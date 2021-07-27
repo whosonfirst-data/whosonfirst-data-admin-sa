@@ -28,6 +28,7 @@
     "mps:longitude":46.885912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0627\u0626\u0631"
@@ -49,11 +50,11 @@
         "geonames"
     ],
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
-        1108720657,
         1343544891,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1361025893,
-    "wof:lastmodified":1627419789,
+    "wof:lastmodified":1627423126,
     "wof:name":"Al Haer",
     "wof:parent_id":1108720657,
     "wof:placetype":"neighbourhood",

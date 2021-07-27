@@ -30,6 +30,7 @@
     "mps:longitude":39.669357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0648\u0639\u064a\u0631\u0629"
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1361026075,
-    "wof:lastmodified":1627413283,
+    "wof:lastmodified":1627423126,
     "wof:name":"Wairah",
     "wof:parent_id":1108720605,
     "wof:placetype":"neighbourhood",

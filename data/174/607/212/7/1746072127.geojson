@@ -15,6 +15,7 @@
     "mps:longitude":46.97278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0638\u064a\u0645"
     ],
@@ -39,7 +40,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413052,
+    "wof:lastmodified":1627423115,
     "wof:name":"Al Nazheem",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

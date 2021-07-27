@@ -15,6 +15,7 @@
     "mps:longitude":50.046056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0627\u062d\u0644"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413517,
+    "wof:lastmodified":1627423111,
     "wof:name":"As Sahil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

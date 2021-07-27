@@ -15,6 +15,7 @@
     "mps:longitude":46.727881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0641\u0648\u062d\u0629"
     ],
@@ -36,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627413024,
+    "wof:lastmodified":1627423122,
     "wof:name":"Manfuhah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

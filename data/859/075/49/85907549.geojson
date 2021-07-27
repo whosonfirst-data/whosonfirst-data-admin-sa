@@ -16,7 +16,7 @@
     "lbl:max_zoom":18.0,
     "mps:latitude":21.517874,
     "mps:longitude":39.174161,
-    "mz:hierarchy_label":0,
+    "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
@@ -64,10 +64,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85676857,
         102191569,
         85632253,
-        1108720715,
-        85676857
+        1108720715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627419818,
+    "wof:lastmodified":1627423097,
     "wof:name":"Ar Ruwais",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
