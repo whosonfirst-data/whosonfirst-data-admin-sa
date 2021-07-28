@@ -14,6 +14,7 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:und_x_variant":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":421204359,
-    "wof:lastmodified":1566638461,
+    "wof:lastmodified":1627493450,
     "wof:name":"Ash Shu\u2019aybah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

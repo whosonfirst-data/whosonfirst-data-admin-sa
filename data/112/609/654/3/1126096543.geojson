@@ -19,6 +19,7 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"SA",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1126096543,
-    "wof:lastmodified":1566638483,
+    "wof:lastmodified":1627493451,
     "wof:name":"Tarut",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

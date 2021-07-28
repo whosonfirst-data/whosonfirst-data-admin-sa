@@ -27,6 +27,7 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629"
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1361026073,
-    "wof:lastmodified":1566638437,
+    "wof:lastmodified":1627493450,
     "wof:name":"Al `Aziziyah",
     "wof:parent_id":1108720599,
     "wof:placetype":"neighbourhood",

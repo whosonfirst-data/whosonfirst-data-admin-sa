@@ -27,6 +27,7 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "Jiza",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1361026139,
-    "wof:lastmodified":1566638433,
+    "wof:lastmodified":1627493449,
     "wof:name":"Al Jaz`ah",
     "wof:parent_id":85632253,
     "wof:placetype":"neighbourhood",
