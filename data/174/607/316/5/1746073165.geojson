@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Dareen"
     ],
-    "name:eng_x_variant":[
-        "\u062f\u0627\u0631\u064a\u0646"
-    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -40,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627423125,
+    "wof:lastmodified":1627575871,
     "wof:name":"Dareen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

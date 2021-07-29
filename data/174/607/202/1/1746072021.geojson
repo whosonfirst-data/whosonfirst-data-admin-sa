@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Umm Al Hamam Al Sharki"
     ],
-    "name:eng_x_variant":[
-        "\u0627\u0645 \u0627\u0644\u062d\u0645\u0627\u0645 \u0627\u0644\u0634\u0631\u0642\u064a"
-    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -40,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627423110,
+    "wof:lastmodified":1627575858,
     "wof:name":"Umm Al Hamam Al Sharki",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

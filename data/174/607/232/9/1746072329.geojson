@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Al Frosiyah"
     ],
-    "name:eng_x_variant":[
-        "\u0627\u0644\u0641\u0631\u0648\u0633\u064a\u0629"
-    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -40,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627423108,
+    "wof:lastmodified":1627575864,
     "wof:name":"Al Frosiyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

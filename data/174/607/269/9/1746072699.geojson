@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "1st Industrial City"
     ],
-    "name:eng_x_variant":[
-        "\u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 \u0627\u0644\u0627\u0648\u0644\u0649"
-    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -40,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627423110,
+    "wof:lastmodified":1627575866,
     "wof:name":"1st Industrial City",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

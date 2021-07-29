@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Sports City"
     ],
-    "name:eng_x_variant":[
-        "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629"
-    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -40,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627423102,
+    "wof:lastmodified":1627575868,
     "wof:name":"Sports City",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

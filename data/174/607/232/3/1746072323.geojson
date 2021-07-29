@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Muraikh"
     ],
-    "name:eng_x_variant":[
-        "\u0645\u0631\u064a\u062e"
-    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -40,7 +37,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627423108,
+    "wof:lastmodified":1627575864,
     "wof:name":"Muraikh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
