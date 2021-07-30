@@ -25,9 +25,9 @@
     "iso:country":"SA",
     "lbl:bbox":"46.62147,24.59187,46.63147,24.60187",
     "lbl:max_zoom":18.0,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0644\u0628\u0646"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1361025853,
-    "wof:lastmodified":1627493450,
+    "wof:lastmodified":1627603391,
     "wof:name":"Laban",
     "wof:parent_id":1108720657,
     "wof:placetype":"neighbourhood",
