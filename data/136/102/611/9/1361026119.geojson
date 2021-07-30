@@ -52,11 +52,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85676825,
         102191569,
         85632253,
-        1125924901,
-        1108720605
+        421166941,
+        1108720605,
+        85676825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,15 +72,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720605,
-            "locality_id":1125924901,
+            "locality_id":421166941,
             "neighbourhood_id":1361026119,
             "region_id":85676825
         }
     ],
     "wof:id":1361026119,
-    "wof:lastmodified":1627603390,
+    "wof:lastmodified":1627685054,
     "wof:name":"Sul\u0163\u0101nah",
-    "wof:parent_id":1108720605,
+    "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",
     "wof:population":946697,
     "wof:population_rank":11,

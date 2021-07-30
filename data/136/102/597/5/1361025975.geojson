@@ -47,11 +47,10 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1243252509,
-        1108720657
+        1108720543,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,16 +65,16 @@
         {
             "continent_id":102191569,
             "country_id":85632253,
-            "county_id":1108720657,
-            "locality_id":1243252509,
+            "county_id":1108720543,
+            "locality_id":-1,
             "neighbourhood_id":1361025975,
             "region_id":85676813
         }
     ],
     "wof:id":1361025975,
-    "wof:lastmodified":1627423126,
+    "wof:lastmodified":1627685268,
     "wof:name":"Banban",
-    "wof:parent_id":1108720657,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

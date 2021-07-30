@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:created":1627413224,
     "wof:geomhash":"7901238a39d134ba01a3c756e604e5e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072507,
+            "region_id":85676857
+        }
+    ],
     "wof:id":1746072507,
     "wof:lang_x_official":[
         "ara"
@@ -37,9 +52,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627423106,
+    "wof:lastmodified":1627685509,
     "wof:name":"Jeddah Eslamic Seaport",
-    "wof:parent_id":-1,
+    "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

@@ -33,6 +33,7 @@
     "wof:belongsto":[
         102191569,
         85632253,
+        421200923,
         1108720715,
         85676857
     ],
@@ -45,15 +46,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720715,
-            "locality_id":1746073225,
+            "locality_id":421200923,
             "neighbourhood_id":1746073225,
             "region_id":85676857
         }
     ],
     "wof:id":1746073225,
-    "wof:lastmodified":1627429813,
+    "wof:lastmodified":1627685932,
     "wof:name":"Al Khomrah",
-    "wof:parent_id":1108720715,
+    "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

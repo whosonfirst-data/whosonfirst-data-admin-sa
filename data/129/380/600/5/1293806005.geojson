@@ -52,8 +52,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        1108720627,
-        85676819
+        85676819,
+        1108720627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1293806005,
-    "wof:lastmodified":1627419789,
+    "wof:lastmodified":1627685259,
     "wof:name":"Az Zour",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

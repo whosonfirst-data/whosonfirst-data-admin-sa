@@ -53,11 +53,11 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1125924487,
-        1108720627
+        1125781573,
+        1108720627,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,15 +75,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720627,
-            "locality_id":1125924487,
+            "locality_id":1125781573,
             "neighbourhood_id":1361025897,
             "region_id":85676819
         }
     ],
     "wof:id":1361025897,
-    "wof:lastmodified":1627423126,
+    "wof:lastmodified":1627685262,
     "wof:name":"At Tawbi",
-    "wof:parent_id":1108720627,
+    "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",
     "wof:population":7740,
     "wof:population_rank":5,

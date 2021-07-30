@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:created":1627413168,
     "wof:geomhash":"e791c7e76e266c6b21b3842374e36e3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072363,
+            "region_id":85676857
+        }
+    ],
     "wof:id":1746072363,
     "wof:lang_x_official":[
         "ara"
@@ -37,9 +52,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627423119,
+    "wof:lastmodified":1627685436,
     "wof:name":"Ath Thaghr",
-    "wof:parent_id":-1,
+    "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

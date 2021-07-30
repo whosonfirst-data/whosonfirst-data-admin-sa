@@ -63,10 +63,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1108720599
+        1125927181,
+        1108720599,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +86,7 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720599,
-            "locality_id":-1,
+            "locality_id":1125927181,
             "neighbourhood_id":85932865,
             "region_id":85676819
         }
@@ -94,9 +95,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627423098,
+    "wof:lastmodified":1627685921,
     "wof:name":"Al Jawharah",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

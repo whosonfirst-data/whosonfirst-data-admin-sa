@@ -50,7 +50,11 @@
         "quattroshapes"
     ],
     "wof:belongsto":[
-        102191569
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,16 +70,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":-1,
-            "locality_id":-1,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
             "neighbourhood_id":421184515,
-            "region_id":-1
+            "region_id":85676819
         }
     ],
     "wof:id":421184515,
-    "wof:lastmodified":1627423127,
+    "wof:lastmodified":1627685854,
     "wof:name":"Al Anud",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190297,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

@@ -64,10 +64,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720715
+        421200923,
+        1108720715,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +87,7 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720715,
-            "locality_id":-1,
+            "locality_id":421200923,
             "neighbourhood_id":85907561,
             "region_id":85676857
         }
@@ -95,9 +96,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627423097,
+    "wof:lastmodified":1627685918,
     "wof:name":"Al Andalus",
-    "wof:parent_id":-1,
+    "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

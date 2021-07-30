@@ -65,7 +65,9 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
-        85632253
+        85632253,
+        1108720541,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,16 +85,17 @@
         {
             "continent_id":102191569,
             "country_id":85632253,
+            "county_id":1108720541,
             "locality_id":-1,
             "neighbourhood_id":85932947,
-            "region_id":-1
+            "region_id":85676819
         }
     ],
     "wof:id":85932947,
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627423098,
+    "wof:lastmodified":1627685929,
     "wof:name":"Al Hamra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

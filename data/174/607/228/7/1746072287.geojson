@@ -24,12 +24,26 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720543,
+        85676813
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:created":1627413134,
     "wof:geomhash":"1bb17d41e32445ee6e046c78831cdf7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720543,
+            "locality_id":-1,
+            "neighbourhood_id":1746072287,
+            "region_id":85676813
+        }
+    ],
     "wof:id":1746072287,
     "wof:lang_x_official":[
         "ara"
@@ -37,7 +51,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627423104,
+    "wof:lastmodified":1627685401,
     "wof:name":"Al Malik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

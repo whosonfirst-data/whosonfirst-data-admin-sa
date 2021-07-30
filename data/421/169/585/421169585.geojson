@@ -53,10 +53,11 @@
         "quattroshapes"
     ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720543
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,16 +75,16 @@
         {
             "continent_id":102191569,
             "country_id":85632253,
-            "county_id":1108720543,
-            "locality_id":-1,
+            "county_id":1108720657,
+            "locality_id":421204501,
             "neighbourhood_id":421169585,
             "region_id":85676813
         }
     ],
     "wof:id":421169585,
-    "wof:lastmodified":1627423127,
+    "wof:lastmodified":1627685840,
     "wof:name":"Hitteen",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

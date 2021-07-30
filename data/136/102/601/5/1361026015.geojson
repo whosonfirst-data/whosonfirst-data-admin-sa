@@ -37,11 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1210038629,
-        1108720627
+        1293684527,
+        1108720627,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +54,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720627,
-            "locality_id":1210038629,
+            "locality_id":1293684527,
             "neighbourhood_id":1361026015,
             "region_id":85676819
         }
     ],
     "wof:id":1361026015,
-    "wof:lastmodified":1627603391,
+    "wof:lastmodified":1627685039,
     "wof:name":"Mallahah",
-    "wof:parent_id":1108720627,
+    "wof:parent_id":1293684527,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

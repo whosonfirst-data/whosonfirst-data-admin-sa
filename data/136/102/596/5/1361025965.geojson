@@ -48,11 +48,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1243352469,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,15 +68,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":1243352469,
+            "locality_id":421204501,
             "neighbourhood_id":1361025965,
             "region_id":85676813
         }
     ],
     "wof:id":1361025965,
-    "wof:lastmodified":1627423126,
+    "wof:lastmodified":1627685266,
     "wof:name":"Mansuriyah",
-    "wof:parent_id":1108720657,
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

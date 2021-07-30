@@ -69,10 +69,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676825,
         102191569,
         85632253,
-        1108720605
+        421166941,
+        1108720605,
+        85676825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +91,7 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720605,
-            "locality_id":-1,
+            "locality_id":421166941,
             "neighbourhood_id":85933001,
             "region_id":85676825
         }
@@ -99,9 +100,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627603388,
+    "wof:lastmodified":1627685117,
     "wof:name":"\u0627\u062d\u062f",
-    "wof:parent_id":-1,
+    "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

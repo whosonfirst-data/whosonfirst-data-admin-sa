@@ -34,11 +34,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1327013611,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +51,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":1327013611,
+            "locality_id":421204501,
             "neighbourhood_id":1361025871,
             "region_id":85676813
         }
     ],
     "wof:id":1361025871,
-    "wof:lastmodified":1627603390,
+    "wof:lastmodified":1627685026,
     "wof:name":"Al Fawwaz",
-    "wof:parent_id":1108720657,
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

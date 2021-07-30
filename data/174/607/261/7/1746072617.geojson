@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:created":1627413267,
     "wof:geomhash":"c88c1f3b91c3d60fdc5e2816c26cd26b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072617,
+            "region_id":85676825
+        }
+    ],
     "wof:id":1746072617,
     "wof:lang_x_official":[
         "ara"
@@ -37,9 +52,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627575865,
+    "wof:lastmodified":1627685234,
     "wof:name":"Al Masanih",
-    "wof:parent_id":-1,
+    "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

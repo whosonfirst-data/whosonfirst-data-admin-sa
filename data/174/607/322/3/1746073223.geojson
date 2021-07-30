@@ -27,6 +27,7 @@
     "wof:belongsto":[
         102191569,
         85632253,
+        421200923,
         1108720715,
         85676857
     ],
@@ -39,14 +40,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720715,
+            "locality_id":421200923,
             "neighbourhood_id":1746073223,
             "region_id":85676857
         }
     ],
     "wof:id":1746073223,
-    "wof:lastmodified":1627428324,
+    "wof:lastmodified":1627685933,
     "wof:name":"Al Qouzeen",
-    "wof:parent_id":1108720715,
+    "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

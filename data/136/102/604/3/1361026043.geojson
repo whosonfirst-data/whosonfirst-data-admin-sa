@@ -45,11 +45,11 @@
         "geonames"
     ],
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1259972205,
-        1108720599
+        421190321,
+        1108720599,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,15 +65,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720599,
-            "locality_id":1259972205,
+            "locality_id":421190321,
             "neighbourhood_id":1361026043,
             "region_id":85676819
         }
     ],
     "wof:id":1361026043,
-    "wof:lastmodified":1627423126,
+    "wof:lastmodified":1627685270,
     "wof:name":"King Fahd University",
-    "wof:parent_id":1108720599,
+    "wof:parent_id":421190321,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

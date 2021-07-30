@@ -31,11 +31,11 @@
     "mz:min_zoom":15.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85676825,
         102191569,
         85632253,
-        1209948413,
-        1108720605
+        421166941,
+        1108720605,
+        85676825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +48,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720605,
-            "locality_id":1209948413,
+            "locality_id":421166941,
             "neighbourhood_id":1361025997,
             "region_id":85676825
         }
     ],
     "wof:id":1361025997,
-    "wof:lastmodified":1627603390,
+    "wof:lastmodified":1627685038,
     "wof:name":"Al Aiskan alaskan",
-    "wof:parent_id":1108720605,
+    "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

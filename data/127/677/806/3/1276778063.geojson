@@ -35,7 +35,12 @@
         "Rufay\u2018ah"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        85676819,
+        1108720627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":102773
@@ -44,16 +49,17 @@
     "wof:geomhash":"1b2a8e08192e2f9751dc19f383b57773",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
             "locality_id":1276778063,
-            "region_id":-1
+            "region_id":85676819
         }
     ],
     "wof:id":1276778063,
-    "wof:lastmodified":1627603389,
+    "wof:lastmodified":1627685020,
     "wof:name":"Rufay`ah",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108720627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

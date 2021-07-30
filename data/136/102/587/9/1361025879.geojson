@@ -77,11 +77,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1309801299,
-        1108720627
+        1125781573,
+        1108720627,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,15 +98,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720627,
-            "locality_id":1309801299,
+            "locality_id":1125781573,
             "neighbourhood_id":1361025879,
             "region_id":85676819
         }
     ],
     "wof:id":1361025879,
-    "wof:lastmodified":1627423126,
+    "wof:lastmodified":1627685260,
     "wof:name":"Al Awamiyah",
-    "wof:parent_id":1108720627,
+    "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

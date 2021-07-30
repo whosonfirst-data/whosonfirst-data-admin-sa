@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125781573,
+        1108720627,
+        85676819
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:created":1627413437,
     "wof:geomhash":"12f0346c52fdd3702bb4f836d5199aa3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1125781573,
+            "neighbourhood_id":1746073033,
+            "region_id":85676819
+        }
+    ],
     "wof:id":1746073033,
     "wof:lang_x_official":[
         "ara"
@@ -37,9 +52,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627575870,
+    "wof:lastmodified":1627685247,
     "wof:name":"Bab Ash Shamal",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

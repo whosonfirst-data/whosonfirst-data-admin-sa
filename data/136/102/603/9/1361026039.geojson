@@ -31,11 +31,11 @@
     "mz:min_zoom":15.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1292998503,
-        1108720627
+        1293684527,
+        1108720627,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +48,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720627,
-            "locality_id":1292998503,
+            "locality_id":1293684527,
             "neighbourhood_id":1361026039,
             "region_id":85676819
         }
     ],
     "wof:id":1361026039,
-    "wof:lastmodified":1627603390,
+    "wof:lastmodified":1627685043,
     "wof:name":"Khamam",
-    "wof:parent_id":1108720627,
+    "wof:parent_id":1293684527,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

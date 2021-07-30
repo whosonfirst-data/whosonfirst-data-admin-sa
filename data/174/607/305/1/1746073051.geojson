@@ -24,12 +24,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190321,
+        1108720599,
+        85676819
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:created":1627413450,
     "wof:geomhash":"99e2ba9f631586e72dd0bc7d9479ef7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":421190321,
+            "neighbourhood_id":1746073051,
+            "region_id":85676819
+        }
+    ],
     "wof:id":1746073051,
     "wof:lang_x_official":[
         "ara"
@@ -37,9 +52,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627423113,
+    "wof:lastmodified":1627685765,
     "wof:name":"Ad Dawhah Al Janubiyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190321,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
