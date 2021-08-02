@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000388,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.14806,26.31417,50.14806,26.31417",
-    "geom:latitude":26.31417,
-    "geom:longitude":50.14806,
+    "geom:bbox":"50.136094,26.291634,50.165333,26.320938",
+    "geom:latitude":26.307053,
+    "geom:longitude":50.150994,
     "gn:admin1_code":"6",
     "gn:asciiname":"King Fahad University Campus",
     "gn:country_code":"SA",
@@ -23,39 +23,57 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"50.14306,26.30917,50.15306,26.31917",
     "lbl:max_zoom":18.0,
+    "mps:latitude":26.309153,
+    "mps:longitude":50.150773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
-    "src:geom":"geonames",
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0641\u0647\u062f \u0644\u0644\u0628\u062a\u0631\u0648\u0644 \u0648\u0627\u0644\u0645\u0639\u0627\u062f\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "King Fahd University"
+    ],
+    "name:eng_x_variant":[
+        "King Fahad University Campus",
+        "King Fahd University of Petroleum and Minerals"
+    ],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1259972205,
-        1108720599
+        421190321,
+        1108720599,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":103675
     },
     "wof:country":"SA",
-    "wof:geomhash":"52c2e7a5234ec64b865cc6e15e1deafe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0aefb1f1301b26241cc65bb9f249373d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720599,
-            "locality_id":1259972205,
+            "locality_id":421190321,
             "neighbourhood_id":1361026043,
             "region_id":85676819
         }
     ],
     "wof:id":1361026043,
-    "wof:lastmodified":1566638428,
-    "wof:name":"King Fahad University Campus",
-    "wof:parent_id":1108720599,
+    "wof:lastmodified":1627685270,
+    "wof:name":"King Fahd University",
+    "wof:parent_id":421190321,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -65,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.14806,
-    26.31417,
-    50.14806,
-    26.31417
+    50.136094,
+    26.291634,
+    50.165333,
+    26.320938
 ],
-  "geometry": {"coordinates":[50.14806,26.31417],"type":"Point"}
+  "geometry": {"coordinates":[[[50.155626,26.291634],[50.155626,26.291634],[50.153839,26.294228],[50.153765,26.294324],[50.152913,26.295415],[50.152118,26.296603],[50.151323,26.297434],[50.149999,26.298502],[50.148807,26.299333],[50.148013,26.299927],[50.147218,26.30052],[50.146821,26.301351],[50.146688,26.302301],[50.146821,26.302776],[50.146688,26.30337],[50.146556,26.303726],[50.145497,26.304082],[50.143378,26.304319],[50.142848,26.304557],[50.142451,26.30515],[50.142053,26.305744],[50.141524,26.306337],[50.140994,26.306931],[50.1402,26.307762],[50.139537,26.308593],[50.13914,26.309543],[50.13914,26.310255],[50.139273,26.311086],[50.139273,26.311442],[50.139008,26.311798],[50.138743,26.312273],[50.138213,26.312866],[50.137419,26.313341],[50.136227,26.31346],[50.136094,26.315003],[50.146688,26.319039],[50.150396,26.320938],[50.156356,26.312866],[50.158342,26.308949],[50.159931,26.305388],[50.16258,26.300877],[50.165333,26.297591],[50.15948,26.294768],[50.155626,26.291634]]],"type":"Polygon"}
 }

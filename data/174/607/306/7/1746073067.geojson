@@ -1,0 +1,71 @@
+{
+  "id": 1746073067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:bbox":"50.167347,26.358489,50.178365,26.377438",
+    "geom:latitude":26.368099,
+    "geom:longitude":50.174388,
+    "iso:country":"SA",
+    "lbl:latitude":26.370419,
+    "lbl:longitude":50.175223,
+    "mps:latitude":26.370419,
+    "mps:longitude":50.175223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0634\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qashlah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190321,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413470,
+    "wof:geomhash":"ea4e92d8453158d7cd010a1cdb0f6f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":421190321,
+            "neighbourhood_id":1746073067,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073067,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685773,
+    "wof:name":"Al Qashlah",
+    "wof:parent_id":421190321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.167347,
+    26.358489,
+    50.178365,
+    26.377438
+],
+  "geometry": {"coordinates":[[[50.178365,26.358489],[50.173306,26.358559],[50.172909,26.368763],[50.167347,26.373747],[50.171742,26.377438],[50.178035,26.371749],[50.178365,26.358489]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:bbox":"39.195337,21.484174,39.208141,21.501899",
+    "geom:latitude":21.49278,
+    "geom:longitude":39.202368,
+    "iso:country":"SA",
+    "lbl:latitude":21.492308,
+    "lbl:longitude":39.20227,
+    "mps:latitude":21.492308,
+    "mps:longitude":39.20227,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0646\u062f\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kandarah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413185,
+    "wof:geomhash":"e9a0267dad3669b2598ea416ae9b7565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072407,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072407,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685457,
+    "wof:name":"Al Kandarah",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.195337,
+    21.484174,
+    39.208141,
+    21.501899
+],
+  "geometry": {"coordinates":[[[39.195337,21.496313],[39.197505,21.497968],[39.201137,21.500589],[39.203546,21.501899],[39.203842,21.501313],[39.204546,21.499313],[39.207734,21.48983],[39.208067,21.488692],[39.208141,21.487864],[39.20803,21.487002],[39.207669,21.484174],[39.20362,21.485907],[39.202267,21.486321],[39.201656,21.486476],[39.200766,21.48658],[39.199395,21.486649],[39.197801,21.491675],[39.196949,21.494054],[39.196634,21.49471],[39.19593,21.495641],[39.195337,21.496313]]],"type":"Polygon"}
+}

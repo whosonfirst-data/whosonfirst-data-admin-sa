@@ -1,0 +1,71 @@
+{
+  "id": 1746073011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:bbox":"50.009131,26.555833,50.013827,26.566421",
+    "geom:latitude":26.560033,
+    "geom:longitude":50.011364,
+    "iso:country":"SA",
+    "lbl:latitude":26.559601,
+    "lbl:longitude":50.011132,
+    "mps:latitude":26.559601,
+    "mps:longitude":50.011132,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u0628\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rabiah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125781573,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413427,
+    "wof:geomhash":"f0baafe693b07d98d47160bdf0f9c9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1125781573,
+            "neighbourhood_id":1746073011,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073011,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685747,
+    "wof:name":"Ar Rabiah",
+    "wof:parent_id":1125781573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.009131,
+    26.555833,
+    50.013827,
+    26.566421
+],
+  "geometry": {"coordinates":[[[50.009213,26.561163],[50.009975,26.562576],[50.012049,26.566421],[50.012893,26.560795],[50.013827,26.556423],[50.010284,26.555833],[50.009378,26.558289],[50.009131,26.559149],[50.009131,26.559935],[50.009213,26.560844],[50.009213,26.561163]]],"type":"Polygon"}
+}

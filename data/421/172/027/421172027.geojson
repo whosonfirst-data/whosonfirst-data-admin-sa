@@ -4,20 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000482,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.77278,24.6725,46.77278,24.6725",
-    "geom:latitude":24.6725,
-    "geom:longitude":46.77278,
+    "geom:bbox":"46.748282,24.654041,46.78467,24.679582",
+    "geom:latitude":24.667006,
+    "geom:longitude":46.765625,
     "iso:country":"SA",
-    "lbl:bbox":"46.76778,24.6675,46.77778,24.6775",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.667123,
+    "mps:longitude":46.765625,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0641\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Al Safa"
     ],
     "name:und_x_variant":[
         "A\u015f \u015eaf\u0101"
@@ -40,12 +45,16 @@
     "qs:qs_id":1293034,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22726022,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,21 +64,24 @@
     },
     "wof:country":"SA",
     "wof:created":1459008916,
-    "wof:geomhash":"edd0e27dc84b5c28d4d2746ec6b356f9",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"bdd326c4c2dbee2ef809998d029ab3f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":421172027,
             "region_id":85676813
         }
     ],
     "wof:id":421172027,
-    "wof:lastmodified":1566638465,
-    "wof:name":"\u0627\u0644\u0635\u0641\u0627",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685845,
+    "wof:name":"Al Safa",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -77,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.77278,
-    24.6725,
-    46.77278,
-    24.6725
+    46.748282,
+    24.654041,
+    46.78467,
+    24.679582
 ],
-  "geometry": {"coordinates":[46.77278,24.6725],"type":"Point"}
+  "geometry": {"coordinates":[[[46.777496,24.679582],[46.777962,24.677812],[46.778601,24.675363],[46.779666,24.673447],[46.782115,24.669933],[46.78467,24.666952],[46.754671,24.654041],[46.748282,24.66618],[46.750731,24.66948],[46.757546,24.672142],[46.760314,24.673101],[46.766702,24.675975],[46.777496,24.679582]]],"type":"Polygon"}
 }

@@ -1,0 +1,71 @@
+{
+  "id": 1746072929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000679,
+    "geom:bbox":"50.128694,26.128933,50.162017,26.156136",
+    "geom:latitude":26.142628,
+    "geom:longitude":50.145353,
+    "iso:country":"SA",
+    "lbl:latitude":26.142502,
+    "lbl:longitude":50.145353,
+    "mps:latitude":26.142502,
+    "mps:longitude":50.145353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u0648\u0627\u062c"
+    ],
+    "name:eng_x_preferred":[
+        "Al Amwaj"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413395,
+    "wof:geomhash":"f3eba54040532a7e09cbdcd024038e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072929,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072929,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685709,
+    "wof:name":"Al Amwaj",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.128694,
+    26.128933,
+    50.162017,
+    26.156136
+],
+  "geometry": {"coordinates":[[[50.157142,26.128933],[50.128694,26.133666],[50.129754,26.139664],[50.132665,26.156136],[50.161991,26.15145],[50.162017,26.146589],[50.157514,26.131729],[50.157249,26.129707],[50.157142,26.128933]]],"type":"Polygon"}
+}

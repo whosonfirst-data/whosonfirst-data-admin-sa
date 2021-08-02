@@ -1,0 +1,71 @@
+{
+  "id": 1746072829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003317,
+    "geom:bbox":"50.161719,26.412358,50.228006,26.528313",
+    "geom:latitude":26.474882,
+    "geom:longitude":50.197138,
+    "iso:country":"SA",
+    "lbl:latitude":26.492943,
+    "lbl:longitude":50.203164,
+    "mps:latitude":26.492943,
+    "mps:longitude":50.203164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0621 \u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632"
+    ],
+    "name:eng_x_preferred":[
+        "King Abdul Aziz Seaport"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413351,
+    "wof:geomhash":"ce91b7788ebf7e2dc04435e07f4fba68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072829,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072829,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685661,
+    "wof:name":"King Abdul Aziz Seaport",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.161719,
+    26.412358,
+    50.228006,
+    26.528313
+],
+  "geometry": {"coordinates":[[[50.161719,26.420067],[50.164963,26.423744],[50.18006,26.454811],[50.193038,26.472831],[50.181119,26.480417],[50.182179,26.484921],[50.179367,26.485629],[50.189053,26.528313],[50.198492,26.526424],[50.228006,26.499509],[50.220742,26.469043],[50.201602,26.443564],[50.1986,26.446986],[50.183636,26.417103],[50.181119,26.418882],[50.178338,26.419119],[50.177014,26.419356],[50.174697,26.412358],[50.172578,26.414138],[50.170592,26.415679],[50.166751,26.417577],[50.161719,26.420067]]],"type":"Polygon"}
+}

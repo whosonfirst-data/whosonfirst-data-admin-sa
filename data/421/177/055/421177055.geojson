@@ -4,16 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000085,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.70167,24.60806,46.70167,24.60806",
-    "geom:latitude":24.60806,
-    "geom:longitude":46.70167,
+    "geom:bbox":"46.69555,24.601868,46.707056,24.61402",
+    "geom:latitude":24.607988,
+    "geom:longitude":46.70228,
     "iso:country":"SA",
-    "lbl:bbox":"46.69667,24.60306,46.70667,24.61306",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.608025,
+    "mps:longitude":46.702746,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -40,10 +42,14 @@
     "qs:qs_id":401053,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22725958,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
         102191569,
         85632253,
+        421204501,
         1108720657,
         85676813
     ],
@@ -55,21 +61,24 @@
     },
     "wof:country":"SA",
     "wof:created":1459009131,
-    "wof:geomhash":"9f2b26ee18ba27130e9d1dd6b33dcb7f",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"0061c4dd7a1fad227884d3defd44c6d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":421177055,
             "region_id":85676813
         }
     ],
     "wof:id":421177055,
-    "wof:lastmodified":1601423092,
+    "wof:lastmodified":1627685849,
     "wof:name":"Siyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -77,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.70167,
-    24.60806,
-    46.70167,
-    24.60806
+    46.69555,
+    24.601868,
+    46.707056,
+    24.61402
 ],
-  "geometry": {"coordinates":[46.70167,24.60806],"type":"Point"}
+  "geometry": {"coordinates":[[[46.706627,24.604684],[46.705653,24.604387],[46.703846,24.60381],[46.703077,24.603176],[46.701904,24.602484],[46.699559,24.601868],[46.69902,24.603752],[46.69829,24.60579],[46.696829,24.608328],[46.696021,24.609558],[46.69555,24.61024],[46.701034,24.611731],[46.706783,24.61402],[46.707056,24.609135],[46.706902,24.606059],[46.706627,24.604684]]],"type":"Polygon"}
 }

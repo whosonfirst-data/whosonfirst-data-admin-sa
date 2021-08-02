@@ -1,0 +1,71 @@
+{
+  "id": 1746072731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003262,
+    "geom:bbox":"49.967846,26.371314,50.021876,26.469856",
+    "geom:latitude":26.421898,
+    "geom:longitude":49.995094,
+    "iso:country":"SA",
+    "lbl:latitude":26.421776,
+    "lbl:longitude":49.994579,
+    "mps:latitude":26.421776,
+    "mps:longitude":49.994579,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0636\u0627\u062d\u064a\u0629 \u0627\u0644\u0645\u0644\u0643 \u0641\u0647\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Dahiyat Al Malik Fahd"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413311,
+    "wof:geomhash":"5e254cd9d0b177bcb6a3539ff93b4e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072731,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072731,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685616,
+    "wof:name":"Dahiyat Al Malik Fahd",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.967846,
+    26.371314,
+    50.021876,
+    26.469856
+],
+  "geometry": {"coordinates":[[[50.008359,26.459346],[50.009958,26.454692],[50.011679,26.448171],[50.012076,26.442836],[50.011547,26.434061],[50.011483,26.433144],[50.011017,26.426471],[50.011547,26.420067],[50.012268,26.416376],[50.012474,26.415324],[50.014328,26.4088],[50.021876,26.384483],[50.013268,26.380212],[49.997907,26.374162],[49.99208,26.372026],[49.988107,26.371314],[49.967846,26.45813],[50.001222,26.469856],[50.003201,26.468004],[50.005247,26.464772],[50.005941,26.463675],[50.008359,26.459346]]],"type":"Polygon"}
+}

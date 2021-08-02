@@ -1,0 +1,71 @@
+{
+  "id": 1746072861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000424,
+    "geom:bbox":"50.18825,26.33668,50.211545,26.366591",
+    "geom:latitude":26.351557,
+    "geom:longitude":50.201409,
+    "iso:country":"SA",
+    "lbl:latitude":26.35173,
+    "lbl:longitude":50.20163,
+    "mps:latitude":26.35173,
+    "mps:longitude":50.20163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u0643\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rakah Al Janubiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413365,
+    "wof:geomhash":"8b1d3bce2a88167d943b22fcf24f2b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072861,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072861,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685677,
+    "wof:name":"Ar Rakah Al Janubiyah",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.18825,
+    26.33668,
+    50.211545,
+    26.366591
+],
+  "geometry": {"coordinates":[[[50.205014,26.366591],[50.206049,26.36559],[50.206579,26.363869],[50.206612,26.363709],[50.207042,26.361674],[50.209624,26.35408],[50.210353,26.35224],[50.210485,26.350401],[50.210286,26.347731],[50.210286,26.344942],[50.211545,26.339186],[50.19989,26.33668],[50.190943,26.353898],[50.18825,26.359081],[50.205014,26.366591]]],"type":"Polygon"}
+}

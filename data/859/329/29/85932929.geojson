@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000204,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.170349,26.334611,50.170349,26.334611",
-    "geom:latitude":26.334611,
-    "geom:longitude":50.170349,
+    "geom:bbox":"50.153575,26.329721,50.179022,26.344611",
+    "geom:latitude":26.336177,
+    "geom:longitude":50.167067,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"50.165349,26.329611,50.175349,26.339611",
     "lbl:latitude":26.334611,
     "lbl:longitude":50.170349,
     "lbl:max_zoom":18.0,
-    "mps:latitude":26.338581,
-    "mps:longitude":50.160921,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":26.335953,
+    "mps:longitude":50.166874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,7 +29,7 @@
         "\u0627\u0644\u062f\u0648\u062d\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
     "name:eng_x_preferred":[
-        "Northern Al Dohah"
+        "Ad Dawhah Ash Shamaliyah"
     ],
     "name:eng_x_variant":[
         "Northern Al Dohah"
@@ -57,17 +56,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939574,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1108720599
+        421190321,
+        1108720599,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,15 +78,16 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "mz"
     ],
-    "wof:geomhash":"0883f5c0a90cdacfdac2e6fcb22db945",
+    "wof:geomhash":"496dc3b5fc77d613ec006c7a5d5f3644",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720599,
-            "locality_id":-1,
+            "locality_id":421190321,
             "neighbourhood_id":85932929,
             "region_id":85676819
         }
@@ -94,9 +96,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326293,
-    "wof:name":"\u0627\u0644\u062f\u0648\u062d\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685927,
+    "wof:name":"Ad Dawhah Ash Shamaliyah",
+    "wof:parent_id":421190321,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -104,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.170349,
-    26.334611,
-    50.170349,
-    26.334611
+    50.153575,
+    26.329721,
+    50.179022,
+    26.344611
 ],
-  "geometry": {"coordinates":[50.170349,26.334611],"type":"Point"}
+  "geometry": {"coordinates":[[[50.179022,26.332156],[50.175955,26.332333],[50.174498,26.331383],[50.172644,26.330434],[50.169731,26.329721],[50.167082,26.329721],[50.165493,26.330315],[50.163904,26.331264],[50.161918,26.332689],[50.160328,26.333994],[50.158607,26.334706],[50.15662,26.334588],[50.154571,26.33374],[50.153575,26.336012],[50.165308,26.344611],[50.17185,26.338979],[50.172909,26.337436],[50.173968,26.338029],[50.178876,26.338029],[50.179022,26.332156]]],"type":"Polygon"}
 }

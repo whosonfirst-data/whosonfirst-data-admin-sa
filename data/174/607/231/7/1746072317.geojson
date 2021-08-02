@@ -1,0 +1,71 @@
+{
+  "id": 1746072317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000537,
+    "geom:bbox":"39.100485,21.765886,39.137484,21.796477",
+    "geom:latitude":21.781378,
+    "geom:longitude":39.118168,
+    "iso:country":"SA",
+    "lbl:latitude":21.781621,
+    "lbl:longitude":39.118168,
+    "mps:latitude":21.781621,
+    "mps:longitude":39.118168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u062f\u0648\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ferdous"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413147,
+    "wof:geomhash":"8a39f811711f0f9b110d61c50955457e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072317,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072317,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685414,
+    "wof:name":"Al Ferdous",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.100485,
+    21.765886,
+    39.137484,
+    21.796477
+],
+  "geometry": {"coordinates":[[[39.122468,21.796477],[39.125071,21.793216],[39.128487,21.789991],[39.132416,21.787242],[39.13606,21.785074],[39.137484,21.783963],[39.112717,21.765886],[39.100485,21.780632],[39.122468,21.796477]]],"type":"Polygon"}
+}

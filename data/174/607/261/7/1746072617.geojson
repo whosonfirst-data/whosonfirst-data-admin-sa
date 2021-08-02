@@ -1,0 +1,71 @@
+{
+  "id": 1746072617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:bbox":"39.603114,24.473581,39.615911,24.485827",
+    "geom:latitude":24.480277,
+    "geom:longitude":39.609521,
+    "iso:country":"SA",
+    "lbl:latitude":24.480334,
+    "lbl:longitude":39.609643,
+    "mps:latitude":24.480334,
+    "mps:longitude":39.609643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u0627\u0646\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Al Masanih"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413267,
+    "wof:geomhash":"c88c1f3b91c3d60fdc5e2816c26cd26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072617,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072617,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685234,
+    "wof:name":"Al Masanih",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.603114,
+    24.473581,
+    39.615911,
+    24.485827
+],
+  "geometry": {"coordinates":[[[39.615911,24.485628],[39.614043,24.473581],[39.613164,24.473781],[39.611901,24.474031],[39.610803,24.474181],[39.60888,24.474231],[39.606684,24.474131],[39.605475,24.473881],[39.604981,24.47578],[39.604432,24.47798],[39.603773,24.481079],[39.603278,24.482828],[39.603114,24.484078],[39.603114,24.485827],[39.615911,24.485628]]],"type":"Polygon"}
+}

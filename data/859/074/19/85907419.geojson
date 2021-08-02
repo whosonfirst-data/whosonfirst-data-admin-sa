@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001262,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.833091,24.777024,46.833091,24.777024",
-    "geom:latitude":24.777024,
-    "geom:longitude":46.833091,
+    "geom:bbox":"46.815615,24.765002,46.859527,24.818125",
+    "geom:latitude":24.793451,
+    "geom:longitude":46.839847,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"46.828091,24.772024,46.838091,24.782024",
     "lbl:latitude":24.777024,
     "lbl:longitude":46.833091,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.779335,
-    "mps:longitude":46.839516,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":24.795099,
+    "mps:longitude":46.839847,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -27,10 +26,13 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u064a\u0632\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0645\u0648\u064a\u0632\u0644\u0647"
     ],
     "name:eng_x_preferred":[
-        "Al M'aizilah"
+        "Al Maizalah"
     ],
     "name:eng_x_variant":[
         "Al Muayzilah",
@@ -60,17 +62,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939753,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,15 +84,16 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "mz"
     ],
-    "wof:geomhash":"0616b9a62b75124cba72cc83263fe212",
+    "wof:geomhash":"a39947adf0fe9724991795c57b0ce61c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":85907419,
             "region_id":85676813
         }
@@ -97,9 +102,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326292,
-    "wof:name":"\u0627\u0644\u0645\u0648\u064a\u0632\u0644\u0647",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685882,
+    "wof:name":"Al Maizalah",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -107,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.833091,
-    24.777024,
-    46.833091,
-    24.777024
+    46.815615,
+    24.765002,
+    46.859527,
+    24.818125
 ],
-  "geometry": {"coordinates":[46.833091,24.777024],"type":"Point"}
+  "geometry": {"coordinates":[[[46.846088,24.818125],[46.846808,24.815293],[46.848248,24.812461],[46.852808,24.805926],[46.857367,24.798954],[46.858327,24.795904],[46.859287,24.793507],[46.859527,24.790675],[46.859287,24.788278],[46.857367,24.785228],[46.849688,24.775204],[46.841488,24.765002],[46.829403,24.781213],[46.81833,24.796333],[46.815615,24.800034],[46.835288,24.814204],[46.836488,24.813332],[46.846088,24.818125]]],"type":"Polygon"}
 }

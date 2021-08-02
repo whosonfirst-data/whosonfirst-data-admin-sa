@@ -1,0 +1,71 @@
+{
+  "id": 1746072599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000339,
+    "geom:bbox":"39.63466,24.444359,39.659522,24.471016",
+    "geom:latitude":24.458182,
+    "geom:longitude":39.64749,
+    "iso:country":"SA",
+    "lbl:latitude":24.458421,
+    "lbl:longitude":39.647678,
+    "mps:latitude":24.458421,
+    "mps:longitude":39.647678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0633\u0643\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Iskan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413259,
+    "wof:geomhash":"5b75afdefdbb627ba71a2e324e58a22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072599,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072599,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685555,
+    "wof:name":"Al Iskan",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63466,
+    24.444359,
+    39.659522,
+    24.471016
+],
+  "geometry": {"coordinates":[[[39.649234,24.471016],[39.649908,24.469257],[39.651171,24.464708],[39.653094,24.461008],[39.659522,24.448686],[39.658311,24.448309],[39.656774,24.447659],[39.655181,24.446659],[39.652874,24.445659],[39.650293,24.445009],[39.64167,24.444359],[39.642933,24.445459],[39.644031,24.446259],[39.645075,24.447059],[39.645569,24.447759],[39.645734,24.448759],[39.645789,24.449309],[39.645624,24.450059],[39.645075,24.451259],[39.641236,24.458049],[39.64123,24.458058],[39.634859,24.469557],[39.63466,24.469925],[39.649234,24.471016]]],"type":"Polygon"}
+}

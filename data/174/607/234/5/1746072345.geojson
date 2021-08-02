@@ -1,0 +1,71 @@
+{
+  "id": 1746072345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001006,
+    "geom:bbox":"39.261731,21.574297,39.293356,21.62076",
+    "geom:latitude":21.595611,
+    "geom:longitude":39.278409,
+    "iso:country":"SA",
+    "lbl:latitude":21.59515,
+    "lbl:longitude":39.280291,
+    "mps:latitude":21.59515,
+    "mps:longitude":39.280291,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u062a\u0632\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Montazah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413160,
+    "wof:geomhash":"30ab3a8a46295093be942119531b8792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072345,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072345,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685427,
+    "wof:name":"Al Montazah",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.261731,
+    21.574297,
+    39.293356,
+    21.62076
+],
+  "geometry": {"coordinates":[[[39.264349,21.615184],[39.269692,21.615691],[39.276126,21.616806],[39.280706,21.617921],[39.284959,21.619442],[39.287249,21.62076],[39.293356,21.577871],[39.267075,21.574297],[39.261731,21.593056],[39.26304,21.592473],[39.263912,21.591966],[39.265003,21.591865],[39.266093,21.591865],[39.267729,21.59227],[39.268711,21.59298],[39.269692,21.594095],[39.270019,21.595515],[39.270128,21.597036],[39.269256,21.599571],[39.264349,21.615184]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746073147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:bbox":"50.012709,26.526714,50.028911,26.534058",
+    "geom:latitude":26.530932,
+    "geom:longitude":50.020405,
+    "iso:country":"SA",
+    "lbl:latitude":26.530903,
+    "lbl:longitude":50.020406,
+    "mps:latitude":26.530903,
+    "mps:longitude":50.020406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0642\u064a\u0642"
+    ],
+    "name:eng_x_preferred":[
+        "Al Aqiq"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1293684527,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413513,
+    "wof:geomhash":"703741b4eff48dbd11cecffff2e04ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1293684527,
+            "neighbourhood_id":1746073147,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073147,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685811,
+    "wof:name":"Al Aqiq",
+    "wof:parent_id":1293684527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.012709,
+    26.526714,
+    50.028911,
+    26.534058
+],
+  "geometry": {"coordinates":[[[50.028876,26.532402],[50.028911,26.531829],[50.028226,26.531432],[50.02502,26.529951],[50.02331,26.529161],[50.019965,26.528368],[50.019038,26.527106],[50.016053,26.526714],[50.01525,26.528151],[50.012709,26.532537],[50.027406,26.534058],[50.028876,26.532402]]],"type":"Polygon"}
+}

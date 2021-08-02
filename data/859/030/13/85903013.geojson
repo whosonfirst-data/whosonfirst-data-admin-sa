@@ -19,7 +19,7 @@
     "mps:longitude":50.217859,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
-    "mz:is_funky":0,
+    "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
@@ -66,10 +66,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1108720599
+        1125927181,
+        1108720599,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +88,7 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720599,
-            "locality_id":-1,
+            "locality_id":1125927181,
             "neighbourhood_id":85903013,
             "region_id":85676819
         }
@@ -96,9 +97,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582326292,
+    "wof:lastmodified":1627685079,
     "wof:name":"Al Aziziyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

@@ -4,20 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000415,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.65556,24.77417,46.65556,24.77417",
-    "geom:latitude":24.77417,
-    "geom:longitude":46.65556,
+    "geom:bbox":"46.640661,24.760836,46.668517,24.786231",
+    "geom:latitude":24.773482,
+    "geom:longitude":46.653974,
     "iso:country":"SA",
-    "lbl:bbox":"46.65056,24.76917,46.66056,24.77917",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.773676,
+    "mps:longitude":46.653974,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u062f\u064a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ghadeer"
     ],
     "name:und_x_variant":[
         "Al Ghad\u012br"
@@ -40,12 +45,16 @@
     "qs:qs_id":1016932,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22726008,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,21 +64,24 @@
     },
     "wof:country":"SA",
     "wof:created":1459009429,
-    "wof:geomhash":"b8538cfa48c7c5845002108a448bebf7",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e90561bd0a3047920bc33df189538c16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":421185007,
             "region_id":85676813
         }
     ],
     "wof:id":421185007,
-    "wof:lastmodified":1566638472,
-    "wof:name":"\u0627\u0644\u063a\u062f\u064a\u0631",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685857,
+    "wof:name":"Al Ghadeer",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -77,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.65556,
-    24.77417,
-    46.65556,
-    24.77417
+    46.640661,
+    24.760836,
+    46.668517,
+    24.786231
 ],
-  "geometry": {"coordinates":[46.65556,24.77417],"type":"Point"}
+  "geometry": {"coordinates":[[[46.640661,24.77385],[46.643337,24.779203],[46.66016,24.786231],[46.668517,24.769848],[46.647184,24.760836],[46.640661,24.77385]]],"type":"Polygon"}
 }

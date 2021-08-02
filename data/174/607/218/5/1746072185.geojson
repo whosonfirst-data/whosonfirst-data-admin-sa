@@ -1,0 +1,71 @@
+{
+  "id": 1746072185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:bbox":"46.717876,24.620547,46.722325,24.623124",
+    "geom:latitude":24.621697,
+    "geom:longitude":46.720083,
+    "iso:country":"SA",
+    "lbl:latitude":24.62174,
+    "lbl:longitude":46.720083,
+    "mps:latitude":24.62174,
+    "mps:longitude":46.720083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u064a\u062d\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Al Butaiha"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413083,
+    "wof:geomhash":"ae0edb0db3c079c92f2bf77d31d7dd35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072185,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072185,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685350,
+    "wof:name":"Al Butaiha",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.717876,
+    24.620547,
+    46.722325,
+    24.623124
+],
+  "geometry": {"coordinates":[[[46.717876,24.622222],[46.718363,24.622458],[46.720146,24.622857],[46.721051,24.623124],[46.722325,24.620792],[46.718788,24.620547],[46.717876,24.622222]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:bbox":"50.096598,26.44663,50.108649,26.458842",
+    "geom:latitude":26.452324,
+    "geom:longitude":50.102546,
+    "iso:country":"SA",
+    "lbl:latitude":26.452128,
+    "lbl:longitude":50.102546,
+    "mps:latitude":26.452128,
+    "mps:longitude":50.102546,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "As Salam"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413306,
+    "wof:geomhash":"978f218f5e4646ca4758b042475ad879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072721,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072721,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685611,
+    "wof:name":"As Salam",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.096598,
+    26.44663,
+    50.108649,
+    26.458842
+],
+  "geometry": {"coordinates":[[[50.096598,26.448705],[50.09673,26.458012],[50.097525,26.458842],[50.099114,26.45819],[50.100438,26.457301],[50.102756,26.456708],[50.105206,26.456293],[50.108649,26.456234],[50.108318,26.44663],[50.105669,26.44663],[50.100107,26.448171],[50.096598,26.448705]]],"type":"Polygon"}
+}

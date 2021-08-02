@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000112,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.719684,24.649513,46.719684,24.649513",
-    "geom:latitude":24.649513,
-    "geom:longitude":46.719684,
+    "geom:bbox":"46.714982,24.640226,46.733836,24.651113",
+    "geom:latitude":24.64588,
+    "geom:longitude":46.722714,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"46.714684,24.644513,46.724684,24.654513",
-    "lbl:latitude":24.649513,
-    "lbl:longitude":46.719684,
+    "lbl:latitude":24.64567,
+    "lbl:longitude":46.721143,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.649191,
-    "mps:longitude":46.727386,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":24.64567,
+    "mps:longitude":46.721143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -27,17 +26,17 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "\u0627\u0644\u0627\u0645\u0644"
+        "\u0627\u0644\u0639\u0645\u0644"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0623\u0645\u0644"
+        "\u0627\u0644\u0623\u0645\u0644",
+        "\u0627\u0644\u0627\u0645\u0644"
     ],
     "name:eng_x_preferred":[
         "Al Amal"
     ],
     "name:eng_x_variant":[
-        "Al 'amal",
-        "Al Amal"
+        "Al 'amal"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -63,17 +62,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939753,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,15 +84,16 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "mz"
     ],
-    "wof:geomhash":"84e2b67f1f7d70a19417f413378b8086",
+    "wof:geomhash":"797591c0b36047846da88ccdf8cb63c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":85907465,
             "region_id":85676813
         }
@@ -100,9 +102,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326292,
-    "wof:name":"\u0627\u0644\u0627\u0645\u0644",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685901,
+    "wof:name":"Al Amal",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -110,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.719684,
-    24.649513,
-    46.719684,
-    24.649513
+    46.714982,
+    24.640226,
+    46.733836,
+    24.651113
 ],
-  "geometry": {"coordinates":[46.719684,24.649513],"type":"Point"}
+  "geometry": {"coordinates":[[[46.733836,24.64473],[46.727599,24.643474],[46.723287,24.642196],[46.71775,24.640226],[46.717591,24.640918],[46.717484,24.641451],[46.714982,24.646615],[46.715142,24.646987],[46.716286,24.651113],[46.733216,24.646908],[46.733242,24.645869],[46.733668,24.644911],[46.733836,24.64473]]],"type":"Polygon"}
 }

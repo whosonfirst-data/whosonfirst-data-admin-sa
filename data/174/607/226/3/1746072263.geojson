@@ -1,0 +1,71 @@
+{
+  "id": 1746072263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00479,
+    "geom:bbox":"47.023446,25.00555,47.113424,25.091685",
+    "geom:latitude":25.048775,
+    "geom:longitude":47.069094,
+    "iso:country":"SA",
+    "lbl:latitude":25.049746,
+    "lbl:longitude":47.068238,
+    "mps:latitude":25.049746,
+    "mps:longitude":47.068238,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0627\u0647\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Zaher"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413125,
+    "wof:geomhash":"44f860a349df4993c7df18131a36574c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072263,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072263,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685388,
+    "wof:name":"Al Zaher",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.023446,
+    25.00555,
+    47.113424,
+    25.091685
+],
+  "geometry": {"coordinates":[[[47.086214,25.00555],[47.023944,25.020313],[47.023446,25.027284],[47.033045,25.047724],[47.047445,25.073378],[47.04919,25.081527],[47.113424,25.091685],[47.098487,25.044402],[47.086214,25.00555]]],"type":"Polygon"}
+}

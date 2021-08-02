@@ -1,0 +1,71 @@
+{
+  "id": 1746072867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:bbox":"50.19989,26.325063,50.214654,26.339186",
+    "geom:latitude":26.332242,
+    "geom:longitude":50.20791,
+    "iso:country":"SA",
+    "lbl:latitude":26.332384,
+    "lbl:longitude":50.208051,
+    "mps:latitude":26.332384,
+    "mps:longitude":50.208051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0627\u0628\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rawabi"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413369,
+    "wof:geomhash":"25e295ff2a9a3b6aada868b452d071ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072867,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072867,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685680,
+    "wof:name":"Ar Rawabi",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.19989,
+    26.325063,
+    50.214654,
+    26.339186
+],
+  "geometry": {"coordinates":[[[50.205983,26.325063],[50.19989,26.33668],[50.211545,26.339186],[50.214654,26.32685],[50.205983,26.325063]]],"type":"Polygon"}
+}

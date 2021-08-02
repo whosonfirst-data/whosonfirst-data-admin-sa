@@ -4,22 +4,27 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00018,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.070418,26.447328,50.070418,26.447328",
-    "geom:latitude":26.447328,
-    "geom:longitude":50.070418,
+    "geom:bbox":"50.062564,26.440879,50.08168,26.453566",
+    "geom:latitude":26.446928,
+    "geom:longitude":50.071645,
     "iso:country":"SA",
-    "lbl:bbox":"50.065418,26.442328,50.075418,26.452328",
     "lbl:max_zoom":18.0,
+    "mps:latitude":26.446806,
+    "mps:longitude":50.071645,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0646\u0648\u062f"
     ],
     "name:eng_x_preferred":[
+        "Al Anud"
+    ],
+    "name:eng_x_variant":[
         "Al Anoud"
     ],
     "qs:gn_country":null,
@@ -40,9 +45,16 @@
     "qs:qs_id":1001034,
     "qs:woe_adm0":23424938,
     "qs:woe_id":55948377,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        102191569
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,20 +63,24 @@
     },
     "wof:country":"SA",
     "wof:created":1459009413,
-    "wof:geomhash":"cdaf6e05fbca1a47cb57c0db96793f42",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"591511125ad6f485155ca283981ed5fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":-1,
-            "locality_id":-1,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
             "neighbourhood_id":421184515,
-            "region_id":-1
+            "region_id":85676819
         }
     ],
     "wof:id":421184515,
-    "wof:lastmodified":1601423083,
-    "wof:name":"Al Anoud",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685854,
+    "wof:name":"Al Anud",
+    "wof:parent_id":421190297,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -72,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.070418,
-    26.447328,
-    50.070418,
-    26.447328
+    50.062564,
+    26.440879,
+    50.08168,
+    26.453566
 ],
-  "geometry": {"coordinates":[50.070418,26.447328],"type":"Point"}
+  "geometry": {"coordinates":[[[50.064782,26.440879],[50.062564,26.453566],[50.077926,26.451195],[50.08064,26.450246],[50.08064,26.449535],[50.08064,26.444496],[50.08117,26.443488],[50.08168,26.44228],[50.064782,26.440879]]],"type":"Polygon"}
 }

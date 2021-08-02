@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-07-27",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -20,7 +21,7 @@
     "lbl:longitude":46.76556,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -59,10 +60,11 @@
     "woe:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,18 +80,20 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":1126068533,
             "region_id":85676813
         }
     ],
     "wof:id":1126068533,
-    "wof:lastmodified":1566638483,
+    "wof:lastmodified":1627685253,
     "wof:name":"Ar Rawdah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85932849
+    ],
     "wof:supersedes":[
         85907417
     ],

@@ -1,0 +1,71 @@
+{
+  "id": 1746072305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000588,
+    "geom:bbox":"39.048695,21.748908,39.077357,21.785166",
+    "geom:latitude":21.766679,
+    "geom:longitude":39.060496,
+    "iso:country":"SA",
+    "lbl:latitude":21.766195,
+    "lbl:longitude":39.060728,
+    "mps:latitude":21.766195,
+    "mps:longitude":39.060728,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0624\u0644\u0624"
+    ],
+    "name:eng_x_preferred":[
+        "Al Loaloa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413141,
+    "wof:geomhash":"c57d143b4807566f82097daf670d39eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072305,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072305,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685410,
+    "wof:name":"Al Loaloa",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.048695,
+    21.748908,
+    39.077357,
+    21.785166
+],
+  "geometry": {"coordinates":[[[39.05929,21.785166],[39.077357,21.763713],[39.057137,21.748908],[39.057056,21.749111],[39.053749,21.752445],[39.052082,21.755833],[39.050415,21.757444],[39.049557,21.762501],[39.048695,21.763306],[39.048695,21.764973],[39.049557,21.765833],[39.049557,21.77],[39.050362,21.770805],[39.050362,21.778334],[39.050201,21.778497],[39.05929,21.785166]]],"type":"Polygon"}
+}

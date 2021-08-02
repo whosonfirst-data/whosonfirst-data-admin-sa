@@ -4,25 +4,24 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000358,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.671347,24.778387,46.671347,24.778387",
-    "geom:latitude":24.778387,
-    "geom:longitude":46.671347,
+    "geom:bbox":"46.66016,24.769848,46.686485,24.793791",
+    "geom:latitude":24.781831,
+    "geom:longitude":46.673346,
     "gn:country":"SA",
     "gn:fcode":"PPLX",
     "gn:latitude":24.78194,
     "gn:longitude":46.67306,
     "gn:population":0,
     "iso:country":"SA",
-    "lbl:bbox":"46.666347,24.773387,46.676347,24.783387",
     "lbl:latitude":24.778387,
     "lbl:longitude":46.671347,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.784707,
-    "mps:longitude":46.673549,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":24.781812,
+    "mps:longitude":46.673346,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -34,7 +33,7 @@
         "\u0627\u0644\u0646\u0641\u0644"
     ],
     "name:eng_x_preferred":[
-        "An Nafal"
+        "Al Nafel"
     ],
     "name:eng_x_variant":[
         "An Nafal",
@@ -85,16 +84,18 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424938,
     "qs_pg:woe_id":22726010,
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,15 +105,16 @@
     },
     "wof:country":"SA",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"d2087d5abffdd6aa83e9ba200c9b1c7f",
+    "wof:geomhash":"f94bdf11039d6172e4e95178552c90cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":85907437,
             "region_id":85676813
         }
@@ -121,9 +123,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326292,
-    "wof:name":"\u0627\u0644\u0646\u0641\u0644",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685891,
+    "wof:name":"Al Nafel",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -133,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.671347,
-    24.778387,
-    46.671347,
-    24.778387
+    46.66016,
+    24.769848,
+    46.686485,
+    24.793791
 ],
-  "geometry": {"coordinates":[46.671347,24.778387],"type":"Point"}
+  "geometry": {"coordinates":[[[46.66016,24.786231],[46.678261,24.793791],[46.686485,24.777437],[46.668517,24.769848],[46.66016,24.786231]]],"type":"Polygon"}
 }

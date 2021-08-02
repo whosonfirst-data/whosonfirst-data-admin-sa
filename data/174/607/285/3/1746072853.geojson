@@ -1,0 +1,71 @@
+{
+  "id": 1746072853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000252,
+    "geom:bbox":"50.194726,26.233848,50.214326,26.250737",
+    "geom:latitude":26.241864,
+    "geom:longitude":50.204472,
+    "iso:country":"SA",
+    "lbl:latitude":26.242349,
+    "lbl:longitude":50.204659,
+    "mps:latitude":26.242349,
+    "mps:longitude":50.204659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0646 \u0633\u064a\u0646\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Ibn Sina"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413362,
+    "wof:geomhash":"c02a8e5cb329034e271a2ee679b4dccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072853,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072853,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685674,
+    "wof:name":"Ibn Sina",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.194726,
+    26.233848,
+    50.214326,
+    26.250737
+],
+  "geometry": {"coordinates":[[[50.197242,26.24462],[50.197507,26.246521],[50.197507,26.248243],[50.197242,26.249252],[50.202666,26.24981],[50.211677,26.250737],[50.213134,26.237672],[50.214326,26.237969],[50.214061,26.235474],[50.194726,26.233848],[50.194726,26.234643],[50.194991,26.23785],[50.196978,26.242839],[50.197242,26.24462]]],"type":"Polygon"}
+}

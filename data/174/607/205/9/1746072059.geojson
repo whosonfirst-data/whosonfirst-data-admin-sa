@@ -1,0 +1,71 @@
+{
+  "id": 1746072059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000774,
+    "geom:bbox":"46.797128,24.611673,46.83498,24.651726",
+    "geom:latitude":24.631025,
+    "geom:longitude":46.815695,
+    "iso:country":"SA",
+    "lbl:latitude":24.630449,
+    "lbl:longitude":46.815409,
+    "mps:latitude":24.630449,
+    "mps:longitude":46.815409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Noor"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413013,
+    "wof:geomhash":"2519149c21f0cc0a52dd53aaf1a58549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072059,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072059,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685296,
+    "wof:name":"Al Noor",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.797128,
+    24.611673,
+    46.83498,
+    24.651726
+],
+  "geometry": {"coordinates":[[[46.83498,24.616842],[46.823864,24.611673],[46.819635,24.614287],[46.817251,24.615595],[46.815636,24.61621],[46.813098,24.616979],[46.81156,24.617748],[46.81033,24.618594],[46.8091,24.620055],[46.807485,24.622823],[46.803463,24.630258],[46.797128,24.643314],[46.815282,24.651726],[46.83498,24.616842]]],"type":"Polygon"}
+}

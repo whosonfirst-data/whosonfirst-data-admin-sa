@@ -1,0 +1,71 @@
+{
+  "id": 1746072087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000203,
+    "geom:bbox":"46.718136,24.666393,46.728797,24.693293",
+    "geom:latitude":24.678313,
+    "geom:longitude":46.722325,
+    "iso:country":"SA",
+    "lbl:latitude":24.678376,
+    "lbl:longitude":46.722224,
+    "mps:latitude":24.678376,
+    "mps:longitude":46.722224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0628\u0627\u0637"
+    ],
+    "name:eng_x_preferred":[
+        "Al Dhubbat"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413027,
+    "wof:geomhash":"175861ef5c15277a0eb67949c384b5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072087,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072087,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685309,
+    "wof:name":"Al Dhubbat",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.718136,
+    24.666393,
+    46.728797,
+    24.693293
+],
+  "geometry": {"coordinates":[[[46.726135,24.67885],[46.728158,24.670545],[46.727945,24.670119],[46.727732,24.6698],[46.727626,24.669267],[46.727945,24.668522],[46.728052,24.668309],[46.728584,24.667564],[46.728797,24.667031],[46.727519,24.666393],[46.725603,24.666499],[46.71815,24.667031],[46.718363,24.670119],[46.718136,24.6922],[46.723352,24.693293],[46.726135,24.67885]]],"type":"Polygon"}
+}

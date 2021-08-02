@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000602,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.160543,21.583055,39.160543,21.583055",
-    "geom:latitude":21.583055,
-    "geom:longitude":39.160543,
+    "geom:bbox":"39.1413,21.574775,39.165447,21.61379",
+    "geom:latitude":21.593687,
+    "geom:longitude":39.152031,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"39.155543,21.578055,39.165543,21.588055",
     "lbl:latitude":21.583055,
     "lbl:longitude":39.160543,
     "lbl:max_zoom":18.0,
-    "mps:latitude":21.588461,
-    "mps:longitude":39.159332,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":21.593774,
+    "mps:longitude":39.152261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,7 +29,7 @@
         "\u0627\u0644\u0633\u0644\u0627\u0645\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Salamah"
+        "As Salamah"
     ],
     "name:eng_x_variant":[
         "Al Salamah"
@@ -57,17 +56,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939873,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720715
+        421200923,
+        1108720715,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,15 +78,16 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"febeb16acb0cb56403783fd1a4b26738",
+    "wof:geomhash":"36dcf6bdc8aa365b6218c3066bed8db5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720715,
-            "locality_id":-1,
+            "locality_id":421200923,
             "neighbourhood_id":85907531,
             "region_id":85676857
         }
@@ -94,9 +96,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326293,
-    "wof:name":"\u0627\u0644\u0633\u0644\u0627\u0645\u0629",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685906,
+    "wof:name":"As Salamah",
+    "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -104,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.160543,
-    21.583055,
-    39.160543,
-    21.583055
+    39.1413,
+    21.574775,
+    39.165447,
+    21.61379
 ],
-  "geometry": {"coordinates":[39.160543,21.583055],"type":"Point"}
+  "geometry": {"coordinates":[[[39.1413,21.610834],[39.155518,21.61379],[39.157699,21.604463],[39.159989,21.597467],[39.165447,21.580841],[39.143507,21.574775],[39.144396,21.59752],[39.144248,21.599174],[39.142766,21.603033],[39.142173,21.605377],[39.1413,21.610834]]],"type":"Polygon"}
 }

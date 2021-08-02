@@ -1,0 +1,71 @@
+{
+  "id": 1746072807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:bbox":"50.05851,26.462576,50.0719,26.47392",
+    "geom:latitude":26.467866,
+    "geom:longitude":50.065546,
+    "iso:country":"SA",
+    "lbl:latitude":26.46782,
+    "lbl:longitude":50.065419,
+    "mps:latitude":26.46782,
+    "mps:longitude":50.065419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062d\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Buhayrah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413342,
+    "wof:geomhash":"cddca5f92797cd9cca64411f8f5d7c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072807,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072807,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685650,
+    "wof:name":"Al Buhayrah",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.05851,
+    26.462576,
+    50.0719,
+    26.47392
+],
+  "geometry": {"coordinates":[[[50.061968,26.464354],[50.05851,26.471122],[50.067194,26.47392],[50.071503,26.466133],[50.0719,26.464829],[50.07104,26.462991],[50.070377,26.462932],[50.068523,26.462576],[50.06316,26.463406],[50.062829,26.463702],[50.062101,26.464236],[50.061968,26.464354]]],"type":"Polygon"}
+}

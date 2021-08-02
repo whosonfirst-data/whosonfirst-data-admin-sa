@@ -4,33 +4,34 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000367,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.7075,24.75694,46.7075,24.75694",
-    "geom:latitude":24.75694,
-    "geom:longitude":46.7075,
+    "geom:bbox":"46.694671,24.744157,46.721213,24.768368",
+    "geom:latitude":24.756315,
+    "geom:longitude":46.707939,
     "gn:country":"SA",
     "gn:fcode":"PPLX",
     "gn:latitude":24.75521,
     "gn:longitude":46.70775,
     "gn:population":0,
     "iso:country":"SA",
-    "lbl:bbox":"46.7025,24.75194,46.7125,24.76194",
     "lbl:latitude":24.75694,
     "lbl:longitude":46.7075,
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.756286,
+    "mps:longitude":46.707939,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0632\u0647\u0629"
     ],
     "name:eng_x_preferred":[
-        "An Nuzhah"
+        "Al Nuzha"
     ],
     "name:eng_x_variant":[
-        "Al Nuzha",
         "An Nuzhah"
     ],
     "qs_pg:aaroncc":"SA",
@@ -53,17 +54,21 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424938,
     "qs_pg:woe_id":22726018,
-    "src:geom":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424938,
     "woe:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
     "woe:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,21 +78,24 @@
     },
     "wof:country":"SA",
     "wof:created":1497311936,
-    "wof:geomhash":"d52e9ed1a1397017ad99a704a0a54a74",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"288e1330f09caa6c452fc1b3eb87bbb2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":1126080937,
             "region_id":85676813
         }
     ],
     "wof:id":1126080937,
-    "wof:lastmodified":1566638482,
-    "wof:name":"\u0627\u0644\u0646\u0632\u0647\u0629",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685255,
+    "wof:name":"Al Nuzha",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -97,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.7075,
-    24.75694,
-    46.7075,
-    24.75694
+    46.694671,
+    24.744157,
+    46.721213,
+    24.768368
 ],
-  "geometry": {"coordinates":[46.7075,24.75694],"type":"Point"}
+  "geometry": {"coordinates":[[[46.721213,24.751714],[46.70313,24.744157],[46.694671,24.761071],[46.712819,24.768368],[46.721213,24.751714]]],"type":"Polygon"}
 }

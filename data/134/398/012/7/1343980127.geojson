@@ -26,8 +26,9 @@
     "lbl:bbox":"50.0568,26.52992,50.0968,26.56992",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "D\u0101r\u012bn"
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1343980127,
-    "wof:lastmodified":1566638175,
+    "wof:lastmodified":1627685022,
     "wof:name":"Darin",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

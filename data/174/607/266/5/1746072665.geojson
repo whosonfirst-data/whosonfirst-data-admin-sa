@@ -1,0 +1,71 @@
+{
+  "id": 1746072665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:bbox":"39.581913,24.467082,39.592705,24.480813",
+    "geom:latitude":24.472748,
+    "geom:longitude":39.586768,
+    "iso:country":"SA",
+    "lbl:latitude":24.472494,
+    "lbl:longitude":39.586871,
+    "mps:latitude":24.472494,
+    "mps:longitude":39.586871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0646\u0627\u0628\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Al Anabis"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413284,
+    "wof:geomhash":"1c55a7a1fd898fc7345adc688c9a93b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072665,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072665,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685585,
+    "wof:name":"Al Anabis",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.581913,
+    24.467082,
+    39.592705,
+    24.480813
+],
+  "geometry": {"coordinates":[[[39.592705,24.47732],[39.592294,24.47623],[39.591909,24.47533],[39.59169,24.474431],[39.59169,24.472581],[39.591635,24.467082],[39.582737,24.467132],[39.582517,24.467882],[39.582078,24.469682],[39.581913,24.471881],[39.581913,24.473831],[39.582023,24.475081],[39.582462,24.47693],[39.583396,24.479379],[39.584157,24.480813],[39.585263,24.479579],[39.586252,24.47863],[39.587076,24.47763],[39.587735,24.47718],[39.588834,24.47703],[39.590646,24.47703],[39.592129,24.47728],[39.592705,24.47732]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000626,
+    "geom:bbox":"39.199915,21.655046,39.223019,21.711777",
+    "geom:latitude":21.685401,
+    "geom:longitude":39.21006,
+    "iso:country":"SA",
+    "lbl:latitude":21.679752,
+    "lbl:longitude":39.21216,
+    "mps:latitude":21.679752,
+    "mps:longitude":39.21216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rayaan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413157,
+    "wof:geomhash":"f50cc20c18bdb3cde8029a632d4ea823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072339,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072339,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685423,
+    "wof:name":"Ar Rayaan",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.199915,
+    21.655046,
+    39.223019,
+    21.711777
+],
+  "geometry": {"coordinates":[[[39.223019,21.673694],[39.210915,21.669438],[39.20917,21.659506],[39.206989,21.656262],[39.204154,21.655046],[39.203499,21.664776],[39.204372,21.679571],[39.204154,21.690312],[39.203936,21.697203],[39.202627,21.703079],[39.199915,21.708804],[39.21256,21.711777],[39.215168,21.692846],[39.219093,21.68859],[39.217785,21.686462],[39.223019,21.673694]]],"type":"Polygon"}
+}

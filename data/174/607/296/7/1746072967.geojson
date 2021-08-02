@@ -1,0 +1,71 @@
+{
+  "id": 1746072967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:bbox":"49.962082,26.525917,49.979218,26.543814",
+    "geom:latitude":26.533319,
+    "geom:longitude":49.969152,
+    "iso:country":"SA",
+    "lbl:latitude":26.532951,
+    "lbl:longitude":49.968308,
+    "mps:latitude":26.532951,
+    "mps:longitude":49.968308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062f\u064a\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Badiah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125781573,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413409,
+    "wof:geomhash":"98c53947d8e267e444500f1faf033894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1125781573,
+            "neighbourhood_id":1746072967,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072967,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685726,
+    "wof:name":"Al Badiah",
+    "wof:parent_id":1125781573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.962082,
+    26.525917,
+    49.979218,
+    26.543814
+],
+  "geometry": {"coordinates":[[[49.96741,26.543225],[49.967794,26.540522],[49.974385,26.534528],[49.978449,26.528926],[49.979218,26.526544],[49.975713,26.525917],[49.970806,26.526753],[49.964554,26.528385],[49.96329,26.52981],[49.962522,26.531285],[49.962082,26.533103],[49.962412,26.5361],[49.962961,26.538115],[49.96362,26.543814],[49.96741,26.543225]]],"type":"Polygon"}
+}

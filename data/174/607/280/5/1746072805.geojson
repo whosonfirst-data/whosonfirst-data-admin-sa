@@ -1,0 +1,71 @@
+{
+  "id": 1746072805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:bbox":"50.107722,26.438448,50.118117,26.442302",
+    "geom:latitude":26.440364,
+    "geom:longitude":50.112933,
+    "iso:country":"SA",
+    "lbl:latitude":26.44036,
+    "lbl:longitude":50.112933,
+    "mps:latitude":26.44036,
+    "mps:longitude":50.112933,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0628\u064a\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rabih"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413341,
+    "wof:geomhash":"9468e75afbc7c1903a586f4883338476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072805,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072805,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685241,
+    "wof:name":"Ar Rabih",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.107722,
+    26.438448,
+    50.118117,
+    26.442302
+],
+  "geometry": {"coordinates":[[[50.107788,26.438448],[50.107722,26.442243],[50.118117,26.442302],[50.118091,26.440786],[50.118051,26.438448],[50.107788,26.438448]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001934,
+    "geom:bbox":"46.841488,24.743361,46.906807,24.79634",
+    "geom:latitude":24.769122,
+    "geom:longitude":46.873924,
+    "iso:country":"SA",
+    "lbl:latitude":24.76684,
+    "lbl:longitude":46.870707,
+    "mps:latitude":24.76684,
+    "mps:longitude":46.870707,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0627\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rimayah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413052,
+    "wof:geomhash":"021266070635610af6d31ffbd75fc3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072129,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072129,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685326,
+    "wof:name":"Al Rimayah",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.841488,
+    24.743361,
+    46.906807,
+    24.79634
+],
+  "geometry": {"coordinates":[[[46.861687,24.791546],[46.878487,24.781306],[46.889527,24.79634],[46.906807,24.773897],[46.90516,24.763165],[46.889615,24.763165],[46.889828,24.750601],[46.866829,24.750601],[46.856182,24.743361],[46.841488,24.765002],[46.849688,24.775204],[46.857367,24.785228],[46.859287,24.788278],[46.861687,24.791546]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000528,
+    "geom:bbox":"50.026114,26.397532,50.060576,26.429792",
+    "geom:latitude":26.413304,
+    "geom:longitude":50.043017,
+    "iso:country":"SA",
+    "lbl:latitude":26.413284,
+    "lbl:longitude":50.042756,
+    "mps:latitude":26.413284,
+    "mps:longitude":50.042756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u062d\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Uhud"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413315,
+    "wof:geomhash":"67dfd400a1eea8d830c50aab6011a0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072737,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072737,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685619,
+    "wof:name":"Uhud",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.026114,
+    26.397532,
+    50.060576,
+    26.429792
+],
+  "geometry": {"coordinates":[[[50.026114,26.421609],[50.03247,26.423981],[50.035384,26.425879],[50.039754,26.428962],[50.040548,26.429792],[50.060576,26.406443],[50.042932,26.397532],[50.026114,26.421609]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000147,
+    "geom:bbox":"39.576311,24.450409,39.590481,24.467132",
+    "geom:latitude":24.458539,
+    "geom:longitude":39.581979,
+    "iso:country":"SA",
+    "lbl:latitude":24.457539,
+    "lbl:longitude":39.581844,
+    "mps:latitude":24.457539,
+    "mps:longitude":39.581844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0628\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Wabra"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413256,
+    "wof:geomhash":"d2fa804dc0d48fda3ed6218917fa5af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072591,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072591,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685551,
+    "wof:name":"Al Wabra",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.576311,
+    24.450409,
+    39.590481,
+    24.467132
+],
+  "geometry": {"coordinates":[[[39.582737,24.467132],[39.583561,24.464983],[39.585373,24.461833],[39.588998,24.455984],[39.590481,24.453634],[39.588174,24.452484],[39.587186,24.452234],[39.586142,24.452234],[39.585318,24.452434],[39.583726,24.452484],[39.582737,24.452334],[39.581803,24.451984],[39.580925,24.451534],[39.579112,24.450409],[39.577629,24.453459],[39.576476,24.456309],[39.576311,24.458258],[39.576531,24.460608],[39.57719,24.464208],[39.5773,24.466307],[39.57708,24.467107],[39.582737,24.467132]]],"type":"Polygon"}
+}

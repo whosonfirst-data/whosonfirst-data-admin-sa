@@ -1,0 +1,71 @@
+{
+  "id": 1746072609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:bbox":"39.605475,24.470831,39.614043,24.474231",
+    "geom:latitude":24.47253,
+    "geom:longitude":39.609818,
+    "iso:country":"SA",
+    "lbl:latitude":24.472564,
+    "lbl:longitude":39.609818,
+    "mps:latitude":24.472564,
+    "mps:longitude":39.609818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0636\u0627\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Badaah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413263,
+    "wof:geomhash":"38f577836b7f7675cbe2dca431effae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072609,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072609,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685560,
+    "wof:name":"Badaah",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.605475,
+    24.470831,
+    39.614043,
+    24.474231
+],
+  "geometry": {"coordinates":[[[39.614043,24.473581],[39.613714,24.470831],[39.606199,24.471004],[39.605475,24.473881],[39.606684,24.474131],[39.60888,24.474231],[39.610803,24.474181],[39.611901,24.474031],[39.613164,24.473781],[39.614043,24.473581]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746073153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:bbox":"50.02502,26.519029,50.033868,26.532771",
+    "geom:latitude":26.525997,
+    "geom:longitude":50.029895,
+    "iso:country":"SA",
+    "lbl:latitude":26.526228,
+    "lbl:longitude":50.029963,
+    "mps:latitude":26.526228,
+    "mps:longitude":50.029963,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mahar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1293684527,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413515,
+    "wof:geomhash":"07b865b0e690e48e15a0af382d2f18a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1293684527,
+            "neighbourhood_id":1746073153,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073153,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685815,
+    "wof:name":"Al Mahar",
+    "wof:parent_id":1293684527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.02502,
+    26.519029,
+    50.033868,
+    26.532771
+],
+  "geometry": {"coordinates":[[[50.033868,26.520066],[50.029677,26.519029],[50.028145,26.525051],[50.02502,26.529951],[50.028226,26.531432],[50.028911,26.531829],[50.028876,26.532402],[50.031539,26.532771],[50.03149,26.532217],[50.031087,26.531604],[50.031006,26.530919],[50.031248,26.529548],[50.033868,26.520066]]],"type":"Polygon"}
+}

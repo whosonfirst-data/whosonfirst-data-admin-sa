@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001725,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.8072,24.47904,46.8072,24.47904",
-    "geom:latitude":24.47904,
-    "geom:longitude":46.8072,
+    "geom:bbox":"46.788109,24.455426,46.863686,24.509997",
+    "geom:latitude":24.483514,
+    "geom:longitude":46.822638,
     "gn:admin1_code":"10",
     "gn:asciiname":"Al Ghanamiyah",
     "gn:country_code":"SA",
@@ -23,43 +23,60 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"46.8022,24.47404,46.8122,24.48404",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.486706,
+    "mps:longitude":46.82321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0646\u0627\u0645\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ghannamiyah"
+    ],
+    "name:eng_x_variant":[
+        "Al Ghanamiyah"
+    ],
     "name:und_x_variant":[
         "Al Ghanm\u012byah",
         "Al Ghan\u0101m\u012byah"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1327327469,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":109782
     },
     "wof:country":"SA",
-    "wof:geomhash":"883466ea0534e0fd573950050d64a42c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"17bfb1b7b4bc591c1f2956679e3cf8fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":1327327469,
+            "locality_id":421204501,
             "neighbourhood_id":1361025951,
             "region_id":85676813
         }
     ],
     "wof:id":1361025951,
-    "wof:lastmodified":1566638423,
-    "wof:name":"Al Ghanamiyah",
-    "wof:parent_id":1108720657,
+    "wof:lastmodified":1627685264,
+    "wof:name":"Al Ghannamiyah",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -69,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.8072,
-    24.47904,
-    46.8072,
-    24.47904
+    46.788109,
+    24.455426,
+    46.863686,
+    24.509997
 ],
-  "geometry": {"coordinates":[46.8072,24.47904],"type":"Point"}
+  "geometry": {"coordinates":[[[46.863686,24.485491],[46.86267,24.484554],[46.859688,24.48356],[46.841396,24.479882],[46.830858,24.477893],[46.826881,24.476601],[46.821115,24.474116],[46.808092,24.468548],[46.809171,24.466389],[46.809782,24.465168],[46.81089,24.463834],[46.814653,24.459303],[46.798747,24.455426],[46.796063,24.455823],[46.790794,24.461888],[46.788607,24.465069],[46.788109,24.468151],[46.789104,24.472227],[46.790396,24.47501],[46.794373,24.479683],[46.79944,24.483826],[46.80513,24.488135],[46.833996,24.509997],[46.857511,24.493567],[46.861311,24.490242],[46.863686,24.485491]]],"type":"Polygon"}
 }

@@ -1,0 +1,71 @@
+{
+  "id": 1746072791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000284,
+    "geom:bbox":"50.178035,26.359081,50.205014,26.380034",
+    "geom:latitude":26.369545,
+    "geom:longitude":50.191727,
+    "iso:country":"SA",
+    "lbl:latitude":26.369551,
+    "lbl:longitude":50.191931,
+    "mps:latitude":26.369551,
+    "mps:longitude":50.191931,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u0643\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rakah Ash Shamaliyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413335,
+    "wof:geomhash":"43fcf1d2a52f86426a1b6478628a93c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072791,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072791,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685643,
+    "wof:name":"Ar Rakah Ash Shamaliyah",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.178035,
+    26.359081,
+    50.205014,
+    26.380034
+],
+  "geometry": {"coordinates":[[[50.178035,26.371749],[50.178206,26.373391],[50.18443,26.37434],[50.195024,26.380034],[50.198244,26.374968],[50.205014,26.366591],[50.18825,26.359081],[50.186315,26.363992],[50.178035,26.371749]]],"type":"Polygon"}
+}

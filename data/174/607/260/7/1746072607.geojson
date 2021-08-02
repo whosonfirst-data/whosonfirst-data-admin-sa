@@ -1,0 +1,71 @@
+{
+  "id": 1746072607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:bbox":"39.60229,24.467132,39.607123,24.473881",
+    "geom:latitude":24.469796,
+    "geom:longitude":39.604623,
+    "iso:country":"SA",
+    "lbl:latitude":24.469707,
+    "lbl:longitude":39.604577,
+    "mps:latitude":24.469707,
+    "mps:longitude":39.604577,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0627\u062e\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Manakhah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413262,
+    "wof:geomhash":"f0a1e634384981545b32052148550297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072607,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072607,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685558,
+    "wof:name":"Al Manakhah",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.60229,
+    24.467132,
+    39.607123,
+    24.473881
+],
+  "geometry": {"coordinates":[[[39.605475,24.473881],[39.606199,24.471004],[39.607123,24.467332],[39.604907,24.46724],[39.60229,24.467132],[39.602345,24.468382],[39.602454,24.469232],[39.602619,24.469982],[39.602894,24.470731],[39.603608,24.472281],[39.604102,24.472931],[39.604761,24.473431],[39.605475,24.473881]]],"type":"Polygon"}
+}

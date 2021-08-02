@@ -4,25 +4,24 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00083,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.785675,24.804979,46.785675,24.804979",
-    "geom:latitude":24.804979,
-    "geom:longitude":46.785675,
+    "geom:bbox":"46.757964,24.791009,46.80896,24.824482",
+    "geom:latitude":24.80796,
+    "geom:longitude":46.782832,
     "gn:country":"SA",
     "gn:fcode":"PPLX",
     "gn:latitude":24.805,
     "gn:longitude":46.76528,
     "gn:population":0,
     "iso:country":"SA",
-    "lbl:bbox":"46.780675,24.799979,46.790675,24.809979",
     "lbl:latitude":24.804979,
     "lbl:longitude":46.785675,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.809467,
-    "mps:longitude":46.780765,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":24.808063,
+    "mps:longitude":46.782832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -37,7 +36,6 @@
         "Al Yarmuk"
     ],
     "name:eng_x_variant":[
-        "Al Yarmuk",
         "Al Yarmouk"
     ],
     "name:und_x_variant":[
@@ -88,16 +86,18 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424938,
     "qs_pg:woe_id":22725987,
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,15 +107,16 @@
     },
     "wof:country":"SA",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"a426dafddb38dab1c8fe59dff13eaa6e",
+    "wof:geomhash":"642f5eb4bc57116d07dfea15daddfd7e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":85907415,
             "region_id":85676813
         }
@@ -124,9 +125,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326292,
-    "wof:name":"\u0627\u0644\u064a\u0631\u0645\u0648\u0643",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685881,
+    "wof:name":"Al Yarmuk",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -136,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.785675,
-    24.804979,
-    46.785675,
-    24.804979
+    46.757964,
+    24.791009,
+    46.80896,
+    24.824482
 ],
-  "geometry": {"coordinates":[46.785675,24.804979],"type":"Point"}
+  "geometry": {"coordinates":[[[46.7979,24.824482],[46.80896,24.80911],[46.76637,24.791009],[46.757964,24.807622],[46.793889,24.822789],[46.7979,24.824482]]],"type":"Polygon"}
 }

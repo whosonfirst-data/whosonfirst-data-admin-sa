@@ -1,0 +1,71 @@
+{
+  "id": 1746072863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000278,
+    "geom:bbox":"50.205983,26.279357,50.22247,26.302628",
+    "geom:latitude":26.291001,
+    "geom:longitude":50.214003,
+    "iso:country":"SA",
+    "lbl:latitude":26.290894,
+    "lbl:longitude":50.213846,
+    "mps:latitude":26.290894,
+    "mps:longitude":50.213846,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0628\u0631 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khubar Ash Shamaliyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413366,
+    "wof:geomhash":"674a44acd08e8557c6425030c7714905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072863,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072863,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685678,
+    "wof:name":"Al Khubar Ash Shamaliyah",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.205983,
+    26.279357,
+    50.22247,
+    26.302628
+],
+  "geometry": {"coordinates":[[[50.209757,26.302628],[50.217362,26.301314],[50.22247,26.300431],[50.218166,26.279357],[50.208101,26.280544],[50.205983,26.284997],[50.209757,26.302628]]],"type":"Polygon"}
+}

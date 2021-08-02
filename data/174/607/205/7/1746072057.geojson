@@ -1,0 +1,71 @@
+{
+  "id": 1746072057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000624,
+    "geom:bbox":"46.808754,24.573628,46.856007,24.59835",
+    "geom:latitude":24.586857,
+    "geom:longitude":46.832576,
+    "iso:country":"SA",
+    "lbl:latitude":24.588589,
+    "lbl:longitude":46.82828,
+    "mps:latitude":24.588589,
+    "mps:longitude":46.82828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0641\u0627\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Al Difaa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413013,
+    "wof:geomhash":"897e71d2da09941418037426595f051b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072057,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072057,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685294,
+    "wof:name":"Al Difaa",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.808754,
+    24.573628,
+    46.856007,
+    24.59835
+],
+  "geometry": {"coordinates":[[[46.849552,24.592269],[46.851393,24.590853],[46.856007,24.589007],[46.855238,24.585162],[46.854008,24.582471],[46.85147,24.580702],[46.847472,24.579241],[46.844088,24.579318],[46.841781,24.58001],[46.840166,24.580779],[46.83932,24.581241],[46.837552,24.581779],[46.834399,24.581933],[46.833092,24.581856],[46.832246,24.58101],[46.826479,24.573628],[46.822018,24.57655],[46.818635,24.579395],[46.808754,24.587431],[46.810907,24.588815],[46.813906,24.590199],[46.81629,24.591506],[46.822134,24.593736],[46.822211,24.594275],[46.82198,24.59489],[46.821134,24.596505],[46.821211,24.59835],[46.847938,24.59305],[46.848625,24.592448],[46.849552,24.592269]]],"type":"Polygon"}
+}

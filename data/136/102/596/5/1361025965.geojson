@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.002347,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.78148,24.51497,46.78148,24.51497",
-    "geom:latitude":24.51497,
-    "geom:longitude":46.78148,
+    "geom:bbox":"46.769246,24.483826,46.833996,24.555259",
+    "geom:latitude":24.519444,
+    "geom:longitude":46.798273,
     "gn:admin1_code":"10",
     "gn:asciiname":"Al Mansuriyah",
     "gn:country_code":"SA",
@@ -23,43 +23,60 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"46.77648,24.50997,46.78648,24.51997",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.517451,
+    "mps:longitude":46.797783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Mansuriyah"
+    ],
+    "name:eng_x_variant":[
+        "Al Mansuriyah"
+    ],
     "name:und_x_variant":[
         "Al Mansouriyah",
         "Al Man\u015f\u016br\u012byah"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1243352469,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":109178
     },
     "wof:country":"SA",
-    "wof:geomhash":"ca41d29465c6bebc5d3501acb0b97732",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"50056c7277cf7a51bcd43796ef3cadca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":1243352469,
+            "locality_id":421204501,
             "neighbourhood_id":1361025965,
             "region_id":85676813
         }
     ],
     "wof:id":1361025965,
-    "wof:lastmodified":1566638432,
-    "wof:name":"Al Mansuriyah",
-    "wof:parent_id":1108720657,
+    "wof:lastmodified":1627685266,
+    "wof:name":"Mansuriyah",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -69,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.78148,
-    24.51497,
-    46.78148,
-    24.51497
+    46.769246,
+    24.483826,
+    46.833996,
+    24.555259
 ],
-  "geometry": {"coordinates":[46.78148,24.51497],"type":"Point"}
+  "geometry": {"coordinates":[[[46.79944,24.483826],[46.792502,24.49265],[46.785592,24.501378],[46.784389,24.502741],[46.782795,24.504548],[46.781501,24.506015],[46.778773,24.508288],[46.7775,24.510015],[46.776591,24.512833],[46.775409,24.517561],[46.774773,24.521016],[46.774682,24.525653],[46.774046,24.530926],[46.773591,24.53429],[46.772318,24.537017],[46.769246,24.542537],[46.795846,24.555259],[46.807268,24.535519],[46.833996,24.509997],[46.80513,24.488135],[46.79944,24.483826]]],"type":"Polygon"}
 }

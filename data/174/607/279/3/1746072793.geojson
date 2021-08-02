@@ -1,0 +1,71 @@
+{
+  "id": 1746072793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000534,
+    "geom:bbox":"50.174697,26.402692,50.210898,26.446986",
+    "geom:latitude":26.423776,
+    "geom:longitude":50.192524,
+    "iso:country":"SA",
+    "lbl:latitude":26.432241,
+    "lbl:longitude":50.199792,
+    "mps:latitude":26.432241,
+    "mps:longitude":50.199792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0648\u0631\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "An Nawras"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413337,
+    "wof:geomhash":"cc4d43fa5a44d83cc0b25644fc286fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072793,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072793,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685644,
+    "wof:name":"An Nawras",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.174697,
+    26.402692,
+    50.210898,
+    26.446986
+],
+  "geometry": {"coordinates":[[[50.174697,26.412358],[50.177014,26.419356],[50.178338,26.419119],[50.181119,26.418882],[50.183636,26.417103],[50.1986,26.446986],[50.201602,26.443564],[50.210898,26.430015],[50.186792,26.416507],[50.195857,26.410072],[50.180987,26.402692],[50.177743,26.40797],[50.176551,26.410105],[50.174697,26.412358]]],"type":"Polygon"}
+}

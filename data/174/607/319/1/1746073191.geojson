@@ -1,0 +1,71 @@
+{
+  "id": 1746073191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00029,
+    "geom:bbox":"39.548047,24.408279,39.577863,24.428884",
+    "geom:latitude":24.417106,
+    "geom:longitude":39.565606,
+    "iso:country":"SA",
+    "lbl:latitude":24.417073,
+    "lbl:longitude":39.565834,
+    "mps:latitude":24.417073,
+    "mps:longitude":39.565834,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u0628\u0631\u064a\u0642\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Abu Burayqa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413535,
+    "wof:geomhash":"48ec805ef0531a83d45019c78fd67224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746073191,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746073191,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685833,
+    "wof:name":"Abu Burayqa",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.548047,
+    24.408279,
+    39.577863,
+    24.428884
+],
+  "geometry": {"coordinates":[[[39.576325,24.422032],[39.576709,24.420182],[39.577863,24.419832],[39.576458,24.413924],[39.575116,24.408279],[39.571382,24.41183],[39.563637,24.41153],[39.560452,24.41253],[39.557047,24.41178],[39.553916,24.41233],[39.553587,24.409379],[39.553202,24.409179],[39.548099,24.41191],[39.548047,24.411938],[39.548575,24.41293],[39.549399,24.414581],[39.550717,24.416131],[39.552419,24.417481],[39.553628,24.418331],[39.555935,24.419182],[39.558516,24.419832],[39.561152,24.420582],[39.56291,24.421132],[39.565271,24.422182],[39.566645,24.423032],[39.568018,24.424083],[39.572357,24.427233],[39.574623,24.428884],[39.576325,24.422032]]],"type":"Polygon"}
+}

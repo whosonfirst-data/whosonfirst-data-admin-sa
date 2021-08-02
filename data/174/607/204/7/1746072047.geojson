@@ -1,0 +1,71 @@
+{
+  "id": 1746072047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003001,
+    "geom:bbox":"46.850172,24.502534,46.946893,24.585534",
+    "geom:latitude":24.543625,
+    "geom:longitude":46.900452,
+    "iso:country":"SA",
+    "lbl:latitude":24.544097,
+    "lbl:longitude":46.900452,
+    "mps:latitude":24.544097,
+    "mps:longitude":46.900452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "2nd Industrial City"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413005,
+    "wof:geomhash":"4a5f846db7219a611ac301978cf02fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072047,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072047,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685219,
+    "wof:name":"2nd Industrial City",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.850172,
+    24.502534,
+    46.946893,
+    24.585534
+],
+  "geometry": {"coordinates":[[[46.870354,24.585534],[46.874391,24.582874],[46.876873,24.579739],[46.879747,24.57582],[46.883405,24.573207],[46.891765,24.56759],[46.923901,24.546819],[46.927559,24.544729],[46.932131,24.54081],[46.936834,24.535846],[46.940753,24.530751],[46.945195,24.525003],[46.946893,24.519255],[46.94624,24.514814],[46.944411,24.511417],[46.940884,24.507629],[46.935528,24.502534],[46.923379,24.511548],[46.865255,24.548739],[46.850172,24.558364],[46.868312,24.581843],[46.870354,24.585534]]],"type":"Polygon"}
+}

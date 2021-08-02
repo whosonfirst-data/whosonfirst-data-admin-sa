@@ -1,0 +1,71 @@
+{
+  "id": 1746072683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:bbox":"39.607288,24.463033,39.617394,24.465532",
+    "geom:latitude":24.464262,
+    "geom:longitude":39.611964,
+    "iso:country":"SA",
+    "lbl:latitude":24.464259,
+    "lbl:longitude":39.611964,
+    "mps:latitude":24.464259,
+    "mps:longitude":39.611964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u062e\u062f\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Khidrah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413290,
+    "wof:geomhash":"470ead5416b0303eb59ce59abc02d2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072683,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072683,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685593,
+    "wof:name":"Bani Khidrah",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.607288,
+    24.463033,
+    39.617394,
+    24.465532
+],
+  "geometry": {"coordinates":[[[39.607288,24.463983],[39.607343,24.464433],[39.607507,24.464883],[39.607727,24.465233],[39.608166,24.465482],[39.60943,24.465532],[39.614153,24.465332],[39.614977,24.465332],[39.615691,24.465382],[39.616185,24.465183],[39.61646,24.464933],[39.616899,24.464633],[39.617394,24.464291],[39.616954,24.463983],[39.616185,24.463483],[39.615361,24.463133],[39.614373,24.463033],[39.610308,24.463133],[39.609323,24.463133],[39.608771,24.463133],[39.607617,24.463183],[39.607288,24.463183],[39.607288,24.463983]]],"type":"Polygon"}
+}

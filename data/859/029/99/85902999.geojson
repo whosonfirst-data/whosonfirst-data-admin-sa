@@ -4,24 +4,23 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000281,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.200266,26.293257,50.200266,26.293257",
-    "geom:latitude":26.293257,
-    "geom:longitude":50.200266,
+    "geom:bbox":"50.183536,26.283988,50.201745,26.306783",
+    "geom:latitude":26.296533,
+    "geom:longitude":50.19269,
     "gn:country":"SA",
     "gn:fcode":"PPLX",
     "gn:latitude":26.29667,
     "gn:longitude":50.19861,
     "gn:population":0,
     "iso:country":"SA",
-    "lbl:bbox":"50.195266,26.288257,50.205266,26.298257",
-    "lbl:latitude":26.293257,
-    "lbl:longitude":50.200266,
+    "lbl:latitude":26.296954,
+    "lbl:longitude":50.192864,
     "lbl:max_zoom":18.0,
-    "mps:latitude":26.288809,
-    "mps:longitude":50.196589,
-    "mz:hierarchy_label":0,
+    "mps:latitude":26.296954,
+    "mps:longitude":50.192864,
+    "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
@@ -34,17 +33,17 @@
         "\u0627\u0644\u0639\u0642\u0631\u0628\u064a\u0629"
     ],
     "name:eng_x_colloquial":[
-        "Al Aqrabiyah",
         "Al Aqrabiya"
     ],
     "name:eng_x_preferred":[
-        "Al \u2018Aqrab\u012byah"
+        "Al Aqrabiyah"
     ],
     "name:eng_x_variant":[
         "Al \u2018Aqrabiyah",
         "Al Agrabiyak",
         "Al \u2018Aqrabiya",
-        "Al \u2018Aqrab\u012bya"
+        "Al \u2018Aqrab\u012bya",
+        "Al \u2018Aqrab\u012byah"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0639\u0642\u0631\u0628\u06cc\u0647"
@@ -94,19 +93,21 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424938,
     "qs_pg:woe_id":1937452,
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":34.538056,
     "wd:longitude":36.473333,
     "wd:wordcount":237,
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1108720599
+        1125927181,
+        1108720599,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,15 +117,16 @@
     },
     "wof:country":"SA",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"e5577f14db35e7640f0305edf86e6299",
+    "wof:geomhash":"e5bf28a7ebf66883ff68b44800fa8618",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720599,
-            "locality_id":-1,
+            "locality_id":1125927181,
             "neighbourhood_id":85902999,
             "region_id":85676819
         }
@@ -133,9 +135,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582326293,
-    "wof:name":"Al \u2018Aqrab\u012byah",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685868,
+    "wof:name":"Al Aqrabiyah",
+    "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -145,10 +147,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.200266,
-    26.293257,
-    50.200266,
-    26.293257
+    50.183536,
+    26.283988,
+    50.201745,
+    26.306783
 ],
-  "geometry": {"coordinates":[50.200266,26.293257],"type":"Point"}
+  "geometry": {"coordinates":[[[50.189358,26.286407],[50.183536,26.300016],[50.184861,26.306783],[50.189869,26.30592],[50.201745,26.303874],[50.19764,26.283988],[50.189358,26.286407]]],"type":"Polygon"}
 }

@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001217,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.207791,21.585084,39.207791,21.585084",
-    "geom:latitude":21.585084,
-    "geom:longitude":39.207791,
+    "geom:bbox":"39.192265,21.562368,39.231334,21.608113",
+    "geom:latitude":21.584781,
+    "geom:longitude":39.212554,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"39.202791,21.580084,39.212791,21.590084",
     "lbl:latitude":21.585084,
     "lbl:longitude":39.207791,
     "lbl:max_zoom":18.0,
-    "mps:latitude":21.585522,
-    "mps:longitude":39.212006,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":21.58502,
+    "mps:longitude":39.212926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,7 +29,7 @@
         "\u0627\u0644\u0635\u0641\u0627"
     ],
     "name:eng_x_preferred":[
-        "Al Safa"
+        "As Safa"
     ],
     "name:eng_x_variant":[
         "Al Safa"
@@ -57,17 +56,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939873,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720715
+        421200923,
+        1108720715,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,15 +78,16 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "mz"
     ],
-    "wof:geomhash":"40009c21c2742e49ae0a5a743351564f",
+    "wof:geomhash":"55a4cf9669020503715a6e7c0b60b532",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720715,
-            "locality_id":-1,
+            "locality_id":421200923,
             "neighbourhood_id":85907535,
             "region_id":85676857
         }
@@ -94,9 +96,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326293,
-    "wof:name":"\u0627\u0644\u0635\u0641\u0627",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685909,
+    "wof:name":"As Safa",
+    "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -104,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.207791,
-    21.585084,
-    39.207791,
-    21.585084
+    39.192265,
+    21.562368,
+    39.231334,
+    21.608113
 ],
-  "geometry": {"coordinates":[39.207791,21.585084],"type":"Point"}
+  "geometry": {"coordinates":[[[39.192265,21.599783],[39.221274,21.608113],[39.225636,21.596554],[39.227272,21.590065],[39.228035,21.5854],[39.231334,21.567578],[39.211996,21.56416],[39.202212,21.562368],[39.199691,21.572983],[39.199098,21.578497],[39.198505,21.580152],[39.192265,21.599783]]],"type":"Polygon"}
 }

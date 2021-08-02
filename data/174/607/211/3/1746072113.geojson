@@ -1,0 +1,71 @@
+{
+  "id": 1746072113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000659,
+    "geom:bbox":"46.826479,24.558364,46.870354,24.592269",
+    "geom:latitude":24.575386,
+    "geom:longitude":46.849601,
+    "iso:country":"SA",
+    "lbl:latitude":24.57137,
+    "lbl:longitude":46.849601,
+    "mps:latitude":24.57137,
+    "mps:longitude":46.849601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0633\u0643\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Iskan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413043,
+    "wof:geomhash":"6d3c5eab718cc2ae4a9f717c1f3a519c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072113,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072113,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685320,
+    "wof:name":"Al Iskan",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.826479,
+    24.558364,
+    46.870354,
+    24.592269
+],
+  "geometry": {"coordinates":[[[46.869804,24.588834],[46.870354,24.585534],[46.868312,24.581843],[46.850172,24.558364],[46.826479,24.573628],[46.832246,24.58101],[46.833092,24.581856],[46.834399,24.581933],[46.837552,24.581779],[46.83932,24.581241],[46.840166,24.580779],[46.841781,24.58001],[46.844088,24.579318],[46.847472,24.579241],[46.85147,24.580702],[46.854008,24.582471],[46.855238,24.585162],[46.856007,24.589007],[46.851393,24.590853],[46.849552,24.592269],[46.868465,24.588604],[46.869804,24.588834]]],"type":"Polygon"}
+}

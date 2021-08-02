@@ -1,0 +1,71 @@
+{
+  "id": 1746073065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:bbox":"50.126957,26.34871,50.136829,26.360725",
+    "geom:latitude":26.35437,
+    "geom:longitude":50.130827,
+    "iso:country":"SA",
+    "lbl:latitude":26.354229,
+    "lbl:longitude":50.131163,
+    "mps:latitude":26.354229,
+    "mps:longitude":50.131163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u062a\u0647\u0627\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Tihamah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190321,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413468,
+    "wof:geomhash":"5f08f2bb47d839b10db4e67b3f2056f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":421190321,
+            "neighbourhood_id":1746073065,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073065,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685772,
+    "wof:name":"Tihamah",
+    "wof:parent_id":421190321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.126957,
+    26.34871,
+    50.136829,
+    26.360725
+],
+  "geometry": {"coordinates":[[[50.136829,26.353448],[50.13477,26.352033],[50.131857,26.350371],[50.126957,26.34871],[50.128016,26.359627],[50.129713,26.360725],[50.131994,26.358359],[50.136829,26.353448]]],"type":"Polygon"}
+}

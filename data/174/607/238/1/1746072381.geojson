@@ -1,0 +1,71 @@
+{
+  "id": 1746072381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001011,
+    "geom:bbox":"39.232237,21.244621,39.26235,21.286327",
+    "geom:latitude":21.268828,
+    "geom:longitude":39.246199,
+    "iso:country":"SA",
+    "lbl:latitude":21.269137,
+    "lbl:longitude":39.247418,
+    "mps:latitude":21.269137,
+    "mps:longitude":39.247418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Masarah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413175,
+    "wof:geomhash":"3e221dccb787b3e975537297a3054630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072381,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072381,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685446,
+    "wof:name":"Al Masarah",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.232237,
+    21.244621,
+    39.26235,
+    21.286327
+],
+  "geometry": {"coordinates":[[[39.26204,21.286327],[39.26235,21.259828],[39.232458,21.244621],[39.232237,21.285748],[39.26204,21.286327]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000968,
+    "geom:bbox":"46.663536,24.668123,46.703429,24.716421",
+    "geom:latitude":24.693101,
+    "geom:longitude":46.684511,
+    "iso:country":"SA",
+    "lbl:latitude":24.692844,
+    "lbl:longitude":46.684209,
+    "mps:latitude":24.692844,
+    "mps:longitude":46.684209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Al Olaya"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413042,
+    "wof:geomhash":"a20e2e62ccee7c799e155b245d869a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072109,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072109,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685318,
+    "wof:name":"Al Olaya",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.663536,
+    24.668123,
+    46.703429,
+    24.716421
+],
+  "geometry": {"coordinates":[[[46.703429,24.675363],[46.69587,24.668123],[46.695018,24.668549],[46.693634,24.670252],[46.692356,24.67153],[46.688842,24.67877],[46.681921,24.676215],[46.678195,24.675363],[46.678088,24.676641],[46.678088,24.677812],[46.678088,24.678664],[46.678088,24.679409],[46.677662,24.680474],[46.663536,24.708434],[46.67178,24.711884],[46.682106,24.716421],[46.687245,24.706241],[46.690333,24.707519],[46.691291,24.706028],[46.69193,24.701769],[46.69374,24.698255],[46.696189,24.693464],[46.700342,24.695061],[46.703429,24.696871],[46.699064,24.685372],[46.703429,24.675363]]],"type":"Polygon"}
+}

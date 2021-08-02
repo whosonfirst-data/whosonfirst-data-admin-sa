@@ -1,0 +1,71 @@
+{
+  "id": 1746073057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000327,
+    "geom:bbox":"50.136829,26.336012,50.165308,26.362166",
+    "geom:latitude":26.348895,
+    "geom:longitude":50.150625,
+    "iso:country":"SA",
+    "lbl:latitude":26.348664,
+    "lbl:longitude":50.150409,
+    "mps:latitude":26.348664,
+    "mps:longitude":50.150409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qusur"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190321,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413453,
+    "wof:geomhash":"ec60381d5c320f62d8cfbb5f10115c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":421190321,
+            "neighbourhood_id":1746073057,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073057,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685768,
+    "wof:name":"Al Qusur",
+    "wof:parent_id":421190321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.136829,
+    26.336012,
+    50.165308,
+    26.362166
+],
+  "geometry": {"coordinates":[[[50.165308,26.344611],[50.153575,26.336012],[50.151588,26.338741],[50.146953,26.343251],[50.14511,26.345107],[50.136829,26.353448],[50.142149,26.358648],[50.14492,26.362166],[50.165308,26.344611]]],"type":"Polygon"}
+}

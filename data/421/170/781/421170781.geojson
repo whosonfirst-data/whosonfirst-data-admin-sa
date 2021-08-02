@@ -4,23 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000188,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.725,24.62944,46.725,24.62944",
-    "geom:latitude":24.62944,
-    "geom:longitude":46.725,
+    "geom:bbox":"46.717324,24.61752,46.735452,24.635679",
+    "geom:latitude":24.626575,
+    "geom:longitude":46.727396,
     "iso:country":"SA",
-    "lbl:bbox":"46.72,24.62444,46.73,24.63444",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.626436,
+    "mps:longitude":46.728014,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "Al \u2018\u016ad"
+        "\u0627\u0644\u0639\u0648\u062f"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0639\u0648\u062f"
+        "Al \u2018\u016ad"
+    ],
+    "name:eng_x_preferred":[
+        "Al Oud"
     ],
     "qs:gn_country":"SA",
     "qs:gn_fcode":"PPLX",
@@ -40,12 +45,16 @@
     "qs:qs_id":1197278,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22725925,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,21 +64,24 @@
     },
     "wof:country":"SA",
     "wof:created":1459008868,
-    "wof:geomhash":"766f6a360f24f4a7356fbac1cc88a1f2",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"f2adb88a6fc565363dee5a6a3d4f8c1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":421170781,
             "region_id":85676813
         }
     ],
     "wof:id":421170781,
-    "wof:lastmodified":1566638471,
-    "wof:name":"\u0627\u0644\u0639\u0648\u062f",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685842,
+    "wof:name":"Al Oud",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -77,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.725,
-    24.62944,
-    46.725,
-    24.62944
+    46.717324,
+    24.61752,
+    46.735452,
+    24.635679
 ],
-  "geometry": {"coordinates":[46.725,24.62944],"type":"Point"}
+  "geometry": {"coordinates":[[[46.733722,24.629073],[46.73444,24.627662],[46.73484,24.626943],[46.734919,24.626225],[46.735053,24.622818],[46.735452,24.621087],[46.725417,24.61752],[46.723899,24.620901],[46.722382,24.624228],[46.721796,24.624841],[46.721184,24.625266],[46.720572,24.625613],[46.719321,24.627183],[46.717324,24.629951],[46.728875,24.635679],[46.730527,24.632933],[46.73098,24.632374],[46.731512,24.631735],[46.732045,24.631336],[46.732311,24.631149],[46.73263,24.63083],[46.732923,24.63051],[46.733349,24.629978],[46.733722,24.629073]]],"type":"Polygon"}
 }

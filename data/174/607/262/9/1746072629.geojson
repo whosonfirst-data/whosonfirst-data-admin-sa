@@ -1,0 +1,71 @@
+{
+  "id": 1746072629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000302,
+    "geom:bbox":"39.615911,24.480729,39.64177,24.500172",
+    "geom:latitude":24.492052,
+    "geom:longitude":39.627186,
+    "iso:country":"SA",
+    "lbl:latitude":24.492409,
+    "lbl:longitude":39.627432,
+    "mps:latitude":24.492409,
+    "mps:longitude":39.627432,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u062d\u0627\u0631\u062b\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Harithah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413271,
+    "wof:geomhash":"ad4a2d4eddea38e3299576a5daefd498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072629,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072629,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685569,
+    "wof:name":"Bani Harithah",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.615911,
+    24.480729,
+    39.64177,
+    24.500172
+],
+  "geometry": {"coordinates":[[[39.64177,24.493818],[39.638539,24.491176],[39.635903,24.488427],[39.632168,24.484078],[39.628818,24.480729],[39.627884,24.482179],[39.62739,24.483728],[39.62695,24.484528],[39.626456,24.485028],[39.625632,24.485428],[39.625577,24.485078],[39.624863,24.485028],[39.624808,24.485228],[39.623765,24.485128],[39.62382,24.486177],[39.620799,24.486077],[39.62014,24.486277],[39.61992,24.485478],[39.618767,24.485927],[39.615911,24.485628],[39.616789,24.492375],[39.617009,24.493625],[39.616899,24.494474],[39.616789,24.495574],[39.61613,24.498023],[39.618162,24.498972],[39.620854,24.499822],[39.62382,24.500172],[39.626071,24.499972],[39.62686,24.49984],[39.628763,24.499522],[39.633266,24.497973],[39.636672,24.496873],[39.639637,24.495574],[39.64177,24.493818]]],"type":"Polygon"}
+}

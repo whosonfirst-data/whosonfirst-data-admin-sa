@@ -1,0 +1,71 @@
+{
+  "id": 1746073009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:bbox":"49.998488,26.553521,50.001716,26.555894",
+    "geom:latitude":26.554601,
+    "geom:longitude":50.000069,
+    "iso:country":"SA",
+    "lbl:latitude":26.554526,
+    "lbl:longitude":50.000069,
+    "mps:latitude":26.554526,
+    "mps:longitude":50.000069,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u064a\u062c"
+    ],
+    "name:eng_x_preferred":[
+        "Ad Daweej"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125781573,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413427,
+    "wof:geomhash":"de6435088a64d078a63b7c0ebeac206f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1125781573,
+            "neighbourhood_id":1746073009,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073009,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685245,
+    "wof:name":"Ad Daweej",
+    "wof:parent_id":1125781573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.998488,
+    26.553521,
+    50.001716,
+    26.555894
+],
+  "geometry": {"coordinates":[[[49.998488,26.555894],[50.000014,26.555489],[50.001621,26.555456],[50.001661,26.555145],[50.001716,26.554556],[50.001661,26.553991],[50.001222,26.553598],[50.001172,26.553521],[49.998697,26.553618],[49.998488,26.555894]]],"type":"Polygon"}
+}

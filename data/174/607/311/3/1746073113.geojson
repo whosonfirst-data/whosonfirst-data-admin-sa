@@ -1,0 +1,71 @@
+{
+  "id": 1746073113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000172,
+    "geom:bbox":"50.051669,26.556595,50.071606,26.576195",
+    "geom:latitude":26.565376,
+    "geom:longitude":50.058818,
+    "iso:country":"SA",
+    "lbl:latitude":26.564326,
+    "lbl:longitude":50.057837,
+    "mps:latitude":26.564326,
+    "mps:longitude":50.057837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0627\u062e"
+    ],
+    "name:eng_x_preferred":[
+        "Al Manakh"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125781573,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413498,
+    "wof:geomhash":"fade4e9b5416169d35d1024ad7e0ddeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1125781573,
+            "neighbourhood_id":1746073113,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073113,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685794,
+    "wof:name":"Al Manakh",
+    "wof:parent_id":1125781573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.051669,
+    26.556595,
+    50.071606,
+    26.576195
+],
+  "geometry": {"coordinates":[[[50.05403,26.558461],[50.052368,26.569524],[50.051669,26.574181],[50.052683,26.574228],[50.053811,26.574279],[50.055953,26.575507],[50.05826,26.576195],[50.058699,26.575213],[50.059248,26.573002],[50.060566,26.569809],[50.061939,26.566272],[50.062873,26.56642],[50.064741,26.563767],[50.066883,26.55964],[50.069299,26.558363],[50.071057,26.558609],[50.071606,26.557135],[50.070617,26.556889],[50.069876,26.556693],[50.069025,26.556595],[50.067871,26.556619],[50.066635,26.556816],[50.065921,26.557061],[50.06518,26.557381],[50.064384,26.557921],[50.063642,26.558461],[50.062818,26.55883],[50.06172,26.559125],[50.060759,26.559198],[50.05966,26.559149],[50.05403,26.558461]]],"type":"Polygon"}
+}

@@ -4,16 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000339,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.69194,24.73306,46.69194,24.73306",
-    "geom:latitude":24.73306,
-    "geom:longitude":46.69194,
+    "geom:bbox":"46.685388,24.721273,46.709898,24.744157",
+    "geom:latitude":24.73249,
+    "geom:longitude":46.698274,
     "iso:country":"SA",
-    "lbl:bbox":"46.68694,24.72806,46.69694,24.73806",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.732516,
+    "mps:longitude":46.698274,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -43,10 +45,14 @@
     "qs:qs_id":1103323,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22725969,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
         102191569,
         85632253,
+        421204501,
         1108720657,
         85676813
     ],
@@ -58,21 +64,24 @@
     },
     "wof:country":"SA",
     "wof:created":1459009570,
-    "wof:geomhash":"9d9a5f8aaec2b10e7ed2ad48109ea70d",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"161ffeb567fe5628b1e685446e92fd5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":421188589,
             "region_id":85676813
         }
     ],
     "wof:id":421188589,
-    "wof:lastmodified":1601423092,
+    "wof:lastmodified":1627685861,
     "wof:name":"Salahuddin",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -80,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.69194,
-    24.73306,
-    46.69194,
-    24.73306
+    46.685388,
+    24.721273,
+    46.709898,
+    24.744157
 ],
-  "geometry": {"coordinates":[46.69194,24.73306],"type":"Point"}
+  "geometry": {"coordinates":[[[46.685388,24.736572],[46.70313,24.744157],[46.708833,24.732753],[46.709578,24.731263],[46.709898,24.727004],[46.707768,24.726365],[46.703296,24.724768],[46.698824,24.723064],[46.695737,24.722425],[46.693144,24.721273],[46.685388,24.736572]]],"type":"Polygon"}
 }

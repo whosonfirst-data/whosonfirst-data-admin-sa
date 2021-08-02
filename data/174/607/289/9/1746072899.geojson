@@ -1,0 +1,71 @@
+{
+  "id": 1746072899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000167,
+    "geom:bbox":"50.178035,26.348501,50.190943,26.371749",
+    "geom:latitude":26.358777,
+    "geom:longitude":50.18284,
+    "iso:country":"SA",
+    "lbl:latitude":26.358396,
+    "lbl:longitude":50.18328,
+    "mps:latitude":26.358396,
+    "mps:longitude":50.18328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Sports City"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413382,
+    "wof:geomhash":"bf977a957ea12f86e08ccfb9f3e5e759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072899,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072899,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685242,
+    "wof:name":"Sports City",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.178035,
+    26.348501,
+    50.190943,
+    26.371749
+],
+  "geometry": {"coordinates":[[[50.190943,26.353898],[50.178614,26.348501],[50.178365,26.358489],[50.178035,26.371749],[50.186315,26.363992],[50.18825,26.359081],[50.190943,26.353898]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000481,
+    "geom:bbox":"46.643862,24.6253,46.676864,24.650531",
+    "geom:latitude":24.63988,
+    "geom:longitude":46.661671,
+    "iso:country":"SA",
+    "lbl:latitude":24.640458,
+    "lbl:longitude":46.662796,
+    "mps:latitude":24.640458,
+    "mps:longitude":46.662796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u064a\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rafeah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627412997,
+    "wof:geomhash":"cb5c13e31b54d3049195d62be1884e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072033,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072033,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685283,
+    "wof:name":"Al Rafeah",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.643862,
+    24.6253,
+    46.676864,
+    24.650531
+],
+  "geometry": {"coordinates":[[[46.676757,24.625466],[46.671759,24.6253],[46.670647,24.626816],[46.669737,24.627877],[46.668474,24.629292],[46.66721,24.630101],[46.665391,24.630808],[46.662965,24.631566],[46.659731,24.632729],[46.658114,24.633436],[46.653313,24.634851],[46.651847,24.635609],[46.651424,24.636123],[46.65114,24.636469],[46.650432,24.637328],[46.649674,24.637884],[46.643862,24.641168],[46.645075,24.644403],[46.646136,24.649659],[46.666323,24.64921],[46.6676,24.649317],[46.668878,24.649955],[46.669925,24.650531],[46.672392,24.642822],[46.675054,24.633771],[46.676757,24.629086],[46.676864,24.628022],[46.676757,24.626211],[46.676757,24.625466]]],"type":"Polygon"}
+}

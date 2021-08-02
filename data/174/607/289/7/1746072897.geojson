@@ -1,0 +1,71 @@
+{
+  "id": 1746072897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000353,
+    "geom:bbox":"50.169962,26.19508,50.197507,26.217893",
+    "geom:latitude":26.208484,
+    "geom:longitude":50.186926,
+    "iso:country":"SA",
+    "lbl:latitude":26.20876,
+    "lbl:longitude":50.188282,
+    "mps:latitude":26.20876,
+    "mps:longitude":50.188282,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0632\u0627\u0645\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khuzama"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413382,
+    "wof:geomhash":"0a2c0850f8da609f87c9af0a5fe09bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072897,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072897,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685695,
+    "wof:name":"Al Khuzama",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.169962,
+    26.19508,
+    50.197507,
+    26.217893
+],
+  "geometry": {"coordinates":[[[50.169962,26.212309],[50.170492,26.214091],[50.172154,26.214162],[50.173273,26.21421],[50.177776,26.214566],[50.180689,26.21516],[50.183602,26.215992],[50.18784,26.216942],[50.193005,26.217536],[50.196315,26.217893],[50.197375,26.210289],[50.197507,26.207675],[50.19711,26.205774],[50.19658,26.203279],[50.196051,26.201615],[50.192078,26.19508],[50.172611,26.21017],[50.169962,26.212309]]],"type":"Polygon"}
+}

@@ -4,20 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000713,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.627593,24.783038,46.627593,24.783038",
-    "geom:latitude":24.783038,
-    "geom:longitude":46.627593,
+    "geom:bbox":"46.612832,24.753208,46.647184,24.793684",
+    "geom:latitude":24.773456,
+    "geom:longitude":46.630005,
     "iso:country":"SA",
-    "lbl:bbox":"46.622593,24.778038,46.632593,24.788038",
     "lbl:latitude":24.783038,
     "lbl:longitude":46.627593,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.788455,
-    "mps:longitude":46.626549,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":24.773449,
+    "mps:longitude":46.630005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -29,10 +28,11 @@
         "\u0627\u0644\u0639\u0642\u064a\u0642"
     ],
     "name:eng_x_preferred":[
-        "Al 'aqiq"
+        "Al Aqeeq"
     ],
     "name:eng_x_variant":[
-        "Al Akeek"
+        "Al Akeek",
+        "Al 'aqiq"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -58,16 +58,18 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939753,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,15 +77,16 @@
     },
     "wof:country":"SA",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"7eeda839bddebd8cb72894c4f464fbe4",
+    "wof:geomhash":"2e1461e15ddf3d0f406b97ba440b158e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":85907433,
             "region_id":85676813
         }
@@ -92,9 +95,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326292,
-    "wof:name":"\u0627\u0644\u0639\u0642\u064a\u0642",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685889,
+    "wof:name":"Al Aqeeq",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -102,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.627593,
-    24.783038,
-    46.627593,
-    24.783038
+    46.612832,
+    24.753208,
+    46.647184,
+    24.793684
 ],
-  "geometry": {"coordinates":[46.627593,24.783038],"type":"Point"}
+  "geometry": {"coordinates":[[[46.63072,24.793684],[46.640661,24.77385],[46.647184,24.760836],[46.629281,24.753208],[46.612832,24.786124],[46.63072,24.793684]]],"type":"Polygon"}
 }

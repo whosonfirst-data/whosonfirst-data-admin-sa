@@ -12,8 +12,9 @@
     "iso:country":"SA",
     "lbl:bbox":"50.197092,26.286528,50.207092,26.296528",
     "lbl:max_zoom":18.0,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -44,6 +45,7 @@
     "wof:belongsto":[
         102191569,
         85632253,
+        1125927181,
         1108720599,
         85676819
     ],
@@ -60,15 +62,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720599,
-            "locality_id":-1,
+            "locality_id":1125927181,
             "neighbourhood_id":421172713,
             "region_id":85676819
         }
     ],
     "wof:id":421172713,
-    "wof:lastmodified":1601423084,
+    "wof:lastmodified":1627685063,
     "wof:name":"Al Khobar West 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

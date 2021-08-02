@@ -1,0 +1,71 @@
+{
+  "id": 1746072917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000469,
+    "geom:bbox":"50.100599,26.139444,50.132665,26.159491",
+    "geom:latitude":26.14831,
+    "geom:longitude":50.118062,
+    "iso:country":"SA",
+    "lbl:latitude":26.149023,
+    "lbl:longitude":50.118062,
+    "mps:latitude":26.149023,
+    "mps:longitude":50.118062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u062b\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kawthar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413391,
+    "wof:geomhash":"95cb1a1e9df2ac3e8a31d98c23f28aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072917,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072917,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685704,
+    "wof:name":"Al Kawthar",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.100599,
+    26.139444,
+    50.132665,
+    26.159491
+],
+  "geometry": {"coordinates":[[[50.129754,26.139664],[50.100599,26.139444],[50.111674,26.159491],[50.132665,26.156136],[50.129754,26.139664]]],"type":"Polygon"}
+}

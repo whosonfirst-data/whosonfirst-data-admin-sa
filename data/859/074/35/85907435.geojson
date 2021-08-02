@@ -4,20 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000502,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.648499,24.801528,46.648499,24.801528",
-    "geom:latitude":24.801528,
-    "geom:longitude":46.648499,
+    "geom:bbox":"46.643337,24.779203,46.678261,24.810241",
+    "geom:latitude":24.79548,
+    "geom:longitude":46.661425,
     "iso:country":"SA",
-    "lbl:bbox":"46.643499,24.796528,46.653499,24.806528",
-    "lbl:latitude":24.801528,
-    "lbl:longitude":46.648499,
+    "lbl:latitude":24.79682,
+    "lbl:longitude":46.66169,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.800308,
-    "mps:longitude":46.655666,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":24.79682,
+    "mps:longitude":46.66169,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -29,10 +28,12 @@
         "\u0627\u0644\u0631\u0628\u064a\u0639"
     ],
     "name:eng_x_preferred":[
-        "Ar Rabi'"
+        "Al Rabih"
     ],
     "name:eng_x_variant":[
-        "Al Rabia"
+        "Al Rabia",
+        "Ar Rabi'",
+        "Al Rabie"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -58,16 +59,18 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939753,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,15 +78,16 @@
     },
     "wof:country":"SA",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"b6b9642572a6b3d840b30fcf712c2092",
+    "wof:geomhash":"8f44eb196fb04499d4e59923b98b865d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":85907435,
             "region_id":85676813
         }
@@ -92,9 +96,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326292,
-    "wof:name":"\u0627\u0644\u0631\u0628\u064a\u0639",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685890,
+    "wof:name":"Al Rabih",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -102,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.648499,
-    24.801528,
-    46.648499,
-    24.801528
+    46.643337,
+    24.779203,
+    46.678261,
+    24.810241
 ],
-  "geometry": {"coordinates":[46.648499,24.801528],"type":"Point"}
+  "geometry": {"coordinates":[[[46.651905,24.802634],[46.669903,24.810241],[46.678261,24.793791],[46.66016,24.786231],[46.643337,24.779203],[46.653133,24.800179],[46.651905,24.802634]]],"type":"Polygon"}
 }

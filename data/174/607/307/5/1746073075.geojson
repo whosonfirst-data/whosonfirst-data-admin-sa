@@ -1,0 +1,71 @@
+{
+  "id": 1746073075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:bbox":"50.0326,26.47604,50.041939,26.488443",
+    "geom:latitude":26.482526,
+    "geom:longitude":50.036588,
+    "iso:country":"SA",
+    "lbl:latitude":26.482249,
+    "lbl:longitude":50.036966,
+    "mps:latitude":26.482249,
+    "mps:longitude":50.036966,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ad Dirah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        890449691,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413477,
+    "wof:geomhash":"9b8dbcc325a972b0a0041b6d8c0c20c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":890449691,
+            "neighbourhood_id":1746073075,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073075,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685775,
+    "wof:name":"Ad Dirah",
+    "wof:parent_id":890449691,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0326,
+    26.47604,
+    50.041939,
+    26.488443
+],
+  "geometry": {"coordinates":[[[50.038134,26.488443],[50.041939,26.479498],[50.037436,26.478017],[50.033344,26.47604],[50.033102,26.477194],[50.033021,26.47806],[50.033021,26.479142],[50.033183,26.480945],[50.033424,26.482316],[50.033505,26.483614],[50.033505,26.484696],[50.033344,26.485562],[50.033183,26.486644],[50.03286,26.487726],[50.0326,26.488115],[50.035278,26.488375],[50.036084,26.488231],[50.03689,26.488303],[50.037857,26.488375],[50.038134,26.488443]]],"type":"Polygon"}
+}

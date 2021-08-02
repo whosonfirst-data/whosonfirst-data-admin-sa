@@ -1,0 +1,71 @@
+{
+  "id": 1746072879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:bbox":"50.175739,26.30592,50.191548,26.315303",
+    "geom:latitude":26.310553,
+    "geom:longitude":50.184234,
+    "iso:country":"SA",
+    "lbl:latitude":26.310664,
+    "lbl:longitude":50.184234,
+    "mps:latitude":26.310664,
+    "mps:longitude":50.184234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u062f\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hada"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413374,
+    "wof:geomhash":"c3a966c2200fd862c77cf229fe675172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072879,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072879,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685686,
+    "wof:name":"Al Hada",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.175739,
+    26.30592,
+    50.191548,
+    26.315303
+],
+  "geometry": {"coordinates":[[[50.179411,26.315303],[50.191548,26.313134],[50.189869,26.30592],[50.184861,26.306783],[50.175739,26.308294],[50.178442,26.312229],[50.179411,26.315303]]],"type":"Polygon"}
+}

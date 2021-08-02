@@ -1,0 +1,71 @@
+{
+  "id": 1746072245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001865,
+    "geom:bbox":"47.23905,25.070696,47.301088,25.117281",
+    "geom:latitude":25.09553,
+    "geom:longitude":47.268997,
+    "iso:country":"SA",
+    "lbl:latitude":25.0959,
+    "lbl:longitude":47.268997,
+    "mps:latitude":25.0959,
+    "mps:longitude":47.268997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u0627\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rihab"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413117,
+    "wof:geomhash":"308627f696fce461485f8dcb55c04b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072245,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072245,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685379,
+    "wof:name":"Al Rihab",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.23905,
+    25.070696,
+    47.301088,
+    25.117281
+],
+  "geometry": {"coordinates":[[[47.301088,25.087551],[47.249602,25.070696],[47.23905,25.104331],[47.261523,25.113804],[47.288883,25.117281],[47.301088,25.087551]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:bbox":"39.582737,24.453634,39.596852,24.467132",
+    "geom:latitude":24.461114,
+    "geom:longitude":39.589945,
+    "iso:country":"SA",
+    "lbl:latitude":24.461024,
+    "lbl:longitude":39.590052,
+    "mps:latitude":24.461024,
+    "mps:longitude":39.590052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0635\u064a\u0641\u0631\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Usayfirin"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413257,
+    "wof:geomhash":"8618d0105198babac6a4d47a311ac5ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072593,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072593,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685552,
+    "wof:name":"Al Usayfirin",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.582737,
+    24.453634,
+    39.596852,
+    24.467132
+],
+  "geometry": {"coordinates":[[[39.590481,24.453634],[39.588998,24.455984],[39.585373,24.461833],[39.583561,24.464983],[39.582737,24.467132],[39.591635,24.467082],[39.591909,24.465133],[39.592568,24.463633],[39.596852,24.457284],[39.59515,24.455884],[39.594381,24.455334],[39.590481,24.453634]]],"type":"Polygon"}
+}

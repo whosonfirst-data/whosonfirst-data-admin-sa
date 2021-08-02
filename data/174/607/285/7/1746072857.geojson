@@ -1,0 +1,71 @@
+{
+  "id": 1746072857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:bbox":"50.191151,26.249252,50.205188,26.263207",
+    "geom:latitude":26.256244,
+    "geom:longitude":50.199207,
+    "iso:country":"SA",
+    "lbl:latitude":26.256304,
+    "lbl:longitude":50.199101,
+    "mps:latitude":26.256304,
+    "mps:longitude":50.199101,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0635\u0646\u0627\u0639\u064a\u0629 \u0627\u0644\u062b\u0642\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Sinaiyah Ath Thuqbah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413363,
+    "wof:geomhash":"6ad4fa09ac9757c02a0f516edd494532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072857,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072857,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685675,
+    "wof:name":"Sinaiyah Ath Thuqbah",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.191151,
+    26.249252,
+    50.205188,
+    26.263207
+],
+  "geometry": {"coordinates":[[[50.197242,26.249252],[50.196183,26.252043],[50.195521,26.25335],[50.194461,26.254775],[50.193005,26.2562],[50.191151,26.258694],[50.205188,26.263207],[50.202666,26.24981],[50.197242,26.249252]]],"type":"Polygon"}
+}

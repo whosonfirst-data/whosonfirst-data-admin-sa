@@ -1,0 +1,71 @@
+{
+  "id": 1746072395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001727,
+    "geom:bbox":"39.192314,21.28517,39.232237,21.331771",
+    "geom:latitude":21.307372,
+    "geom:longitude":39.211798,
+    "iso:country":"SA",
+    "lbl:latitude":21.307352,
+    "lbl:longitude":39.212065,
+    "mps:latitude":21.307352,
+    "mps:longitude":39.212065,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0627\u062d\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ad Dahiah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413180,
+    "wof:geomhash":"40f1e81ca01c0fe6660a642ea6878706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072395,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072395,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685452,
+    "wof:name":"Ad Dahiah",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.192314,
+    21.28517,
+    39.232237,
+    21.331771
+],
+  "geometry": {"coordinates":[[[39.192504,21.331771],[39.228264,21.327165],[39.231616,21.327281],[39.232237,21.285748],[39.192749,21.28517],[39.192501,21.303913],[39.192314,21.32971],[39.192504,21.331771]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001181,
+    "geom:bbox":"46.867595,24.885697,46.92568,24.927233",
+    "geom:latitude":24.906916,
+    "geom:longitude":46.896176,
+    "iso:country":"SA",
+    "lbl:latitude":24.907248,
+    "lbl:longitude":46.896616,
+    "mps:latitude":24.907248,
+    "mps:longitude":46.896616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0633\u0627\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Wasam"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413131,
+    "wof:geomhash":"90ea91d659a059b42d69e57054a81888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072277,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072277,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685396,
+    "wof:name":"Al Wasam",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.867595,
+    24.885697,
+    46.92568,
+    24.927233
+],
+  "geometry": {"coordinates":[[[46.909687,24.925034],[46.92568,24.90965],[46.923607,24.90871],[46.919287,24.906533],[46.912567,24.902397],[46.906927,24.897282],[46.904887,24.895431],[46.902487,24.894125],[46.899127,24.892819],[46.895407,24.892275],[46.891447,24.890968],[46.885567,24.886723],[46.884523,24.885697],[46.867595,24.905252],[46.873207,24.908492],[46.893127,24.920464],[46.908057,24.927233],[46.909687,24.925034]]],"type":"Polygon"}
+}

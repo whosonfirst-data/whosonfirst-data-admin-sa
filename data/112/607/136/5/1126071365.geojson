@@ -4,30 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000435,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.70361,24.66722,46.70361,24.66722",
-    "geom:latitude":24.66722,
-    "geom:longitude":46.70361,
+    "geom:bbox":"46.69587,24.644352,46.71815,24.681273",
+    "geom:latitude":24.660169,
+    "geom:longitude":46.707926,
     "gn:country":"SA",
     "gn:fcode":"PPLX",
     "gn:latitude":24.66097,
     "gn:longitude":46.70373,
     "gn:population":0,
     "iso:country":"SA",
-    "lbl:bbox":"46.69861,24.66222,46.70861,24.67222",
     "lbl:latitude":24.66722,
     "lbl:longitude":46.70361,
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.658279,
+    "mps:longitude":46.709023,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0628\u0639"
     ],
     "name:eng_x_preferred":[
-        "Al Murabba'"
+        "Al Murabaa"
     ],
     "name:eng_x_variant":[
         "Al Murabba'",
@@ -56,17 +58,21 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424938,
     "qs_pg:woe_id":22725943,
-    "src:geom":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424938,
     "woe:name_adm0":"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
     "woe:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0636",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,21 +82,24 @@
     },
     "wof:country":"SA",
     "wof:created":1497309989,
-    "wof:geomhash":"1aa7b2423448ce28e9e564a55466e328",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"2cbf38dd00ebcf72153f4cb9cbebb4e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":1126071365,
             "region_id":85676813
         }
     ],
     "wof:id":1126071365,
-    "wof:lastmodified":1566638483,
-    "wof:name":"\u0627\u0644\u0645\u0631\u0628\u0639",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685254,
+    "wof:name":"Al Murabaa",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -100,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.70361,
-    24.66722,
-    46.70361,
-    24.66722
+    46.69587,
+    24.644352,
+    46.71815,
+    24.681273
 ],
-  "geometry": {"coordinates":[46.70361,24.66722],"type":"Point"}
+  "geometry": {"coordinates":[[[46.714982,24.646615],[46.705772,24.644352],[46.702897,24.644885],[46.702236,24.650021],[46.702205,24.650262],[46.70114,24.658354],[46.700448,24.663039],[46.699969,24.664263],[46.699383,24.665062],[46.698744,24.66586],[46.697946,24.666339],[46.69587,24.668123],[46.703429,24.675363],[46.707981,24.681273],[46.708301,24.680527],[46.708407,24.679995],[46.708354,24.679196],[46.708141,24.677226],[46.708221,24.67507],[46.709019,24.670412],[46.709445,24.668602],[46.710457,24.66594],[46.713172,24.667058],[46.71815,24.667031],[46.717511,24.658141],[46.716286,24.651113],[46.715142,24.646987],[46.714982,24.646615]]],"type":"Polygon"}
 }

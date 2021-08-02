@@ -1,0 +1,71 @@
+{
+  "id": 1746072521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000614,
+    "geom:bbox":"39.598711,24.345469,39.630331,24.376684",
+    "geom:latitude":24.360191,
+    "geom:longitude":39.613477,
+    "iso:country":"SA",
+    "lbl:latitude":24.359904,
+    "lbl:longitude":39.613177,
+    "mps:latitude":24.359904,
+    "mps:longitude":39.613177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0635\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jassah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413230,
+    "wof:geomhash":"22680b0bb28fc56005b9f4389c571c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072521,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072521,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685515,
+    "wof:name":"Al Jassah",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.598711,
+    24.345469,
+    39.630331,
+    24.376684
+],
+  "geometry": {"coordinates":[[[39.598711,24.369347],[39.608318,24.371788],[39.61897,24.376684],[39.62073,24.372789],[39.630331,24.351628],[39.604138,24.345469],[39.598711,24.369347]]],"type":"Polygon"}
+}

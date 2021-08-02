@@ -1,0 +1,71 @@
+{
+  "id": 1746072295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:bbox":"46.563694,24.73853,46.573489,24.743321",
+    "geom:latitude":24.741166,
+    "geom:longitude":46.568988,
+    "iso:country":"SA",
+    "lbl:latitude":24.741008,
+    "lbl:longitude":46.569878,
+    "mps:latitude":24.741008,
+    "mps:longitude":46.569878,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0642\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rooqiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413137,
+    "wof:geomhash":"c917ffaa238c5e8ce11a9710ff5cb185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072295,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072295,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685405,
+    "wof:name":"Al Rooqiyah",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.563694,
+    24.73853,
+    46.573489,
+    24.743321
+],
+  "geometry": {"coordinates":[[[46.56561,24.743321],[46.567367,24.742256],[46.568538,24.74215],[46.570348,24.742043],[46.571307,24.741511],[46.572691,24.740233],[46.573489,24.73853],[46.56561,24.741618],[46.563694,24.742789],[46.56561,24.743321]]],"type":"Polygon"}
+}

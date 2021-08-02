@@ -1,0 +1,71 @@
+{
+  "id": 1746072831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001998,
+    "geom:bbox":"50.132916,26.420067,50.193038,26.487543",
+    "geom:latitude":26.450639,
+    "geom:longitude":50.160113,
+    "iso:country":"SA",
+    "lbl:latitude":26.445133,
+    "lbl:longitude":50.155558,
+    "mps:latitude":26.445133,
+    "mps:longitude":50.155558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0633\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Naseem"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413353,
+    "wof:geomhash":"89cae2e289b9696a967c63c26352af09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072831,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072831,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685662,
+    "wof:name":"Al Naseem",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.132916,
+    26.420067,
+    50.193038,
+    26.487543
+],
+  "geometry": {"coordinates":[[[50.161719,26.420067],[50.152648,26.422439],[50.146159,26.424218],[50.13967,26.427064],[50.132916,26.431452],[50.134108,26.450915],[50.134638,26.459553],[50.136192,26.461449],[50.159972,26.463503],[50.164572,26.465319],[50.167585,26.469839],[50.173265,26.487543],[50.179367,26.485629],[50.182179,26.484921],[50.181119,26.480417],[50.193038,26.472831],[50.18006,26.454811],[50.164963,26.423744],[50.161719,26.420067]]],"type":"Polygon"}
+}

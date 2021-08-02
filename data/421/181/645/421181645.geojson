@@ -4,20 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00028,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.68556,24.60472,46.68556,24.60472",
-    "geom:latitude":24.60472,
-    "geom:longitude":46.68556,
+    "geom:bbox":"46.673607,24.595515,46.699559,24.617203",
+    "geom:latitude":24.605264,
+    "geom:longitude":46.68763,
     "iso:country":"SA",
-    "lbl:bbox":"46.68056,24.59972,46.69056,24.60972",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.604654,
+    "mps:longitude":46.688516,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0633\u0644\u0637\u0627\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0633\u0644\u062a\u0627\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Sultanah"
     ],
     "name:und_x_variant":[
         "Sul\u0163\u0101nah"
@@ -40,12 +48,16 @@
     "qs:qs_id":496850,
     "qs:woe_adm0":23424938,
     "qs:woe_id":1939351,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,21 +67,24 @@
     },
     "wof:country":"SA",
     "wof:created":1459009302,
-    "wof:geomhash":"f42ea0e894d84ee528a7482fe60e935d",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"0a7d48e652ba357684373563d696ab69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":421181645,
             "region_id":85676813
         }
     ],
     "wof:id":421181645,
-    "wof:lastmodified":1566638465,
-    "wof:name":"\u0633\u0644\u0637\u0627\u0646\u0629",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685852,
+    "wof:name":"Sultanah",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -77,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.68556,
-    24.60472,
-    46.68556,
-    24.60472
+    46.673607,
+    24.595515,
+    46.699559,
+    24.617203
 ],
-  "geometry": {"coordinates":[46.68556,24.60472],"type":"Point"}
+  "geometry": {"coordinates":[[[46.699559,24.601868],[46.697318,24.601321],[46.691862,24.598803],[46.685148,24.598033],[46.681161,24.595515],[46.678223,24.599292],[46.675146,24.60237],[46.673607,24.603559],[46.675758,24.606304],[46.677672,24.606009],[46.679389,24.606254],[46.681188,24.607685],[46.683519,24.608994],[46.685318,24.610302],[46.684623,24.610834],[46.685359,24.611284],[46.686463,24.613573],[46.688098,24.614514],[46.687771,24.615331],[46.69282,24.617203],[46.693154,24.615032],[46.693847,24.612955],[46.694432,24.612636],[46.694911,24.612103],[46.695124,24.611678],[46.695337,24.610985],[46.695497,24.610453],[46.69555,24.61024],[46.696021,24.609558],[46.696829,24.608328],[46.69829,24.60579],[46.69902,24.603752],[46.699559,24.601868]]],"type":"Polygon"}
 }

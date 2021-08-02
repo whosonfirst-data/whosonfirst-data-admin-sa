@@ -1,0 +1,71 @@
+{
+  "id": 1746072915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000597,
+    "geom:bbox":"50.132665,26.15145,50.163076,26.176898",
+    "geom:latitude":26.164117,
+    "geom:longitude":50.148597,
+    "iso:country":"SA",
+    "lbl:latitude":26.164307,
+    "lbl:longitude":50.148597,
+    "mps:latitude":26.164307,
+    "mps:longitude":50.148597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u0627\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Sheraa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413390,
+    "wof:geomhash":"872d5c807fe9aad0c3aeecdaac04b89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072915,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072915,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685703,
+    "wof:name":"Ash Sheraa",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.132665,
+    26.15145,
+    50.163076,
+    26.176898
+],
+  "geometry": {"coordinates":[[[50.132665,26.156136],[50.136723,26.176898],[50.163076,26.172739],[50.161991,26.15145],[50.132665,26.156136]]],"type":"Polygon"}
+}

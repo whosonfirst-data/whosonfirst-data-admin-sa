@@ -1,0 +1,71 @@
+{
+  "id": 1746072653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0006,
+    "geom:bbox":"39.566034,24.543395,39.596756,24.580039",
+    "geom:latitude":24.559776,
+    "geom:longitude":39.582153,
+    "iso:country":"SA",
+    "lbl:latitude":24.559301,
+    "lbl:longitude":39.580872,
+    "mps:latitude":24.559301,
+    "mps:longitude":39.580872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u062f\u0642\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "As Sadiqiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413280,
+    "wof:geomhash":"c3c0cdf065aa681521b1003d2bb64c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072653,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072653,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685580,
+    "wof:name":"As Sadiqiyah",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.566034,
+    24.543395,
+    39.596756,
+    24.580039
+],
+  "geometry": {"coordinates":[[[39.58814,24.578485],[39.588628,24.572169],[39.588902,24.569322],[39.591209,24.56153],[39.592912,24.558882],[39.594175,24.557084],[39.595328,24.555335],[39.596372,24.553737],[39.596701,24.553037],[39.596756,24.552338],[39.596646,24.551439],[39.596317,24.550639],[39.59423,24.547092],[39.591044,24.546443],[39.586647,24.545361],[39.584344,24.544794],[39.581488,24.543395],[39.578906,24.548441],[39.576544,24.549391],[39.573469,24.549241],[39.571272,24.554361],[39.566034,24.56796],[39.580921,24.571222],[39.583161,24.580039],[39.58814,24.578485]]],"type":"Polygon"}
+}

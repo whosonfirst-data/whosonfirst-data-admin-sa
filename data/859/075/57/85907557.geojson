@@ -4,20 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000216,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.186231,21.484343,39.186231,21.484343",
-    "geom:latitude":21.484343,
-    "geom:longitude":39.186231,
+    "geom:bbox":"39.176422,21.476696,39.19984,21.492494",
+    "geom:latitude":21.482907,
+    "geom:longitude":39.186855,
     "iso:country":"SA",
-    "lbl:bbox":"39.181231,21.479343,39.191231,21.489343",
     "lbl:latitude":21.484343,
     "lbl:longitude":39.186231,
     "lbl:max_zoom":18.0,
-    "mps:latitude":21.478748,
-    "mps:longitude":39.185326,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":21.482892,
+    "mps:longitude":39.186855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -53,16 +52,18 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939873,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720715
+        421200923,
+        1108720715,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,15 +71,16 @@
     },
     "wof:country":"SA",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"39faef4c5964951abfc460dad4483242",
+    "wof:geomhash":"082b13f2da14c99d70c4d164e2c06fab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720715,
-            "locality_id":-1,
+            "locality_id":421200923,
             "neighbourhood_id":85907557,
             "region_id":85676857
         }
@@ -87,9 +89,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326293,
-    "wof:name":"\u0627\u0644\u0628\u0644\u062f",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685915,
+    "wof:name":"Al Balad",
+    "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -97,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.186231,
-    21.484343,
-    39.186231,
-    21.484343
+    39.176422,
+    21.476696,
+    39.19984,
+    21.492494
 ],
-  "geometry": {"coordinates":[39.186231,21.484343],"type":"Point"}
+  "geometry": {"coordinates":[[[39.177977,21.485931],[39.17903,21.486218],[39.179734,21.486838],[39.180698,21.487735],[39.181254,21.488425],[39.181735,21.489425],[39.182291,21.490149],[39.184367,21.489735],[39.18533,21.489873],[39.186146,21.490115],[39.186625,21.490464],[39.189407,21.492494],[39.1895,21.492115],[39.189407,21.49008],[39.189463,21.489735],[39.190344,21.487846],[39.190686,21.487114],[39.192409,21.48558],[39.193039,21.48539],[39.195059,21.484838],[39.196041,21.484718],[39.197282,21.484631],[39.198005,21.484735],[39.198672,21.484993],[39.199728,21.485476],[39.19984,21.484338],[39.199747,21.483545],[39.199469,21.482597],[39.19908,21.481786],[39.198487,21.48101],[39.197783,21.480372],[39.196504,21.479458],[39.195179,21.478846],[39.193215,21.478053],[39.191955,21.477777],[39.18899,21.477363],[39.18458,21.477191],[39.176659,21.476696],[39.176422,21.480593],[39.177608,21.482064],[39.177687,21.483167],[39.178003,21.484343],[39.178082,21.485446],[39.177977,21.485931]]],"type":"Polygon"}
 }

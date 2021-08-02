@@ -1,0 +1,71 @@
+{
+  "id": 1746073085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:bbox":"50.024639,26.488115,50.035278,26.498041",
+    "geom:latitude":26.493749,
+    "geom:longitude":50.029801,
+    "iso:country":"SA",
+    "lbl:latitude":26.494625,
+    "lbl:longitude":50.029438,
+    "mps:latitude":26.494625,
+    "mps:longitude":50.029438,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "At Tif"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        890449691,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413484,
+    "wof:geomhash":"ccc990fb437b74e90954eeff03f47d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":890449691,
+            "neighbourhood_id":1746073085,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073085,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685781,
+    "wof:name":"At Tif",
+    "wof:parent_id":890449691,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.024639,
+    26.488115,
+    50.035278,
+    26.498041
+],
+  "geometry": {"coordinates":[[[50.031087,26.498041],[50.03149,26.49631],[50.032135,26.49429],[50.032941,26.491838],[50.033908,26.490035],[50.035278,26.488375],[50.0326,26.488115],[50.032377,26.488448],[50.031893,26.489241],[50.031006,26.490251],[50.03012,26.490972],[50.025768,26.494363],[50.024962,26.494579],[50.024639,26.496887],[50.031087,26.498041]]],"type":"Polygon"}
+}

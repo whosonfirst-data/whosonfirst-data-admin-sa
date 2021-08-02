@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000754,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.22744,26.319518,50.22744,26.319518",
-    "geom:latitude":26.319518,
-    "geom:longitude":50.22744,
+    "geom:bbox":"50.211545,26.274803,50.234162,26.340255",
+    "geom:latitude":26.31158,
+    "geom:longitude":50.224783,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"50.22244,26.314518,50.23244,26.324518",
     "lbl:latitude":26.319518,
     "lbl:longitude":50.22744,
     "lbl:max_zoom":18.0,
-    "mps:latitude":26.326447,
-    "mps:longitude":50.22992,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":26.329513,
+    "mps:longitude":50.222727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,7 +29,7 @@
         "\u0627\u0644\u0643\u0648\u0631\u0646\u064a\u0634"
     ],
     "name:eng_x_preferred":[
-        "Al Kourneesh"
+        "Al Kurnaish"
     ],
     "name:eng_x_variant":[
         "Al Kourneesh"
@@ -56,15 +55,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939645,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
-        85632253
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,25 +77,27 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"cfbfba69a7ef8ef683d298d6aee686c6",
+    "wof:geomhash":"ca313cb1b07ff167501988cec6db0ad1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
-            "locality_id":-1,
+            "county_id":1108720599,
+            "locality_id":1125927181,
             "neighbourhood_id":85932853,
-            "region_id":-1
+            "region_id":85676819
         }
     ],
     "wof:id":85932853,
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326294,
-    "wof:name":"\u0627\u0644\u0643\u0648\u0631\u0646\u064a\u0634",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685920,
+    "wof:name":"Al Kurnaish",
+    "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -100,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.22744,
-    26.319518,
-    50.22744,
-    26.319518
+    50.211545,
+    26.274803,
+    50.234162,
+    26.340255
 ],
-  "geometry": {"coordinates":[50.22744,26.319518],"type":"Point"}
+  "geometry": {"coordinates":[[[50.215584,26.323164],[50.214654,26.32685],[50.211545,26.339186],[50.214723,26.339899],[50.216577,26.340255],[50.21896,26.340136],[50.220682,26.339424],[50.223463,26.337881],[50.229398,26.339316],[50.232204,26.322316],[50.234162,26.307068],[50.226491,26.274803],[50.22002,26.275082],[50.219225,26.278644],[50.218166,26.279357],[50.22247,26.300431],[50.223993,26.309216],[50.22247,26.319365],[50.22194,26.320315],[50.22141,26.321027],[50.220616,26.321621],[50.217835,26.322452],[50.215584,26.323164]]],"type":"Polygon"}
 }

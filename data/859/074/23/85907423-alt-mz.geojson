@@ -1,0 +1,18 @@
+{
+  "id": 85907423,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"mz",
+    "src:geom":"mz",
+    "wof:geomhash":"9720023e7be4461d7c66d180a5d0d295",
+    "wof:id":85907423,
+    "wof:repo":"whosonfirst-data-admin-ar"
+},
+  "bbox": [
+    46.816312,
+    24.760562,
+    46.816312,
+    24.760562
+],
+  "geometry": {"coordinates":[46.816312,24.760562],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000553,
+    "geom:bbox":"39.150197,21.61379,39.185943,21.635942",
+    "geom:latitude":21.625702,
+    "geom:longitude":39.167578,
+    "iso:country":"SA",
+    "lbl:latitude":21.625482,
+    "lbl:longitude":39.167578,
+    "mps:latitude":21.625482,
+    "mps:longitude":39.167578,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u0647\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "An Nuzhah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413201,
+    "wof:geomhash":"7f761b08b5f7175c93020608472bda56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072449,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072449,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685479,
+    "wof:name":"An Nuzhah",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.150197,
+    21.61379,
+    39.185943,
+    21.635942
+],
+  "geometry": {"coordinates":[[[39.180845,21.634572],[39.185943,21.61967],[39.167077,21.616122],[39.155518,21.61379],[39.1547,21.618453],[39.153719,21.625499],[39.15301,21.629959],[39.150938,21.634673],[39.150197,21.635942],[39.165987,21.634774],[39.178636,21.634572],[39.180845,21.634572]]],"type":"Polygon"}
+}

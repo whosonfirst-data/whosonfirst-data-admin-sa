@@ -1,0 +1,71 @@
+{
+  "id": 1746073105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:bbox":"50.005247,26.459346,50.020771,26.473855",
+    "geom:latitude":26.466943,
+    "geom:longitude":50.012448,
+    "iso:country":"SA",
+    "lbl:latitude":26.467464,
+    "lbl:longitude":50.012565,
+    "mps:latitude":26.467464,
+    "mps:longitude":50.012565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "As Sinaiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        890449691,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413494,
+    "wof:geomhash":"6fef39376eacf6e835382b9bcda6ffee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":890449691,
+            "neighbourhood_id":1746073105,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073105,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685791,
+    "wof:name":"As Sinaiyah",
+    "wof:parent_id":890449691,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.005247,
+    26.459346,
+    50.020771,
+    26.473855
+],
+  "geometry": {"coordinates":[[[50.005247,26.464772],[50.00852,26.467166],[50.00715,26.468609],[50.014449,26.473855],[50.020771,26.468437],[50.008359,26.459346],[50.005941,26.463675],[50.005247,26.464772]]],"type":"Polygon"}
+}

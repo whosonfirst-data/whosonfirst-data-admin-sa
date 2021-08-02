@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000167,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.683522,24.6729,46.683522,24.6729",
-    "geom:latitude":24.6729,
-    "geom:longitude":46.683522,
+    "geom:bbox":"46.678195,24.660763,46.69587,24.67877",
+    "geom:latitude":24.670296,
+    "geom:longitude":46.68656,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"46.678522,24.6679,46.688522,24.6779",
     "lbl:latitude":24.6729,
     "lbl:longitude":46.683522,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.673444,
-    "mps:longitude":46.682618,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":24.670358,
+    "mps:longitude":46.686694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -27,13 +26,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "\u0627\u0644\u0645\u0648\u062a\u0645\u0631\u0627\u062a"
-    ],
-    "name:ara_x_variant":[
         "\u0627\u0644\u0645\u0624\u062a\u0645\u0631\u0627\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0648\u062a\u0645\u0631\u0627\u062a"
+    ],
     "name:eng_x_preferred":[
-        "Al Muatamarat"
+        "Al Mutamarat"
     ],
     "name:eng_x_variant":[
         "Al Mu'tamarat",
@@ -63,17 +62,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939753,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,15 +84,16 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"9b497c61a1deb9346350436f049d0fde",
+    "wof:geomhash":"0e39021a357eff9146b940b757682ecc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":85907389,
             "region_id":85676813
         }
@@ -100,9 +102,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326292,
-    "wof:name":"\u0627\u0644\u0645\u0648\u062a\u0645\u0631\u0627\u062a",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685874,
+    "wof:name":"Al Mutamarat",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -110,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.683522,
-    24.6729,
-    46.683522,
-    24.6729
+    46.678195,
+    24.660763,
+    46.69587,
+    24.67877
 ],
-  "geometry": {"coordinates":[46.683522,24.6729],"type":"Point"}
+  "geometry": {"coordinates":[[[46.69587,24.668123],[46.684956,24.660763],[46.678567,24.673859],[46.678195,24.675363],[46.681921,24.676215],[46.688842,24.67877],[46.692356,24.67153],[46.693634,24.670252],[46.695018,24.668549],[46.69587,24.668123]]],"type":"Polygon"}
 }

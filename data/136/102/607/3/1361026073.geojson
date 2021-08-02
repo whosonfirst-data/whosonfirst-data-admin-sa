@@ -25,8 +25,9 @@
     "iso:country":"SA",
     "lbl:bbox":"50.18934,26.17558,50.19934,26.18558",
     "lbl:max_zoom":18.0,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629"
@@ -38,11 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1327025581,
-        1108720599
+        1125927181,
+        1108720599,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +56,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720599,
-            "locality_id":1327025581,
+            "locality_id":1125927181,
             "neighbourhood_id":1361026073,
             "region_id":85676819
         }
     ],
     "wof:id":1361026073,
-    "wof:lastmodified":1566638437,
+    "wof:lastmodified":1627685049,
     "wof:name":"Al `Aziziyah",
-    "wof:parent_id":1108720599,
+    "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

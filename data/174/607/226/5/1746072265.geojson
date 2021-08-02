@@ -1,0 +1,71 @@
+{
+  "id": 1746072265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002009,
+    "geom:bbox":"46.842546,24.892148,46.908057,24.971601",
+    "geom:latitude":24.930206,
+    "geom:longitude":46.874876,
+    "iso:country":"SA",
+    "lbl:latitude":24.933294,
+    "lbl:longitude":46.879839,
+    "mps:latitude":24.933294,
+    "mps:longitude":46.879839,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u062c\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Marjan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413125,
+    "wof:geomhash":"aab21b40949e4081e566a1a640a5a2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072265,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072265,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685389,
+    "wof:name":"Al Marjan",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.842546,
+    24.892148,
+    46.908057,
+    24.971601
+],
+  "geometry": {"coordinates":[[[46.908057,24.927233],[46.893127,24.920464],[46.873207,24.908492],[46.867595,24.905252],[46.844901,24.892148],[46.844901,24.892148],[46.842546,24.906235],[46.852088,24.908492],[46.856887,24.920246],[46.856887,24.92634],[46.870807,24.958547],[46.866967,24.96725],[46.872247,24.971601],[46.890007,24.951584],[46.908057,24.927233]]],"type":"Polygon"}
+}

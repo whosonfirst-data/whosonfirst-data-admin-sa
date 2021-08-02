@@ -1,0 +1,71 @@
+{
+  "id": 1746072913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000362,
+    "geom:bbox":"50.16162,26.181771,50.192078,26.212546",
+    "geom:latitude":26.19927,
+    "geom:longitude":50.17708,
+    "iso:country":"SA",
+    "lbl:latitude":26.19921,
+    "lbl:longitude":50.178118,
+    "mps:latitude":26.19921,
+    "mps:longitude":50.178118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062d\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Buhayrah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125927181,
+        1108720599,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413389,
+    "wof:geomhash":"a6b75e5ab01795eea48f642a9324450c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720599,
+            "locality_id":1125927181,
+            "neighbourhood_id":1746072913,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072913,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685701,
+    "wof:name":"Al Buhayrah",
+    "wof:parent_id":1125927181,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.16162,
+    26.181771,
+    50.192078,
+    26.212546
+],
+  "geometry": {"coordinates":[[[50.169608,26.198626],[50.168771,26.199952],[50.168241,26.201378],[50.167844,26.203517],[50.16162,26.203279],[50.162944,26.212546],[50.169962,26.212309],[50.172611,26.21017],[50.192078,26.19508],[50.18294,26.181771],[50.181556,26.183066],[50.182888,26.184973],[50.180779,26.187889],[50.179974,26.18786],[50.175415,26.192499],[50.174557,26.195],[50.172054,26.198334],[50.172054,26.199972],[50.170776,26.20125],[50.169608,26.198626]]],"type":"Polygon"}
+}

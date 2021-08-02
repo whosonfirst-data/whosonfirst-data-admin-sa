@@ -1,0 +1,71 @@
+{
+  "id": 1746073169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00144,
+    "geom:bbox":"46.594153,24.483873,46.645164,24.537464",
+    "geom:latitude":24.509231,
+    "geom:longitude":46.616919,
+    "iso:country":"SA",
+    "lbl:latitude":24.507011,
+    "lbl:longitude":46.615177,
+    "mps:latitude":24.507011,
+    "mps:longitude":46.615177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631\u0627\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Dirab"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413524,
+    "wof:geomhash":"845eee3989a38377bd6a3eaa0731e8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746073169,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746073169,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685821,
+    "wof:name":"Dirab",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.594153,
+    24.483873,
+    46.645164,
+    24.537464
+],
+  "geometry": {"coordinates":[[[46.620835,24.537464],[46.624087,24.531159],[46.62641,24.526247],[46.645164,24.517043],[46.644981,24.516759],[46.641693,24.513695],[46.639301,24.511603],[46.637732,24.509884],[46.636237,24.507493],[46.62131,24.483873],[46.594485,24.49691],[46.594153,24.506468],[46.600458,24.521734],[46.611675,24.524256],[46.61214,24.528769],[46.620835,24.537464]]],"type":"Polygon"}
+}

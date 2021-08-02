@@ -1,0 +1,71 @@
+{
+  "id": 1746072589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001036,
+    "geom:bbox":"39.461309,24.433609,39.503648,24.468107",
+    "geom:latitude":24.453475,
+    "geom:longitude":39.484129,
+    "iso:country":"SA",
+    "lbl:latitude":24.452837,
+    "lbl:longitude":39.484559,
+    "mps:latitude":24.452837,
+    "mps:longitude":39.484559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0643\u0629 \u0627\u0644\u062d\u062f\u064a\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "As Sikkah Al Hadid"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413256,
+    "wof:geomhash":"046f048f88ba0c75cf040caeee608280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072589,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072589,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685549,
+    "wof:name":"As Sikkah Al Hadid",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.461309,
+    24.433609,
+    39.503648,
+    24.468107
+],
+  "geometry": {"coordinates":[[[39.503648,24.465907],[39.50222,24.454809],[39.498265,24.437309],[39.497936,24.436509],[39.498485,24.434209],[39.498375,24.433609],[39.477504,24.440909],[39.475197,24.441509],[39.473,24.441709],[39.470804,24.441509],[39.469418,24.441292],[39.469375,24.441416],[39.466294,24.446465],[39.461364,24.464977],[39.461309,24.465133],[39.48739,24.467507],[39.49508,24.468107],[39.497277,24.467907],[39.499693,24.467507],[39.50189,24.467107],[39.503648,24.465907]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000545,
+    "geom:bbox":"39.209742,21.509254,39.252271,21.528326",
+    "geom:latitude":21.518726,
+    "geom:longitude":39.230213,
+    "iso:country":"SA",
+    "lbl:latitude":21.519042,
+    "lbl:longitude":39.230213,
+    "mps:latitude":21.519042,
+    "mps:longitude":39.230213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0633\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Naseem"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413183,
+    "wof:geomhash":"d682ad206f9c02227b3c2d33a78523d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072401,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072401,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685455,
+    "wof:name":"Al Naseem",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.209742,
+    21.509254,
+    39.252271,
+    21.528326
+],
+  "geometry": {"coordinates":[[[39.240167,21.528326],[39.240058,21.5265],[39.240712,21.524572],[39.24322,21.521529],[39.252271,21.512094],[39.239622,21.509254],[39.234769,21.509913],[39.221247,21.51113],[39.21743,21.511333],[39.21345,21.520007],[39.210288,21.524978],[39.209742,21.526601],[39.240167,21.528326]]],"type":"Polygon"}
+}

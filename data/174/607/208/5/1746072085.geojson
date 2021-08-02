@@ -1,0 +1,71 @@
+{
+  "id": 1746072085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000201,
+    "geom:bbox":"46.675054,24.625253,46.69286,24.641376",
+    "geom:latitude":24.632009,
+    "geom:longitude":46.685094,
+    "iso:country":"SA",
+    "lbl:latitude":24.631893,
+    "lbl:longitude":46.685263,
+    "mps:latitude":24.631893,
+    "mps:longitude":46.685263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a\u0634\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Olaishah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413026,
+    "wof:geomhash":"24d3f596705e7a66e148a430192e7ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072085,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072085,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685308,
+    "wof:name":"Olaishah",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.675054,
+    24.625253,
+    46.69286,
+    24.641376
+],
+  "geometry": {"coordinates":[[[46.691398,24.626424],[46.690386,24.625998],[46.689002,24.625253],[46.676757,24.625466],[46.676757,24.626211],[46.676864,24.628022],[46.676757,24.629086],[46.675054,24.633771],[46.676438,24.634197],[46.68634,24.638988],[46.69286,24.641376],[46.692649,24.637019],[46.692303,24.629778],[46.692303,24.628501],[46.692249,24.627596],[46.692309,24.627389],[46.691398,24.626424]]],"type":"Polygon"}
+}

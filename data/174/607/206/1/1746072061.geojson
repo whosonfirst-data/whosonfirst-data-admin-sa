@@ -1,0 +1,71 @@
+{
+  "id": 1746072061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00077,
+    "geom:bbox":"46.721213,24.704963,46.761751,24.759772",
+    "geom:latitude":24.733051,
+    "geom:longitude":46.743579,
+    "iso:country":"SA",
+    "lbl:latitude":24.729625,
+    "lbl:longitude":46.745575,
+    "mps:latitude":24.729625,
+    "mps:longitude":46.745575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062f\u0627\u0644\u0644\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "King Abdullah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413014,
+    "wof:geomhash":"2a68baf3ef5c7d5736575da5fae8e0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072061,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072061,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685297,
+    "wof:name":"King Abdullah",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.721213,
+    24.704963,
+    46.761751,
+    24.759772
+],
+  "geometry": {"coordinates":[[[46.721213,24.751714],[46.738884,24.759772],[46.748835,24.740091],[46.761751,24.714546],[46.746419,24.704963],[46.746099,24.712417],[46.745673,24.71263],[46.745035,24.713162],[46.744076,24.715611],[46.742799,24.715079],[46.738966,24.724874],[46.73641,24.728814],[46.737688,24.734244],[46.739711,24.734564],[46.741095,24.737651],[46.74035,24.737971],[46.736943,24.739461],[46.735771,24.739781],[46.734068,24.739461],[46.732045,24.737864],[46.733003,24.740207],[46.734174,24.744679],[46.734813,24.74766],[46.733642,24.749577],[46.731406,24.748405],[46.728424,24.748299],[46.729702,24.74585],[46.726188,24.745318],[46.725705,24.742802],[46.721213,24.751714]]],"type":"Polygon"}
+}

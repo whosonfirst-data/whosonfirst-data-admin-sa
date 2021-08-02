@@ -4,20 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000856,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.61472,24.74278,46.61472,24.74278",
-    "geom:latitude":24.74278,
-    "geom:longitude":46.61472,
+    "geom:bbox":"46.590192,24.723983,46.65543,24.760836",
+    "geom:latitude":24.743183,
+    "geom:longitude":46.625118,
     "iso:country":"SA",
-    "lbl:bbox":"46.60972,24.73778,46.61972,24.74778",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.745992,
+    "mps:longitude":46.635497,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u062e\u064a\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Nakheel"
     ],
     "name:und_x_variant":[
         "An Nakh\u012bl"
@@ -40,12 +45,16 @@
     "qs:qs_id":907630,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22726035,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720543
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,21 +64,24 @@
     },
     "wof:country":"SA",
     "wof:created":1459009328,
-    "wof:geomhash":"02264898620903863769c49c7ea92e87",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"2804ae77bed7eda516130bb38377c064",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
-            "county_id":1108720543,
-            "locality_id":-1,
+            "county_id":1108720657,
+            "locality_id":421204501,
             "neighbourhood_id":421182377,
             "region_id":85676813
         }
     ],
     "wof:id":421182377,
-    "wof:lastmodified":1566638472,
-    "wof:name":"\u0627\u0644\u0646\u062e\u064a\u0644",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685853,
+    "wof:name":"Al Nakheel",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -77,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.61472,
-    24.74278,
-    46.61472,
-    24.74278
+    46.590192,
+    24.723983,
+    46.65543,
+    24.760836
 ],
-  "geometry": {"coordinates":[46.61472,24.74278],"type":"Point"}
+  "geometry": {"coordinates":[[[46.65543,24.744423],[46.633435,24.735269],[46.622149,24.744],[46.602131,24.723983],[46.598559,24.726581],[46.597446,24.72739],[46.592123,24.733139],[46.590192,24.735898],[46.59171,24.737199],[46.629281,24.753208],[46.647184,24.760836],[46.65543,24.744423]]],"type":"Polygon"}
 }

@@ -1,0 +1,71 @@
+{
+  "id": 1746072671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000151,
+    "geom:bbox":"39.601574,24.485628,39.617009,24.498023",
+    "geom:latitude":24.491233,
+    "geom:longitude":39.609722,
+    "iso:country":"SA",
+    "lbl:latitude":24.490978,
+    "lbl:longitude":39.609869,
+    "mps:latitude":24.490978,
+    "mps:longitude":39.609869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u062c\u062f \u0627\u0644\u062f\u0631\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Masjid Ad Dar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413286,
+    "wof:geomhash":"b8f25c9c29b4f08e67c5e813e276d619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072671,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072671,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685588,
+    "wof:name":"Masjid Ad Dar",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.601574,
+    24.485628,
+    39.617009,
+    24.498023
+],
+  "geometry": {"coordinates":[[[39.61613,24.498023],[39.616789,24.495574],[39.616899,24.494474],[39.617009,24.493625],[39.616789,24.492375],[39.615911,24.485628],[39.603114,24.485827],[39.602839,24.488377],[39.602509,24.490076],[39.601686,24.494624],[39.601574,24.495606],[39.602894,24.495674],[39.605091,24.495824],[39.608331,24.495874],[39.610034,24.496274],[39.611572,24.496474],[39.613878,24.497173],[39.61613,24.498023]]],"type":"Polygon"}
+}

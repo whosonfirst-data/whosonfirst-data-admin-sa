@@ -1,0 +1,71 @@
+{
+  "id": 1746072127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.013815,
+    "geom:bbox":"46.872967,24.773897,47.062805,24.953325",
+    "geom:latitude":24.861129,
+    "geom:longitude":46.974219,
+    "iso:country":"SA",
+    "lbl:latitude":24.8615,
+    "lbl:longitude":46.97278,
+    "mps:latitude":24.8615,
+    "mps:longitude":46.97278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0638\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Nazheem"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413052,
+    "wof:geomhash":"fb180271fa9cb5e9ac77ad8b7f4f25b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072127,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072127,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685224,
+    "wof:name":"Al Nazheem",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.872967,
+    24.773897,
+    47.062805,
+    24.953325
+],
+  "geometry": {"coordinates":[[[46.872967,24.806797],[46.891207,24.831848],[46.896007,24.83751],[46.904647,24.843609],[46.927207,24.858417],[46.958406,24.8889],[46.980966,24.908928],[46.992966,24.929387],[46.994886,24.93461],[46.997286,24.938527],[47.001366,24.943968],[47.007126,24.943315],[47.016246,24.94375],[47.024166,24.944838],[47.042165,24.953325],[47.053685,24.923293],[47.062805,24.880627],[47.055125,24.875837],[47.032565,24.861901],[47.025366,24.860159],[47.020086,24.858417],[47.015766,24.854497],[47.010006,24.849271],[47.005686,24.846222],[46.976886,24.829669],[46.974006,24.822699],[46.975926,24.81355],[46.967766,24.811372],[46.950006,24.798301],[46.941367,24.777819],[46.906807,24.773897],[46.889527,24.79634],[46.872967,24.806797]]],"type":"Polygon"}
+}

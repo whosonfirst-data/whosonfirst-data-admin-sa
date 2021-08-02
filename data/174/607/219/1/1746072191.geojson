@@ -1,0 +1,71 @@
+{
+  "id": 1746072191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000841,
+    "geom:bbox":"46.76637,24.776315,46.81833,24.80911",
+    "geom:latitude":24.792153,
+    "geom:longitude":46.792123,
+    "iso:country":"SA",
+    "lbl:latitude":24.790982,
+    "lbl:longitude":46.79173,
+    "mps:latitude":24.790982,
+    "mps:longitude":46.79173,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0634\u0628\u064a\u0644\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ishbiliyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413086,
+    "wof:geomhash":"11023825997cbc915a445783697a4e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072191,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072191,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685353,
+    "wof:name":"Ishbiliyah",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.76637,
+    24.776315,
+    46.81833,
+    24.80911
+],
+  "geometry": {"coordinates":[[[46.80896,24.80911],[46.815501,24.800116],[46.815774,24.79974],[46.81833,24.796333],[46.800655,24.786111],[46.794692,24.781852],[46.789794,24.779084],[46.786813,24.778232],[46.782767,24.778019],[46.779573,24.777593],[46.776165,24.776315],[46.768499,24.78675],[46.76637,24.791009],[46.80896,24.80911]]],"type":"Polygon"}
+}

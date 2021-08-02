@@ -1,0 +1,71 @@
+{
+  "id": 1746072229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000885,
+    "geom:bbox":"46.602131,24.703752,46.646851,24.744",
+    "geom:latitude":24.7244,
+    "geom:longitude":46.624462,
+    "iso:country":"SA",
+    "lbl:latitude":24.724678,
+    "lbl:longitude":46.624124,
+    "mps:latitude":24.724678,
+    "mps:longitude":46.624124,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "King Saud University"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413109,
+    "wof:geomhash":"a0b15b5cef9151350e0e14bdde538dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072229,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072229,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685372,
+    "wof:name":"King Saud University",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.602131,
+    24.703752,
+    46.646851,
+    24.744
+],
+  "geometry": {"coordinates":[[[46.646851,24.720362],[46.633222,24.713761],[46.623,24.703752],[46.619806,24.708863],[46.616186,24.712696],[46.602131,24.723983],[46.622149,24.744],[46.633435,24.735269],[46.640037,24.730371],[46.642379,24.728242],[46.644296,24.725686],[46.646851,24.720362]]],"type":"Polygon"}
+}

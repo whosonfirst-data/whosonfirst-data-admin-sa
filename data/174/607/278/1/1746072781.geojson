@@ -1,0 +1,71 @@
+{
+  "id": 1746072781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:bbox":"50.108318,26.446274,50.119706,26.456352",
+    "geom:latitude":26.45081,
+    "geom:longitude":50.113464,
+    "iso:country":"SA",
+    "lbl:latitude":26.450638,
+    "lbl:longitude":50.113465,
+    "mps:latitude":26.450638,
+    "mps:longitude":50.113465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062f\u064a\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Al Badih"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413331,
+    "wof:geomhash":"9c110b19c1033b4f0445e6fb7206f7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072781,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072781,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685240,
+    "wof:name":"Al Badih",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.108318,
+    26.446274,
+    50.119706,
+    26.456352
+],
+  "geometry": {"coordinates":[[[50.108318,26.44663],[50.108649,26.456234],[50.110701,26.456352],[50.1109,26.456115],[50.111099,26.4557],[50.111562,26.455344],[50.112291,26.455048],[50.119706,26.453684],[50.118117,26.446274],[50.108318,26.44663]]],"type":"Polygon"}
+}

@@ -4,22 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000245,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.70082,24.657821,46.70082,24.657821",
-    "geom:latitude":24.657821,
-    "geom:longitude":46.70082,
+    "geom:bbox":"46.684956,24.646202,46.702236,24.668123",
+    "geom:latitude":24.65681,
+    "geom:longitude":46.694615,
     "iso:country":"SA",
-    "lbl:bbox":"46.69582,24.652821,46.70582,24.662821",
+    "lbl:latitude":24.656922,
+    "lbl:longitude":46.69445,
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.656922,
+    "mps:longitude":46.69445,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0645\u0648\u0630\u062c\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0646\u0645\u0648\u0630\u062c\u064a\u0647"
     ],
     "name:eng_x_preferred":[
+        "Al Namudhajiyah"
+    ],
+    "name:eng_x_variant":[
         "An Namudhajiyah"
     ],
     "qs:gn_country":null,
@@ -40,10 +50,15 @@
     "qs:qs_id":1101412,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22725931,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632253,
+        421204501,
         1108720657,
         85676813
     ],
@@ -54,21 +69,24 @@
     },
     "wof:country":"SA",
     "wof:created":1459009142,
-    "wof:geomhash":"b812f1ebc8dace4da5fb2331017cd69a",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"e91c9b22c063e2382cb19d6deb13027f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":421177375,
             "region_id":85676813
         }
     ],
     "wof:id":421177375,
-    "wof:lastmodified":1601423086,
-    "wof:name":"An Namudhajiyah",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685850,
+    "wof:name":"Al Namudhajiyah",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -76,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.70082,
-    24.657821,
-    46.70082,
-    24.657821
+    46.684956,
+    24.646202,
+    46.702236,
+    24.668123
 ],
-  "geometry": {"coordinates":[46.70082,24.657821],"type":"Point"}
+  "geometry": {"coordinates":[[[46.693128,24.646921],[46.69177,24.647773],[46.691025,24.648305],[46.690173,24.650009],[46.684956,24.660763],[46.69587,24.668123],[46.697946,24.666339],[46.698744,24.66586],[46.699383,24.665062],[46.699969,24.664263],[46.700448,24.663039],[46.70114,24.658354],[46.702205,24.650262],[46.702236,24.650021],[46.700368,24.648385],[46.697041,24.646202],[46.693128,24.646921]]],"type":"Polygon"}
 }

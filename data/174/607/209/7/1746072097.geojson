@@ -1,0 +1,71 @@
+{
+  "id": 1746072097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000416,
+    "geom:bbox":"46.64174,24.560984,46.694372,24.596564",
+    "geom:latitude":24.57747,
+    "geom:longitude":46.669616,
+    "iso:country":"SA",
+    "lbl:latitude":24.577485,
+    "lbl:longitude":46.67141,
+    "mps:latitude":24.577485,
+    "mps:longitude":46.67141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u0631\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Shubra"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413035,
+    "wof:geomhash":"61282d99e473a3d772ed1a147e867e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072097,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072097,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685314,
+    "wof:name":"Shubra",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64174,
+    24.560984,
+    46.694372,
+    24.596564
+],
+  "geometry": {"coordinates":[[[46.687588,24.582664],[46.686637,24.582209],[46.68546,24.581186],[46.684028,24.579906],[46.679371,24.576478],[46.672463,24.572231],[46.667397,24.569979],[46.664378,24.569161],[46.659085,24.568121],[46.658647,24.568035],[46.655731,24.567421],[46.653377,24.566193],[46.652165,24.565472],[46.647185,24.562509],[46.64456,24.560984],[46.64174,24.56474],[46.661227,24.57684],[46.692772,24.596564],[46.694372,24.595501],[46.68544,24.585641],[46.687588,24.582664]]],"type":"Polygon"}
+}

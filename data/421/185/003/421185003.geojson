@@ -4,20 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00053,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.74472,24.60778,46.74472,24.60778",
-    "geom:latitude":24.60778,
-    "geom:longitude":46.74472,
+    "geom:bbox":"46.728398,24.59414,46.765451,24.621952",
+    "geom:latitude":24.608815,
+    "geom:longitude":46.745138,
     "iso:country":"SA",
-    "lbl:bbox":"46.73972,24.60278,46.74972,24.61278",
     "lbl:max_zoom":18.0,
+    "mps:latitude":24.609427,
+    "mps:longitude":46.744857,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mansurah"
     ],
     "name:und_x_variant":[
         "Al Man\u015f\u016brah"
@@ -40,12 +45,16 @@
     "qs:qs_id":1016929,
     "qs:woe_adm0":23424938,
     "qs:woe_id":22725967,
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,32 +64,37 @@
     },
     "wof:country":"SA",
     "wof:created":1459009429,
-    "wof:geomhash":"84111396a4966a3f9b868bcb28fd13d1",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"33f04a75ca7ca1f28a1803b0b32b4824",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":421185003,
             "region_id":85676813
         }
     ],
     "wof:id":421185003,
-    "wof:lastmodified":1566638472,
+    "wof:lastmodified":1627685855,
     "wof:name":"Al Mansurah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85907401
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    46.74472,
-    24.60778,
-    46.74472,
-    24.60778
+    46.728398,
+    24.59414,
+    46.765451,
+    24.621952
 ],
-  "geometry": {"coordinates":[46.74472,24.60778],"type":"Point"}
+  "geometry": {"coordinates":[[[46.765451,24.612263],[46.763576,24.610212],[46.76173,24.608443],[46.756348,24.604675],[46.745966,24.598985],[46.737277,24.59414],[46.734816,24.598062],[46.732432,24.602522],[46.728398,24.610826],[46.74735,24.621952],[46.752674,24.618652],[46.755975,24.616522],[46.757998,24.615032],[46.761831,24.613541],[46.76428,24.612796],[46.765451,24.612263]]],"type":"Polygon"}
 }

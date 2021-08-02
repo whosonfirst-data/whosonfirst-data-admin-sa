@@ -1,0 +1,71 @@
+{
+  "id": 1746073033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:bbox":"50.001414,26.558658,50.004078,26.561728",
+    "geom:latitude":26.560499,
+    "geom:longitude":50.002966,
+    "iso:country":"SA",
+    "lbl:latitude":26.560574,
+    "lbl:longitude":50.002941,
+    "mps:latitude":26.560574,
+    "mps:longitude":50.002941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0634\u0645\u0627\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Bab Ash Shamal"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125781573,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413437,
+    "wof:geomhash":"12f0346c52fdd3702bb4f836d5199aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1125781573,
+            "neighbourhood_id":1746073033,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073033,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685247,
+    "wof:name":"Bab Ash Shamal",
+    "wof:parent_id":1125781573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.001414,
+    26.558658,
+    50.004078,
+    26.561728
+],
+  "geometry": {"coordinates":[[[50.003941,26.561728],[50.004078,26.558658],[50.003199,26.559518],[50.001826,26.559518],[50.001936,26.559837],[50.001936,26.560279],[50.001853,26.560672],[50.001414,26.561483],[50.003941,26.561728]]],"type":"Polygon"}
+}

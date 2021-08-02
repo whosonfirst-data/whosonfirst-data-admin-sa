@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000718,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.690919,24.702746,46.690919,24.702746",
-    "geom:latitude":24.702746,
-    "geom:longitude":46.690919,
+    "geom:bbox":"46.682106,24.675363,46.718136,24.721148",
+    "geom:latitude":24.700786,
+    "geom:longitude":46.702469,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"46.685919,24.697746,46.695919,24.707746",
-    "lbl:latitude":24.702746,
-    "lbl:longitude":46.690919,
+    "lbl:latitude":24.704023,
+    "lbl:longitude":46.699739,
     "lbl:max_zoom":18.0,
-    "mps:latitude":24.705357,
-    "mps:longitude":46.690771,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":24.704023,
+    "mps:longitude":46.699739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -26,7 +25,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u064a\u0645\u0627\u0646\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
+        "Al Sulaimaniyah"
+    ],
+    "name:eng_x_variant":[
         "As Sulaimaniyah"
     ],
     "qs:gn_adm0_cc":"SA",
@@ -52,17 +57,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939753,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
-        1108720657
+        421204501,
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,15 +79,16 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"3218b77c2a07c8a080a38d236a24ad8d",
+    "wof:geomhash":"655ffdeba370c4a5d02c690356b67129",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720657,
-            "locality_id":-1,
+            "locality_id":421204501,
             "neighbourhood_id":85907397,
             "region_id":85676813
         }
@@ -89,9 +97,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582326292,
-    "wof:name":"As Sulaimaniyah",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685876,
+    "wof:name":"Al Sulaimaniyah",
+    "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -99,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.690919,
-    24.702746,
-    46.690919,
-    24.702746
+    46.682106,
+    24.675363,
+    46.718136,
+    24.721148
 ],
-  "geometry": {"coordinates":[46.690919,24.702746],"type":"Point"}
+  "geometry": {"coordinates":[[[46.707981,24.681273],[46.703429,24.675363],[46.699064,24.685372],[46.703429,24.696871],[46.700342,24.695061],[46.696189,24.693464],[46.69374,24.698255],[46.69193,24.701769],[46.691291,24.706028],[46.690333,24.707519],[46.687245,24.706241],[46.682106,24.716421],[46.692862,24.721148],[46.695297,24.717168],[46.697587,24.714719],[46.700408,24.712749],[46.703123,24.711631],[46.709352,24.709129],[46.717923,24.706521],[46.718136,24.6922],[46.716393,24.691547],[46.715168,24.690483],[46.713624,24.688619],[46.707981,24.681273]]],"type":"Polygon"}
 }

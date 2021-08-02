@@ -1,0 +1,71 @@
+{
+  "id": 1746073115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:bbox":"50.069732,26.582304,50.081137,26.59409",
+    "geom:latitude":26.588375,
+    "geom:longitude":50.075417,
+    "iso:country":"SA",
+    "lbl:latitude":26.588498,
+    "lbl:longitude":50.07533,
+    "mps:latitude":26.588498,
+    "mps:longitude":50.07533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0631\u062c\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "An Narjis"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125781573,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413498,
+    "wof:geomhash":"035f2e3d1c7715042cc3e2c4771a2eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1125781573,
+            "neighbourhood_id":1746073115,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746073115,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685795,
+    "wof:name":"An Narjis",
+    "wof:parent_id":1125781573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.069732,
+    26.582304,
+    50.081137,
+    26.59409
+],
+  "geometry": {"coordinates":[[[50.081137,26.588472],[50.0797,26.587609],[50.079975,26.587265],[50.079122,26.586734],[50.079069,26.5867],[50.077256,26.585742],[50.075032,26.583851],[50.073823,26.582304],[50.072588,26.584981],[50.071819,26.58503],[50.070665,26.585325],[50.069732,26.585693],[50.070336,26.587093],[50.070803,26.588198],[50.071379,26.58923],[50.072258,26.590261],[50.073055,26.590973],[50.07473,26.592029],[50.076872,26.593257],[50.07819,26.593994],[50.079196,26.59409],[50.078904,26.592729],[50.078794,26.591157],[50.080222,26.589389],[50.080991,26.5888],[50.081137,26.588472]]],"type":"Polygon"}
+}

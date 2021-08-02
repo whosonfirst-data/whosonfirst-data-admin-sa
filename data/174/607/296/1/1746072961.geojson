@@ -1,0 +1,71 @@
+{
+  "id": 1746072961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:bbox":"50.021681,26.555882,50.037499,26.572118",
+    "geom:latitude":26.56432,
+    "geom:longitude":50.030196,
+    "iso:country":"SA",
+    "lbl:latitude":26.565268,
+    "lbl:longitude":50.030347,
+    "mps:latitude":26.565268,
+    "mps:longitude":50.030347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0636\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rida"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1125781573,
+        1108720627,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413407,
+    "wof:geomhash":"5c9b858cc6cc0e436485627b34d06915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720627,
+            "locality_id":1125781573,
+            "neighbourhood_id":1746072961,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072961,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685724,
+    "wof:name":"Ar Rida",
+    "wof:parent_id":1125781573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.021681,
+    26.555882,
+    50.037499,
+    26.572118
+],
+  "geometry": {"coordinates":[[[50.037499,26.5563],[50.032473,26.555882],[50.03121,26.556005],[50.02959,26.556717],[50.027805,26.557896],[50.027365,26.559247],[50.027283,26.560377],[50.026953,26.560721],[50.02613,26.561114],[50.02558,26.561409],[50.022779,26.561286],[50.022999,26.563472],[50.022559,26.565462],[50.021681,26.570448],[50.022367,26.570473],[50.031896,26.571627],[50.035137,26.572118],[50.035807,26.567628],[50.037499,26.5563]]],"type":"Polygon"}
+}

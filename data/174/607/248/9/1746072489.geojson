@@ -1,0 +1,71 @@
+{
+  "id": 1746072489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000944,
+    "geom:bbox":"39.144077,21.420402,39.205308,21.45945",
+    "geom:latitude":21.441445,
+    "geom:longitude":39.174453,
+    "iso:country":"SA",
+    "lbl:latitude":21.440905,
+    "lbl:longitude":39.174917,
+    "mps:latitude":21.440905,
+    "mps:longitude":39.174917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0628\u062a\u0631\u0648\u0645\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Petromin"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413217,
+    "wof:geomhash":"4219ba1494d5a13d73c5e80ad6dd71e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072489,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072489,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685499,
+    "wof:name":"Petromin",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.144077,
+    21.420402,
+    39.205308,
+    21.45945
+],
+  "geometry": {"coordinates":[[[39.152444,21.44436],[39.159573,21.445122],[39.179572,21.448536],[39.179644,21.453156],[39.179932,21.455433],[39.179572,21.458512],[39.183528,21.45945],[39.186478,21.45945],[39.193245,21.45909],[39.194031,21.459048],[39.198204,21.458914],[39.197902,21.448623],[39.197962,21.447723],[39.205308,21.445025],[39.196133,21.436447],[39.193198,21.439058],[39.191307,21.439968],[39.190002,21.440332],[39.185763,21.440697],[39.18511,21.434626],[39.172914,21.433958],[39.1645,21.432804],[39.161239,21.430254],[39.161976,21.426607],[39.152758,21.425733],[39.153424,21.420782],[39.144853,21.420402],[39.144077,21.431548],[39.151585,21.4321],[39.152444,21.44436]]],"type":"Polygon"}
+}

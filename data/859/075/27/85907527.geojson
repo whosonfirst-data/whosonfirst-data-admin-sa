@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000698,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.127472,21.581082,39.127472,21.581082",
-    "geom:latitude":21.581082,
-    "geom:longitude":39.127472,
+    "geom:bbox":"39.120967,21.572018,39.144396,21.610834",
+    "geom:latitude":21.591756,
+    "geom:longitude":39.133857,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"39.122472,21.576082,39.132472,21.586082",
-    "lbl:latitude":21.581082,
-    "lbl:longitude":39.127472,
+    "lbl:latitude":21.592626,
+    "lbl:longitude":39.134081,
     "lbl:max_zoom":18.0,
-    "mps:latitude":21.581381,
-    "mps:longitude":39.127173,
-    "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mps:latitude":21.592626,
+    "mps:longitude":39.134081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,7 +29,7 @@
         "\u0627\u0644\u0632\u0647\u0631\u0627\u0621"
     ],
     "name:eng_x_preferred":[
-        "Al Zahra'a"
+        "Az Zahra"
     ],
     "name:eng_x_variant":[
         "Al Zahraa",
@@ -58,17 +57,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939873,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720715
+        421200923,
+        1108720715,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,15 +79,16 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "mz"
     ],
-    "wof:geomhash":"92366cb353184ff8969129c6c04e0bcf",
+    "wof:geomhash":"b7139ff5687c4ea8a7658ea7f38e1505",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720715,
-            "locality_id":-1,
+            "locality_id":421200923,
             "neighbourhood_id":85907527,
             "region_id":85676857
         }
@@ -95,9 +97,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326293,
-    "wof:name":"\u0627\u0644\u0632\u0647\u0631\u0627\u0621",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1627685905,
+    "wof:name":"Az Zahra",
+    "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -105,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.127472,
-    21.581082,
-    39.127472,
-    21.581082
+    39.120967,
+    21.572018,
+    39.144396,
+    21.610834
 ],
-  "geometry": {"coordinates":[39.127472,21.581082],"type":"Point"}
+  "geometry": {"coordinates":[[[39.1413,21.610834],[39.142173,21.605377],[39.142766,21.603033],[39.144248,21.599174],[39.144396,21.59752],[39.143507,21.574775],[39.135057,21.572156],[39.133871,21.572018],[39.126465,21.572508],[39.126988,21.579618],[39.12688,21.582206],[39.125914,21.585673],[39.125039,21.588327],[39.122859,21.59466],[39.121872,21.597746],[39.121378,21.599149],[39.121104,21.600398],[39.121022,21.602234],[39.121022,21.604734],[39.120967,21.606213],[39.1413,21.610834]]],"type":"Polygon"}
 }

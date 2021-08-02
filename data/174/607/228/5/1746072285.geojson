@@ -1,0 +1,71 @@
+{
+  "id": 1746072285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000274,
+    "geom:bbox":"46.546711,24.77194,46.572531,24.797791",
+    "geom:latitude":24.786628,
+    "geom:longitude":46.561472,
+    "iso:country":"SA",
+    "lbl:latitude":24.787559,
+    "lbl:longitude":46.562353,
+    "mps:latitude":24.787559,
+    "mps:longitude":46.562353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0645\u0627\u0646\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Salmaniyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204501,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413133,
+    "wof:geomhash":"65d211ed7dd65088d55a394cc997ac5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":421204501,
+            "neighbourhood_id":1746072285,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":1746072285,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685399,
+    "wof:name":"Al Salmaniyah",
+    "wof:parent_id":421204501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.546711,
+    24.77194,
+    46.572531,
+    24.797791
+],
+  "geometry": {"coordinates":[[[46.564865,24.796719],[46.566249,24.791129],[46.568591,24.783782],[46.572531,24.775157],[46.564488,24.77194],[46.564439,24.77207],[46.561724,24.777766],[46.559431,24.782328],[46.556666,24.787828],[46.555814,24.789585],[46.555016,24.790224],[46.554004,24.790703],[46.552673,24.791342],[46.55113,24.79198],[46.549266,24.792619],[46.548148,24.793098],[46.547403,24.793897],[46.546711,24.795068],[46.546711,24.796399],[46.546893,24.797791],[46.547456,24.797517],[46.549852,24.797038],[46.552354,24.796772],[46.555814,24.796612],[46.557944,24.796506],[46.559967,24.796346],[46.561884,24.796293],[46.563214,24.796399],[46.564865,24.796719]]],"type":"Polygon"}
+}

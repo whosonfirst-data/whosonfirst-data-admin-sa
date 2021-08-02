@@ -1,0 +1,71 @@
+{
+  "id": 1746072383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002047,
+    "geom:bbox":"39.189831,21.225337,39.232458,21.285748",
+    "geom:latitude":21.259239,
+    "geom:longitude":39.21099,
+    "iso:country":"SA",
+    "lbl:latitude":21.26002,
+    "lbl:longitude":39.212715,
+    "mps:latitude":21.26002,
+    "mps:longitude":39.212715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u064a\u0633\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Moulysaa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421200923,
+        1108720715,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413175,
+    "wof:geomhash":"7855ff705795485d5bb7f34b882772ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720715,
+            "locality_id":421200923,
+            "neighbourhood_id":1746072383,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746072383,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685447,
+    "wof:name":"Al Moulysaa",
+    "wof:parent_id":421200923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.189831,
+    21.225337,
+    39.232458,
+    21.285748
+],
+  "geometry": {"coordinates":[[[39.232237,21.285748],[39.232458,21.244621],[39.19455,21.225337],[39.193805,21.226495],[39.192811,21.228115],[39.191569,21.23043],[39.190576,21.232745],[39.189831,21.235755],[39.189831,21.239459],[39.189893,21.24131],[39.191011,21.245593],[39.191631,21.247792],[39.192997,21.250569],[39.193494,21.253578],[39.19337,21.257397],[39.192997,21.267118],[39.192749,21.28517],[39.232237,21.285748]]],"type":"Polygon"}
+}

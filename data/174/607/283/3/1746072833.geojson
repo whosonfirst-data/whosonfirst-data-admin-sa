@@ -1,0 +1,71 @@
+{
+  "id": 1746072833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000471,
+    "geom:bbox":"50.151886,26.383389,50.174697,26.420067",
+    "geom:latitude":26.402744,
+    "geom:longitude":50.162884,
+    "iso:country":"SA",
+    "lbl:latitude":26.403863,
+    "lbl:longitude":50.162711,
+    "mps:latitude":26.403863,
+    "mps:longitude":50.162711,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0644\u062f\u064a\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khalidiyah Al Janubiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413354,
+    "wof:geomhash":"875ed52316abbad7f981e156940e448c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072833,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072833,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685664,
+    "wof:name":"Al Khalidiyah Al Janubiyah",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.151886,
+    26.383389,
+    50.174697,
+    26.420067
+],
+  "geometry": {"coordinates":[[[50.151886,26.394151],[50.152714,26.398362],[50.152979,26.402514],[50.161719,26.420067],[50.166751,26.417577],[50.170592,26.415679],[50.172578,26.414138],[50.174697,26.412358],[50.171783,26.403463],[50.170856,26.401684],[50.1694,26.39943],[50.168075,26.396702],[50.167943,26.393736],[50.167413,26.391482],[50.164672,26.383389],[50.151886,26.394151]]],"type":"Polygon"}
+}

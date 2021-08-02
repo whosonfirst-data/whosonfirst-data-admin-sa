@@ -1,0 +1,71 @@
+{
+  "id": 1746072529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000627,
+    "geom:bbox":"39.660604,24.376136,39.695854,24.41083",
+    "geom:latitude":24.392634,
+    "geom:longitude":39.679639,
+    "iso:country":"SA",
+    "lbl:latitude":24.389032,
+    "lbl:longitude":39.67937,
+    "mps:latitude":24.389032,
+    "mps:longitude":39.67937,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0627\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rumanah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421166941,
+        1108720605,
+        85676825
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413233,
+    "wof:geomhash":"327339527a3f27fe4a8d60823c4703a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720605,
+            "locality_id":421166941,
+            "neighbourhood_id":1746072529,
+            "region_id":85676825
+        }
+    ],
+    "wof:id":1746072529,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685520,
+    "wof:name":"Ar Rumanah",
+    "wof:parent_id":421166941,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.660604,
+    24.376136,
+    39.695854,
+    24.41083
+],
+  "geometry": {"coordinates":[[[39.660604,24.3955],[39.670024,24.399776],[39.677988,24.398476],[39.685567,24.41083],[39.695854,24.404984],[39.695849,24.404944],[39.688762,24.385581],[39.684448,24.378565],[39.680741,24.376136],[39.677246,24.379192],[39.669886,24.379242],[39.668788,24.380093],[39.665328,24.388747],[39.660604,24.3955]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1746072749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000179,
+    "geom:bbox":"50.089281,26.384187,50.104842,26.403641",
+    "geom:latitude":26.39409,
+    "geom:longitude":50.098873,
+    "iso:country":"SA",
+    "lbl:latitude":26.394026,
+    "lbl:longitude":50.098243,
+    "mps:latitude":26.394026,
+    "mps:longitude":50.098243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u0645\u0639\u064a\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jamiyin"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413319,
+    "wof:geomhash":"42b40921aca6681d439a08c604644e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072749,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072749,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685624,
+    "wof:name":"Al Jamiyin",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.089281,
+    26.384187,
+    50.104842,
+    26.403641
+],
+  "geometry": {"coordinates":[[[50.09403,26.388686],[50.089281,26.396287],[50.103782,26.403641],[50.104378,26.40287],[50.104842,26.401684],[50.104113,26.384187],[50.100339,26.385729],[50.098088,26.38733],[50.094909,26.388517],[50.09403,26.388686]]],"type":"Polygon"}
+}

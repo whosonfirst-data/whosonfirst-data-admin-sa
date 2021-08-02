@@ -1,0 +1,71 @@
+{
+  "id": 1746072811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:bbox":"50.026574,26.459676,50.039899,26.466399",
+    "geom:latitude":26.462925,
+    "geom:longitude":50.033626,
+    "iso:country":"SA",
+    "lbl:latitude":26.462885,
+    "lbl:longitude":50.033626,
+    "mps:latitude":26.462885,
+    "mps:longitude":50.033626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u0628\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rabiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190297,
+        1108720541,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1627413344,
+    "wof:geomhash":"e521c03025967bd08ec2e6e806980bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720541,
+            "locality_id":421190297,
+            "neighbourhood_id":1746072811,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1746072811,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1627685652,
+    "wof:name":"Ar Rabiyah",
+    "wof:parent_id":421190297,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.026574,
+    26.459676,
+    50.039899,
+    26.466399
+],
+  "geometry": {"coordinates":[[[50.038319,26.466399],[50.039899,26.462898],[50.039899,26.462898],[50.029673,26.459676],[50.026574,26.462521],[50.038319,26.466399]]],"type":"Polygon"}
+}
