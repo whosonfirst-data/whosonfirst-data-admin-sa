@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.003042,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.90472,21.46778,39.90472,21.46778",
-    "geom:latitude":21.46778,
-    "geom:longitude":39.90472,
+    "geom:bbox":"39.895378,21.385696,39.996594,21.482957",
+    "geom:latitude":21.439863,
+    "geom:longitude":39.953375,
     "gn:admin1_code":"14.0",
     "gn:asciiname":"Al Khadra'",
     "gn:country_code":"SA",
@@ -23,18 +23,34 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"39.89972,21.46278,39.90972,21.47278",
+    "lbl:latitude":21.424495,
+    "lbl:longitude":39.975229,
     "lbl:max_zoom":18.0,
+    "mps:latitude":21.424495,
+    "mps:longitude":39.975229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0636\u0631\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khadra"
+    ],
+    "name:eng_x_variant":[
+        "Al Khadra'"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062e\u062f\u0631\u0627\u0639"
     ],
     "name:und_x_variant":[
         "Al Kha\u1e11r\u0101\u2019"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85676857,
         102191569,
@@ -48,7 +64,10 @@
         "wk:page":"Al_Khadra%27%2C_Makkah"
     },
     "wof:country":"SA",
-    "wof:geomhash":"12f66974d9f17760e26b924c7f5a7ef5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1ce551e4e13fd774d9d093f2d75a2cee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +79,8 @@
         }
     ],
     "wof:id":1361026221,
-    "wof:lastmodified":1566638434,
-    "wof:name":"Al Khadra'",
+    "wof:lastmodified":1629146440,
+    "wof:name":"Al Khadra",
     "wof:parent_id":1108720727,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -72,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.90472000000001,
-    21.46778,
-    39.90472000000001,
-    21.46778
+    39.895378,
+    21.385696,
+    39.996594,
+    21.482957
 ],
-  "geometry": {"coordinates":[39.90472000000001,21.46778],"type":"Point"}
+  "geometry": {"coordinates":[[[39.991444,21.385696],[39.966181,21.402926],[39.962319,21.413713],[39.93271,21.451858],[39.930136,21.45106],[39.926488,21.449662],[39.924772,21.452657],[39.921339,21.458448],[39.915332,21.456851],[39.910611,21.454854],[39.906749,21.453855],[39.904175,21.453256],[39.898382,21.452058],[39.895378,21.461643],[39.89688,21.462641],[39.89924,21.464239],[39.903102,21.469031],[39.906535,21.473024],[39.90868,21.474821],[39.912113,21.476418],[39.921768,21.48101],[39.935446,21.482957],[39.950465,21.455403],[39.953254,21.451309],[39.970418,21.441724],[39.971384,21.443721],[39.972885,21.442523],[39.977927,21.443621],[39.981789,21.442123],[39.98608,21.438329],[39.996594,21.437131],[39.992088,21.418357],[39.990801,21.408469],[39.989835,21.39968],[39.989835,21.397683],[39.990157,21.394686],[39.99123,21.389192],[39.991444,21.385696]]],"type":"Polygon"}
 }

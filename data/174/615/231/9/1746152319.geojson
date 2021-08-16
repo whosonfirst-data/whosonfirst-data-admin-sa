@@ -1,0 +1,55 @@
+{
+  "id": 1746152319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:bbox":"39.789968,21.432038,39.80666,21.441125",
+    "geom:latitude":21.437061,
+    "geom:longitude":39.799771,
+    "iso:country":"SA",
+    "lbl:latitude":21.436498,
+    "lbl:longitude":39.801031,
+    "mps:latitude":21.436498,
+    "mps:longitude":39.801031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u064a\u0627\u0641\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ad Diyafah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146453,
+    "wof:geomhash":"785d98534e70d1ee4a66af9ef5994ec0",
+    "wof:hierarchy":[],
+    "wof:id":1746152319,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629146453,
+    "wof:name":"Ad Diyafah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.789968,
+    21.432038,
+    39.80666,
+    21.441125
+],
+  "geometry": {"coordinates":[[[39.8043,21.441125],[39.804461,21.439028],[39.804622,21.43748],[39.804944,21.436382],[39.805266,21.435683],[39.805749,21.434884],[39.806124,21.433636],[39.80666,21.432038],[39.80607,21.432338],[39.805534,21.432637],[39.804944,21.432987],[39.804408,21.433236],[39.803925,21.433436],[39.803335,21.433486],[39.802906,21.433436],[39.802369,21.433186],[39.80194,21.432887],[39.801458,21.432637],[39.800975,21.432587],[39.800438,21.432587],[39.799848,21.432737],[39.799205,21.433336],[39.79722,21.434934],[39.794163,21.437131],[39.792393,21.438379],[39.790086,21.439277],[39.789968,21.439295],[39.790086,21.439777],[39.798883,21.440226],[39.801297,21.440426],[39.8043,21.441125]]],"type":"Polygon"}
+}

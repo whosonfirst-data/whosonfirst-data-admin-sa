@@ -1,0 +1,55 @@
+{
+  "id": 1746152345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:bbox":"39.823636,21.420501,39.828153,21.425818",
+    "geom:latitude":21.422895,
+    "geom:longitude":39.82592,
+    "iso:country":"SA",
+    "lbl:latitude":21.422845,
+    "lbl:longitude":39.82592,
+    "mps:latitude":21.422845,
+    "mps:longitude":39.82592,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Al Haram"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146462,
+    "wof:geomhash":"7344cdc51a89eee353fad266db10dfba",
+    "wof:hierarchy":[],
+    "wof:id":1746152345,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629146462,
+    "wof:name":"Al Haram",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.823636,
+    21.420501,
+    39.828153,
+    21.425818
+],
+  "geometry": {"coordinates":[[[39.828153,21.425794],[39.827509,21.425094],[39.827697,21.421674],[39.826451,21.420718],[39.826168,21.420501],[39.82598,21.420501],[39.825551,21.420501],[39.824827,21.420551],[39.824425,21.420626],[39.824183,21.42085],[39.823942,21.4212],[39.823781,21.421674],[39.823636,21.422242],[39.823647,21.422248],[39.823808,21.422498],[39.823942,21.422947],[39.824371,21.423721],[39.825122,21.42447],[39.826007,21.425269],[39.826704,21.425644],[39.827268,21.425794],[39.827911,21.425818],[39.828153,21.425794]]],"type":"Polygon"}
+}

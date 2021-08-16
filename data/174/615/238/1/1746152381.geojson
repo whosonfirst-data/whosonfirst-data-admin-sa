@@ -1,0 +1,55 @@
+{
+  "id": 1746152381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000378,
+    "geom:bbox":"39.803191,21.363691,39.826657,21.394483",
+    "geom:latitude":21.378042,
+    "geom:longitude":39.81344,
+    "iso:country":"SA",
+    "lbl:latitude":21.377871,
+    "lbl:longitude":39.813262,
+    "mps:latitude":21.377871,
+    "mps:longitude":39.813262,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0639\u0643\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kakiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146475,
+    "wof:geomhash":"1a3b9b7b9ee44129703b75898a93af6d",
+    "wof:hierarchy":[],
+    "wof:id":1746152381,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629146475,
+    "wof:name":"Al Kakiyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.803191,
+    21.363691,
+    39.826657,
+    21.394483
+],
+  "geometry": {"coordinates":[[[39.826657,21.385568],[39.825719,21.38357],[39.825826,21.381672],[39.824753,21.380274],[39.822179,21.379075],[39.822822,21.377777],[39.82057,21.376478],[39.815528,21.363691],[39.812309,21.36439],[39.811666,21.366088],[39.803191,21.365689],[39.803995,21.370159],[39.809627,21.394483],[39.810486,21.394059],[39.811156,21.393534],[39.812604,21.392361],[39.81365,21.391087],[39.814938,21.389489],[39.815742,21.388465],[39.816574,21.387791],[39.817727,21.387117],[39.81947,21.386317],[39.82116,21.386093],[39.823466,21.385893],[39.825182,21.385868],[39.826657,21.385568]]],"type":"Polygon"}
+}

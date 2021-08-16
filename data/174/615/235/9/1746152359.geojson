@@ -1,0 +1,55 @@
+{
+  "id": 1746152359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000232,
+    "geom:bbox":"39.787582,21.394483,39.811022,21.411213",
+    "geom:latitude":21.402018,
+    "geom:longitude":39.801445,
+    "iso:country":"SA",
+    "lbl:latitude":21.402959,
+    "lbl:longitude":39.802617,
+    "mps:latitude":21.402959,
+    "mps:longitude":39.802617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0644\u062f\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khalidiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146468,
+    "wof:geomhash":"00f5b7c0e6f660af7a57cab677ba3760",
+    "wof:hierarchy":[],
+    "wof:id":1746152359,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629146468,
+    "wof:name":"Al Khalidiyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.787582,
+    21.394483,
+    39.811022,
+    21.411213
+],
+  "geometry": {"coordinates":[[[39.807844,21.411213],[39.808823,21.407418],[39.809949,21.400077],[39.810378,21.399178],[39.811022,21.399028],[39.810432,21.39688],[39.809627,21.394483],[39.807857,21.395182],[39.806516,21.395532],[39.80539,21.395682],[39.804049,21.395782],[39.800562,21.395732],[39.798149,21.395782],[39.796003,21.396081],[39.793107,21.396581],[39.791229,21.39703],[39.789567,21.397629],[39.78844,21.398079],[39.787582,21.398678],[39.787904,21.399028],[39.78785,21.399377],[39.790425,21.400326],[39.791819,21.400226],[39.79198,21.402424],[39.792785,21.402673],[39.793804,21.403672],[39.797934,21.407867],[39.798987,21.409234],[39.806308,21.411094],[39.807844,21.411213]]],"type":"Polygon"}
+}

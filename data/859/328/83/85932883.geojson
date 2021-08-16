@@ -4,23 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000076,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.827395,21.421874,39.827395,21.421874",
-    "geom:latitude":21.421874,
-    "geom:longitude":39.827395,
+    "geom:bbox":"39.826451,21.412012,39.836567,21.423896",
+    "geom:latitude":21.418757,
+    "geom:longitude":39.831333,
     "gn:country":"SA",
     "gn:fcode":"PPLX",
     "gn:latitude":21.41866,
     "gn:longitude":39.83356,
     "gn:population":0,
     "iso:country":"SA",
-    "lbl:bbox":"39.822395,21.416874,39.832395,21.426874",
-    "lbl:latitude":21.421874,
-    "lbl:longitude":39.827395,
+    "lbl:latitude":21.418934,
+    "lbl:longitude":39.831429,
     "lbl:max_zoom":18.0,
-    "mps:latitude":21.412884,
-    "mps:longitude":39.829985,
+    "mps:latitude":21.418934,
+    "mps:longitude":39.831429,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -69,16 +68,17 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424938,
     "qs_pg:woe_id":55948479,
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720727
+        1108720727,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,9 +89,10 @@
     },
     "wof:country":"SA",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"0ff6e2a996c84b1046326693e6c9967e",
+    "wof:geomhash":"cf20ee457a7a3e50a5bcac6e2081e7fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,8 +107,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326294,
-    "wof:name":"\u0627\u062c\u064a\u0627\u062f",
+    "wof:lastmodified":1629146826,
+    "wof:name":"Ajyad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -118,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.827395,
-    21.421874,
-    39.827395,
-    21.421874
+    39.826451,
+    21.412012,
+    39.836567,
+    21.423896
 ],
-  "geometry": {"coordinates":[39.827395,21.421874],"type":"Point"}
+  "geometry": {"coordinates":[[[39.836252,21.423821],[39.836487,21.422872],[39.836511,21.422479],[39.836567,21.421574],[39.836487,21.420276],[39.835897,21.418753],[39.834475,21.416581],[39.832839,21.414908],[39.831391,21.41361],[39.82879,21.412012],[39.828575,21.412087],[39.828099,21.412361],[39.827992,21.412886],[39.827858,21.414009],[39.82775,21.414559],[39.827643,21.415133],[39.827616,21.415632],[39.827804,21.416206],[39.827884,21.416556],[39.827965,21.41688],[39.827965,21.417255],[39.827375,21.418453],[39.827053,21.419302],[39.826785,21.419976],[39.826597,21.420351],[39.826451,21.420718],[39.827697,21.421674],[39.828179,21.422872],[39.828501,21.423372],[39.82885,21.423696],[39.829199,21.423871],[39.829574,21.423896],[39.830003,21.423696],[39.830486,21.423347],[39.831398,21.423072],[39.831773,21.423022],[39.832444,21.422748],[39.832766,21.422673],[39.834804,21.422698],[39.834992,21.423397],[39.835394,21.423721],[39.835742,21.423821],[39.836252,21.423821]]],"type":"Polygon"}
 }
