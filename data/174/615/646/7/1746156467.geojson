@@ -1,0 +1,58 @@
+{
+  "id": 1746156467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00017,
+    "geom:bbox":"39.989028,21.418557,40.005068,21.45585",
+    "geom:latitude":21.440452,
+    "geom:longitude":39.996867,
+    "iso:country":"SA",
+    "lbl:latitude":21.450075,
+    "lbl:longitude":40.00033,
+    "mps:latitude":21.450075,
+    "mps:longitude":40.00033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0645\u0643\u0629 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Mecca East Airport"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:coterminous":[
+        1746156459
+    ],
+    "wof:country":"SA",
+    "wof:created":1629226636,
+    "wof:geomhash":"5e1c77b86dea04aefd54b762f843fb79",
+    "wof:hierarchy":[],
+    "wof:id":1746156467,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629227003,
+    "wof:name":"Mecca East Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.989028,
+    21.418557,
+    40.005068,
+    21.45585
+],
+  "geometry": {"coordinates":[[[40.004635,21.453624],[40.005068,21.451809],[40.004425,21.449812],[40.002708,21.446417],[40.000134,21.442623],[39.997988,21.439627],[39.996594,21.437131],[39.992136,21.418557],[39.989028,21.41919],[39.993467,21.437487],[39.997921,21.45585],[40.004635,21.453624]]],"type":"Polygon"}
+}
