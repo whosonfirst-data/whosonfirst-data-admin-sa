@@ -95,6 +95,7 @@
     "wof:belongsto":[
         102191569,
         85632253,
+        421204201,
         1108720727,
         85676857
     ],
@@ -115,7 +116,7 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720727,
-            "locality_id":-1,
+            "locality_id":421204201,
             "neighbourhood_id":85932881,
             "region_id":85676857
         }
@@ -124,9 +125,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1629146831,
+    "wof:lastmodified":1629228829,
     "wof:name":"Al Aziziyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

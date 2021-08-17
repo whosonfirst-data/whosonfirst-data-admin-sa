@@ -53,11 +53,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1327003739,
-        1108720727
+        421204201,
+        1108720727,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,15 +74,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720727,
-            "locality_id":1327003739,
+            "locality_id":421204201,
             "neighbourhood_id":1361026081,
             "region_id":85676857
         }
     ],
     "wof:id":1361026081,
-    "wof:lastmodified":1629146442,
+    "wof:lastmodified":1629228764,
     "wof:name":"At Tanim",
-    "wof:parent_id":1108720727,
+    "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

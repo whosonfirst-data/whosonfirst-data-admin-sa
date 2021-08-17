@@ -34,11 +34,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1260374123,
-        1108720727
+        421204201,
+        1108720727,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +51,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720727,
-            "locality_id":1260374123,
+            "locality_id":421204201,
             "neighbourhood_id":1361025993,
             "region_id":85676857
         }
     ],
     "wof:id":1361025993,
-    "wof:lastmodified":1629147157,
+    "wof:lastmodified":1629228755,
     "wof:name":"Al Mu`aysim",
-    "wof:parent_id":1108720727,
+    "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

@@ -54,8 +54,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
+        421204201,
         1108720727,
-        1260063545,
         85676857
     ],
     "wof:breaches":[],
@@ -73,15 +73,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720727,
-            "locality_id":1260063545,
+            "locality_id":421204201,
             "neighbourhood_id":1361026221,
             "region_id":85676857
         }
     ],
     "wof:id":1361026221,
-    "wof:lastmodified":1629226968,
+    "wof:lastmodified":1629228735,
     "wof:name":"Al Khadra",
-    "wof:parent_id":1108720727,
+    "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

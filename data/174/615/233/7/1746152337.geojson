@@ -23,12 +23,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204201,
+        1108720727,
+        85676857
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:created":1629146459,
     "wof:geomhash":"68e988f46f6379584dda6a6700929318",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":421204201,
+            "neighbourhood_id":1746152337,
+            "region_id":85676857
+        }
+    ],
     "wof:id":1746152337,
     "wof:lang_x_official":[
         "ara"
@@ -36,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1629146459,
+    "wof:lastmodified":1629228795,
     "wof:name":"Jarwal",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
