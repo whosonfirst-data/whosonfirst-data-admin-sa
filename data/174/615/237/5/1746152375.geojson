@@ -1,0 +1,70 @@
+{
+  "id": 1746152375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:bbox":"39.809627,21.385568,39.826657,21.402973",
+    "geom:latitude":21.394101,
+    "geom:longitude":39.818793,
+    "iso:country":"SA",
+    "lbl:latitude":21.394145,
+    "lbl:longitude":39.818955,
+    "mps:latitude":21.394145,
+    "mps:longitude":39.818955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0642\u0648\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "At Taqwa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204201,
+        1108720727,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146473,
+    "wof:geomhash":"b44b354d83db5184ea3b5fbf1ea0e0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":421204201,
+            "neighbourhood_id":1746152375,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746152375,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629228815,
+    "wof:name":"At Taqwa",
+    "wof:parent_id":421204201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.809627,
+    21.385568,
+    39.826657,
+    21.402973
+],
+  "geometry": {"coordinates":[[[39.82588,21.39733],[39.825531,21.388964],[39.825531,21.387891],[39.825826,21.386942],[39.826657,21.385568],[39.825182,21.385868],[39.823466,21.385893],[39.82116,21.386093],[39.81947,21.386317],[39.817727,21.387117],[39.816574,21.387791],[39.815742,21.388465],[39.814938,21.389489],[39.81365,21.391087],[39.812604,21.392361],[39.811156,21.393534],[39.810486,21.394059],[39.809627,21.394483],[39.810432,21.39688],[39.811022,21.399028],[39.812524,21.399427],[39.814026,21.400526],[39.816225,21.402973],[39.818746,21.401824],[39.819926,21.401325],[39.821213,21.400626],[39.823359,21.398728],[39.824539,21.398029],[39.825236,21.39753],[39.82588,21.39733]]],"type":"Polygon"}
+}

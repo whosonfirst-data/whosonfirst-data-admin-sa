@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000279,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.797805,21.407309,39.797805,21.407309",
-    "geom:latitude":21.407309,
-    "geom:longitude":39.797805,
+    "geom:bbox":"39.779895,21.398678,39.798987,21.424748",
+    "geom:latitude":21.412343,
+    "geom:longitude":39.788153,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"39.792805,21.402309,39.802805,21.412309",
-    "lbl:latitude":21.407309,
-    "lbl:longitude":39.797805,
+    "lbl:latitude":21.414322,
+    "lbl:longitude":39.787505,
     "lbl:max_zoom":18.0,
-    "mps:latitude":21.411133,
-    "mps:longitude":39.791312,
+    "mps:latitude":21.414322,
+    "mps:longitude":39.787505,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,7 +29,7 @@
         "\u0627\u0644\u0631\u0635\u064a\u0641\u0629"
     ],
     "name:eng_x_preferred":[
-        "Al Resaifah"
+        "Ar Rusayfah"
     ],
     "name:eng_x_variant":[
         "Al Resaifah"
@@ -59,17 +58,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939897,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720727
+        421204201,
+        1108720727,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,15 +80,16 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "mz"
     ],
-    "wof:geomhash":"871ba722ed108e540f9a1a46edf6cae5",
+    "wof:geomhash":"d18ccca5dadb1f1046f3b28e13467b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720727,
-            "locality_id":-1,
+            "locality_id":421204201,
             "neighbourhood_id":85932857,
             "region_id":85676857
         }
@@ -96,9 +98,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326294,
-    "wof:name":"\u0627\u0644\u0631\u0635\u064a\u0641\u0629",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1629228828,
+    "wof:name":"Ar Rusayfah",
+    "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -106,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.797805,
-    21.407309,
-    39.797805,
-    21.407309
+    39.779895,
+    21.398678,
+    39.798987,
+    21.424748
 ],
-  "geometry": {"coordinates":[39.797805,21.407309],"type":"Point"}
+  "geometry": {"coordinates":[[[39.798987,21.409234],[39.797934,21.407867],[39.793804,21.403672],[39.792785,21.402673],[39.79198,21.402424],[39.791819,21.400226],[39.790425,21.400326],[39.78785,21.399377],[39.787904,21.399028],[39.787582,21.398678],[39.786456,21.399577],[39.785534,21.400564],[39.785383,21.400726],[39.784203,21.402773],[39.783452,21.404821],[39.782862,21.408366],[39.779895,21.420704],[39.783221,21.42305],[39.784562,21.423949],[39.785849,21.424448],[39.787136,21.424698],[39.788477,21.424698],[39.78955,21.424748],[39.790408,21.424598],[39.79076,21.423896],[39.790894,21.422997],[39.791216,21.420526],[39.793496,21.42065],[39.793442,21.420051],[39.793308,21.419202],[39.793388,21.418753],[39.793388,21.418503],[39.793227,21.418503],[39.792798,21.416706],[39.793549,21.416606],[39.793925,21.416431],[39.794139,21.416281],[39.794381,21.415882],[39.795024,21.415033],[39.794703,21.414409],[39.794408,21.413909],[39.794099,21.413385],[39.79481,21.413023],[39.794153,21.412099],[39.792691,21.4116],[39.794823,21.410145],[39.795246,21.408735],[39.79601,21.408685],[39.797056,21.40881],[39.798987,21.409234]]],"type":"Polygon"}
 }

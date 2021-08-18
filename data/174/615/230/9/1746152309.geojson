@@ -1,0 +1,70 @@
+{
+  "id": 1746152309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000188,
+    "geom:bbox":"39.795289,21.448164,39.817495,21.464039",
+    "geom:latitude":21.457021,
+    "geom:longitude":39.8063,
+    "iso:country":"SA",
+    "lbl:latitude":21.455777,
+    "lbl:longitude":39.807057,
+    "mps:latitude":21.455777,
+    "mps:longitude":39.807057,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0647\u062f\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shuhada"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204201,
+        1108720727,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146449,
+    "wof:geomhash":"945604fe20d2acae415bc6dc7163e309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":421204201,
+            "neighbourhood_id":1746152309,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746152309,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629228780,
+    "wof:name":"Ash Shuhada",
+    "wof:parent_id":421204201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.795289,
+    21.448164,
+    39.817495,
+    21.464039
+],
+  "geometry": {"coordinates":[[[39.808591,21.448164],[39.808484,21.45111],[39.807465,21.45091],[39.806821,21.449912],[39.806178,21.450011],[39.805588,21.449562],[39.804515,21.45071],[39.803013,21.450261],[39.801833,21.45101],[39.797596,21.455353],[39.795289,21.458398],[39.796416,21.459247],[39.798132,21.460794],[39.802209,21.46324],[39.805963,21.460595],[39.806875,21.461244],[39.807948,21.461443],[39.808913,21.461343],[39.809879,21.461643],[39.809986,21.462242],[39.810737,21.46334],[39.811273,21.463839],[39.811917,21.464039],[39.814384,21.46364],[39.817495,21.460445],[39.815082,21.459097],[39.814384,21.458298],[39.813794,21.456901],[39.812024,21.452957],[39.810844,21.45081],[39.809772,21.449263],[39.808591,21.448164]]],"type":"Polygon"}
+}

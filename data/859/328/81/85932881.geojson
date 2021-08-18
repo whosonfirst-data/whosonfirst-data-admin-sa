@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000398,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.874697,21.413016,39.874697,21.413016",
-    "geom:latitude":21.413016,
-    "geom:longitude":39.874697,
+    "geom:bbox":"39.841274,21.4018,39.868522,21.427366",
+    "geom:latitude":21.415616,
+    "geom:longitude":39.855685,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"39.869697,21.408016,39.879697,21.418016",
-    "lbl:latitude":21.413016,
-    "lbl:longitude":39.874697,
+    "lbl:latitude":21.414546,
+    "lbl:longitude":39.856821,
     "lbl:max_zoom":18.0,
-    "mps:latitude":21.409117,
-    "mps:longitude":39.881008,
+    "mps:latitude":21.414546,
+    "mps:longitude":39.856821,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -48,7 +47,7 @@
         "Al-\u02bfAz\u012bz\u012bya"
     ],
     "name:eng_x_preferred":[
-        "Al Azezeyyah"
+        "Al Aziziyah"
     ],
     "name:eng_x_variant":[
         "Al Azezeyyah"
@@ -86,17 +85,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939897,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1108720727
+        421204201,
+        1108720727,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,15 +107,16 @@
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "wof:geomhash":"d1c0c1ba4e7cac8518efade21fda34c8",
+    "wof:geomhash":"b7379a8e185d67c8bd2e7e71d7f43587",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720727,
-            "locality_id":-1,
+            "locality_id":421204201,
             "neighbourhood_id":85932881,
             "region_id":85676857
         }
@@ -123,9 +125,9 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326294,
-    "wof:name":"\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1629228829,
+    "wof:name":"Al Aziziyah",
+    "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -133,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.874697,
-    21.413016,
-    39.874697,
-    21.413016
+    39.841274,
+    21.4018,
+    39.868522,
+    21.427366
 ],
-  "geometry": {"coordinates":[39.874697,21.413016],"type":"Point"}
+  "geometry": {"coordinates":[[[39.859833,21.426018],[39.861925,21.42492],[39.86053,21.423072],[39.86112,21.423172],[39.861925,21.423372],[39.863373,21.423322],[39.864177,21.423122],[39.864928,21.422872],[39.864714,21.422323],[39.865411,21.421774],[39.866752,21.418928],[39.867771,21.417829],[39.867396,21.416181],[39.867932,21.415932],[39.867557,21.414184],[39.868522,21.414034],[39.865787,21.411637],[39.866645,21.410639],[39.861496,21.406494],[39.862836,21.403198],[39.859511,21.4018],[39.852109,21.407193],[39.850446,21.408741],[39.842449,21.416426],[39.8424,21.416706],[39.842025,21.417405],[39.841918,21.418254],[39.841864,21.419053],[39.841596,21.419452],[39.841274,21.420101],[39.841274,21.420201],[39.841596,21.4208],[39.841864,21.4211],[39.842159,21.421774],[39.842883,21.422947],[39.84358,21.423597],[39.844385,21.423996],[39.847737,21.424221],[39.854388,21.422997],[39.854362,21.42457],[39.855917,21.425444],[39.856802,21.425244],[39.856909,21.425744],[39.856909,21.426218],[39.856722,21.426642],[39.856507,21.427117],[39.856373,21.427366],[39.857258,21.427366],[39.859833,21.426018]]],"type":"Polygon"}
 }

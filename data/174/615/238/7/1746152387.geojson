@@ -1,0 +1,73 @@
+{
+  "id": 1746152387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000463,
+    "geom:bbox":"39.859511,21.38402,39.896843,21.410639",
+    "geom:latitude":21.396042,
+    "geom:longitude":39.875413,
+    "iso:country":"SA",
+    "lbl:latitude":21.39559,
+    "lbl:longitude":39.875131,
+    "mps:latitude":21.39559,
+    "mps:longitude":39.875131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u0645\u0639\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jamaah"
+    ],
+    "name:eng_x_variant":[
+        "Al Jamiah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204201,
+        1108720727,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146477,
+    "wof:geomhash":"e6fe09af1d1d3f7da22107af12aa6670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":421204201,
+            "neighbourhood_id":1746152387,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746152387,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629228820,
+    "wof:name":"Al Jamaah",
+    "wof:parent_id":421204201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.859511,
+    21.38402,
+    39.896843,
+    21.410639
+],
+  "geometry": {"coordinates":[[[39.874851,21.38402],[39.873403,21.388665],[39.872652,21.388815],[39.871901,21.389064],[39.870775,21.389764],[39.870131,21.390463],[39.869273,21.391512],[39.868361,21.392111],[39.866645,21.392211],[39.866162,21.39301],[39.862676,21.391412],[39.860047,21.398553],[39.859511,21.4018],[39.862836,21.403198],[39.861496,21.406494],[39.866645,21.410639],[39.869595,21.407742],[39.87276,21.405395],[39.878016,21.4016],[39.892498,21.394908],[39.893518,21.394308],[39.896843,21.391312],[39.893518,21.389614],[39.874851,21.38402]]],"type":"Polygon"}
+}

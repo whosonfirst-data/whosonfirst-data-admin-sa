@@ -1,0 +1,70 @@
+{
+  "id": 1746152369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000478,
+    "geom:bbox":"39.783345,21.370159,39.809627,21.400564",
+    "geom:latitude":21.386047,
+    "geom:longitude":39.796368,
+    "iso:country":"SA",
+    "lbl:latitude":21.386011,
+    "lbl:longitude":39.796619,
+    "mps:latitude":21.386011,
+    "mps:longitude":39.796619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0642\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shawqiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204201,
+        1108720727,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146471,
+    "wof:geomhash":"3c1cfb27f35a7dbe0f29d08ba18c5ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":421204201,
+            "neighbourhood_id":1746152369,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746152369,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629228811,
+    "wof:name":"Ash Shawqiyah",
+    "wof:parent_id":421204201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.783345,
+    21.370159,
+    39.809627,
+    21.400564
+],
+  "geometry": {"coordinates":[[[39.809627,21.394483],[39.803995,21.370159],[39.802762,21.371358],[39.801743,21.372507],[39.800562,21.373756],[39.79949,21.374555],[39.79831,21.375404],[39.797076,21.375904],[39.795413,21.376353],[39.79418,21.376503],[39.792517,21.376503],[39.784846,21.375804],[39.783345,21.383695],[39.78726,21.384245],[39.785329,21.39693],[39.784954,21.39753],[39.783398,21.399178],[39.785534,21.400564],[39.786456,21.399577],[39.787582,21.398678],[39.78844,21.398079],[39.789567,21.397629],[39.791229,21.39703],[39.793107,21.396581],[39.796003,21.396081],[39.798149,21.395782],[39.800562,21.395732],[39.804049,21.395782],[39.80539,21.395682],[39.806516,21.395532],[39.807857,21.395182],[39.809627,21.394483]]],"type":"Polygon"}
+}

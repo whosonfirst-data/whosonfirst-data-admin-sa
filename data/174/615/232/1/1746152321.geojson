@@ -1,0 +1,70 @@
+{
+  "id": 1746152321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:bbox":"39.8043,21.431788,39.811595,21.441424",
+    "geom:latitude":21.436721,
+    "geom:longitude":39.807873,
+    "iso:country":"SA",
+    "lbl:latitude":21.436737,
+    "lbl:longitude":39.807804,
+    "mps:latitude":21.436737,
+    "mps:longitude":39.807804,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0628\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Bibyan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204201,
+        1108720727,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146454,
+    "wof:geomhash":"a034439f14c01e3b80d7efcffcf27eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":421204201,
+            "neighbourhood_id":1746152321,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746152321,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629228787,
+    "wof:name":"Al Bibyan",
+    "wof:parent_id":421204201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.8043,
+    21.431788,
+    39.811595,
+    21.441424
+],
+  "geometry": {"coordinates":[[[39.809557,21.441424],[39.811595,21.432737],[39.81122,21.432587],[39.810201,21.432288],[39.808752,21.431938],[39.807465,21.431788],[39.80666,21.432038],[39.806124,21.433636],[39.805749,21.434884],[39.805266,21.435683],[39.804944,21.436382],[39.804622,21.43748],[39.804461,21.439028],[39.8043,21.441125],[39.806875,21.441125],[39.809557,21.441424]]],"type":"Polygon"}
+}

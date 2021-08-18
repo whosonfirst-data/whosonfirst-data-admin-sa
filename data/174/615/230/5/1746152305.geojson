@@ -1,0 +1,70 @@
+{
+  "id": 1746152305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000247,
+    "geom:bbox":"39.808591,21.438928,39.82656,21.466535",
+    "geom:latitude":21.451736,
+    "geom:longitude":39.817381,
+    "iso:country":"SA",
+    "lbl:latitude":21.451769,
+    "lbl:longitude":39.817246,
+    "mps:latitude":21.451769,
+    "mps:longitude":39.817246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062a\u064a\u0628\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Utaybiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204201,
+        1108720727,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146448,
+    "wof:geomhash":"20fac954b0f1ce8f6f531bfe57fd4f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":421204201,
+            "neighbourhood_id":1746152305,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746152305,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629228779,
+    "wof:name":"Al Utaybiyah",
+    "wof:parent_id":421204201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.808591,
+    21.438928,
+    39.82656,
+    21.466535
+],
+  "geometry": {"coordinates":[[[39.818085,21.438928],[39.815243,21.439677],[39.81417,21.439877],[39.813365,21.440126],[39.812614,21.440576],[39.811756,21.441225],[39.811166,21.441524],[39.810576,21.441624],[39.809557,21.441424],[39.808591,21.448164],[39.809772,21.449263],[39.810844,21.45081],[39.812024,21.452957],[39.813794,21.456901],[39.814384,21.458298],[39.815082,21.459097],[39.817495,21.460445],[39.818354,21.461643],[39.818997,21.462641],[39.820606,21.46344],[39.823503,21.465037],[39.826185,21.466535],[39.82656,21.464189],[39.825809,21.462492],[39.820338,21.44462],[39.819587,21.44452],[39.818944,21.441624],[39.818085,21.438928]]],"type":"Polygon"}
+}

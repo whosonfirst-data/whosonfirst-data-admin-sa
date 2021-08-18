@@ -1,0 +1,70 @@
+{
+  "id": 1746152283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00247,
+    "geom:bbox":"39.884007,21.476418,39.949392,21.550272",
+    "geom:latitude":21.513355,
+    "geom:longitude":39.915567,
+    "iso:country":"SA",
+    "lbl:latitude":21.508624,
+    "lbl:longitude":39.917796,
+    "mps:latitude":21.508624,
+    "mps:longitude":39.917796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u0627\u0626\u0639"
+    ],
+    "name:eng_x_preferred":[
+        "Asharai"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204201,
+        1108720727,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146439,
+    "wof:geomhash":"ddede4ecdd3469f3dd468f359a021aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":421204201,
+            "neighbourhood_id":1746152283,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746152283,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629228767,
+    "wof:name":"Asharai",
+    "wof:parent_id":421204201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.884007,
+    21.476418,
+    39.949392,
+    21.550272
+],
+  "geometry": {"coordinates":[[[39.935446,21.482957],[39.921768,21.48101],[39.912113,21.476418],[39.907179,21.490593],[39.904604,21.496183],[39.893233,21.520336],[39.884007,21.546082],[39.893554,21.547778],[39.906749,21.550272],[39.911416,21.550222],[39.925469,21.523579],[39.932442,21.526972],[39.937377,21.515795],[39.935982,21.510007],[39.936411,21.507911],[39.936733,21.504018],[39.939308,21.505116],[39.943813,21.499726],[39.943813,21.498628],[39.946388,21.496932],[39.948963,21.494436],[39.949392,21.48665],[39.946603,21.48705],[39.944564,21.487149],[39.942741,21.486251],[39.938664,21.484155],[39.935446,21.482957]]],"type":"Polygon"}
+}

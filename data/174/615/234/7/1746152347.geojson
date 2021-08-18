@@ -1,0 +1,73 @@
+{
+  "id": 1746152347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:bbox":"39.827509,21.421674,39.836252,21.431339",
+    "geom:latitude":21.426372,
+    "geom:longitude":39.83145,
+    "iso:country":"SA",
+    "lbl:latitude":21.426319,
+    "lbl:longitude":39.831516,
+    "mps:latitude":21.426319,
+    "mps:longitude":39.831516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0639\u0627\u0645\u0631 \u0648\u0634\u0639\u0628 \u0639\u0644\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Shaab Amer and Shaab Ali"
+    ],
+    "name:eng_x_variant":[
+        "Shaib Amir And Shaib Ali"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204201,
+        1108720727,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146463,
+    "wof:geomhash":"97dae669a49e2bb423f07e13fdfc2ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":421204201,
+            "neighbourhood_id":1746152347,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746152347,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629228800,
+    "wof:name":"Shaab Amer and Shaab Ali",
+    "wof:parent_id":421204201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.827509,
+    21.421674,
+    39.836252,
+    21.431339
+],
+  "geometry": {"coordinates":[[[39.833399,21.428967],[39.834348,21.427591],[39.835447,21.425719],[39.836252,21.423821],[39.835742,21.423821],[39.835394,21.423721],[39.834992,21.423397],[39.834804,21.422698],[39.832766,21.422673],[39.832444,21.422748],[39.831773,21.423022],[39.831398,21.423072],[39.830486,21.423347],[39.830003,21.423696],[39.829574,21.423896],[39.829199,21.423871],[39.82885,21.423696],[39.828501,21.423372],[39.828179,21.422872],[39.827697,21.421674],[39.827509,21.425094],[39.828153,21.425794],[39.828635,21.426867],[39.828528,21.427791],[39.828526,21.431339],[39.829108,21.431289],[39.830369,21.430939],[39.831495,21.43039],[39.832326,21.429866],[39.833077,21.429267],[39.833399,21.428967]]],"type":"Polygon"}
+}

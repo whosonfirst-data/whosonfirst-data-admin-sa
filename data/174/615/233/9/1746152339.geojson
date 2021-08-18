@@ -1,0 +1,70 @@
+{
+  "id": 1746152339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:bbox":"39.822065,21.425269,39.828635,21.432794",
+    "geom:latitude":21.429284,
+    "geom:longitude":39.825799,
+    "iso:country":"SA",
+    "lbl:latitude":21.429931,
+    "lbl:longitude":39.825749,
+    "mps:latitude":21.429931,
+    "mps:longitude":39.825749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0627\u0631\u0629 \u0648\u0627\u0644\u0646\u0642\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qararah And An Naqa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204201,
+        1108720727,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:created":1629146460,
+    "wof:geomhash":"8e00a9efd686ab7e79bc56b88d473271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720727,
+            "locality_id":421204201,
+            "neighbourhood_id":1746152339,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1746152339,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1629228796,
+    "wof:name":"Al Qararah And An Naqa",
+    "wof:parent_id":421204201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.822065,
+    21.425269,
+    39.828635,
+    21.432794
+],
+  "geometry": {"coordinates":[[[39.828526,21.431339],[39.828528,21.427791],[39.828635,21.426867],[39.828153,21.425794],[39.827911,21.425818],[39.827268,21.425794],[39.826704,21.425644],[39.826007,21.425269],[39.826034,21.42829],[39.825471,21.428265],[39.824693,21.428265],[39.82413,21.42809],[39.82303,21.427966],[39.822065,21.429488],[39.822923,21.430437],[39.822627,21.432794],[39.822967,21.432537],[39.823932,21.432038],[39.824844,21.431788],[39.825702,21.431589],[39.826775,21.431489],[39.828526,21.431339]]],"type":"Polygon"}
+}

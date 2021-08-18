@@ -27,17 +27,18 @@
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "name:nno_x_preferred":[
         "Ash Shishah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
-        1293672733,
-        1108720727
+        421204201,
+        1108720727,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +46,21 @@
         "wk:page":"Ash_Shishah"
     },
     "wof:country":"SA",
-    "wof:geomhash":"2cb4d491c34c0a51e4e58bd7d7ddc41e",
+    "wof:geomhash":"eeff67ddbe4a9837ef11f95c6ddec294",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720727,
-            "locality_id":1293672733,
+            "locality_id":421204201,
             "neighbourhood_id":1361025861,
             "region_id":85676857
         }
     ],
     "wof:id":1361025861,
-    "wof:lastmodified":1566638429,
+    "wof:lastmodified":1629228753,
     "wof:name":"Ash Shishah",
-    "wof:parent_id":1108720727,
+    "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -69,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.89194000000001,
+    39.89194,
     21.35028,
-    39.89194000000001,
+    39.89194,
     21.35028
 ],
-  "geometry": {"coordinates":[39.89194000000001,21.35028],"type":"Point"}
+  "geometry": {"coordinates":[39.89194,21.35028],"type":"Point"}
 }
