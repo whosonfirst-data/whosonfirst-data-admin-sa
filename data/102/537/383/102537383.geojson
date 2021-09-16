@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.1211111111,17.4669444444,47.1211111111,17.4669444444",
+    "geom:bbox":"47.121111,17.466944,47.121111,17.466944",
     "geom:latitude":17.466944,
     "geom:longitude":47.121111,
     "iso:country":"SA",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Sharurah Domestic Airport"
+    ],
+    "name:eng_x_variant":[
+        "SHW",
+        "OESH"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0645\u06cc \u0634\u0631\u0648\u0631\u0647"
@@ -73,7 +77,7 @@
         "wd:id":"Q2876026"
     },
     "wof:country":"SA",
-    "wof:geomhash":"d65d80b6a5804bfdb6127447a1d14e92",
+    "wof:geomhash":"1c792aa027ca0338279215d3f6ad5376",
     "wof:hierarchy":[
         {
             "campus_id":102537383,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":102537383,
-    "wof:lastmodified":1566638171,
+    "wof:lastmodified":1631746453,
     "wof:name":"Sharurah Airport",
     "wof:parent_id":85676809,
     "wof:placetype":"campus",
@@ -94,10 +98,10 @@
     ]
 },
   "bbox": [
-    47.121111111111,
-    17.466944444444,
-    47.121111111111,
-    17.466944444444
+    47.121111,
+    17.466944,
+    47.121111,
+    17.466944
 ],
-  "geometry": {"coordinates":[47.121111111111,17.466944444444],"type":"Point"}
+  "geometry": {"coordinates":[47.121111,17.466944],"type":"Point"}
 }
