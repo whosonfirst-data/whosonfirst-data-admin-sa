@@ -32,11 +32,26 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u0995\u09c1\u09a8\u09be\u09df\u09c7\u09a4\u09bf\u09b0\u09be\u09b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039a\u03bf\u03c5\u03bd\u03b1\u03ca\u03c4\u03b9\u03c1\u03ac"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u0915\u0941\u0928\u093e\u092f\u0924\u093f\u0930\u0939"
+    ],
+    "name:hun_x_preferred":[
+        "Al Qunaytirah"
+    ],
     "name:sco_x_preferred":[
         "Al Qunaytirah"
     ],
     "name:und_x_variant":[
         "Al Qunay\u0163irah"
+    ],
+    "name:vie_x_preferred":[
+        "Al Qunaytirah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1326994993,
-    "wof:lastmodified":1566638161,
+    "wof:lastmodified":1636496654,
     "wof:name":"Al Qunaytirah",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

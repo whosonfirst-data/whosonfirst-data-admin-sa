@@ -72,6 +72,9 @@
         "\u0aa4\u0aac\u0ac1\u0a95"
     ],
     "name:heb_x_preferred":[
+        "\u05d8\u05d1\u05d5\u05e7"
+    ],
+    "name:heb_x_variant":[
         "\u05ea\u05d1\u05d5\u05db"
     ],
     "name:hin_x_preferred":[
@@ -323,8 +326,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        1108720767,
-        85676833
+        85676833,
+        1108720767
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -355,7 +358,7 @@
         }
     ],
     "wof:id":421190329,
-    "wof:lastmodified":1607462740,
+    "wof:lastmodified":1636496661,
     "wof:name":"Tabuk",
     "wof:parent_id":1108720767,
     "wof:placetype":"locality",

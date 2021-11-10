@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"41.0206896553,30.9900063263,41.0206896553,30.9900063263",
+    "geom:bbox":"41.02069,30.990006,41.02069,30.990006",
     "geom:latitude":30.990006,
     "geom:longitude":41.02069,
     "iso:country":"SA",
@@ -18,16 +18,34 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09be\u09b0"
+    ],
     "name:ceb_x_preferred":[
         "Arar"
     ],
     "name:deu_x_preferred":[
         "Arar"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03ac\u03c1"
+    ],
     "name:est_x_preferred":[
         "Arar"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u093e\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Arar"
+    ],
+    "name:ind_x_preferred":[
+        "Arar"
+    ],
     "name:spa_x_preferred":[
+        "Arar"
+    ],
+    "name:swe_x_preferred":[
         "Arar"
     ],
     "ne:ADM0CAP":0.0,
@@ -136,7 +154,7 @@
     "wof:concordances":{},
     "wof:country":"SA",
     "wof:created":1499130680,
-    "wof:geomhash":"a733580518da2d5b36b58d0d93e8f42d",
+    "wof:geomhash":"8f7cb13255b8cad182f31e6c41ccac14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":1141907091,
-    "wof:lastmodified":1566638581,
+    "wof:lastmodified":1636496663,
     "wof:name":"Arar",
     "wof:parent_id":1108720651,
     "wof:placetype":"locality",
@@ -157,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.0206896553251,
-    30.99000632631225,
-    41.0206896553251,
-    30.99000632631225
+    41.02069,
+    30.990006,
+    41.02069,
+    30.990006
 ],
-  "geometry": {"coordinates":[41.0206896553251,30.99000632631225],"type":"Point"}
+  "geometry": {"coordinates":[41.02069,30.990006],"type":"Point"}
 }

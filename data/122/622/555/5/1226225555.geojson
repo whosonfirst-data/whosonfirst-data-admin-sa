@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u015e\u016br"
     ],
+    "name:hun_x_preferred":[
+        "Sur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226225555,
-    "wof:lastmodified":1566638564,
+    "wof:lastmodified":1636496662,
     "wof:name":"Sur",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

@@ -106,6 +106,9 @@
     "name:guj_x_preferred":[
         "\u0ab9\u0abe\u0a88\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d0'\u05d9\u05dc"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u093e\u0907\u0932 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
@@ -424,7 +427,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1607462740,
+    "wof:lastmodified":1636496655,
     "wof:name":"Ha'il",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

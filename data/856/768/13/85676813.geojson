@@ -55,6 +55,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0420\u044b\u044f\u0434"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0 \u09b0\u09bf\u09df\u09be\u09a7"
+    ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Riad"
     ],
@@ -327,7 +330,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1607462739,
+    "wof:lastmodified":1636496656,
     "wof:name":"Ar Riyad",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

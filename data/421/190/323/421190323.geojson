@@ -61,6 +61,9 @@
         "Ha\u00efl"
     ],
     "name:heb_x_preferred":[
+        "\u05d7\u05d0'\u05d9\u05dc"
+    ],
+    "name:heb_x_variant":[
         "\u05d7\u05d0\u05d9\u05dc"
     ],
     "name:hin_x_preferred":[
@@ -277,8 +280,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        1108720703,
-        85676831
+        85676831,
+        1108720703
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -309,7 +312,7 @@
         }
     ],
     "wof:id":421190323,
-    "wof:lastmodified":1607462740,
+    "wof:lastmodified":1636496661,
     "wof:name":"Ha'il",
     "wof:parent_id":1108720703,
     "wof:placetype":"locality",

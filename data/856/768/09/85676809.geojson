@@ -97,6 +97,9 @@
         "\u0928\u091c\u0930\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
     "name:hun_x_preferred":[
+        "Najran"
+    ],
+    "name:hun_x_variant":[
         "Nadzsr\u00e1n tartom\u00e1ny"
     ],
     "name:ind_x_preferred":[
@@ -338,7 +341,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1607462739,
+    "wof:lastmodified":1636496655,
     "wof:name":"Najran",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Buraydah"
     ],
+    "name:hun_x_preferred":[
+        "Buraydah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108720687,
-    "wof:lastmodified":1627522746,
+    "wof:lastmodified":1636496659,
     "wof:name":"Buraydah",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

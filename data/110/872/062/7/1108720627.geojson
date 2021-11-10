@@ -47,6 +47,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0637\u064a\u0641"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2-\u0995\u09cb\u09df\u09be\u09a4\u09bf\u09ab"
+    ],
     "name:eng_x_preferred":[
         "Al-Qatif"
     ],
@@ -55,6 +58,18 @@
     ],
     "name:fra_x_preferred":[
         "Qatif"
+    ],
+    "name:hun_x_preferred":[
+        "Al-Qatif"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Qatif"
+    ],
+    "name:por_x_preferred":[
+        "Al-Qa\u1e6d\u012bf"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Qatif"
     ],
     "reversegeo:latitude":26.619482,
     "reversegeo:longitude":49.920864,
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":1108720627,
-    "wof:lastmodified":1627522749,
+    "wof:lastmodified":1636496658,
     "wof:name":"Al-Qatif",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

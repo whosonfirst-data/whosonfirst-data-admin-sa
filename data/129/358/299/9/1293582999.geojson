@@ -29,10 +29,67 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u09ae\u09c1\u09ac\u09b0\u09be\u099c"
+    ],
+    "name:deu_x_preferred":[
+        "Al Mubarraz"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039c\u03bf\u03c5\u03bc\u03c0\u03b1\u03c1\u03ac\u03b6"
+    ],
+    "name:fra_x_preferred":[
+        "Al Mubarraz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05de\u05d5\u05d1\u05d0\u05e8\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u092e\u0941\u092c\u093e\u0930\u093e\u091c\u093c"
+    ],
+    "name:hun_x_preferred":[
+        "Al Mubarraz"
+    ],
+    "name:ind_x_preferred":[
+        "Al Mubarraz"
+    ],
+    "name:ita_x_preferred":[
+        "Al Mubarraz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30e0\u30d0\u30e9\u30ba"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c \ubb34\ubc14\ub77c\uc988"
+    ],
+    "name:por_x_preferred":[
+        "Al Mubarraz"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Mubarraz"
+    ],
+    "name:tur_x_preferred":[
+        "Al Mubarraz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041c\u0443\u0431\u0430\u0440\u0440\u0430\u0437"
+    ],
     "name:und_x_variant":[
         "Mubarraz",
         "Al Mabarraz",
         "Al Mubarraz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644 \u0645\u0628\u0631\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Al Mubarraz"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7a46\u5df4\u62c9\u5179"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7a46\u5df4\u62c9\u8332"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +114,7 @@
         }
     ],
     "wof:id":1293582999,
-    "wof:lastmodified":1566638257,
+    "wof:lastmodified":1636496657,
     "wof:name":"Al Mubarraz",
     "wof:parent_id":1108720553,
     "wof:placetype":"locality",

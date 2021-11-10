@@ -96,6 +96,9 @@
     "name:hrv_x_preferred":[
         "Abha"
     ],
+    "name:hun_x_preferred":[
+        "Abha"
+    ],
     "name:ind_x_preferred":[
         "Abha"
     ],
@@ -360,8 +363,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        1108720533,
-        85676851
+        85676851,
+        1108720533
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -392,7 +395,7 @@
         }
     ],
     "wof:id":421190295,
-    "wof:lastmodified":1607462741,
+    "wof:lastmodified":1636496661,
     "wof:name":"Abha",
     "wof:parent_id":1108720533,
     "wof:placetype":"locality",

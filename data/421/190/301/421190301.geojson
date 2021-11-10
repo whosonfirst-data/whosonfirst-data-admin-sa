@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u099c\u09be\u0993\u09ab"
+    ],
     "name:ceb_x_preferred":[
         "Al Jawf"
     ],
@@ -33,6 +36,9 @@
         "Al Jawf"
     ],
     "name:fra_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:hun_x_preferred":[
         "Al Jawf"
     ],
     "name:kor_x_preferred":[
@@ -66,6 +72,9 @@
         "Al Jawf"
     ],
     "name:tgl_x_preferred":[
+        "Al Jawf"
+    ],
+    "name:tur_x_preferred":[
         "Al Jawf"
     ],
     "qs:gn_country":null,
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":421190301,
-    "wof:lastmodified":1566638466,
+    "wof:lastmodified":1636496660,
     "wof:name":"Al Jawf",
     "wof:parent_id":1108720691,
     "wof:placetype":"locality",

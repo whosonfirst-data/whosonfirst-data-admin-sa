@@ -83,6 +83,9 @@
     "name:hrv_x_preferred":[
         "Burajdah"
     ],
+    "name:hun_x_preferred":[
+        "Buraydah"
+    ],
     "name:ind_x_preferred":[
         "Buraidah"
     ],
@@ -319,8 +322,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        1108720687,
-        85676827
+        85676827,
+        1108720687
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -349,7 +352,7 @@
         }
     ],
     "wof:id":421204205,
-    "wof:lastmodified":1607462740,
+    "wof:lastmodified":1636496660,
     "wof:name":"Buraydah",
     "wof:parent_id":1108720687,
     "wof:placetype":"locality",

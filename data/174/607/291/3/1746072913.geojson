@@ -22,14 +22,17 @@
     "name:eng_x_preferred":[
         "Al Buhayrah"
     ],
+    "name:hun_x_preferred":[
+        "El-Beheira"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
         1125927181,
-        1108720599,
-        85676819
+        1108720599
     ],
     "wof:breaches":[],
     "wof:country":"SA",
@@ -52,7 +55,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627685701,
+    "wof:lastmodified":1636496656,
     "wof:name":"Al Buhayrah",
     "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",

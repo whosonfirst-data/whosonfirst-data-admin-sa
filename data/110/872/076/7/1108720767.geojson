@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "Tabuk"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d1\u05d5\u05e7"
+    ],
     "name:ilo_x_preferred":[
         "Tabuk"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108720767,
-    "wof:lastmodified":1627522750,
+    "wof:lastmodified":1636496658,
     "wof:name":"Tabuk",
     "wof:parent_id":85676833,
     "wof:placetype":"county",
