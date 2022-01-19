@@ -25,16 +25,16 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
         421190297,
-        1108720541,
-        85676819
+        1108720541
     ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:created":1627413344,
-    "wof:geomhash":"20e3abd2933d4263117d27c825d2b058",
+    "wof:geomhash":"a6e6b9a7c9b202f9336189e45332db05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627685653,
+    "wof:lastmodified":1642551751,
     "wof:name":"Ad Danah",
     "wof:parent_id":421190297,
     "wof:placetype":"neighbourhood",
@@ -67,5 +67,5 @@
     50.047867,
     26.469014
 ],
-  "geometry": {"coordinates":[[[50.039899,26.462898],[50.039899,26.462898],[50.038319,26.466399],[50.046239,26.469014],[50.047045,26.467427],[50.047867,26.465409],[50.039899,26.462898]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[50.039899,26.462898],[50.038319,26.466399],[50.046239,26.469014],[50.047045,26.467427],[50.047867,26.465409],[50.039899,26.462898]]],"type":"Polygon"}
 }

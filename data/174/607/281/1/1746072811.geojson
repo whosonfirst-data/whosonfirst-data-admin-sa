@@ -25,16 +25,16 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
         421190297,
-        1108720541,
-        85676819
+        1108720541
     ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:created":1627413344,
-    "wof:geomhash":"e521c03025967bd08ec2e6e806980bbe",
+    "wof:geomhash":"9fd9e592de99aaa3c6395b943bf8fecf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +52,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1627685652,
+    "wof:lastmodified":1642551751,
     "wof:name":"Ar Rabiyah",
     "wof:parent_id":421190297,
     "wof:placetype":"neighbourhood",
@@ -67,5 +67,5 @@
     50.039899,
     26.466399
 ],
-  "geometry": {"coordinates":[[[50.038319,26.466399],[50.039899,26.462898],[50.039899,26.462898],[50.029673,26.459676],[50.026574,26.462521],[50.038319,26.466399]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[50.038319,26.466399],[50.039899,26.462898],[50.029673,26.459676],[50.026574,26.462521],[50.038319,26.466399]]],"type":"Polygon"}
 }
