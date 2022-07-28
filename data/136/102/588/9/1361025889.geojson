@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00072,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.9,26.3,43.9,26.3",
-    "geom:latitude":26.3,
-    "geom:longitude":43.9,
+    "geom:bbox":"43.85853,26.290431,43.909347,26.321924",
+    "geom:latitude":26.304533,
+    "geom:longitude":43.889775,
     "gn:admin1_code":"0",
     "gn:asciiname":"Ilbaras",
     "gn:country_code":"SA",
@@ -23,12 +23,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"43.895,26.295,43.905,26.305",
+    "lbl:latitude":26.30431,
+    "lbl:longitude":43.891508,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
-    "src:geom":"geonames",
+    "reversegeo:latitude":26.30431,
+    "reversegeo:longitude":43.891508,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85676827,
         102191569,
@@ -41,7 +48,7 @@
         "gn:id":105609
     },
     "wof:country":"SA",
-    "wof:geomhash":"ca65354dc4b4056821ab8213650d68fa",
+    "wof:geomhash":"e0aa934f9c87d3de4045888bc84760af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":1361025889,
-    "wof:lastmodified":1566638429,
+    "wof:lastmodified":1659048530,
     "wof:name":"Ilbaras",
     "wof:parent_id":1108720687,
     "wof:placetype":"neighbourhood",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.9,
-    26.3,
-    43.9,
-    26.3
+    43.85853,
+    26.290431,
+    43.909347,
+    26.321924
 ],
-  "geometry": {"coordinates":[43.9,26.3],"type":"Point"}
+  "geometry": {"coordinates":[[[43.85853,26.303876],[43.864628,26.305363],[43.872038,26.308128],[43.882546,26.313437],[43.894049,26.319963],[43.897717,26.321924],[43.899137,26.318967],[43.909347,26.29591],[43.881431,26.290431],[43.879806,26.292203],[43.879363,26.295158],[43.880988,26.299],[43.863702,26.304171],[43.85853,26.303876]]],"type":"Polygon"}
 }

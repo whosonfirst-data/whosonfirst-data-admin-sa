@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.010056,
     "geom:area_square_m":0.0,
-    "geom:bbox":"45.82502,28.44708,45.82502,28.44708",
-    "geom:latitude":28.44708,
-    "geom:longitude":45.82502,
+    "geom:bbox":"45.752538,28.400191,45.919218,28.522429",
+    "geom:latitude":28.457161,
+    "geom:longitude":45.835626,
     "gn:admin1_code":"6",
     "gn:asciiname":"Al Wayiliyah",
     "gn:country_code":"SA",
@@ -23,7 +23,8 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"45.82002,28.44208,45.83002,28.45208",
+    "lbl:latitude":28.456863,
+    "lbl:longitude":45.834363,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -31,7 +32,13 @@
     "name:und_x_variant":[
         "Al W\u0101yil\u012byah"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":28.456863,
+    "reversegeo:longitude":45.834363,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85676819,
         102191569,
@@ -44,7 +51,7 @@
         "gn:id":393682
     },
     "wof:country":"SA",
-    "wof:geomhash":"055d58bdc00bccc677e643c58509a51d",
+    "wof:geomhash":"8170d0afdf70a7fa6854a7cad283bd7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":1361026001,
-    "wof:lastmodified":1566638437,
+    "wof:lastmodified":1659048530,
     "wof:name":"Al Wayiliyah",
     "wof:parent_id":1108720699,
     "wof:placetype":"neighbourhood",
@@ -68,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.82502,
-    28.44708,
-    45.82502,
-    28.44708
+    45.752538,
+    28.400191,
+    45.919218,
+    28.522429
 ],
-  "geometry": {"coordinates":[45.82502,28.44708],"type":"Point"}
+  "geometry": {"coordinates":[[[45.915563,28.400191],[45.873773,28.411218],[45.863056,28.411807],[45.752538,28.450682],[45.774642,28.482479],[45.787089,28.522429],[45.80555,28.52],[45.911229,28.444457],[45.919218,28.408895],[45.915563,28.400191]]],"type":"Polygon"}
 }

@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000097,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.00966,26.27357,44.00966,26.27357",
-    "geom:latitude":26.27357,
-    "geom:longitude":44.00966,
+    "geom:bbox":"43.997773,26.268445,44.011037,26.281829",
+    "geom:latitude":26.274945,
+    "geom:longitude":44.004775,
     "iso:country":"SA",
-    "lbl:bbox":"44.00466,26.26857,44.01466,26.27857",
+    "lbl:latitude":26.274941,
+    "lbl:longitude":44.004876,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:und_x_variant":[
@@ -37,7 +38,13 @@
     "qs:qs_id":1001528,
     "qs:woe_adm0":23424938,
     "qs:woe_id":1939228,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":26.274941,
+    "reversegeo:longitude":44.004876,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85676827,
         102191569,
@@ -52,7 +59,7 @@
     },
     "wof:country":"SA",
     "wof:created":1459009414,
-    "wof:geomhash":"991c4187ba05362b2b1a97cf5b675230",
+    "wof:geomhash":"664cbb3adab2ec44c9f03e34ae9ceb60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":421184545,
-    "wof:lastmodified":1566638470,
+    "wof:lastmodified":1659048531,
     "wof:name":"\u0631\u0648\u0627\u0642",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -74,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.00966,
-    26.27357,
-    44.00966,
-    26.27357
+    43.997773,
+    26.268445,
+    44.011037,
+    26.281829
 ],
-  "geometry": {"coordinates":[44.00966,26.27357],"type":"Point"}
+  "geometry": {"coordinates":[[[44.005815,26.281829],[44.008816,26.277988],[44.011037,26.272406],[44.007316,26.270366],[44.006115,26.269225],[44.003775,26.268445],[44.002634,26.270005],[44.000353,26.273066],[43.997773,26.276668],[43.999813,26.277808],[44.001134,26.278828],[44.002694,26.279308],[44.005815,26.281829]]],"type":"Polygon"}
 }

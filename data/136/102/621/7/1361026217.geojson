@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000548,
     "geom:area_square_m":0.0,
-    "geom:bbox":"41.69747,27.5463,41.69747,27.5463",
-    "geom:latitude":27.5463,
-    "geom:longitude":41.69747,
+    "geom:bbox":"41.661835,27.536652,41.701686,27.556499",
+    "geom:latitude":27.547189,
+    "geom:longitude":41.683172,
     "gn:admin1_code":"13",
     "gn:asciiname":"Sadyan",
     "gn:country_code":"SA",
@@ -23,7 +23,8 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"41.69247,27.5413,41.70247,27.5513",
+    "lbl:latitude":27.547922,
+    "lbl:longitude":41.683172,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -34,7 +35,13 @@
     "name:und_x_variant":[
         "\u015eady\u0101n"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":27.547922,
+    "reversegeo:longitude":41.683172,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         1209293959,
         85632253
@@ -44,7 +51,7 @@
         "gn:id":395249
     },
     "wof:country":"SA",
-    "wof:geomhash":"aa48f9d89049747c813f8310d1d3ae64",
+    "wof:geomhash":"8f0c280a5d19b116d263f4942ff95891",
     "wof:hierarchy":[
         {
             "country_id":85632253,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":1361026217,
-    "wof:lastmodified":1566638424,
+    "wof:lastmodified":1659048531,
     "wof:name":"Sadyan",
     "wof:parent_id":85632253,
     "wof:placetype":"neighbourhood",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.69747,
-    27.5463,
-    41.69747,
-    27.5463
+    41.661835,
+    27.536652,
+    41.701686,
+    27.556499
 ],
-  "geometry": {"coordinates":[41.69747,27.5463],"type":"Point"}
+  "geometry": {"coordinates":[[[41.701686,27.555683],[41.677091,27.556499],[41.701686,27.555683],[41.701676,27.552681],[41.694555,27.537487],[41.69456,27.536652],[41.684332,27.538833],[41.683195,27.539543],[41.674979,27.541187],[41.672853,27.540324],[41.671549,27.538989],[41.671067,27.537625],[41.665152,27.538274],[41.664217,27.538102],[41.661835,27.538401],[41.66299,27.541284],[41.667426,27.54781],[41.67182,27.554058],[41.674274,27.555888],[41.677091,27.556499],[41.701686,27.555683]]],"type":"Polygon"}
 }

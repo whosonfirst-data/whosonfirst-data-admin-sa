@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.003681,
     "geom:area_square_m":0.0,
-    "geom:bbox":"41.75873,27.51314,41.75873,27.51314",
-    "geom:latitude":27.51314,
-    "geom:longitude":41.75873,
+    "geom:bbox":"41.7137,27.494454,41.812656,27.554568",
+    "geom:latitude":27.52481,
+    "geom:longitude":41.766421,
     "gn:admin1_code":"13",
     "gn:asciiname":"Al Khuraymi",
     "gn:country_code":"SA",
@@ -23,7 +23,8 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"41.75373,27.50814,41.76373,27.51814",
+    "lbl:latitude":27.527186,
+    "lbl:longitude":41.767363,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -34,7 +35,13 @@
     "name:und_x_variant":[
         "Al Khuraym\u012b"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":27.527186,
+    "reversegeo:longitude":41.767363,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85676831,
         102191569,
@@ -47,7 +54,7 @@
         "gn:id":395244
     },
     "wof:country":"SA",
-    "wof:geomhash":"2ea337c6d3248eb97ca9f5adb581d2a7",
+    "wof:geomhash":"486445e1100cff5e1cf6b437699a1aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1361026027,
-    "wof:lastmodified":1566638426,
+    "wof:lastmodified":1659048531,
     "wof:name":"Al Khuraymi",
     "wof:parent_id":1108720703,
     "wof:placetype":"neighbourhood",
@@ -71,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.75873,
-    27.51314,
-    41.75873,
-    27.51314
+    41.7137,
+    27.494454,
+    41.812656,
+    27.554568
 ],
-  "geometry": {"coordinates":[41.75873,27.51314],"type":"Point"}
+  "geometry": {"coordinates":[[[41.750677,27.554568],[41.76621,27.554193],[41.773533,27.552458],[41.812656,27.540124],[41.802871,27.518558],[41.793638,27.494454],[41.757373,27.502732],[41.741841,27.506752],[41.733527,27.50657],[41.729232,27.506387],[41.714888,27.513239],[41.714065,27.515341],[41.7137,27.517168],[41.714705,27.519452],[41.717355,27.521645],[41.718999,27.523564],[41.719547,27.526122],[41.720461,27.528772],[41.721649,27.529777],[41.725486,27.530508],[41.72905,27.531056],[41.732065,27.533432],[41.733801,27.533432],[41.735993,27.533888],[41.737547,27.534619],[41.739328,27.537667],[41.740191,27.541245],[41.744879,27.544206],[41.74895,27.545563],[41.750677,27.546673],[41.752188,27.54821],[41.750677,27.554568]]],"type":"Polygon"}
 }

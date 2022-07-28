@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000301,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.938446,26.362343,43.938446,26.362343",
-    "geom:latitude":26.362343,
-    "geom:longitude":43.938446,
+    "geom:bbox":"43.927704,26.344159,43.95757,26.367754",
+    "geom:latitude":26.355291,
+    "geom:longitude":43.943198,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:bbox":"43.933446,26.357343,43.943446,26.367343",
-    "lbl:latitude":26.362343,
-    "lbl:longitude":43.938446,
+    "lbl:latitude":26.35496,
+    "lbl:longitude":43.943424,
     "lbl:max_zoom":18.0,
     "mps:latitude":26.359881,
     "mps:longitude":43.939061,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,12 +58,15 @@
     "qs:woe_lau":0,
     "qs:woe_local":1939818,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":26.35496,
+    "reversegeo:longitude":43.943424,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85676827,
         102191569,
@@ -81,7 +83,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ec25458e4f80cf899147986db69385c9",
+    "wof:geomhash":"07e3945231e404c36eb9dfb5eb28841d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +98,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582326294,
+    "wof:lastmodified":1659048530,
     "wof:name":"\u0627\u0644\u0645\u0646\u062a\u0632\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -106,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.938446,
-    26.362343,
-    43.938446,
-    26.362343
+    43.927704,
+    26.344159,
+    43.95757,
+    26.367754
 ],
-  "geometry": {"coordinates":[43.938446,26.362343],"type":"Point"}
+  "geometry": {"coordinates":[[[43.927704,26.364716],[43.929256,26.367754],[43.936267,26.364552],[43.9502,26.358187],[43.953691,26.356054],[43.95757,26.348814],[43.953691,26.347197],[43.9449,26.344159],[43.943588,26.345727],[43.927704,26.364716]]],"type":"Polygon"}
 }

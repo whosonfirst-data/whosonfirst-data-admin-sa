@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000792,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.9,26.28333,43.9,26.28333",
-    "geom:latitude":26.28333,
-    "geom:longitude":43.9,
+    "geom:bbox":"43.881284,26.262362,43.919795,26.29591",
+    "geom:latitude":26.280446,
+    "geom:longitude":43.900536,
     "gn:admin1_code":"8",
     "gn:asciiname":"Nakhalat",
     "gn:country_code":"SA",
@@ -23,12 +23,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"43.895,26.27833,43.905,26.28833",
+    "lbl:latitude":26.280517,
+    "lbl:longitude":43.900902,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
-    "src:geom":"geonames",
+    "reversegeo:latitude":26.280517,
+    "reversegeo:longitude":43.900902,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85676827,
         102191569,
@@ -41,7 +48,7 @@
         "gn:id":103620
     },
     "wof:country":"SA",
-    "wof:geomhash":"2d26dc176af64e738b67abc4f191870c",
+    "wof:geomhash":"e0a7bc653abd2ca3b46795cefcf69590",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":1361026173,
-    "wof:lastmodified":1566638424,
+    "wof:lastmodified":1659048530,
     "wof:name":"Nakhalat",
     "wof:parent_id":1108720687,
     "wof:placetype":"neighbourhood",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.9,
-    26.28333,
-    43.9,
-    26.28333
+    43.881284,
+    26.262362,
+    43.919795,
+    26.29591
 ],
-  "geometry": {"coordinates":[43.9,26.28333],"type":"Point"}
+  "geometry": {"coordinates":[[[43.909347,26.29591],[43.914201,26.285982],[43.919267,26.272933],[43.919795,26.271598],[43.902554,26.266806],[43.902579,26.26621],[43.902791,26.265885],[43.90302,26.26554],[43.897084,26.262849],[43.896693,26.262362],[43.89236,26.268553],[43.88883,26.271642],[43.887489,26.27669],[43.881284,26.286146],[43.881431,26.290431],[43.909347,26.29591]]],"type":"Polygon"}
 }

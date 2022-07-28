@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.0037,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.12729,28.31117,46.12729,28.31117",
-    "geom:latitude":28.31117,
-    "geom:longitude":46.12729,
+    "geom:bbox":"46.090495,28.269568,46.164946,28.364175",
+    "geom:latitude":28.311056,
+    "geom:longitude":46.126438,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":20685,
     "iso:country":"SA",
-    "lbl:bbox":"46.12229,28.30617,46.13229,28.31617",
-    "lbl:latitude":28.31117,
-    "lbl:longitude":46.12729,
+    "lbl:latitude":28.304346,
+    "lbl:longitude":46.125874,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -86,8 +85,13 @@
     "qs_pg:pop_sr":7,
     "qs_pg:qs_id":65987,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":28.304346,
+    "reversegeo:longitude":46.125874,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         85676819,
@@ -104,7 +108,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296665,
-    "wof:geomhash":"785d01da1885fb5974fe64b510a24455",
+    "wof:geomhash":"3a9e00e6ead2b3340cc08d90ecfe97ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":1361026153,
-    "wof:lastmodified":1566638435,
+    "wof:lastmodified":1659048530,
     "wof:name":"Al Qay\u015f\u016bmah",
     "wof:parent_id":1108720699,
     "wof:placetype":"neighbourhood",
@@ -130,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.12729,
-    28.31117,
-    46.12729,
-    28.31117
+    46.090495,
+    28.269568,
+    46.164946,
+    28.364175
 ],
-  "geometry": {"coordinates":[46.12729,28.31117],"type":"Point"}
+  "geometry": {"coordinates":[[[46.095498,28.32901],[46.097116,28.330776],[46.104915,28.331364],[46.114184,28.334307],[46.103885,28.356966],[46.123454,28.364175],[46.131546,28.344901],[46.1339,28.345489],[46.145671,28.318564],[46.164946,28.311942],[46.147878,28.269568],[46.090495,28.289872],[46.103443,28.317534],[46.101383,28.324008],[46.095498,28.32901]]],"type":"Polygon"}
 }

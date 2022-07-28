@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00522,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.88926,26.23262,43.88926,26.23262",
-    "geom:latitude":26.23262,
-    "geom:longitude":43.88926,
+    "geom:bbox":"43.803959,26.176127,43.930268,26.256171",
+    "geom:latitude":26.21723,
+    "geom:longitude":43.861804,
     "gn:admin1_code":"8",
     "gn:asciiname":"Al Ghammas",
     "gn:country_code":"SA",
@@ -23,7 +23,8 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"43.88426,26.22762,43.89426,26.23762",
+    "lbl:latitude":26.216504,
+    "lbl:longitude":43.855584,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -36,7 +37,13 @@
         "Ghamm\u0101sh",
         "Al Ghamm\u0101s"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":26.216504,
+    "reversegeo:longitude":43.855584,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85676827,
         102191569,
@@ -49,7 +56,7 @@
         "gn:id":106557
     },
     "wof:country":"SA",
-    "wof:geomhash":"76bc77dca55be7e38999b4ceed45c14a",
+    "wof:geomhash":"cd3999a8b510131a4b3e71a91d7fd2d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1361026063,
-    "wof:lastmodified":1566638436,
+    "wof:lastmodified":1659048530,
     "wof:name":"Al Ghammas",
     "wof:parent_id":1108720687,
     "wof:placetype":"neighbourhood",
@@ -73,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.88926,
-    26.23262,
-    43.88926,
-    26.23262
+    43.803959,
+    26.176127,
+    43.930268,
+    26.256171
 ],
-  "geometry": {"coordinates":[43.88926,26.23262],"type":"Point"}
+  "geometry": {"coordinates":[[[43.884845,26.241429],[43.89003,26.243232],[43.91133,26.245228],[43.918752,26.250626],[43.917346,26.251862],[43.918912,26.255922],[43.925343,26.256171],[43.930268,26.241586],[43.926582,26.238388],[43.924503,26.235269],[43.921384,26.232717],[43.90872,26.226007],[43.902579,26.225725],[43.902503,26.222794],[43.902579,26.220916],[43.90318,26.218211],[43.899498,26.21543],[43.897244,26.214529],[43.902438,26.200599],[43.901081,26.200301],[43.88703,26.19632],[43.833024,26.176127],[43.815022,26.198339],[43.803959,26.219841],[43.814251,26.225558],[43.829101,26.235078],[43.840714,26.243645],[43.858991,26.249547],[43.875227,26.238423],[43.880262,26.241053],[43.883793,26.242481],[43.884845,26.241429]]],"type":"Polygon"}
 }
