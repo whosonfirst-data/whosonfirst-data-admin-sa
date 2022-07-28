@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.002504,
     "geom:area_square_m":0.0,
-    "geom:bbox":"42.83251,16.96887,42.83251,16.96887",
-    "geom:latitude":16.96887,
-    "geom:longitude":42.83251,
+    "geom:bbox":"42.809203,16.938651,42.866909,16.99905",
+    "geom:latitude":16.969546,
+    "geom:longitude":42.838488,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":49171,
     "iso:country":"SA",
-    "lbl:bbox":"42.81251,16.94887,42.85251,16.98887",
-    "lbl:latitude":16.96887,
-    "lbl:longitude":42.83251,
+    "lbl:latitude":16.968474,
+    "lbl:longitude":42.83095,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
@@ -88,8 +87,13 @@
     "qs_pg:pop_sr":7,
     "qs_pg:qs_id":66795,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":16.968474,
+    "reversegeo:longitude":42.83095,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -105,7 +109,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296726,
-    "wof:geomhash":"a4f33fa05e833d5cb00a4ed6051bb1c8",
+    "wof:geomhash":"0eec51feade8f35304b6f605a8fcba11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":1125928499,
-    "wof:lastmodified":1566638479,
+    "wof:lastmodified":1659047519,
     "wof:name":"Ab\u016b \u2018Ar\u012bsh",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",
@@ -128,10 +132,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.83251,
-    16.96887,
-    42.83251,
-    16.96887
+    42.809203,
+    16.938651,
+    42.866909,
+    16.99905
 ],
-  "geometry": {"coordinates":[42.83251,16.96887],"type":"Point"}
+  "geometry": {"coordinates":[[[[42.842905,16.994447],[42.860943,16.99905],[42.86485,16.976612],[42.866012,16.967108],[42.866909,16.963149],[42.86126,16.951058],[42.86163,16.950055],[42.860521,16.94958],[42.858726,16.946412],[42.857353,16.945779],[42.845474,16.947257],[42.839455,16.94731],[42.838294,16.946782],[42.835865,16.945409],[42.833436,16.943139],[42.831377,16.94108],[42.830004,16.940077],[42.823986,16.938651],[42.816443,16.951456],[42.813796,16.956443],[42.812846,16.956937],[42.81274,16.958344],[42.811473,16.960562],[42.810522,16.963624],[42.809361,16.967531],[42.809203,16.973866],[42.809625,16.984109],[42.817899,16.988795],[42.822666,16.989864],[42.828737,16.990973],[42.842905,16.994447]]]],"type":"MultiPolygon"}
 }

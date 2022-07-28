@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000227,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.72361,25.37694,49.72361,25.37694",
-    "geom:latitude":25.37694,
-    "geom:longitude":49.72361,
+    "geom:bbox":"49.708381,25.371967,49.734656,25.387977",
+    "geom:latitude":25.380063,
+    "geom:longitude":49.722925,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":8715,
     "iso:country":"SA",
-    "lbl:bbox":"49.70361,25.35694,49.74361,25.39694",
-    "lbl:latitude":25.37694,
-    "lbl:longitude":49.72361,
+    "lbl:latitude":25.376995,
+    "lbl:longitude":49.724047,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
@@ -48,8 +47,13 @@
     "qs_pg:pop_sr":5,
     "qs_pg:qs_id":66397,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":25.376995,
+    "reversegeo:longitude":49.724047,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -65,7 +69,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296700,
-    "wof:geomhash":"a8531461296820fca927ed0abce1051a",
+    "wof:geomhash":"3d2dfa5c578153ba48eb785df3abc200",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1125927759,
-    "wof:lastmodified":1566638480,
+    "wof:lastmodified":1659047518,
     "wof:name":"Al Jafr",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",
@@ -88,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.72361,
-    25.37694,
-    49.72361,
-    25.37694
+    49.708381,
+    25.371967,
+    49.734656,
+    25.387977
 ],
-  "geometry": {"coordinates":[49.72361,25.37694],"type":"Point"}
+  "geometry": {"coordinates":[[[[49.718761,25.387263],[49.720318,25.38642],[49.721292,25.385641],[49.721616,25.384344],[49.725119,25.384538],[49.725054,25.387068],[49.731607,25.387977],[49.731283,25.382462],[49.731088,25.380062],[49.734656,25.374482],[49.733299,25.374286],[49.730634,25.374417],[49.729671,25.374584],[49.728868,25.374883],[49.727513,25.375503],[49.726204,25.374194],[49.725079,25.373781],[49.723977,25.373551],[49.722187,25.371967],[49.721681,25.372536],[49.719523,25.374492],[49.71435,25.375326],[49.712786,25.376032],[49.711131,25.376656],[49.708381,25.377013],[49.709154,25.377193],[49.712485,25.37672],[49.712533,25.380711],[49.713506,25.38084],[49.713182,25.38363],[49.718761,25.387263]]]],"type":"MultiPolygon"}
 }

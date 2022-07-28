@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000224,
     "geom:area_square_m":0.0,
-    "geom:bbox":"54.09599,22.59246,54.09599,22.59246",
-    "geom:latitude":22.59246,
-    "geom:longitude":54.09599,
+    "geom:bbox":"54.092254,22.582443,54.119153,22.598924",
+    "geom:latitude":22.591005,
+    "geom:longitude":54.104037,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":1000,
     "iso:country":"SA",
-    "lbl:bbox":"54.07599,22.57246,54.11599,22.61246",
-    "lbl:latitude":22.59246,
-    "lbl:longitude":54.09599,
+    "lbl:latitude":22.590957,
+    "lbl:longitude":54.106584,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fas_x_preferred":[
@@ -42,8 +41,13 @@
     "qs_pg:pop_sr":2,
     "qs_pg:qs_id":671713,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":22.590957,
+    "reversegeo:longitude":54.106584,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +62,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497302185,
-    "wof:geomhash":"295f3366505fda39ca7b35498882a184",
+    "wof:geomhash":"958f9864985444dd65c99726522ca28f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1126041483,
-    "wof:lastmodified":1566638482,
+    "wof:lastmodified":1659047519,
     "wof:name":"Shaybah",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",
@@ -81,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.09599,
-    22.59246,
-    54.09599,
-    22.59246
+    54.092254,
+    22.582443,
+    54.119153,
+    22.598924
 ],
-  "geometry": {"coordinates":[54.09599,22.59246],"type":"Point"}
+  "geometry": {"coordinates":[[[[54.092714,22.598924],[54.094458,22.598628],[54.097287,22.597477],[54.104185,22.596308],[54.105384,22.595972],[54.106968,22.59602],[54.108359,22.595349],[54.109942,22.595157],[54.109702,22.593717],[54.111285,22.592134],[54.112581,22.592374],[54.115939,22.591558],[54.116467,22.590119],[54.119153,22.585993],[54.118146,22.582443],[54.108215,22.588008],[54.105384,22.588488],[54.101738,22.587912],[54.100779,22.587433],[54.100347,22.585609],[54.099243,22.584938],[54.095906,22.585732],[54.095215,22.58583],[54.094622,22.586093],[54.092254,22.594253],[54.092714,22.598924]]]],"type":"MultiPolygon"}
 }

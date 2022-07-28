@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000039,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.6,25.48333,49.6,25.48333",
-    "geom:latitude":25.48333,
-    "geom:longitude":49.6,
+    "geom:bbox":"49.593625,25.480017,49.60202,25.48872",
+    "geom:latitude":25.484073,
+    "geom:longitude":49.597778,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":12013,
     "iso:country":"SA",
-    "lbl:bbox":"49.58,25.46333,49.62,25.50333",
-    "lbl:latitude":25.48333,
-    "lbl:longitude":49.6,
+    "lbl:latitude":25.484561,
+    "lbl:longitude":49.598335,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:und_x_variant":[
@@ -36,8 +35,13 @@
     "qs_pg:pop_sr":6,
     "qs_pg:qs_id":65947,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":25.484561,
+    "reversegeo:longitude":49.598335,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +56,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296662,
-    "wof:geomhash":"e6d168755fe5f07598e2b0989358a820",
+    "wof:geomhash":"a8ddc48842b069ebb01cb56f16cfa657",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1125926633,
-    "wof:lastmodified":1566638480,
+    "wof:lastmodified":1659047517,
     "wof:name":"Al Qurayn",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",
@@ -75,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.6,
-    25.48333,
-    49.6,
-    25.48333
+    49.593625,
+    25.480017,
+    49.60202,
+    25.48872
 ],
-  "geometry": {"coordinates":[49.6,25.48333],"type":"Point"}
+  "geometry": {"coordinates":[[[[49.599337,25.48872],[49.60021,25.485149],[49.601163,25.483597],[49.60202,25.482466],[49.601535,25.481917],[49.600452,25.481691],[49.600048,25.481707],[49.598712,25.481602],[49.597338,25.480017],[49.596267,25.480204],[49.595039,25.481077],[49.59457,25.481626],[49.59449,25.482159],[49.594102,25.482272],[49.593625,25.482432],[49.594457,25.482822],[49.594587,25.48342],[49.594787,25.483957],[49.595281,25.484405],[49.595734,25.487411],[49.597398,25.48796],[49.599337,25.48872]]]],"type":"MultiPolygon"}
 }

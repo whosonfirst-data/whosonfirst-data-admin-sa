@@ -4,25 +4,33 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000021,
     "geom:area_square_m":0.0,
-    "geom:bbox":"45.03675,27.78248,45.03675,27.78248",
-    "geom:latitude":27.78248,
-    "geom:longitude":45.03675,
+    "geom:bbox":"45.033905,27.77865,45.039647,27.784716",
+    "geom:latitude":27.782052,
+    "geom:longitude":45.036587,
     "gn:country":"SA",
     "gn:fcode":"PPLL",
     "gn:population":1488,
     "iso:country":"SA",
-    "lbl:bbox":"45.01675,27.76248,45.05675,27.80248",
+    "lbl:latitude":27.782976,
+    "lbl:longitude":45.036743,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:name":"\u1e28ajrat al Khinbish",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"3",
+    "reversegeo:latitude":27.782976,
+    "reversegeo:longitude":45.036743,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -38,7 +46,7 @@
     },
     "wof:country":"SA",
     "wof:created":1469052333,
-    "wof:geomhash":"fcb5b3844ad4df13aa846a5d757bfeee",
+    "wof:geomhash":"56e134c356cc7a6d99bf6e548d65fa64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":890441697,
-    "wof:lastmodified":1566638473,
+    "wof:lastmodified":1659047514,
     "wof:name":"\u1e28ajrat al Khinbish",
     "wof:parent_id":1108720699,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.03675,
-    27.78248,
-    45.03675,
-    27.78248
+    45.033905,
+    27.77865,
+    45.039647,
+    27.784716
 ],
-  "geometry": {"coordinates":[45.03675,27.78248],"type":"Point"}
+  "geometry": {"coordinates":[[[[45.037327,27.784566],[45.03851,27.784322],[45.03938,27.783765],[45.039206,27.783162],[45.039647,27.782687],[45.039531,27.782258],[45.038846,27.781886],[45.038382,27.78148],[45.03793,27.781248],[45.037721,27.780634],[45.037246,27.779915],[45.036933,27.779404],[45.036318,27.778662],[45.035622,27.77865],[45.034996,27.778894],[45.034323,27.779428],[45.034636,27.780054],[45.035158,27.780425],[45.034822,27.781098],[45.035135,27.781724],[45.034439,27.782374],[45.033905,27.783615],[45.034532,27.783673],[45.035251,27.784716],[45.035819,27.784589],[45.036445,27.784276],[45.037327,27.784566]]]],"type":"MultiPolygon"}
 }

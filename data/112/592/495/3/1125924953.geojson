@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000445,
     "geom:area_square_m":0.0,
-    "geom:bbox":"42.94435,16.59601,42.94435,16.59601",
-    "geom:latitude":16.59601,
-    "geom:longitude":42.94435,
+    "geom:bbox":"42.924395,16.585738,42.958325,16.61703",
+    "geom:latitude":16.600815,
+    "geom:longitude":42.943257,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":26945,
     "iso:country":"SA",
-    "lbl:bbox":"42.92435,16.57601,42.96435,16.61601",
-    "lbl:latitude":16.59601,
-    "lbl:longitude":42.94435,
+    "lbl:latitude":16.600058,
+    "lbl:longitude":42.938996,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
@@ -39,8 +38,13 @@
     "qs_pg:pop_sr":7,
     "qs_pg:qs_id":65057,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":16.600058,
+    "reversegeo:longitude":42.938996,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +59,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296609,
-    "wof:geomhash":"7be362e5961344b98527d1ffe7566b29",
+    "wof:geomhash":"126b2c3c78a25fc4ad5f6bb6a0d41099",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1125924953,
-    "wof:lastmodified":1566638480,
+    "wof:lastmodified":1659047515,
     "wof:name":"\u015e\u0101mitah",
     "wof:parent_id":1108720759,
     "wof:placetype":"locality",
@@ -78,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.94435,
-    16.59601,
-    42.94435,
-    16.59601
+    42.924395,
+    16.585738,
+    42.958325,
+    16.61703
 ],
-  "geometry": {"coordinates":[42.94435,16.59601],"type":"Point"}
+  "geometry": {"coordinates":[[[[42.953666,16.612151],[42.955937,16.608926],[42.957973,16.60468],[42.958325,16.601296],[42.955073,16.598087],[42.950062,16.596022],[42.947601,16.594528],[42.941185,16.592475],[42.939409,16.589849],[42.937092,16.588613],[42.931911,16.588287],[42.929186,16.587452],[42.928175,16.58688],[42.928087,16.585738],[42.925496,16.587631],[42.924395,16.589512],[42.928175,16.592022],[42.931032,16.593561],[42.931823,16.59444],[42.932263,16.595187],[42.932614,16.596242],[42.933361,16.599362],[42.934943,16.601823],[42.936789,16.605207],[42.937712,16.606834],[42.939251,16.609602],[42.941932,16.614613],[42.942811,16.61703],[42.944569,16.615096],[42.944612,16.611492],[42.953666,16.612151]]]],"type":"MultiPolygon"}
 }

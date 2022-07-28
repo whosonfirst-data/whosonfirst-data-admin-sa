@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.009762,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.65933,26.14422,43.65933,26.14422",
-    "geom:latitude":26.14422,
-    "geom:longitude":43.65933,
+    "geom:bbox":"43.581081,26.09578,43.738234,26.194576",
+    "geom:latitude":26.148593,
+    "geom:longitude":43.653917,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":25153,
     "iso:country":"SA",
-    "lbl:bbox":"43.63933,26.12422,43.67933,26.16422",
-    "lbl:latitude":26.14422,
-    "lbl:longitude":43.65933,
+    "lbl:latitude":26.147442,
+    "lbl:longitude":43.652873,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:und_x_variant":[
@@ -36,8 +35,13 @@
     "qs_pg:pop_sr":7,
     "qs_pg:qs_id":66438,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":26.147442,
+    "reversegeo:longitude":43.652873,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +56,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296702,
-    "wof:geomhash":"d46371ef63683ef32e58b0fb67eec324",
+    "wof:geomhash":"4088d5e1a1b55333c996e49bdc5f120b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1125927839,
-    "wof:lastmodified":1566638477,
+    "wof:lastmodified":1659047518,
     "wof:name":"Al Bukayr\u012byah",
     "wof:parent_id":1108720569,
     "wof:placetype":"locality",
@@ -75,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.65933,
-    26.14422,
-    43.65933,
-    26.14422
+    43.581081,
+    26.09578,
+    43.738234,
+    26.194576
 ],
-  "geometry": {"coordinates":[43.65933,26.14422],"type":"Point"}
+  "geometry": {"coordinates":[[[[43.627103,26.181004],[43.64193,26.184959],[43.661477,26.190975],[43.671996,26.194007],[43.676544,26.194576],[43.680865,26.19378],[43.686208,26.192302],[43.693599,26.187867],[43.698033,26.184684],[43.702922,26.179795],[43.711067,26.171138],[43.72136,26.160254],[43.731569,26.149286],[43.734859,26.144645],[43.738234,26.138149],[43.721701,26.131366],[43.695843,26.12064],[43.687148,26.116859],[43.682106,26.114908],[43.676196,26.112685],[43.669907,26.110353],[43.663239,26.108076],[43.655052,26.105745],[43.642853,26.102871],[43.615694,26.09578],[43.618206,26.107577],[43.619357,26.111094],[43.608614,26.113332],[43.595761,26.117745],[43.600685,26.135408],[43.581081,26.14045],[43.588474,26.166409],[43.586054,26.167677],[43.588589,26.171825],[43.603454,26.189571],[43.611669,26.184743],[43.614253,26.188279],[43.627103,26.181004]]]],"type":"MultiPolygon"}
 }
