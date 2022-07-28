@@ -1,0 +1,44 @@
+{
+  "id": 1779992651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000281,
+    "geom:bbox":"41.697282,27.493842,41.715649,27.517168",
+    "geom:latitude":27.506489,
+    "geom:longitude":41.706341,
+    "iso:country":"SA",
+    "lbl:latitude":27.507069,
+    "lbl:longitude":41.706167,
+    "mps:latitude":27.507069,
+    "mps:longitude":41.706167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Az Zibarah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"cb4d0940a5cd36f3750ece34ec7813fa",
+    "wof:hierarchy":[],
+    "wof:id":1779992651,
+    "wof:lastmodified":1659050484,
+    "wof:name":"Az Zibarah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.697282,
+    27.493842,
+    41.715649,
+    27.517168
+],
+  "geometry": {"coordinates":[[[41.697282,27.513767],[41.700854,27.513662],[41.701778,27.513998],[41.705118,27.514952],[41.706776,27.515274],[41.708016,27.515822],[41.713136,27.516742],[41.7137,27.517168],[41.714065,27.515341],[41.714888,27.513239],[41.715649,27.51162],[41.715256,27.509536],[41.714352,27.507924],[41.714155,27.505761],[41.711088,27.499194],[41.707549,27.495812],[41.704897,27.493842],[41.698465,27.500492],[41.698268,27.510598],[41.697836,27.512013],[41.697282,27.513767]]],"type":"Polygon"}
+}

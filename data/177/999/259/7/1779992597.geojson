@@ -1,0 +1,44 @@
+{
+  "id": 1779992597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00037,
+    "geom:bbox":"45.945801,28.378526,45.968115,28.408832",
+    "geom:latitude":28.394258,
+    "geom:longitude":45.95764,
+    "iso:country":"SA",
+    "lbl:latitude":28.392835,
+    "lbl:longitude":45.95688,
+    "mps:latitude":28.392835,
+    "mps:longitude":45.95688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Faisaliyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"8b43ef6a1cfce951a030897644630290",
+    "wof:hierarchy":[],
+    "wof:id":1779992597,
+    "wof:lastmodified":1659050483,
+    "wof:name":"Al Faisaliyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.945801,
+    28.378526,
+    45.968115,
+    28.408832
+],
+  "geometry": {"coordinates":[[[45.968115,28.408832],[45.963957,28.395108],[45.962432,28.378526],[45.945801,28.386368],[45.949753,28.392762],[45.952076,28.39966],[45.95275,28.39951],[45.951232,28.405291],[45.957455,28.406684],[45.968115,28.408832]]],"type":"Polygon"}
+}

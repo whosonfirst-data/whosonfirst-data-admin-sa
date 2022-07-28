@@ -1,0 +1,44 @@
+{
+  "id": 1779992633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000415,
+    "geom:bbox":"41.670878,27.555683,41.705017,27.572166",
+    "geom:latitude":27.562924,
+    "geom:longitude":41.686267,
+    "iso:country":"SA",
+    "lbl:latitude":27.562764,
+    "lbl:longitude":41.686267,
+    "mps:latitude":27.562764,
+    "mps:longitude":41.686267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Aja"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"4dc166d561eebcfd0a39d3bce557020b",
+    "wof:hierarchy":[],
+    "wof:id":1779992633,
+    "wof:lastmodified":1659050484,
+    "wof:name":"Aja",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.670878,
+    27.555683,
+    41.705017,
+    27.572166
+],
+  "geometry": {"coordinates":[[[41.670984,27.572166],[41.705017,27.565858],[41.704346,27.562672],[41.701841,27.558625],[41.701686,27.555683],[41.677091,27.556499],[41.674274,27.555888],[41.671836,27.559283],[41.670878,27.562559],[41.670984,27.572166]]],"type":"Polygon"}
+}

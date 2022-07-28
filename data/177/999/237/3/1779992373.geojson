@@ -1,0 +1,44 @@
+{
+  "id": 1779992373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000376,
+    "geom:bbox":"43.885756,26.333482,43.913134,26.354645",
+    "geom:latitude":26.344212,
+    "geom:longitude":43.899334,
+    "iso:country":"SA",
+    "lbl:latitude":26.344172,
+    "lbl:longitude":43.898226,
+    "mps:latitude":26.344172,
+    "mps:longitude":43.898226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Alhumar"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"73185924ce61e2588c41a473c6063eb6",
+    "wof:hierarchy":[],
+    "wof:id":1779992373,
+    "wof:lastmodified":1659050478,
+    "wof:name":"Alhumar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.885756,
+    26.333482,
+    43.913134,
+    26.354645
+],
+  "geometry": {"coordinates":[[[43.885756,26.349118],[43.902502,26.354645],[43.906366,26.352612],[43.912366,26.348138],[43.913134,26.347497],[43.911408,26.346806],[43.910994,26.343631],[43.910856,26.341628],[43.910994,26.340248],[43.909544,26.339074],[43.90844,26.338177],[43.907059,26.337624],[43.904643,26.337348],[43.903055,26.33652],[43.902226,26.335139],[43.900569,26.333827],[43.899258,26.333482],[43.897048,26.33362],[43.894839,26.334172],[43.893666,26.334241],[43.892147,26.333896],[43.885756,26.349118]]],"type":"Polygon"}
+}

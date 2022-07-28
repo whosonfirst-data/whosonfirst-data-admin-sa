@@ -1,0 +1,44 @@
+{
+  "id": 1779992399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:bbox":"43.974539,26.322014,43.983584,26.330649",
+    "geom:latitude":26.326347,
+    "geom:longitude":43.97889,
+    "iso:country":"SA",
+    "lbl:latitude":26.326389,
+    "lbl:longitude":43.97889,
+    "mps:latitude":26.326389,
+    "mps:longitude":43.97889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Taalim"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"1d52740e08cf78c521a51767ef7f318c",
+    "wof:hierarchy":[],
+    "wof:id":1779992399,
+    "wof:lastmodified":1659050478,
+    "wof:name":"Al Taalim",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.974539,
+    26.322014,
+    43.983584,
+    26.330649
+],
+  "geometry": {"coordinates":[[[43.97885,26.330649],[43.983584,26.324558],[43.981238,26.323597],[43.980079,26.32306],[43.978666,26.322014],[43.97697,26.324671],[43.974539,26.327074],[43.975767,26.328797],[43.977001,26.329538],[43.97885,26.330649]]],"type":"Polygon"}
+}

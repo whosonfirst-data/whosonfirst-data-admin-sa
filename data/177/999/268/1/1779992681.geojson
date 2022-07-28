@@ -1,0 +1,44 @@
+{
+  "id": 1779992681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:bbox":"41.068453,19.127871,41.08008,19.133362",
+    "geom:latitude":19.130904,
+    "geom:longitude":41.07427,
+    "iso:country":"SA",
+    "lbl:latitude":19.131133,
+    "lbl:longitude":41.07427,
+    "mps:latitude":19.131133,
+    "mps:longitude":41.07427,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Algharbi"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"00644b0947cfc2538f87e3c11d92f9ae",
+    "wof:hierarchy":[],
+    "wof:id":1779992681,
+    "wof:lastmodified":1659050485,
+    "wof:name":"Algharbi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.068453,
+    19.127871,
+    41.08008,
+    19.133362
+],
+  "geometry": {"coordinates":[[[41.076119,19.132923],[41.08008,19.132815],[41.080079,19.131723],[41.079775,19.131734],[41.079584,19.130253],[41.078991,19.128284],[41.076988,19.129208],[41.075037,19.12919],[41.074584,19.127871],[41.071932,19.128159],[41.071469,19.128054],[41.071259,19.128769],[41.072227,19.129253],[41.068453,19.129878],[41.068695,19.131639],[41.069557,19.132473],[41.068722,19.133362],[41.076119,19.132923]]],"type":"Polygon"}
+}

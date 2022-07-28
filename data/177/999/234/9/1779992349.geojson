@@ -1,0 +1,44 @@
+{
+  "id": 1779992349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000572,
+    "geom:bbox":"43.915482,26.393082,43.949367,26.423217",
+    "geom:latitude":26.40818,
+    "geom:longitude":43.93282,
+    "iso:country":"SA",
+    "lbl:latitude":26.408181,
+    "lbl:longitude":43.932819,
+    "mps:latitude":26.408181,
+    "mps:longitude":43.932819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Nahdah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"f2807fc715d1513d2b1205f36f31c12d",
+    "wof:hierarchy":[],
+    "wof:id":1779992349,
+    "wof:lastmodified":1659050477,
+    "wof:name":"Al Nahdah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.915482,
+    26.393082,
+    43.949367,
+    26.423217
+],
+  "geometry": {"coordinates":[[[43.938403,26.423217],[43.949367,26.400943],[43.92642,26.393082],[43.925171,26.399141],[43.915482,26.414477],[43.938403,26.423217]]],"type":"Polygon"}
+}

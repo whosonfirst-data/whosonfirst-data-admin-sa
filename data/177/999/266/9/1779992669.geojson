@@ -1,0 +1,44 @@
+{
+  "id": 1779992669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002689,
+    "geom:bbox":"41.625598,27.414893,41.696473,27.466806",
+    "geom:latitude":27.43884,
+    "geom:longitude":41.664711,
+    "iso:country":"SA",
+    "lbl:latitude":27.438709,
+    "lbl:longitude":41.665386,
+    "mps:latitude":27.438709,
+    "mps:longitude":41.665386,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hail Regional Airport"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"ef9e918eb69b2b34468373665af9bfbd",
+    "wof:hierarchy":[],
+    "wof:id":1779992669,
+    "wof:lastmodified":1659050484,
+    "wof:name":"Hail Regional Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.625598,
+    27.414893,
+    41.696473,
+    27.466806
+],
+  "geometry": {"coordinates":[[[41.648755,27.455759],[41.668597,27.466806],[41.684153,27.461106],[41.685849,27.462802],[41.686849,27.462715],[41.68729,27.463156],[41.692143,27.462633],[41.692804,27.461784],[41.694904,27.458273],[41.696473,27.457466],[41.695131,27.453861],[41.693728,27.438705],[41.693278,27.414893],[41.661749,27.416653],[41.628547,27.423047],[41.629479,27.427098],[41.629114,27.42953],[41.627847,27.436004],[41.627018,27.437069],[41.625598,27.441687],[41.631103,27.446245],[41.648755,27.455759]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000127,
+    "geom:bbox":"41.704082,27.521386,41.732065,27.534205",
+    "geom:latitude":27.527812,
+    "geom:longitude":41.71616,
+    "iso:country":"SA",
+    "lbl:latitude":27.527424,
+    "lbl:longitude":41.715206,
+    "mps:latitude":27.527424,
+    "mps:longitude":41.715206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mughaydah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"f3563e67241c57dfe2a0acf24c3af0c0",
+    "wof:hierarchy":[],
+    "wof:id":1779992641,
+    "wof:lastmodified":1659050484,
+    "wof:name":"Mughaydah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.704082,
+    27.521386,
+    41.732065,
+    27.534205
+],
+  "geometry": {"coordinates":[[[41.704082,27.527483],[41.704718,27.527407],[41.710566,27.528224],[41.711026,27.52899],[41.712992,27.530803],[41.718844,27.531389],[41.72057,27.531237],[41.724023,27.532721],[41.725598,27.534205],[41.732065,27.533432],[41.72905,27.531056],[41.725486,27.530508],[41.721649,27.529777],[41.720461,27.528772],[41.719547,27.526122],[41.718999,27.523564],[41.717041,27.521386],[41.713823,27.52343],[41.711722,27.523625],[41.709836,27.523761],[41.704124,27.523706],[41.704082,27.527483]]],"type":"Polygon"}
+}

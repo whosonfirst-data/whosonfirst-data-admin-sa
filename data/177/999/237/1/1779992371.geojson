@@ -1,0 +1,44 @@
+{
+  "id": 1779992371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000137,
+    "geom:bbox":"43.883081,26.349118,43.902502,26.364712",
+    "geom:latitude":26.355992,
+    "geom:longitude":43.890079,
+    "iso:country":"SA",
+    "lbl:latitude":26.355356,
+    "lbl:longitude":43.889122,
+    "mps:latitude":26.355356,
+    "mps:longitude":43.889122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Alulaya"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"7cacec45ff5f25f7ae410f2b297a69de",
+    "wof:hierarchy":[],
+    "wof:id":1779992371,
+    "wof:lastmodified":1659050478,
+    "wof:name":"Alulaya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.883081,
+    26.349118,
+    43.902502,
+    26.364712
+],
+  "geometry": {"coordinates":[[[43.883081,26.364712],[43.885013,26.363085],[43.889385,26.361255],[43.892232,26.359526],[43.89752,26.356679],[43.902502,26.354645],[43.885756,26.349118],[43.885254,26.350625],[43.884706,26.352771],[43.884112,26.355329],[43.883656,26.357978],[43.883473,26.360124],[43.883199,26.362591],[43.883081,26.364712]]],"type":"Polygon"}
+}

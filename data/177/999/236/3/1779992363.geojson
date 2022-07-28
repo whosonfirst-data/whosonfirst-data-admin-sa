@@ -1,0 +1,44 @@
+{
+  "id": 1779992363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000571,
+    "geom:bbox":"43.92642,26.36884,43.956618,26.400617",
+    "geom:latitude":26.385351,
+    "geom:longitude":43.940483,
+    "iso:country":"SA",
+    "lbl:latitude":26.385482,
+    "lbl:longitude":43.940483,
+    "mps:latitude":26.385482,
+    "mps:longitude":43.940483,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Iskan"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"899a1d3d77e939e887b2d38409dbbe29",
+    "wof:hierarchy":[],
+    "wof:id":1779992363,
+    "wof:lastmodified":1659050478,
+    "wof:name":"Al Iskan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92642,
+    26.36884,
+    43.956618,
+    26.400617
+],
+  "geometry": {"coordinates":[[[43.92642,26.393082],[43.948508,26.400617],[43.949915,26.39413],[43.956618,26.382159],[43.95576,26.380907],[43.953856,26.379638],[43.931823,26.36884],[43.92642,26.393082]]],"type":"Polygon"}
+}

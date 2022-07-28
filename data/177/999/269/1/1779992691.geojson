@@ -1,0 +1,44 @@
+{
+  "id": 1779992691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:bbox":"41.072708,19.117666,41.082772,19.128284",
+    "geom:latitude":19.123097,
+    "geom:longitude":41.078478,
+    "iso:country":"SA",
+    "lbl:latitude":19.123722,
+    "lbl:longitude":41.078974,
+    "mps:latitude":19.123722,
+    "mps:longitude":41.078974,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Naimyyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"448d337c56494f9837fd3c1ffb18cd2e",
+    "wof:hierarchy":[],
+    "wof:id":1779992691,
+    "wof:lastmodified":1659050485,
+    "wof:name":"Al Naimyyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.072708,
+    19.117666,
+    41.082772,
+    19.128284
+],
+  "geometry": {"coordinates":[[[41.078991,19.128284],[41.080493,19.127682],[41.081374,19.128004],[41.082772,19.128209],[41.082684,19.127385],[41.082067,19.126051],[41.082707,19.125805],[41.077358,19.117666],[41.075764,19.118972],[41.073517,19.118204],[41.072708,19.119381],[41.076582,19.121777],[41.076886,19.121479],[41.077228,19.126219],[41.077992,19.126319],[41.078119,19.125901],[41.078991,19.128284]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:bbox":"43.997177,26.303223,44.012232,26.318591",
+    "geom:latitude":26.3108,
+    "geom:longitude":44.003596,
+    "iso:country":"SA",
+    "lbl:latitude":26.310266,
+    "lbl:longitude":44.003482,
+    "mps:latitude":26.310266,
+    "mps:longitude":44.003482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Khudayra"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"8d50d34fead990c1c3e9504b7bdcd221",
+    "wof:hierarchy":[],
+    "wof:id":1779992413,
+    "wof:lastmodified":1659050479,
+    "wof:name":"Khudayra",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.997177,
+    26.303223,
+    44.012232,
+    26.318591
+],
+  "geometry": {"coordinates":[[[44.005906,26.314489],[44.009199,26.312266],[44.012232,26.3092],[44.007989,26.307041],[44.00206,26.303223],[43.998569,26.308372],[43.998257,26.310765],[43.998914,26.314584],[43.998874,26.317384],[43.997177,26.318527],[43.999431,26.318591],[44.000526,26.318301],[44.001749,26.317754],[44.005906,26.314489]]],"type":"Polygon"}
+}

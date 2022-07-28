@@ -1,0 +1,44 @@
+{
+  "id": 1779992347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000657,
+    "geom:bbox":"43.889874,26.379908,43.92642,26.414477",
+    "geom:latitude":26.396714,
+    "geom:longitude":43.908501,
+    "iso:country":"SA",
+    "lbl:latitude":26.398078,
+    "lbl:longitude":43.908224,
+    "mps:latitude":26.398078,
+    "mps:longitude":43.908224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Rayyan"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"38bd9564565218bcf9f45ee0c5c37260",
+    "wof:hierarchy":[],
+    "wof:id":1779992347,
+    "wof:lastmodified":1659050477,
+    "wof:name":"Al Rayyan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.889874,
+    26.379908,
+    43.92642,
+    26.414477
+],
+  "geometry": {"coordinates":[[[43.915482,26.414477],[43.925171,26.399141],[43.92642,26.393082],[43.921639,26.390957],[43.908466,26.387982],[43.903791,26.379908],[43.892849,26.385008],[43.889874,26.387876],[43.897311,26.400412],[43.90156,26.405299],[43.904854,26.407955],[43.909528,26.411142],[43.91229,26.412842],[43.915482,26.414477]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000652,
+    "geom:bbox":"43.876665,26.405299,43.915482,26.439221",
+    "geom:latitude":26.422733,
+    "geom:longitude":43.89744,
+    "iso:country":"SA",
+    "lbl:latitude":26.423343,
+    "lbl:longitude":43.89744,
+    "mps:latitude":26.423343,
+    "mps:longitude":43.89744,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Alrehab"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"11674100bfcff934396e2fc5995bfde0",
+    "wof:hierarchy":[],
+    "wof:id":1779992551,
+    "wof:lastmodified":1659050482,
+    "wof:name":"Alrehab",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.876665,
+    26.405299,
+    43.915482,
+    26.439221
+],
+  "geometry": {"coordinates":[[[43.900777,26.439221],[43.909095,26.424394],[43.915482,26.414477],[43.91229,26.412842],[43.909528,26.411142],[43.904854,26.407955],[43.90156,26.405299],[43.892766,26.412883],[43.876665,26.429204],[43.900777,26.439221]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000185,
+    "geom:bbox":"43.940502,26.321948,43.961417,26.337384",
+    "geom:latitude":26.329319,
+    "geom:longitude":43.951681,
+    "iso:country":"SA",
+    "lbl:latitude":26.329209,
+    "lbl:longitude":43.951839,
+    "mps:latitude":26.329209,
+    "mps:longitude":43.951839,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Quway"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"faa8414fd7f3bff645818a62718dfed2",
+    "wof:hierarchy":[],
+    "wof:id":1779992435,
+    "wof:lastmodified":1659050479,
+    "wof:name":"Al Quway",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.940502,
+    26.321948,
+    43.961417,
+    26.337384
+],
+  "geometry": {"coordinates":[[[43.954334,26.337384],[43.959613,26.330267],[43.961417,26.327627],[43.961284,26.326759],[43.961064,26.326063],[43.9538,26.322549],[43.952229,26.321948],[43.95126,26.321981],[43.94949,26.32285],[43.948053,26.324053],[43.947117,26.324921],[43.945647,26.32589],[43.944511,26.326525],[43.944077,26.326993],[43.942974,26.328129],[43.941738,26.329265],[43.940502,26.331303],[43.942406,26.332046],[43.94456,26.332635],[43.944977,26.332838],[43.945886,26.333606],[43.95119,26.336088],[43.951769,26.336427],[43.953214,26.337032],[43.954334,26.337384]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000337,
+    "geom:bbox":"43.938403,26.382159,43.96412,26.425173",
+    "geom:latitude":26.403533,
+    "geom:longitude":43.951284,
+    "iso:country":"SA",
+    "lbl:latitude":26.398158,
+    "lbl:longitude":43.953232,
+    "mps:latitude":26.398158,
+    "mps:longitude":43.953232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Alufuq"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"7605d096dac34ac9d628a873313277d3",
+    "wof:hierarchy":[],
+    "wof:id":1779992351,
+    "wof:lastmodified":1659050477,
+    "wof:name":"Alufuq",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.938403,
+    26.382159,
+    43.96412,
+    26.425173
+],
+  "geometry": {"coordinates":[[[43.938403,26.423217],[43.941785,26.424255],[43.946227,26.425173],[43.954942,26.403946],[43.958294,26.396764],[43.96412,26.386469],[43.957337,26.383037],[43.956618,26.382159],[43.949915,26.39413],[43.948508,26.400617],[43.949367,26.400943],[43.938403,26.423217]]],"type":"Polygon"}
+}

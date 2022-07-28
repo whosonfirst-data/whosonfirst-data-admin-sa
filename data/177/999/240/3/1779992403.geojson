@@ -1,0 +1,44 @@
+{
+  "id": 1779992403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:bbox":"43.973343,26.313234,43.990453,26.325265",
+    "geom:latitude":26.319445,
+    "geom:longitude":43.9818,
+    "iso:country":"SA",
+    "lbl:latitude":26.319582,
+    "lbl:longitude":43.9818,
+    "mps:latitude":26.319582,
+    "mps:longitude":43.9818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "As Sadah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"46a4a98cf310131823c7ae6e588e5a25",
+    "wof:hierarchy":[],
+    "wof:id":1779992403,
+    "wof:lastmodified":1659050479,
+    "wof:name":"As Sadah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.973343,
+    26.313234,
+    43.990453,
+    26.325265
+],
+  "geometry": {"coordinates":[[[43.986694,26.325265],[43.990453,26.319951],[43.988701,26.31899],[43.982963,26.315824],[43.976775,26.313234],[43.975142,26.315937],[43.973343,26.318917],[43.976957,26.32085],[43.978666,26.322014],[43.980079,26.32306],[43.981238,26.323597],[43.983584,26.324558],[43.986694,26.325265]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:bbox":"43.96383,26.309413,43.976775,26.324084",
+    "geom:latitude":26.316474,
+    "geom:longitude":43.969642,
+    "iso:country":"SA",
+    "lbl:latitude":26.316528,
+    "lbl:longitude":43.969641,
+    "mps:latitude":26.316528,
+    "mps:longitude":43.969641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Maslakh"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"65b51a4c2e2ebf88609a404a0924ec5e",
+    "wof:hierarchy":[],
+    "wof:id":1779992455,
+    "wof:lastmodified":1659050480,
+    "wof:name":"Al Maslakh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96383,
+    26.309413,
+    43.976775,
+    26.324084
+],
+  "geometry": {"coordinates":[[[43.973343,26.318917],[43.976775,26.313234],[43.973335,26.311891],[43.97129,26.311091],[43.96894,26.309958],[43.966801,26.309413],[43.965784,26.313708],[43.96383,26.320492],[43.968401,26.323201],[43.969892,26.324084],[43.97058,26.323083],[43.971478,26.322254],[43.9718,26.321541],[43.972215,26.320459],[43.973343,26.318917]]],"type":"Polygon"}
+}

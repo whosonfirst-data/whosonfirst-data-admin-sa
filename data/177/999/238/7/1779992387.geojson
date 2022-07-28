@@ -1,0 +1,44 @@
+{
+  "id": 1779992387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:bbox":"43.9449,26.334875,43.965561,26.348814",
+    "geom:latitude":26.341955,
+    "geom:longitude":43.956009,
+    "iso:country":"SA",
+    "lbl:latitude":26.342473,
+    "lbl:longitude":43.955852,
+    "mps:latitude":26.342473,
+    "mps:longitude":43.955852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Almarqab"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"16593c3307e9fab4f8d5a0c592c75cb4",
+    "wof:hierarchy":[],
+    "wof:id":1779992387,
+    "wof:lastmodified":1659050478,
+    "wof:name":"Almarqab",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9449,
+    26.334875,
+    43.965561,
+    26.348814
+],
+  "geometry": {"coordinates":[[[43.95757,26.348814],[43.959147,26.345402],[43.962027,26.342691],[43.965561,26.337838],[43.961315,26.334875],[43.95959,26.336335],[43.953221,26.338812],[43.952602,26.339785],[43.945392,26.342527],[43.9449,26.344159],[43.953691,26.347197],[43.95757,26.348814]]],"type":"Polygon"}
+}

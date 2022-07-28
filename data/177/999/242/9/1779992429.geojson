@@ -1,0 +1,44 @@
+{
+  "id": 1779992429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000282,
+    "geom:bbox":"43.995699,26.354823,44.014657,26.3844",
+    "geom:latitude":26.367152,
+    "geom:longitude":44.003915,
+    "iso:country":"SA",
+    "lbl:latitude":26.364341,
+    "lbl:longitude":44.003772,
+    "mps:latitude":26.364341,
+    "mps:longitude":44.003772,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Naq' Ash Sharqiyyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"a78ee0a10da668ae164cc6ab043540ee",
+    "wof:hierarchy":[],
+    "wof:id":1779992429,
+    "wof:lastmodified":1659050479,
+    "wof:name":"Al Naq' Ash Sharqiyyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.995699,
+    26.354823,
+    44.014657,
+    26.3844
+],
+  "geometry": {"coordinates":[[[44.002087,26.3844],[44.008661,26.370538],[44.008303,26.370397],[44.009237,26.368932],[44.009852,26.367393],[44.011915,26.367393],[44.014531,26.362191],[44.014657,26.36068],[44.01359,26.360289],[44.011257,26.35943],[44.006306,26.357563],[44.000067,26.354823],[43.998326,26.359535],[43.995699,26.362819],[43.997057,26.366016],[43.997915,26.369287],[43.997861,26.37245],[43.998236,26.374863],[43.998719,26.377543],[43.999845,26.379902],[44.00022,26.381028],[44.001239,26.382797],[44.002087,26.3844]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000857,
+    "geom:bbox":"44.002087,26.36068,44.043046,26.399314",
+    "geom:latitude":26.379118,
+    "geom:longitude":44.021613,
+    "iso:country":"SA",
+    "lbl:latitude":26.379377,
+    "lbl:longitude":44.021251,
+    "mps:latitude":26.379377,
+    "mps:longitude":44.021251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Nafl"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"d803c36aec1e0fed65005a7ebbe8c0f8",
+    "wof:hierarchy":[],
+    "wof:id":1779992427,
+    "wof:lastmodified":1659050479,
+    "wof:name":"Al Nafl",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.002087,
+    26.36068,
+    44.043046,
+    26.399314
+],
+  "geometry": {"coordinates":[[[44.024797,26.399314],[44.043046,26.37185],[44.041567,26.371309],[44.040498,26.370294],[44.040223,26.370178],[44.039821,26.370081],[44.036573,26.36949],[44.035275,26.368841],[44.029321,26.366431],[44.024753,26.365229],[44.022388,26.364227],[44.019337,26.362631],[44.016499,26.361354],[44.014657,26.36068],[44.014531,26.362191],[44.011915,26.367393],[44.009852,26.367393],[44.009237,26.368932],[44.008303,26.370397],[44.008661,26.370538],[44.002087,26.3844],[44.024797,26.399314]]],"type":"Polygon"}
+}

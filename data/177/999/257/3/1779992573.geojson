@@ -1,0 +1,44 @@
+{
+  "id": 1779992573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000449,
+    "geom:bbox":"45.983026,28.43894,46.009138,28.469982",
+    "geom:latitude":28.454151,
+    "geom:longitude":45.995789,
+    "iso:country":"SA",
+    "lbl:latitude":28.45437,
+    "lbl:longitude":45.995591,
+    "mps:latitude":28.45437,
+    "mps:longitude":45.995591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Batin"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"8d3e4d594e43a7b846d452f3f0f6af18",
+    "wof:hierarchy":[],
+    "wof:id":1779992573,
+    "wof:lastmodified":1659050482,
+    "wof:name":"Al Batin",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.983026,
+    28.43894,
+    46.009138,
+    28.469982
+],
+  "geometry": {"coordinates":[[[46.003311,28.456262],[46.009138,28.441723],[46.004279,28.4422],[45.993137,28.43894],[45.983026,28.4646],[45.998112,28.469982],[46.003311,28.456262]]],"type":"Polygon"}
+}

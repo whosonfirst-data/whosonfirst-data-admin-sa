@@ -1,0 +1,44 @@
+{
+  "id": 1779992453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:bbox":"43.9538,26.311135,43.965784,26.326063",
+    "geom:latitude":26.318689,
+    "geom:longitude":43.960204,
+    "iso:country":"SA",
+    "lbl:latitude":26.319025,
+    "lbl:longitude":43.960295,
+    "mps:latitude":26.319025,
+    "mps:longitude":43.960295,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Mawta"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"f849092df042c4091951fe238a161f2a",
+    "wof:hierarchy":[],
+    "wof:id":1779992453,
+    "wof:lastmodified":1659050480,
+    "wof:name":"Al Mawta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9538,
+    26.311135,
+    43.965784,
+    26.326063
+],
+  "geometry": {"coordinates":[[[43.961064,26.326063],[43.960842,26.325264],[43.960849,26.324804],[43.961149,26.324279],[43.963661,26.321111],[43.96383,26.320492],[43.965784,26.313708],[43.963184,26.312546],[43.960639,26.311135],[43.959532,26.31332],[43.956489,26.317747],[43.955189,26.319683],[43.9538,26.322549],[43.961064,26.326063]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:bbox":"43.999279,26.314489,44.010535,26.322817",
+    "geom:latitude":26.319245,
+    "geom:longitude":44.005688,
+    "iso:country":"SA",
+    "lbl:latitude":26.319227,
+    "lbl:longitude":44.005795,
+    "mps:latitude":26.319227,
+    "mps:longitude":44.005795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "At Tawfiq"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"a26c4ecdb482baa8c2eeb4017006bfb2",
+    "wof:hierarchy":[],
+    "wof:id":1779992411,
+    "wof:lastmodified":1659050479,
+    "wof:name":"At Tawfiq",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.999279,
+    26.314489,
+    44.010535,
+    26.322817
+],
+  "geometry": {"coordinates":[[[44.00964,26.322817],[44.01012,26.320319],[44.010535,26.316098],[44.007168,26.315306],[44.005906,26.314489],[44.001749,26.317754],[44.001459,26.319186],[44.000816,26.319156],[43.999791,26.321102],[43.999279,26.322214],[44.00964,26.322817]]],"type":"Polygon"}
+}

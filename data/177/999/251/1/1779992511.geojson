@@ -1,0 +1,44 @@
+{
+  "id": 1779992511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:bbox":"43.989866,26.253674,44.00354,26.261126",
+    "geom:latitude":26.25694,
+    "geom:longitude":43.996549,
+    "iso:country":"SA",
+    "lbl:latitude":26.256994,
+    "lbl:longitude":43.996549,
+    "mps:latitude":26.256994,
+    "mps:longitude":43.996549,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Khadar"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"997a008467292f5b03d510e5b4930552",
+    "wof:hierarchy":[],
+    "wof:id":1779992511,
+    "wof:lastmodified":1659050481,
+    "wof:name":"Khadar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.989866,
+    26.253674,
+    44.00354,
+    26.261126
+],
+  "geometry": {"coordinates":[[[43.999529,26.261126],[44.000716,26.259171],[44.00233,26.257585],[44.00354,26.256055],[44.001112,26.254805],[44.000403,26.254545],[43.998932,26.254548],[43.989866,26.253674],[43.991208,26.256416],[43.992142,26.260588],[43.99302,26.260487],[43.993768,26.258436],[43.996706,26.259739],[43.999529,26.261126]]],"type":"Polygon"}
+}

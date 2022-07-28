@@ -1,0 +1,44 @@
+{
+  "id": 1779992545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00141,
+    "geom:bbox":"43.835547,26.322845,43.892147,26.364712",
+    "geom:latitude":26.340309,
+    "geom:longitude":43.865162,
+    "iso:country":"SA",
+    "lbl:latitude":26.340008,
+    "lbl:longitude":43.865701,
+    "mps:latitude":26.340008,
+    "mps:longitude":43.865701,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ash Shafaq"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"b74619065d752442b037f0997b599ece",
+    "wof:hierarchy":[],
+    "wof:id":1779992545,
+    "wof:lastmodified":1659050482,
+    "wof:name":"Ash Shafaq",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.835547,
+    26.322845,
+    43.892147,
+    26.364712
+],
+  "geometry": {"coordinates":[[[43.883081,26.364712],[43.883199,26.362591],[43.883473,26.360124],[43.883656,26.357978],[43.884112,26.355329],[43.884706,26.352771],[43.885254,26.350625],[43.885756,26.349118],[43.892147,26.333896],[43.890308,26.333721],[43.88842,26.332361],[43.882152,26.328736],[43.875732,26.327226],[43.870597,26.323147],[43.868256,26.322845],[43.860779,26.325186],[43.841596,26.323827],[43.838358,26.33606],[43.835547,26.341896],[43.883081,26.364712]]],"type":"Polygon"}
+}

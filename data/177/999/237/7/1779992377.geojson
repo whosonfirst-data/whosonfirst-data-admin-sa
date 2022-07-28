@@ -1,0 +1,44 @@
+{
+  "id": 1779992377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00016,
+    "geom:bbox":"43.910856,26.331745,43.924296,26.347837",
+    "geom:latitude":26.34062,
+    "geom:longitude":43.917121,
+    "iso:country":"SA",
+    "lbl:latitude":26.340715,
+    "lbl:longitude":43.916993,
+    "mps:latitude":26.340715,
+    "mps:longitude":43.916993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jaryatal Umran & Khub Ath Thinayan"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"960fc757d763536511b249fd539d31d4",
+    "wof:hierarchy":[],
+    "wof:id":1779992377,
+    "wof:lastmodified":1659050478,
+    "wof:name":"Jaryatal Umran & Khub Ath Thinayan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.910856,
+    26.331745,
+    43.924296,
+    26.347837
+],
+  "geometry": {"coordinates":[[[43.913134,26.347497],[43.914786,26.347837],[43.922236,26.347705],[43.922162,26.345276],[43.922236,26.343878],[43.924296,26.336372],[43.919904,26.334263],[43.914661,26.331745],[43.912553,26.335327],[43.911963,26.337266],[43.911373,26.339205],[43.910994,26.340248],[43.910856,26.341628],[43.910994,26.343631],[43.911408,26.346806],[43.913134,26.347497]]],"type":"Polygon"}
+}

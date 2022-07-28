@@ -1,0 +1,44 @@
+{
+  "id": 1779992635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000842,
+    "geom:bbox":"41.670984,27.565858,41.708568,27.597745",
+    "geom:latitude":27.580966,
+    "geom:longitude":41.688584,
+    "iso:country":"SA",
+    "lbl:latitude":27.581152,
+    "lbl:longitude":41.688584,
+    "mps:latitude":27.581152,
+    "mps:longitude":41.688584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Masyaf"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"1d8e6d7f10ad1709753054316ecf8968",
+    "wof:hierarchy":[],
+    "wof:id":1779992635,
+    "wof:lastmodified":1659050484,
+    "wof:name":"Al Masyaf",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.670984,
+    27.565858,
+    41.708568,
+    27.597745
+],
+  "geometry": {"coordinates":[[[41.705017,27.565858],[41.670984,27.572166],[41.671288,27.588373],[41.672086,27.591329],[41.673726,27.594824],[41.674762,27.597745],[41.701057,27.58948],[41.701584,27.586185],[41.708568,27.587503],[41.705017,27.565858]]],"type":"Polygon"}
+}

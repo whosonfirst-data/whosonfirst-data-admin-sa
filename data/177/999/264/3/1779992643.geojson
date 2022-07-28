@@ -1,0 +1,44 @@
+{
+  "id": 1779992643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:bbox":"41.69684,27.523631,41.704124,27.528896",
+    "geom:latitude":27.525934,
+    "geom:longitude":41.700622,
+    "iso:country":"SA",
+    "lbl:latitude":27.525963,
+    "lbl:longitude":41.700622,
+    "mps:latitude":27.525963,
+    "mps:longitude":41.700622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Barzan"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"bec9f214f0e51a0ee31aa7bff64b82ce",
+    "wof:hierarchy":[],
+    "wof:id":1779992643,
+    "wof:lastmodified":1659050484,
+    "wof:name":"Barzan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.69684,
+    27.523631,
+    41.704124,
+    27.528896
+],
+  "geometry": {"coordinates":[[[41.697418,27.528866],[41.698074,27.528896],[41.699728,27.528631],[41.701426,27.527804],[41.704082,27.527483],[41.704124,27.523706],[41.702062,27.523631],[41.698754,27.523861],[41.69684,27.523867],[41.697907,27.526696],[41.697868,27.527387],[41.697418,27.528866]]],"type":"Polygon"}
+}

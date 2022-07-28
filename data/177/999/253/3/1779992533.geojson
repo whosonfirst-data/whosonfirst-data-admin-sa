@@ -1,0 +1,44 @@
+{
+  "id": 1779992533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000294,
+    "geom:bbox":"44.021851,26.261665,44.041693,26.285797",
+    "geom:latitude":26.275273,
+    "geom:longitude":44.031803,
+    "iso:country":"SA",
+    "lbl:latitude":26.27548,
+    "lbl:longitude":44.031992,
+    "mps:latitude":26.27548,
+    "mps:longitude":44.031992,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Wurash Al Janubiah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"8cfc6cb15f9a3a91c61e7575bfee1a4d",
+    "wof:hierarchy":[],
+    "wof:id":1779992533,
+    "wof:lastmodified":1659050481,
+    "wof:name":"Al Wurash Al Janubiah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.021851,
+    26.261665,
+    44.041693,
+    26.285797
+],
+  "geometry": {"coordinates":[[[44.041693,26.284259],[44.040719,26.282495],[44.038955,26.275862],[44.037677,26.266248],[44.03478,26.263807],[44.032877,26.261665],[44.025613,26.268493],[44.023349,26.269419],[44.024403,26.270861],[44.025567,26.274688],[44.021851,26.279181],[44.025734,26.28506],[44.026376,26.284566],[44.028805,26.284],[44.029104,26.284999],[44.029271,26.285797],[44.034277,26.284444],[44.041693,26.284259]]],"type":"Polygon"}
+}

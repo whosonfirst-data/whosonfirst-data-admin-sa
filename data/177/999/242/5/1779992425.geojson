@@ -1,0 +1,44 @@
+{
+  "id": 1779992425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:bbox":"44.000067,26.341654,44.017987,26.35943",
+    "geom:latitude":26.351286,
+    "geom:longitude":44.008449,
+    "iso:country":"SA",
+    "lbl:latitude":26.351666,
+    "lbl:longitude":44.008313,
+    "mps:latitude":26.351666,
+    "mps:longitude":44.008313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Khub Al Akrash"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"a5c3da55ab0cc50d458bbcb4ca0cb954",
+    "wof:hierarchy":[],
+    "wof:id":1779992425,
+    "wof:lastmodified":1659050479,
+    "wof:name":"Khub Al Akrash",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.000067,
+    26.341654,
+    44.017987,
+    26.35943
+],
+  "geometry": {"coordinates":[[[44.011257,26.35943],[44.012922,26.356909],[44.013624,26.356582],[44.014543,26.35462],[44.015157,26.354007],[44.01456,26.353783],[44.017987,26.350394],[44.015999,26.348881],[44.015999,26.349445],[44.013989,26.348954],[44.012515,26.346899],[44.011934,26.345871],[44.005796,26.341654],[44.000067,26.354823],[44.006306,26.357563],[44.011257,26.35943]]],"type":"Polygon"}
+}

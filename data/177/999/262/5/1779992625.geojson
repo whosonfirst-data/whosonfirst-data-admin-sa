@@ -1,0 +1,44 @@
+{
+  "id": 1779992625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:bbox":"41.655756,27.529425,41.661835,27.539313",
+    "geom:latitude":27.534694,
+    "geom:longitude":41.658526,
+    "iso:country":"SA",
+    "lbl:latitude":27.53631,
+    "lbl:longitude":41.658831,
+    "mps:latitude":27.53631,
+    "mps:longitude":41.658831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Salah Al-Din Al-Garbi"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"dffc7407fe638fb14a6d51992800b890",
+    "wof:hierarchy":[],
+    "wof:id":1779992625,
+    "wof:lastmodified":1659050483,
+    "wof:name":"Salah Al-Din Al-Garbi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.655756,
+    27.529425,
+    41.661835,
+    27.539313
+],
+  "geometry": {"coordinates":[[[41.661835,27.538401],[41.659614,27.53171],[41.659172,27.529425],[41.655756,27.529967],[41.65715,27.534885],[41.656172,27.536507],[41.657048,27.539313],[41.661835,27.538401]]],"type":"Polygon"}
+}

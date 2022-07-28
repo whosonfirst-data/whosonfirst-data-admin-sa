@@ -1,0 +1,44 @@
+{
+  "id": 1779992457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:bbox":"43.966801,26.304395,43.974399,26.311891",
+    "geom:latitude":26.308224,
+    "geom:longitude":43.970711,
+    "iso:country":"SA",
+    "lbl:latitude":26.308131,
+    "lbl:longitude":43.970784,
+    "mps:latitude":26.308131,
+    "mps:longitude":43.970784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Khalij"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"cbd7c17d23a84b31e0de16493e1c9f36",
+    "wof:hierarchy":[],
+    "wof:id":1779992457,
+    "wof:lastmodified":1659050480,
+    "wof:name":"Al Khalij",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.966801,
+    26.304395,
+    43.974399,
+    26.311891
+],
+  "geometry": {"coordinates":[[[43.966801,26.309413],[43.96894,26.309958],[43.97129,26.311091],[43.973335,26.311891],[43.973824,26.311217],[43.974399,26.307657],[43.969136,26.304395],[43.968705,26.304627],[43.968319,26.304943],[43.96789,26.305643],[43.966801,26.309413]]],"type":"Polygon"}
+}

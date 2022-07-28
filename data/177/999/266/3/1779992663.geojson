@@ -1,0 +1,44 @@
+{
+  "id": 1779992663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000454,
+    "geom:bbox":"41.704897,27.48054,41.734753,27.513239",
+    "geom:latitude":27.497311,
+    "geom:longitude":41.719377,
+    "iso:country":"SA",
+    "lbl:latitude":27.497618,
+    "lbl:longitude":41.71915,
+    "mps:latitude":27.497618,
+    "mps:longitude":41.71915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Samra"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"37dfcbd18449b23381bdf4c5d8c5789f",
+    "wof:hierarchy":[],
+    "wof:id":1779992663,
+    "wof:lastmodified":1659050484,
+    "wof:name":"Al Samra",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.704897,
+    27.48054,
+    41.734753,
+    27.513239
+],
+  "geometry": {"coordinates":[[[41.714888,27.513239],[41.729232,27.506387],[41.734665,27.506595],[41.734309,27.504757],[41.734753,27.503069],[41.731555,27.500849],[41.726848,27.496675],[41.724717,27.488859],[41.721786,27.485395],[41.720929,27.48054],[41.715571,27.482884],[41.70624,27.492454],[41.704897,27.493842],[41.707549,27.495812],[41.711088,27.499194],[41.714155,27.505761],[41.714352,27.507924],[41.715256,27.509536],[41.715649,27.51162],[41.714888,27.513239]]],"type":"Polygon"}
+}

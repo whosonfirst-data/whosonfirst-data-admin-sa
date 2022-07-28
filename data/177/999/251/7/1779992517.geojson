@@ -1,0 +1,44 @@
+{
+  "id": 1779992517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000753,
+    "geom:bbox":"44.03478,26.256369,44.069878,26.284442",
+    "geom:latitude":26.270905,
+    "geom:longitude":44.052655,
+    "iso:country":"SA",
+    "lbl:latitude":26.271459,
+    "lbl:longitude":44.052655,
+    "mps:latitude":26.271459,
+    "mps:longitude":44.052655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Alghadir"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"a9d242e91fc0a4750c80f335127288a8",
+    "wof:hierarchy":[],
+    "wof:id":1779992517,
+    "wof:lastmodified":1659050481,
+    "wof:name":"Alghadir",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03478,
+    26.256369,
+    44.069878,
+    26.284442
+],
+  "geometry": {"coordinates":[[[44.065667,26.284442],[44.069878,26.261549],[44.039886,26.256369],[44.038951,26.258436],[44.03478,26.263807],[44.037677,26.266248],[44.038955,26.275862],[44.040719,26.282495],[44.041693,26.284259],[44.065667,26.284442]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:bbox":"43.986694,26.319951,43.994634,26.326626",
+    "geom:latitude":26.323529,
+    "geom:longitude":43.990891,
+    "iso:country":"SA",
+    "lbl:latitude":26.323501,
+    "lbl:longitude":43.990951,
+    "mps:latitude":26.323501,
+    "mps:longitude":43.990951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ibn subayh"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"82c60c48f85580232e4d11c58452c33d",
+    "wof:hierarchy":[],
+    "wof:id":1779992405,
+    "wof:lastmodified":1659050479,
+    "wof:name":"Ibn subayh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.986694,
+    26.319951,
+    43.994634,
+    26.326626
+],
+  "geometry": {"coordinates":[[[43.991504,26.326626],[43.991849,26.326311],[43.993571,26.324741],[43.994634,26.322648],[43.990453,26.319951],[43.986694,26.325265],[43.989492,26.325689],[43.991504,26.326626]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000288,
+    "geom:bbox":"43.982963,26.296478,44.00206,26.320911",
+    "geom:latitude":26.309134,
+    "geom:longitude":43.992098,
+    "iso:country":"SA",
+    "lbl:latitude":26.308849,
+    "lbl:longitude":43.991916,
+    "mps:latitude":26.308849,
+    "mps:longitude":43.991916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Wahtan/Al Salam"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"095f339185ec5b1996213ad815fcf85d",
+    "wof:hierarchy":[],
+    "wof:id":1779992461,
+    "wof:lastmodified":1659050480,
+    "wof:name":"Wahtan/Al Salam",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.982963,
+    26.296478,
+    44.00206,
+    26.320911
+],
+  "geometry": {"coordinates":[[[43.991941,26.320911],[43.997177,26.318527],[43.998874,26.317384],[43.998914,26.314584],[43.998257,26.310765],[43.998569,26.308372],[44.00206,26.303223],[43.99963,26.301666],[43.997685,26.300576],[43.988863,26.296478],[43.987991,26.297973],[43.987506,26.299107],[43.982963,26.315824],[43.988701,26.31899],[43.990453,26.319951],[43.991941,26.320911]]],"type":"Polygon"}
+}

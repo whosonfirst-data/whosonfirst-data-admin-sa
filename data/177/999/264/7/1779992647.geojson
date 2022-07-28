@@ -1,0 +1,44 @@
+{
+  "id": 1779992647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:bbox":"41.701715,27.513998,41.717041,27.523761",
+    "geom:latitude":27.519673,
+    "geom:longitude":41.708043,
+    "iso:country":"SA",
+    "lbl:latitude":27.519785,
+    "lbl:longitude":41.708043,
+    "mps:latitude":27.519785,
+    "mps:longitude":41.708043,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Labdah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"5fad2ffc95f4b511f690e6505f2f03c3",
+    "wof:hierarchy":[],
+    "wof:id":1779992647,
+    "wof:lastmodified":1659050484,
+    "wof:name":"Labdah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.701715,
+    27.513998,
+    41.717041,
+    27.523761
+],
+  "geometry": {"coordinates":[[[41.702062,27.523631],[41.704124,27.523706],[41.709836,27.523761],[41.713823,27.52343],[41.717041,27.521386],[41.714705,27.519452],[41.7137,27.517168],[41.713136,27.516742],[41.708016,27.515822],[41.706776,27.515274],[41.705118,27.514952],[41.701778,27.513998],[41.701715,27.517444],[41.701884,27.518054],[41.702062,27.523631]]],"type":"Polygon"}
+}

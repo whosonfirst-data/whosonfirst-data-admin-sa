@@ -1,0 +1,44 @@
+{
+  "id": 1779992393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:bbox":"43.970356,26.3337,43.982229,26.345612",
+    "geom:latitude":26.339667,
+    "geom:longitude":43.975896,
+    "iso:country":"SA",
+    "lbl:latitude":26.339709,
+    "lbl:longitude":43.975806,
+    "mps:latitude":26.339709,
+    "mps:longitude":43.975806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Matar Al Qadim"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"1ec7d716539dc366ec8bf8a01ebaabe5",
+    "wof:hierarchy":[],
+    "wof:id":1779992393,
+    "wof:lastmodified":1659050478,
+    "wof:name":"Al Matar Al Qadim",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.970356,
+    26.3337,
+    43.982229,
+    26.345612
+],
+  "geometry": {"coordinates":[[[43.978624,26.345612],[43.979201,26.342643],[43.982229,26.337862],[43.975246,26.334904],[43.973587,26.3337],[43.971746,26.336211],[43.970356,26.338821],[43.973829,26.344592],[43.976719,26.344921],[43.978624,26.345612]]],"type":"Polygon"}
+}

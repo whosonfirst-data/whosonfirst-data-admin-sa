@@ -1,0 +1,44 @@
+{
+  "id": 1779992513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000351,
+    "geom:bbox":"43.998932,26.242143,44.024299,26.265218",
+    "geom:latitude":26.252786,
+    "geom:longitude":44.011939,
+    "iso:country":"SA",
+    "lbl:latitude":26.252846,
+    "lbl:longitude":44.01218,
+    "mps:latitude":26.252846,
+    "mps:longitude":44.01218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rawaq"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"f6e30e24328ea2b5e2c95a72a076721d",
+    "wof:hierarchy":[],
+    "wof:id":1779992513,
+    "wof:lastmodified":1659050481,
+    "wof:name":"Rawaq",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.998932,
+    26.242143,
+    44.024299,
+    26.265218
+],
+  "geometry": {"coordinates":[[[44.015975,26.265218],[44.018508,26.262617],[44.020114,26.260231],[44.022619,26.252544],[44.024299,26.247312],[44.018255,26.24604],[44.015145,26.245232],[44.007281,26.242143],[44.003862,26.242302],[44.003226,26.245244],[43.998932,26.254548],[44.000403,26.254545],[44.001112,26.254805],[44.00354,26.256055],[44.00233,26.257585],[44.004189,26.25773],[44.005682,26.259145],[44.007457,26.260097],[44.009259,26.261358],[44.012012,26.262979],[44.015975,26.265218]]],"type":"Polygon"}
+}

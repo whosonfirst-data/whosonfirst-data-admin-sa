@@ -1,0 +1,44 @@
+{
+  "id": 1779992359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000221,
+    "geom:bbox":"43.956618,26.376099,43.984669,26.394087",
+    "geom:latitude":26.384867,
+    "geom:longitude":43.971245,
+    "iso:country":"SA",
+    "lbl:latitude":26.385467,
+    "lbl:longitude":43.971032,
+    "mps:latitude":26.385467,
+    "mps:longitude":43.971032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Alakhdar"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"fcb92cae9d5b51e499b86ef48f17d21d",
+    "wof:hierarchy":[],
+    "wof:id":1779992359,
+    "wof:lastmodified":1659050478,
+    "wof:name":"Alakhdar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.956618,
+    26.376099,
+    43.984669,
+    26.394087
+],
+  "geometry": {"coordinates":[[[43.980545,26.394087],[43.984669,26.380987],[43.97636,26.383137],[43.974502,26.382746],[43.96766,26.379814],[43.960426,26.376099],[43.956618,26.382159],[43.957337,26.383037],[43.96412,26.386469],[43.980545,26.394087]]],"type":"Polygon"}
+}

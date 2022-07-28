@@ -1,0 +1,44 @@
+{
+  "id": 1779992571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000508,
+    "geom:bbox":"45.966501,28.434464,45.993137,28.4646",
+    "geom:latitude":28.449313,
+    "geom:longitude":45.979172,
+    "iso:country":"SA",
+    "lbl:latitude":28.449623,
+    "lbl:longitude":45.978918,
+    "mps:latitude":28.449623,
+    "mps:longitude":45.978918,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Abu Musa Al Ashari"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"0aecbc3e576c7571a8aefdd9fc4a2fe2",
+    "wof:hierarchy":[],
+    "wof:id":1779992571,
+    "wof:lastmodified":1659050482,
+    "wof:name":"Abu Musa Al Ashari",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.966501,
+    28.434464,
+    45.993137,
+    28.4646
+],
+  "geometry": {"coordinates":[[[45.983026,28.4646],[45.993137,28.43894],[45.985735,28.437072],[45.97375,28.434464],[45.969962,28.447329],[45.967793,28.455888],[45.966501,28.460906],[45.974596,28.462665],[45.983026,28.4646]]],"type":"Polygon"}
+}

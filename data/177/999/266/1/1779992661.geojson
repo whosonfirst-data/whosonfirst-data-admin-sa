@@ -1,0 +1,44 @@
+{
+  "id": 1779992661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001887,
+    "geom:bbox":"41.720929,27.465678,41.793638,27.506752",
+    "geom:latitude":27.486942,
+    "geom:longitude":41.757786,
+    "iso:country":"SA",
+    "lbl:latitude":27.487096,
+    "lbl:longitude":41.757786,
+    "mps:latitude":27.487096,
+    "mps:longitude":41.757786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Industrial Area"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"31f118d627db603da59dd271dbc4eb5b",
+    "wof:hierarchy":[],
+    "wof:id":1779992661,
+    "wof:lastmodified":1659050484,
+    "wof:name":"Industrial Area",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.720929,
+    27.465678,
+    41.793638,
+    27.506752
+],
+  "geometry": {"coordinates":[[[41.734665,27.506595],[41.741841,27.506752],[41.757373,27.502732],[41.793638,27.494454],[41.782625,27.465678],[41.746942,27.47412],[41.720929,27.48054],[41.721786,27.485395],[41.724717,27.488859],[41.726848,27.496675],[41.731555,27.500849],[41.734753,27.503069],[41.734309,27.504757],[41.734665,27.506595]]],"type":"Polygon"}
+}

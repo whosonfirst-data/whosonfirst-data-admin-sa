@@ -1,0 +1,44 @@
+{
+  "id": 1779992539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000797,
+    "geom:bbox":"43.841596,26.303876,43.897717,26.333896",
+    "geom:latitude":26.318628,
+    "geom:longitude":43.870413,
+    "iso:country":"SA",
+    "lbl:latitude":26.314729,
+    "lbl:longitude":43.862973,
+    "mps:latitude":26.314729,
+    "mps:longitude":43.862973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Diras"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"b08acb5bdbcf318a030a562a5bfbdc9c",
+    "wof:hierarchy":[],
+    "wof:id":1779992539,
+    "wof:lastmodified":1659050482,
+    "wof:name":"Diras",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.841596,
+    26.303876,
+    43.897717,
+    26.333896
+],
+  "geometry": {"coordinates":[[[43.892147,26.333896],[43.897717,26.321924],[43.894049,26.319963],[43.882546,26.313437],[43.872038,26.308128],[43.864628,26.305363],[43.85853,26.303876],[43.856625,26.30623],[43.850885,26.312574],[43.843711,26.319975],[43.841596,26.323827],[43.860779,26.325186],[43.868256,26.322845],[43.870597,26.323147],[43.875732,26.327226],[43.882152,26.328736],[43.88842,26.332361],[43.890308,26.333721],[43.892147,26.333896]]],"type":"Polygon"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1779992375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000193,
+    "geom:bbox":"43.892147,26.321924,43.914661,26.340248",
+    "geom:latitude":26.331123,
+    "geom:longitude":43.903503,
+    "iso:country":"SA",
+    "lbl:latitude":26.331958,
+    "lbl:longitude":43.90555,
+    "mps:latitude":26.331958,
+    "mps:longitude":43.90555,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Nassar"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"b2222e3c4019dda083fe4ab80aa2ea91",
+    "wof:hierarchy":[],
+    "wof:id":1779992375,
+    "wof:lastmodified":1659050478,
+    "wof:name":"Al Nassar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.892147,
+    26.321924,
+    43.914661,
+    26.340248
+],
+  "geometry": {"coordinates":[[[43.892147,26.333896],[43.893666,26.334241],[43.894839,26.334172],[43.897048,26.33362],[43.899258,26.333482],[43.900569,26.333827],[43.902226,26.335139],[43.903055,26.33652],[43.904643,26.337348],[43.907059,26.337624],[43.90844,26.338177],[43.909544,26.339074],[43.910994,26.340248],[43.911373,26.339205],[43.911963,26.337266],[43.912553,26.335327],[43.914661,26.331745],[43.897717,26.321924],[43.892147,26.333896]]],"type":"Polygon"}
+}

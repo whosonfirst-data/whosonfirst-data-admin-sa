@@ -1,0 +1,44 @@
+{
+  "id": 1779992563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000437,
+    "geom:bbox":"45.787089,28.52,45.812821,28.542513",
+    "geom:latitude":28.530939,
+    "geom:longitude":45.800672,
+    "iso:country":"SA",
+    "lbl:latitude":28.530983,
+    "lbl:longitude":45.800672,
+    "mps:latitude":28.530983,
+    "mps:longitude":45.800672,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "As Sufayri"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"f73786d13e04bb5e4df6f2836cb85466",
+    "wof:hierarchy":[],
+    "wof:id":1779992563,
+    "wof:lastmodified":1659050482,
+    "wof:name":"As Sufayri",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.787089,
+    28.52,
+    45.812821,
+    28.542513
+],
+  "geometry": {"coordinates":[[[45.810141,28.542513],[45.812821,28.526036],[45.80555,28.52],[45.787089,28.522429],[45.790047,28.531921],[45.791387,28.540159],[45.810141,28.542513]]],"type":"Polygon"}
+}

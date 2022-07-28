@@ -1,0 +1,44 @@
+{
+  "id": 1779992503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:bbox":"43.975376,26.266163,43.991013,26.285442",
+    "geom:latitude":26.276298,
+    "geom:longitude":43.983269,
+    "iso:country":"SA",
+    "lbl:latitude":26.273859,
+    "lbl:longitude":43.985224,
+    "mps:latitude":26.273859,
+    "mps:longitude":43.985224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Almuruj"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"989f46fdfd2139cbac19a632f1939d0b",
+    "wof:hierarchy":[],
+    "wof:id":1779992503,
+    "wof:lastmodified":1659050481,
+    "wof:name":"Almuruj",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.975376,
+    26.266163,
+    43.991013,
+    26.285442
+],
+  "geometry": {"coordinates":[[[43.991013,26.274987],[43.98999,26.273553],[43.988701,26.271255],[43.987541,26.268814],[43.987155,26.267837],[43.986636,26.267343],[43.985009,26.266163],[43.984556,26.268349],[43.981988,26.271507],[43.980569,26.27509],[43.979666,26.276818],[43.978142,26.278547],[43.976501,26.279778],[43.975376,26.280517],[43.975856,26.281043],[43.976193,26.281871],[43.977343,26.283748],[43.97791,26.284437],[43.978485,26.284758],[43.979162,26.284976],[43.98153,26.285442],[43.982397,26.281964],[43.983065,26.280634],[43.983377,26.280191],[43.985713,26.278122],[43.991013,26.274987]]],"type":"Polygon"}
+}

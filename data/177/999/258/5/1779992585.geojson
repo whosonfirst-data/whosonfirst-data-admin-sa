@@ -1,0 +1,44 @@
+{
+  "id": 1779992585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000508,
+    "geom:bbox":"45.968115,28.408832,45.995779,28.438068",
+    "geom:latitude":28.422853,
+    "geom:longitude":45.982285,
+    "iso:country":"SA",
+    "lbl:latitude":28.422582,
+    "lbl:longitude":45.982548,
+    "mps:latitude":28.422582,
+    "mps:longitude":45.982548,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al Baladiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"adefcee22d9fe0c63b5523fd4de12e16",
+    "wof:hierarchy":[],
+    "wof:id":1779992585,
+    "wof:lastmodified":1659050483,
+    "wof:name":"Al Baladiyah",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.968115,
+    28.408832,
+    45.995779,
+    28.438068
+],
+  "geometry": {"coordinates":[[[45.98968,28.438068],[45.993204,28.424189],[45.995779,28.414805],[45.968115,28.408832],[45.974591,28.429769],[45.97375,28.434464],[45.985735,28.437072],[45.98968,28.438068]]],"type":"Polygon"}
+}

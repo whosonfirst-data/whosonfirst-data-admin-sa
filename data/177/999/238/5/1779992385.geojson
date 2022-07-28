@@ -1,0 +1,44 @@
+{
+  "id": 1779992385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000142,
+    "geom:bbox":"43.922162,26.336372,43.943756,26.347705",
+    "geom:latitude":26.343069,
+    "geom:longitude":43.930333,
+    "iso:country":"SA",
+    "lbl:latitude":26.343056,
+    "lbl:longitude":43.930333,
+    "mps:latitude":26.343056,
+    "mps:longitude":43.930333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Az Zarqa"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"0d629798ae47138dd06afdc00cffa5dc",
+    "wof:hierarchy":[],
+    "wof:id":1779992385,
+    "wof:lastmodified":1659050478,
+    "wof:name":"Az Zarqa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.922162,
+    26.336372,
+    43.943756,
+    26.347705
+],
+  "geometry": {"coordinates":[[[43.922236,26.347705],[43.931564,26.347482],[43.933029,26.347171],[43.93527,26.346828],[43.943756,26.343555],[43.924296,26.336372],[43.922236,26.343878],[43.922162,26.345276],[43.922236,26.347705]]],"type":"Polygon"}
+}
