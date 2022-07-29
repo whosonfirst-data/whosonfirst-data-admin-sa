@@ -4,29 +4,29 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000572,
-    "geom:bbox":"43.915482,26.393082,43.949367,26.423217",
-    "geom:latitude":26.40818,
-    "geom:longitude":43.93282,
+    "geom:area":0.000889,
+    "geom:bbox":"43.882979,26.348138,43.924773,26.387876",
+    "geom:latitude":26.368105,
+    "geom:longitude":43.901992,
     "iso:country":"SA",
-    "lbl:latitude":26.408181,
-    "lbl:longitude":43.932819,
-    "mps:latitude":26.408181,
-    "mps:longitude":43.932819,
+    "lbl:latitude":26.3678,
+    "lbl:longitude":43.901992,
+    "mps:latitude":26.3678,
+    "mps:longitude":43.901992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Al Nahdah"
+        "Sultanah/Al Nakhil"
     ],
     "src:geom":"whosonfirst",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"SA",
-    "wof:geomhash":"f2807fc715d1513d2b1205f36f31c12d",
+    "wof:geomhash":"409137e23a54675a00323e9d79b6c789",
     "wof:hierarchy":[],
     "wof:id":1779992349,
-    "wof:lastmodified":1659050477,
-    "wof:name":"Al Nahdah",
+    "wof:lastmodified":1659119044,
+    "wof:name":"Sultanah/Al Nakhil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
@@ -35,10 +35,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.915482,
-    26.393082,
-    43.949367,
-    26.423217
+    43.882979,
+    26.348138,
+    43.924773,
+    26.387876
 ],
-  "geometry": {"coordinates":[[[43.938403,26.423217],[43.949367,26.400943],[43.92642,26.393082],[43.925171,26.399141],[43.915482,26.414477],[43.938403,26.423217]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[43.903791,26.379908],[43.924773,26.369894],[43.917857,26.358408],[43.912366,26.348138],[43.906366,26.352612],[43.902502,26.354645],[43.89752,26.356679],[43.892232,26.359526],[43.889385,26.361255],[43.885013,26.363085],[43.883081,26.364712],[43.882979,26.368881],[43.883691,26.374881],[43.884708,26.379253],[43.885724,26.380677],[43.887555,26.384541],[43.889874,26.387876],[43.892849,26.385008],[43.903791,26.379908]]],"type":"Polygon"}
 }
