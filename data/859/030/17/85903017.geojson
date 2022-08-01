@@ -75,11 +75,11 @@
     "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
         1125781573,
-        1108720627,
-        85676819
+        1108720627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1627685081,
+    "wof:lastmodified":1659138439,
     "wof:name":"Tarut",
     "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",

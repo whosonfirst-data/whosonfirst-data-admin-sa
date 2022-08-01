@@ -31,11 +31,11 @@
     "mz:min_zoom":15.0,
     "src:geom":"geonames",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
         1125781573,
-        1108720627,
-        85676819
+        1108720627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":1361025901,
-    "wof:lastmodified":1627685028,
+    "wof:lastmodified":1659138446,
     "wof:name":"Imhaish",
     "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",

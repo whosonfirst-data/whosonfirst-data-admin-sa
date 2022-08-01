@@ -25,7 +25,7 @@
     "iso:country":"SA",
     "lbl:bbox":"39.90381,21.40614,39.91381,21.41614",
     "lbl:max_zoom":18.0,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
@@ -88,11 +88,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85676857,
         102191569,
         85632253,
         421204201,
-        1108720727,
-        85676857
+        1108720727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1361026007,
-    "wof:lastmodified":1629228756,
+    "wof:lastmodified":1659138447,
     "wof:name":"Muzdalifah",
     "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",

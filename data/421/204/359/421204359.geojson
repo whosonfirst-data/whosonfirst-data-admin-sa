@@ -40,11 +40,11 @@
     "qs:woe_id":1938364,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
         421190297,
-        1108720541,
-        85676819
+        1108720541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421204359,
-    "wof:lastmodified":1627685075,
+    "wof:lastmodified":1659138442,
     "wof:name":"Ash Shu\u2019aybah",
     "wof:parent_id":421190297,
     "wof:placetype":"neighbourhood",

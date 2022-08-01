@@ -26,7 +26,7 @@
     "lbl:bbox":"43.44667,25.84667,43.48667,25.88667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
@@ -47,7 +47,7 @@
         "gn:id":108231
     },
     "wof:country":"SA",
-    "wof:geomhash":"b4b07ec2f71246381f701d427f8f5551",
+    "wof:geomhash":"30df1c44a1b81a835806a053e38853cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":1193271361,
-    "wof:lastmodified":1566638344,
+    "wof:lastmodified":1659138442,
     "wof:name":"Ash Shayhiyah",
     "wof:parent_id":1108720653,
     "wof:placetype":"locality",
@@ -69,9 +69,9 @@
 },
   "bbox": [
     43.46667,
-    25.86667000000001,
+    25.86667,
     43.46667,
-    25.86667000000001
+    25.86667
 ],
-  "geometry": {"coordinates":[43.46667,25.86667000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.46667,25.86667],"type":"Point"}
 }

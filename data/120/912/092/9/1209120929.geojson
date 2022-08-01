@@ -26,7 +26,7 @@
     "lbl:bbox":"43.93,26.09667,43.97,26.13667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
@@ -44,7 +44,7 @@
         "gn:id":104462
     },
     "wof:country":"SA",
-    "wof:geomhash":"880210c4a4b4bf5cf138f2f86e049882",
+    "wof:geomhash":"6f69b98d1cda1cbd907056d9469b33da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,7 @@
         }
     ],
     "wof:id":1209120929,
-    "wof:lastmodified":1566638314,
+    "wof:lastmodified":1659138442,
     "wof:name":"Malqa",
     "wof:parent_id":1108720785,
     "wof:placetype":"locality",
@@ -66,9 +66,9 @@
 },
   "bbox": [
     43.95,
-    26.11667000000001,
+    26.11667,
     43.95,
-    26.11667000000001
+    26.11667
 ],
-  "geometry": {"coordinates":[43.95,26.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.95,26.11667],"type":"Point"}
 }

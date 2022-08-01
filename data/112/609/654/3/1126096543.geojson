@@ -50,11 +50,11 @@
     "woe:name_adm1":"\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
         1125781573,
-        1108720627,
-        85676819
+        1108720627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1126096543,
-    "wof:lastmodified":1627685015,
+    "wof:lastmodified":1659138442,
     "wof:name":"Tarut",
     "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",

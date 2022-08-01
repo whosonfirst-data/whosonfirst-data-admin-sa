@@ -38,11 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85676813,
         102191569,
         85632253,
         421204501,
-        1108720657,
-        85676813
+        1108720657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1361025851,
-    "wof:lastmodified":1627685024,
+    "wof:lastmodified":1659138446,
     "wof:name":"Ibn Ghannam",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
