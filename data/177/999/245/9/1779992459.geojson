@@ -15,6 +15,9 @@
     "mps:longitude":43.958238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u064a\u0643\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Buraykah"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"2d5b3ae0c6e12d7cd7d87c8fb280ecc8",
     "wof:hierarchy":[],
     "wof:id":1779992459,
-    "wof:lastmodified":1659050480,
+    "wof:lastmodified":1659988156,
     "wof:name":"Al Buraykah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

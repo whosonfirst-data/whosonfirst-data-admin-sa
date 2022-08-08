@@ -31,10 +31,11 @@
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
-        "Min\u00e1"
+        "\u0645\u064a\u0646\u0627"
     ],
     "name:ara_x_variant":[
-        "\u0645\u0646\u0649"
+        "\u0645\u0646\u0649",
+        "Min\u00e1"
     ],
     "name:arz_x_preferred":[
         "\u0645\u0646\u0649"
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1361025883,
-    "wof:lastmodified":1659138446,
+    "wof:lastmodified":1659988149,
     "wof:name":"Mina",
     "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,9 @@
     "mps:longitude":43.898226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631"
+    ],
     "name:eng_x_preferred":[
         "Alhumar"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"73185924ce61e2588c41a473c6063eb6",
     "wof:hierarchy":[],
     "wof:id":1779992373,
-    "wof:lastmodified":1659050478,
+    "wof:lastmodified":1659988163,
     "wof:name":"Alhumar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

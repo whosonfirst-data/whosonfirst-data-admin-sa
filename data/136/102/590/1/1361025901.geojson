@@ -29,6 +29,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0625\u0645\u062d\u064a\u0634"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85676819,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1361025901,
-    "wof:lastmodified":1659138446,
+    "wof:lastmodified":1659988150,
     "wof:name":"Imhaish",
     "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",

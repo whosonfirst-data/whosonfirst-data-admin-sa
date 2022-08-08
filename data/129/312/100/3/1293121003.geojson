@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0637\u0627\u0646\u064a\u0629"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293121003,
-    "wof:lastmodified":1659138444,
+    "wof:lastmodified":1659988145,
     "wof:name":"Qartaniya",
     "wof:parent_id":1108720653,
     "wof:placetype":"locality",

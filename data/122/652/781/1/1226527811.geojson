@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u062b\u064a\u0629"
+    ],
     "reversegeo:latitude":24.741475,
     "reversegeo:longitude":42.953284,
     "src:geom":"whosonfirst",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1226527811,
-    "wof:lastmodified":1659047519,
+    "wof:lastmodified":1659988165,
     "wof:name":"Alrmtheiah",
     "wof:parent_id":1108720653,
     "wof:placetype":"locality",

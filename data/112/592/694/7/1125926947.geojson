@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u064a\u0631\u0641\u064a"
+    ],
     "name:und_x_variant":[
         "Umm Terfi"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125926947,
-    "wof:lastmodified":1659047517,
+    "wof:lastmodified":1659988154,
     "wof:name":"Al Mu\u0163ayrif\u012b",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

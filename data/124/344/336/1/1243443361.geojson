@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0623\u0645 \u0633\u0644\u064a\u0645"
+    ],
+    "name:ara_x_variant":[
         "\u0623\u0645 \u0633\u064f\u0644\u064e\u064a\u0645"
     ],
     "src:geom":"geonames",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243443361,
-    "wof:lastmodified":1659138443,
+    "wof:lastmodified":1659988156,
     "wof:name":"Umm Sulaym",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",

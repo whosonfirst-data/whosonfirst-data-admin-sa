@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u064a\u0631\u064a\u0629"
+    ],
     "name:und_x_variant":[
         "Sumairiya",
         "Sumayr\u012byah"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1293794021,
-    "wof:lastmodified":1659138444,
+    "wof:lastmodified":1659988144,
     "wof:name":"Sumayriyah",
     "wof:parent_id":1108720785,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "mps:longitude":43.945975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0645\u0646"
+    ],
     "name:eng_x_preferred":[
         "Al Amn"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"49eb14f39c5f2b4d31e17a3b376b691c",
     "wof:hierarchy":[],
     "wof:id":1779992369,
-    "wof:lastmodified":1659050478,
+    "wof:lastmodified":1659988162,
     "wof:name":"Al Amn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

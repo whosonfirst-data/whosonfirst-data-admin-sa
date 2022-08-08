@@ -15,6 +15,9 @@
     "mps:longitude":43.90555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0635\u0631"
+    ],
     "name:eng_x_preferred":[
         "Al Nassar"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"b2222e3c4019dda083fe4ab80aa2ea91",
     "wof:hierarchy":[],
     "wof:id":1779992375,
-    "wof:lastmodified":1659050478,
+    "wof:lastmodified":1659988163,
     "wof:name":"Al Nassar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

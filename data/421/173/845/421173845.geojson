@@ -18,6 +18,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0628\u0631\u0632"
+    ],
     "name:und_x_variant":[
         "Al Mubarraz"
     ],
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":421173845,
-    "wof:lastmodified":1659047513,
+    "wof:lastmodified":1659988152,
     "wof:name":"Mubarraz",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

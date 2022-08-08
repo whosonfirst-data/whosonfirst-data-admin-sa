@@ -30,10 +30,11 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
-        "Sid\u012bs"
+        "\u0633\u064a\u062f\u064a\u0633"
     ],
     "name:ara_x_variant":[
-        "\u0633\u062f\u064a\u0633"
+        "\u0633\u062f\u064a\u0633",
+        "Sid\u012bs"
     ],
     "name:deu_x_preferred":[
         "Sidis"
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1361025935,
-    "wof:lastmodified":1659048531,
+    "wof:lastmodified":1659988148,
     "wof:name":"Sidis",
     "wof:parent_id":1108720703,
     "wof:placetype":"neighbourhood",

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u064a\u062b\u064a\u0631"
+    ],
     "name:und_x_variant":[
         "Al-Tuwaithir",
         "Tuwaithir",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1260072655,
-    "wof:lastmodified":1659138443,
+    "wof:lastmodified":1659988146,
     "wof:name":"Tuwaythir",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

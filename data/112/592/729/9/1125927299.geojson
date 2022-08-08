@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0641\u062c\u064a"
+    ],
     "name:und_x_variant":[
         "Ra\u2019s al Khafj\u012b"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125927299,
-    "wof:lastmodified":1659047517,
+    "wof:lastmodified":1659988155,
     "wof:name":"Al Khafj\u012b",
     "wof:parent_id":1108720591,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627\u062f \u0628\u0646\u064a \u0639\u0645\u0631\u0648"
+    ],
     "name:und_x_variant":[
         "Bilad Beni \u2018Amr",
         "Bil\u0101d Ban\u012b \u2018Amr"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1344071487,
-    "wof:lastmodified":1659138446,
+    "wof:lastmodified":1659988143,
     "wof:name":"Bilad Bani `Amr",
     "wof:parent_id":1108720649,
     "wof:placetype":"locality",

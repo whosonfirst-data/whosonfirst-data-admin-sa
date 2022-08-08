@@ -29,6 +29,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0641\u0627\u062a"
+    ],
     "name:und_x_variant":[
         "\u2018Araf\u0101t"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1361026033,
-    "wof:lastmodified":1659138447,
+    "wof:lastmodified":1659988149,
     "wof:name":"`Arafat",
     "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",

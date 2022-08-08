@@ -19,11 +19,11 @@
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0643\u0627\u0643\u0627"
+        "\u0633\u0643\u0627\u0643\u0627"
     ],
     "name:ara_x_variant":[
         "Sak\u0101k\u0101",
-        "\u0633\u0643\u0627\u0643\u0627"
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0643\u0627\u0643\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0633\u0643\u0627\u0643\u0627"
@@ -282,7 +282,7 @@
         }
     ],
     "wof:id":421175379,
-    "wof:lastmodified":1659047514,
+    "wof:lastmodified":1659988152,
     "wof:name":"Sakaka",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

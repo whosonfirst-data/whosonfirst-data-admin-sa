@@ -22,6 +22,9 @@
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
+        "\u0633\u0627\u062c\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
         "S\u0101jir"
     ],
     "name:und_x_variant":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125925931,
-    "wof:lastmodified":1659047516,
+    "wof:lastmodified":1659988153,
     "wof:name":"S\u0101jir",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",

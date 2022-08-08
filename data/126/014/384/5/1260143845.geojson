@@ -30,6 +30,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u062f\u0647\u064a\u0642\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u062f\u062d\u064a\u0642\u0629"
     ],
     "name:und_x_variant":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1260143845,
-    "wof:lastmodified":1659138444,
+    "wof:lastmodified":1659988146,
     "wof:name":"Duhayqah",
     "wof:parent_id":1108720713,
     "wof:placetype":"locality",

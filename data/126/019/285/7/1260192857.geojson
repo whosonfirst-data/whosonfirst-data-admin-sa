@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0634\u0627\u0646"
+    ],
     "name:und_x_variant":[
         "Rashw\u0101n",
         "Al-Rawsh\u0101n",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1260192857,
-    "wof:lastmodified":1659138444,
+    "wof:lastmodified":1659988147,
     "wof:name":"Ar Rawshan",
     "wof:parent_id":1108720681,
     "wof:placetype":"locality",

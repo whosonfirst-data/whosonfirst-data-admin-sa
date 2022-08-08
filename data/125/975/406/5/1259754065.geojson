@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0648\u0628\u0629"
+    ],
     "name:und_x_variant":[
         "Jir\u016bbah"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259754065,
-    "wof:lastmodified":1659138443,
+    "wof:lastmodified":1659988164,
     "wof:name":"Jirubah",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

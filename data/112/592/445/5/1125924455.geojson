@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0627\u0628\u0629"
+    ],
     "name:und_x_variant":[
         "Ramadan"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125924455,
-    "wof:lastmodified":1659047515,
+    "wof:lastmodified":1659988155,
     "wof:name":"Turabah",
     "wof:parent_id":1108720781,
     "wof:placetype":"locality",

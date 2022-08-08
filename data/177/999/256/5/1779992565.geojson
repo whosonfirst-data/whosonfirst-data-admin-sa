@@ -15,6 +15,9 @@
     "mps:longitude":45.920697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0647\u0636\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Nahdah"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"9a0bd8efd46b8532f54c6bcf3eb78c4c",
     "wof:hierarchy":[],
     "wof:id":1779992565,
-    "wof:lastmodified":1659050482,
+    "wof:lastmodified":1659988160,
     "wof:name":"Al Nahdah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

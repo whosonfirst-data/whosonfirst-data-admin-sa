@@ -22,6 +22,9 @@
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
+        "\u0632\u0628\u0627"
+    ],
+    "name:ara_x_variant":[
         "\u0636\u0628\u0627"
     ],
     "name:arz_x_preferred":[
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1125925599,
-    "wof:lastmodified":1659047516,
+    "wof:lastmodified":1659988153,
     "wof:name":"Zbe",
     "wof:parent_id":1108720693,
     "wof:placetype":"locality",

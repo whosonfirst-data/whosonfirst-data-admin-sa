@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0627\u0631\u0629"
+    ],
     "name:und_x_variant":[
         "Q\u0101rah"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125926817,
-    "wof:lastmodified":1659047517,
+    "wof:lastmodified":1659988153,
     "wof:name":"Al Q\u0101rah",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

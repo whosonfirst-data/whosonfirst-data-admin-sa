@@ -22,13 +22,14 @@
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
-        "Ma\u1e29a\u0163\u0163at a\u0163 \u0162urayf"
+        "\u0637\u0631\u064a\u0641"
     ],
     "name:ara_x_variant":[
         "A\u0163 \u0162urayf",
         "Ma\u1e29a\u0163\u0163at al \u0162urayf",
         "\u0162urayf",
-        "\u0637\u0631\u064a\u0641\u200e\u200e"
+        "\u0637\u0631\u064a\u0641\u200e\u200e",
+        "Ma\u1e29a\u0163\u0163at a\u0163 \u0162urayf"
     ],
     "name:eng_x_preferred":[
         "Turaif"
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1125924439,
-    "wof:lastmodified":1659047515,
+    "wof:lastmodified":1659988154,
     "wof:name":"\u0162urayf",
     "wof:parent_id":1108720779,
     "wof:placetype":"locality",

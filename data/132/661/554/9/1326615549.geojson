@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062d\u0629"
+    ],
     "name:und_x_variant":[
         "Shiha",
         "Sh\u012b\u1e29ah"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1326615549,
-    "wof:lastmodified":1659138445,
+    "wof:lastmodified":1659988142,
     "wof:name":"Shihah",
     "wof:parent_id":1108720617,
     "wof:placetype":"locality",

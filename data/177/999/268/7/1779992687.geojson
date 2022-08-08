@@ -15,6 +15,9 @@
     "mps:longitude":41.085875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
         "Al Sharqiyyah"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"c9d43d7c6e36eb516489ff6baa7dc34b",
     "wof:hierarchy":[],
     "wof:id":1779992687,
-    "wof:lastmodified":1659050485,
+    "wof:lastmodified":1659988157,
     "wof:name":"Al Sharqiyyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

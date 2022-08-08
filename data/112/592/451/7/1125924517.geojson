@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u0648\u0645\u0629"
+    ],
     "name:und_x_variant":[
         "Tanuma"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125924517,
-    "wof:lastmodified":1659047515,
+    "wof:lastmodified":1659988155,
     "wof:name":"Tan\u016bmah",
     "wof:parent_id":1108720563,
     "wof:placetype":"locality",

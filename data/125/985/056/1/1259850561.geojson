@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0645\u0631\u0629"
+    ],
     "name:nno_x_preferred":[
         "Khumrah"
     ],
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1259850561,
-    "wof:lastmodified":1659138443,
+    "wof:lastmodified":1659988164,
     "wof:name":"Khumrah",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",

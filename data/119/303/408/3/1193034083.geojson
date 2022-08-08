@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a\u0631\u0648\u0647"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1193034083,
-    "wof:lastmodified":1659138442,
+    "wof:lastmodified":1659988146,
     "wof:name":"Beniruh",
     "wof:parent_id":1108720649,
     "wof:placetype":"locality",

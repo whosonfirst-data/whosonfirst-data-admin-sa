@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629"
+    ],
     "name:eng_x_colloquial":[
         "Mina' al Aziziyah"
     ],
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1659138439,
+    "wof:lastmodified":1659988144,
     "wof:name":"Al Aziziyah",
     "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0642\u0627"
+    ],
     "name:und_x_variant":[
         "Malq\u00e1"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209120929,
-    "wof:lastmodified":1659138442,
+    "wof:lastmodified":1659988146,
     "wof:name":"Malqa",
     "wof:parent_id":1108720785,
     "wof:placetype":"locality",

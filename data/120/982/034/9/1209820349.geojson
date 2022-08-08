@@ -31,10 +31,10 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
-        "Al \u2018Ul\u00e1"
+        "\u0627\u0644\u0639\u0644\u0627"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0639\u0644\u0627"
+        "Al \u2018Ul\u00e1"
     ],
     "name:cat_x_preferred":[
         "Al-Ula"
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":1209820349,
-    "wof:lastmodified":1659047519,
+    "wof:lastmodified":1659988146,
     "wof:name":"Al-`Ula",
     "wof:parent_id":1108720641,
     "wof:placetype":"locality",

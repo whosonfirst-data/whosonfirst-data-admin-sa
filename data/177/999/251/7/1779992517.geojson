@@ -15,6 +15,9 @@
     "mps:longitude":44.052655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u062f\u064a\u0631"
+    ],
     "name:eng_x_preferred":[
         "Alghadir"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"a9d242e91fc0a4750c80f335127288a8",
     "wof:hierarchy":[],
     "wof:id":1779992517,
-    "wof:lastmodified":1659050481,
+    "wof:lastmodified":1659988159,
     "wof:name":"Alghadir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

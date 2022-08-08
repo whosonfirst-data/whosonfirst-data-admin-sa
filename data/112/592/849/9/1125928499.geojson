@@ -22,11 +22,12 @@
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
-        "Ab\u016b \u2018Ar\u012bsh"
+        "\u0623\u0628\u0648 \u0639\u0631\u064a\u0634"
     ],
     "name:ara_x_variant":[
         "\u0672\u0628\u0648 \u0639\u0631\u064a\u0634",
-        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0628\u064a \u0639\u0631\u064a\u0634"
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0628\u064a \u0639\u0631\u064a\u0634",
+        "Ab\u016b \u2018Ar\u012bsh"
     ],
     "name:cat_x_preferred":[
         "Abu Arix"
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1125928499,
-    "wof:lastmodified":1659047519,
+    "wof:lastmodified":1659988155,
     "wof:name":"Ab\u016b \u2018Ar\u012bsh",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",

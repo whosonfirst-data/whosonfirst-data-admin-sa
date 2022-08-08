@@ -15,6 +15,9 @@
     "mps:longitude":41.700622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0632\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Barzan"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"bec9f214f0e51a0ee31aa7bff64b82ce",
     "wof:hierarchy":[],
     "wof:id":1779992643,
-    "wof:lastmodified":1659050484,
+    "wof:lastmodified":1659988164,
     "wof:name":"Barzan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

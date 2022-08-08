@@ -21,10 +21,10 @@
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u062d\u0627\u064a\u0644"
+        "\u062d\u0627\u0626\u0644"
     ],
     "name:ara_x_variant":[
-        "\u062d\u0627\u0626\u0644"
+        "\u062d\u0627\u064a\u0644"
     ],
     "name:arz_x_preferred":[
         "\u062d\u0627\u064a\u0644"
@@ -313,7 +313,7 @@
         }
     ],
     "wof:id":421190323,
-    "wof:lastmodified":1659372091,
+    "wof:lastmodified":1659988152,
     "wof:name":"Ha'il",
     "wof:parent_id":1108720703,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0641\u064a\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
         "As Sify\u0101n\u012b"
     ],
     "name:nno_x_preferred":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1361026103,
-    "wof:lastmodified":1659138447,
+    "wof:lastmodified":1659988148,
     "wof:name":"As Sifyani",
     "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",

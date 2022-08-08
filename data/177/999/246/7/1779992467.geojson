@@ -15,6 +15,9 @@
     "mps:longitude":43.933587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628 \u0627\u0644\u0628\u0631\u064a\u062f\u064a"
+    ],
     "name:eng_x_preferred":[
         "Khubal Buraydi"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"b04a5e712249e9aafd7672680a615ec3",
     "wof:hierarchy":[],
     "wof:id":1779992467,
-    "wof:lastmodified":1659050480,
+    "wof:lastmodified":1659988161,
     "wof:name":"Khubal Buraydi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

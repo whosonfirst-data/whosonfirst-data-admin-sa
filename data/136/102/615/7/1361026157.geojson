@@ -29,6 +29,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0634\u062f\u064a\u0629"
+    ],
     "name:nno_x_preferred":[
         "Murshidiyah"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1361026157,
-    "wof:lastmodified":1659138448,
+    "wof:lastmodified":1659988150,
     "wof:name":"Murshidiyah",
     "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",

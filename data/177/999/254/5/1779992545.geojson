@@ -15,6 +15,9 @@
     "mps:longitude":43.865701,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0641\u0642"
+    ],
     "name:eng_x_preferred":[
         "Ash Shafaq"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"b74619065d752442b037f0997b599ece",
     "wof:hierarchy":[],
     "wof:id":1779992545,
-    "wof:lastmodified":1659050482,
+    "wof:lastmodified":1659988162,
     "wof:name":"Ash Shafaq",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

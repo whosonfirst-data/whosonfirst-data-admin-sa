@@ -30,6 +30,9 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0635\u0631"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0628\u064f\u0635\u064f\u0631"
     ],
     "name:und_x_variant":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1361026003,
-    "wof:lastmodified":1659048530,
+    "wof:lastmodified":1659988151,
     "wof:name":"Al Busur",
     "wof:parent_id":1108720687,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0627\u062c\u064a\u0629"
+    ],
     "name:und_x_variant":[
         "Khawajiya",
         "Khaw\u0101j\u012byah"
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276667715,
-    "wof:lastmodified":1659138444,
+    "wof:lastmodified":1659988145,
     "wof:name":"Khawajiyah",
     "wof:parent_id":1108720753,
     "wof:placetype":"locality",

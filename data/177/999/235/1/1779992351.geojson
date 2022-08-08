@@ -15,6 +15,9 @@
     "mps:longitude":43.953232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0641\u0642"
+    ],
     "name:eng_x_preferred":[
         "Alufuq"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"7605d096dac34ac9d628a873313277d3",
     "wof:hierarchy":[],
     "wof:id":1779992351,
-    "wof:lastmodified":1659050477,
+    "wof:lastmodified":1659988159,
     "wof:name":"Alufuq",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

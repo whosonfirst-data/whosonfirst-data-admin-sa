@@ -30,6 +30,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u062f\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0642\u0631\u064a\u0636\u0629"
     ],
     "name:und_x_variant":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1361025917,
-    "wof:lastmodified":1659138446,
+    "wof:lastmodified":1659988150,
     "wof:name":"Quraydah",
     "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",

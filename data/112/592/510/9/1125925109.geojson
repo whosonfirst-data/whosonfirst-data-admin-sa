@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u064a\u062c\u0629"
+    ],
     "name:und_x_variant":[
         "Mulaija"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125925109,
-    "wof:lastmodified":1659047516,
+    "wof:lastmodified":1659988154,
     "wof:name":"Mulayjah",
     "wof:parent_id":1108720623,
     "wof:placetype":"locality",

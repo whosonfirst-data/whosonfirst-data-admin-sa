@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0644\u062c"
+    ],
     "name:und_x_variant":[
         "Umm Lej"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125924383,
-    "wof:lastmodified":1659047515,
+    "wof:lastmodified":1659988154,
     "wof:name":"Umm Lajj",
     "wof:parent_id":1108720783,
     "wof:placetype":"locality",

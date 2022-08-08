@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u064a\u0644\u064a\u0629"
+    ],
     "name:und_x_variant":[
         "Al W\u0101yil\u012byah"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1361026001,
-    "wof:lastmodified":1659048530,
+    "wof:lastmodified":1659988151,
     "wof:name":"Al Wayiliyah",
     "wof:parent_id":1108720699,
     "wof:placetype":"neighbourhood",

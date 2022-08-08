@@ -15,6 +15,9 @@
     "mps:longitude":44.028246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0627\u0639 \u0627\u0644\u0628\u0627\u0631\u062f"
+    ],
     "name:eng_x_preferred":[
         "Alqa' Al Barid"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"ed22731bff7b4162b6da9a1ee9ffb894",
     "wof:hierarchy":[],
     "wof:id":1779992423,
-    "wof:lastmodified":1659050479,
+    "wof:lastmodified":1659988157,
     "wof:name":"Alqa' Al Barid",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

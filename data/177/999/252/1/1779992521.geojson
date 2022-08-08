@@ -15,6 +15,9 @@
     "mps:longitude":44.009903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0638\u0644\u0644"
+    ],
     "name:eng_x_preferred":[
         "Almidhallal"
     ],
@@ -25,7 +28,7 @@
     "wof:geomhash":"322e37b1a96ecdbf88b2de00e3d5bae1",
     "wof:hierarchy":[],
     "wof:id":1779992521,
-    "wof:lastmodified":1659050481,
+    "wof:lastmodified":1659988164,
     "wof:name":"Almidhallal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -31,7 +31,7 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
-        "\u0627\u0644\u0630\u064a\u0628\u064a\u0629"
+        "\u0627\u0644\u0636\u0646\u064a\u0629"
     ],
     "name:ara_x_variant":[
         "\u0627\u0644\u0630\u064a\u0628\u064a\u0647",
@@ -39,7 +39,8 @@
         "\u0627\u0644\u0630\u064a\u0628\u064a\u0629 \u0628\u0627\u0644\u0642\u0635\u064a\u0645",
         "\u0630\u064a\u0628\u064a\u0629",
         "\u0630\u064a\u0628\u064a\u0647",
-        "\u0627\u0644\u0630\u064a\u0628\u064a\u0629 \u0627\u0644\u0642\u0635\u064a\u0645"
+        "\u0627\u0644\u0630\u064a\u0628\u064a\u0629 \u0627\u0644\u0642\u0635\u064a\u0645",
+        "\u0627\u0644\u0630\u064a\u0628\u064a\u0629"
     ],
     "reversegeo:latitude":26.027213,
     "reversegeo:longitude":43.153333,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1242587759,
-    "wof:lastmodified":1659047519,
+    "wof:lastmodified":1659988156,
     "wof:name":"Adh Dhibiyah",
     "wof:parent_id":1108720687,
     "wof:placetype":"locality",

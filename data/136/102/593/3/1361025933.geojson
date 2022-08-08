@@ -30,10 +30,11 @@
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
-        "Aby\u0101r \u2018Al\u012b"
+        "\u0623\u0628\u064a\u0627\u0631 \u0639\u0644\u064a"
     ],
     "name:ara_x_variant":[
-        "\u0623\u0628\u064a\u0627\u0631 \u0639\u0644\u064a,\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629"
+        "\u0623\u0628\u064a\u0627\u0631 \u0639\u0644\u064a,\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+        "Aby\u0101r \u2018Al\u012b"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0628\u06cc\u0627\u0631 \u0639\u0644\u06cc"
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1361025933,
-    "wof:lastmodified":1659138446,
+    "wof:lastmodified":1659988148,
     "wof:name":"Abyar `Ali",
     "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",

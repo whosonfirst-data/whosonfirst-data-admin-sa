@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u064a\u0629"
+    ],
     "name:nno_x_preferred":[
         "Matiyah"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1243525443,
-    "wof:lastmodified":1659138443,
+    "wof:lastmodified":1659988156,
     "wof:name":"Matiyah",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",
