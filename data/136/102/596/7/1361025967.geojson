@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0644 \u0627\u0644\u0642\u0648\u0645"
     ],
+    "name:eng_x_preferred":[
+        "Jabal al Qawm"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85676819,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1361025967,
-    "wof:lastmodified":1659988150,
+    "wof:lastmodified":1660065587,
     "wof:name":"Jabal al Qawm",
     "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",

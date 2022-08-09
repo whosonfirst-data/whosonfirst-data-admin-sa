@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0641\u0627\u0646\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "As Saff\u0101n\u012byah"
+    ],
+    "name:eng_x_preferred":[
+        "As Saffaniyah"
+    ],
     "name:und_x_variant":[
         "Safaniya"
     ],
@@ -70,8 +76,8 @@
         }
     ],
     "wof:id":1125925951,
-    "wof:lastmodified":1659988153,
-    "wof:name":"As Saff\u0101n\u012byah",
+    "wof:lastmodified":1660065595,
+    "wof:name":"As Saffaniyah",
     "wof:parent_id":1108720591,
     "wof:placetype":"locality",
     "wof:population":7014,

@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0637\u064a\u0631\u0641\u064a"
     ],
+    "name:ara_x_variant":[
+        "Al Mu\u0163ayrif\u012b"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mutayrif\u012b"
+    ],
     "name:und_x_variant":[
         "Umm Terfi"
     ],
@@ -70,8 +76,8 @@
         }
     ],
     "wof:id":1125926947,
-    "wof:lastmodified":1659988154,
-    "wof:name":"Al Mu\u0163ayrif\u012b",
+    "wof:lastmodified":1660065607,
+    "wof:name":"Al Mutayrif\u012b",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",
     "wof:population":5962,

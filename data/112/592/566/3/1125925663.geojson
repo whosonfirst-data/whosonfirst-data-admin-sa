@@ -49,6 +49,9 @@
         "Badr"
     ],
     "name:eng_x_preferred":[
+        "Badr \u1e28unayn"
+    ],
+    "name:eng_x_variant":[
         "Badr"
     ],
     "name:fas_x_preferred":[
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1125925663,
-    "wof:lastmodified":1659988153,
+    "wof:lastmodified":1660065591,
     "wof:name":"Badr \u1e28unayn",
     "wof:parent_id":1108720671,
     "wof:placetype":"locality",

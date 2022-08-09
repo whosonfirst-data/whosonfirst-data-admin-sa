@@ -19,6 +19,9 @@
         "\u0627\u0644\u0634\u0641\u0627\u0621"
     ],
     "name:eng_x_preferred":[
+        "Al Shifa"
+    ],
+    "name:eng_x_variant":[
         "Al Shifa'"
     ],
     "src:geom":"whosonfirst",
@@ -28,8 +31,8 @@
     "wof:geomhash":"0f9bdf668b9b6ac645990cf54c15c9f2",
     "wof:hierarchy":[],
     "wof:id":1779992525,
-    "wof:lastmodified":1659988164,
-    "wof:name":"Al Shifa'",
+    "wof:lastmodified":1660065603,
+    "wof:name":"Al Shifa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

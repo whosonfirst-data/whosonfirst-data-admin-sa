@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0630\u0631"
     ],
+    "name:ara_x_variant":[
+        "Al Ma\u2018dhar"
+    ],
+    "name:eng_x_preferred":[
+        "Al Madhar"
+    ],
+    "name:eng_x_variant":[
+        "Al Maazir"
+    ],
     "name:und_x_variant":[
         "Al Ma\u2018dhar"
     ],
@@ -69,8 +78,8 @@
         }
     ],
     "wof:id":421177053,
-    "wof:lastmodified":1659138441,
-    "wof:name":"\u0627\u0644\u0645\u0639\u0635\u0631",
+    "wof:lastmodified":1660065610,
+    "wof:name":"Al Madhar",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

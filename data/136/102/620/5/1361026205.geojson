@@ -36,6 +36,9 @@
     "name:ara_x_variant":[
         "Shim\u0101s"
     ],
+    "name:eng_x_preferred":[
+        "Shimas"
+    ],
     "name:und_x_variant":[
         "Shamas"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1361026205,
-    "wof:lastmodified":1659988148,
+    "wof:lastmodified":1660065579,
     "wof:name":"Shimas",
     "wof:parent_id":1108720687,
     "wof:placetype":"neighbourhood",

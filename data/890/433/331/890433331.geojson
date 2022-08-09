@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0632\u0647\u0631\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Mizhirah"
+    ],
     "qs:name":"Mizhirah",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890433331,
-    "wof:lastmodified":1659988153,
+    "wof:lastmodified":1660065584,
     "wof:name":"Mizhirah",
     "wof:parent_id":1108720549,
     "wof:placetype":"locality",

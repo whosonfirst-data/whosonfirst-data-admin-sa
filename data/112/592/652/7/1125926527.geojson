@@ -27,6 +27,9 @@
     "name:ara_x_variant":[
         "An Nim\u0101\u015f"
     ],
+    "name:eng_x_preferred":[
+        "An Nimas"
+    ],
     "name:und_x_variant":[
         "Num\u0101s"
     ],
@@ -73,8 +76,8 @@
         }
     ],
     "wof:id":1125926527,
-    "wof:lastmodified":1659988155,
-    "wof:name":"An Nim\u0101\u015f",
+    "wof:lastmodified":1660065596,
+    "wof:name":"An Nimas",
     "wof:parent_id":1108720649,
     "wof:placetype":"locality",
     "wof:population":24153,

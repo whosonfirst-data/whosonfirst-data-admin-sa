@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u0648\u064a\u0631"
     ],
+    "name:eng_x_preferred":[
+        "At Tuwayr"
+    ],
     "name:und_x_variant":[
         "Tuwair",
         "At Tuwair",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276453345,
-    "wof:lastmodified":1659988145,
+    "wof:lastmodified":1660065592,
     "wof:name":"At Tuwayr",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

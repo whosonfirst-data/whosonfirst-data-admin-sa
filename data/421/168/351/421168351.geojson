@@ -18,6 +18,15 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u064a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Tumayr"
+    ],
+    "name:eng_x_variant":[
+        "Tamir"
+    ],
     "name:und_x_variant":[
         "Tumayr"
     ],
@@ -72,8 +81,8 @@
         }
     ],
     "wof:id":421168351,
-    "wof:lastmodified":1659047513,
-    "wof:name":"\u062a\u0645\u064a\u0631",
+    "wof:lastmodified":1660065577,
+    "wof:name":"Tumayr",
     "wof:parent_id":1108720613,
     "wof:placetype":"locality",
     "wof:population":8246,

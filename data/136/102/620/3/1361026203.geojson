@@ -33,7 +33,11 @@
         "\u0627\u0644\u0639\u0645\u0627\u062c"
     ],
     "name:ara_x_variant":[
-        "Al \u2018Amm\u0101j"
+        "Al \u2018Amm\u0101j",
+        "Al `Ammaj"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ammaj"
     ],
     "name:und_x_variant":[
         "Al \u2019Ammaj"
@@ -63,8 +67,8 @@
         }
     ],
     "wof:id":1361026203,
-    "wof:lastmodified":1659988148,
-    "wof:name":"Al `Ammaj",
+    "wof:lastmodified":1660065616,
+    "wof:name":"Al Ammaj",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

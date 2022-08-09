@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0641\u0627"
     ],
+    "name:eng_x_preferred":[
+        "Hafa"
+    ],
     "reversegeo:latitude":26.359746,
     "reversegeo:longitude":43.984209,
     "src:geom":"whosonfirst",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1361025895,
-    "wof:lastmodified":1659988149,
+    "wof:lastmodified":1660065589,
     "wof:name":"Hafa",
     "wof:parent_id":1108720687,
     "wof:placetype":"neighbourhood",

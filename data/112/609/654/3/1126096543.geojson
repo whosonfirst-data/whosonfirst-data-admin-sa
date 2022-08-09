@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0648\u062a"
     ],
+    "name:eng_x_preferred":[
+        "Tarut"
+    ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
     "qs_pg:gn_fcode":"PPL",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1126096543,
-    "wof:lastmodified":1659988156,
+    "wof:lastmodified":1660065578,
     "wof:name":"Tarut",
     "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",

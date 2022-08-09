@@ -64,6 +64,9 @@
     "name:deu_x_preferred":[
         "Min\u0101"
     ],
+    "name:eng_x_preferred":[
+        "Mina"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0631\u0632\u0645\u06cc\u0646 \u0645\u0646\u0627"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":1361025883,
-    "wof:lastmodified":1659988149,
+    "wof:lastmodified":1660065584,
     "wof:name":"Mina",
     "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",

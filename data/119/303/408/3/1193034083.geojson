@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a\u0631\u0648\u0647"
     ],
+    "name:eng_x_preferred":[
+        "Beniruh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1193034083,
-    "wof:lastmodified":1659988146,
+    "wof:lastmodified":1660065591,
     "wof:name":"Beniruh",
     "wof:parent_id":1108720649,
     "wof:placetype":"locality",

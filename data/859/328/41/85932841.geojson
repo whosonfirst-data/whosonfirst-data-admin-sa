@@ -32,9 +32,6 @@
     "name:eng_x_preferred":[
         "Al Tuqa"
     ],
-    "name:eng_x_variant":[
-        "Al Tuqa"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":49,
@@ -94,8 +91,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1659138440,
-    "wof:name":"\u0627\u0644\u062a\u0642\u0649",
+    "wof:lastmodified":1660065602,
+    "wof:name":"Al Tuqa",
     "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

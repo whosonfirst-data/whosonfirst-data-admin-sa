@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u0643\u0632"
     ],
+    "name:eng_x_preferred":[
+        "Al Markaz"
+    ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125927049,
-    "wof:lastmodified":1659988154,
+    "wof:lastmodified":1660065609,
     "wof:name":"Al Markaz",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

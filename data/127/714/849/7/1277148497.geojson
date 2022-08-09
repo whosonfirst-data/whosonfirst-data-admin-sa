@@ -35,6 +35,9 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u062e\u0634\u0627\u0628\u064a\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Al Khasawiyah"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062e\u0634\u0627\u0628\u06cc\u0627\u0647"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1277148497,
-    "wof:lastmodified":1659988145,
+    "wof:lastmodified":1660065611,
     "wof:name":"Al Khasawiyah",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",

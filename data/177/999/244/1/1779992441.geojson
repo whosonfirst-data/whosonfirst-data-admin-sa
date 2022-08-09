@@ -19,6 +19,9 @@
         "\u0627\u0644\u0639\u062c\u064a\u0628\u0629"
     ],
     "name:eng_x_preferred":[
+        "Alujaybah"
+    ],
+    "name:eng_x_variant":[
         "Al'ujaybah"
     ],
     "src:geom":"whosonfirst",
@@ -28,8 +31,8 @@
     "wof:geomhash":"4d17653be654e08e9b28cafc78d2174f",
     "wof:hierarchy":[],
     "wof:id":1779992441,
-    "wof:lastmodified":1659988157,
-    "wof:name":"Al'ujaybah",
+    "wof:lastmodified":1660065598,
+    "wof:name":"Alujaybah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

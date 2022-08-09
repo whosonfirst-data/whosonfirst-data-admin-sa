@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0646\u0648\u0645\u0629"
     ],
+    "name:ara_x_variant":[
+        "Tan\u016bmah"
+    ],
+    "name:eng_x_preferred":[
+        "Tanumah"
+    ],
     "name:und_x_variant":[
         "Tanuma"
     ],
@@ -70,8 +76,8 @@
         }
     ],
     "wof:id":1125924517,
-    "wof:lastmodified":1659988155,
-    "wof:name":"Tan\u016bmah",
+    "wof:lastmodified":1660065578,
+    "wof:name":"Tanumah",
     "wof:parent_id":1108720563,
     "wof:placetype":"locality",
     "wof:population":13594,

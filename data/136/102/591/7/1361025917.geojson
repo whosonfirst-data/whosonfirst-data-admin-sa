@@ -35,6 +35,9 @@
     "name:ara_x_variant":[
         "\u0642\u0631\u064a\u0636\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Quraydah"
+    ],
     "name:und_x_variant":[
         "Quray\u1e11ah",
         "Quraydah"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1361025917,
-    "wof:lastmodified":1659988150,
+    "wof:lastmodified":1660065582,
     "wof:name":"Quraydah",
     "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",

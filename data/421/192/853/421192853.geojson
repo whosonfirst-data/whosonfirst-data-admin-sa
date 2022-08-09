@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0647\u062c\u0631\u0629 \u0644\u0628\u0646"
     ],
+    "name:eng_x_preferred":[
+        "Hijrat Laban"
+    ],
+    "name:eng_x_variant":[
+        "Hejrat Laban"
+    ],
     "name:und_x_variant":[
         "Hijrat Laban"
     ],
@@ -69,8 +75,8 @@
         }
     ],
     "wof:id":421192853,
-    "wof:lastmodified":1659138442,
-    "wof:name":"\u0647\u062c\u0631\u0647 \u0648\u0627\u062f\u064a \u0644\u0628\u0646",
+    "wof:lastmodified":1660065589,
+    "wof:name":"Hijrat Laban",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0631\u0648\u0631\u064a\u0629"
     ],
+    "name:eng_x_preferred":[
+        "As Sururiyah"
+    ],
     "name:und_x_variant":[
         "As Sur\u016br\u012byah"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1344240501,
-    "wof:lastmodified":1659988143,
+    "wof:lastmodified":1660065594,
     "wof:name":"As Sururiyah",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",

@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0642\u0628\u0627\u0621"
     ],
+    "name:ara_x_variant":[
+        "Qaba'"
+    ],
+    "name:eng_x_preferred":[
+        "Qaba"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0628\u0627\u0621"
     ],
@@ -78,8 +84,8 @@
         }
     ],
     "wof:id":1361026065,
-    "wof:lastmodified":1659988151,
-    "wof:name":"Qaba'",
+    "wof:lastmodified":1660065582,
+    "wof:name":"Qaba",
     "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

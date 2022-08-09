@@ -32,9 +32,6 @@
     "name:eng_x_preferred":[
         "Al Azizeyyah"
     ],
-    "name:eng_x_variant":[
-        "Al Azizeyyah"
-    ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
     "qs:gn_local":105343,
@@ -95,8 +92,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1659138440,
-    "wof:name":"\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629",
+    "wof:lastmodified":1660065616,
+    "wof:name":"Al Azizeyyah",
     "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

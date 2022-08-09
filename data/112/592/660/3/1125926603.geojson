@@ -34,9 +34,10 @@
         "Al Qurayy\u0101t"
     ],
     "name:eng_x_preferred":[
-        "Qurayyat"
+        "Al Qurayy\u0101t"
     ],
     "name:eng_x_variant":[
+        "Qurayyat",
         "Al Qurayyat",
         "Gurayat"
     ],
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1125926603,
-    "wof:lastmodified":1659988154,
+    "wof:lastmodified":1660065605,
     "wof:name":"Al Qurayy\u0101t",
     "wof:parent_id":1108720635,
     "wof:placetype":"locality",

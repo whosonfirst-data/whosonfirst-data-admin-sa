@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u064a\u0646"
     ],
+    "name:eng_x_preferred":[
+        "Al Qurayn"
+    ],
     "name:und_x_variant":[
         "Qarain"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125926633,
-    "wof:lastmodified":1659988155,
+    "wof:lastmodified":1660065606,
     "wof:name":"Al Qurayn",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:ara_x_variant":[
         "Ibn \u2018\u012as\u00e1"
     ],
+    "name:eng_x_preferred":[
+        "Ibn Isa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85676827,
@@ -59,8 +62,8 @@
         }
     ],
     "wof:id":1361025925,
-    "wof:lastmodified":1659988148,
-    "wof:name":"Ibn `Isa",
+    "wof:lastmodified":1660065588,
+    "wof:name":"Ibn Isa",
     "wof:parent_id":1108720687,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0644\u0641\u064a"
     ],
+    "name:eng_x_preferred":[
+        "Az Zulfi"
+    ],
     "name:und_x_variant":[
         "Az Zilf\u012b"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125925837,
-    "wof:lastmodified":1659988155,
+    "wof:lastmodified":1660065591,
     "wof:name":"Az Zulfi",
     "wof:parent_id":1108720667,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0642\u0639\u0631"
     ],
+    "name:eng_x_preferred":[
+        "Abu Qaar"
+    ],
     "name:und_x_variant":[
         "Ab\u016b Qa\u2018ar"
     ],
@@ -66,8 +69,8 @@
         }
     ],
     "wof:id":1361026155,
-    "wof:lastmodified":1659988150,
-    "wof:name":"Abu Qa`ar",
+    "wof:lastmodified":1660065618,
+    "wof:name":"Abu Qaar",
     "wof:parent_id":1108720699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

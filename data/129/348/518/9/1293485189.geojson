@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0635\u0648\u0631"
     ],
+    "name:eng_x_preferred":[
+        "Mansur"
+    ],
     "name:und_x_variant":[
         "Monsour Camp",
         "Man\u015f\u016br"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293485189,
-    "wof:lastmodified":1659988145,
+    "wof:lastmodified":1660065584,
     "wof:name":"Mansur",
     "wof:parent_id":1108720685,
     "wof:placetype":"locality",

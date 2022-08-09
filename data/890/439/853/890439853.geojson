@@ -52,9 +52,10 @@
         "\u03a4\u03b6\u03b9\u03b6\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Jizan"
+        "J\u012bz\u0101n"
     ],
     "name:eng_x_variant":[
+        "Jizan",
         "Jazan",
         "Gizan",
         "Gazan"
@@ -321,7 +322,7 @@
         }
     ],
     "wof:id":890439853,
-    "wof:lastmodified":1659988153,
+    "wof:lastmodified":1660065587,
     "wof:name":"J\u012bz\u0101n",
     "wof:parent_id":1108720713,
     "wof:placetype":"locality",

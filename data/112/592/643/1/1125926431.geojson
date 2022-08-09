@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0631\u0639\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u2018Ar\u2018ar"
+    ],
     "name:eng_x_preferred":[
         "Arar"
     ],
@@ -82,8 +85,8 @@
         }
     ],
     "wof:id":1125926431,
-    "wof:lastmodified":1659988154,
-    "wof:name":"\u2018Ar\u2018ar",
+    "wof:lastmodified":1660065595,
+    "wof:name":"Arar",
     "wof:parent_id":1108720651,
     "wof:placetype":"locality",
     "wof:population":148540,

@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0648\u062f\u0629"
     ],
+    "name:ara_x_variant":[
+        "`Awdah"
+    ],
+    "name:eng_x_preferred":[
+        "Awdah"
+    ],
     "name:und_x_variant":[
         "\u2019Audah",
         "Auda",
@@ -62,8 +68,8 @@
         }
     ],
     "wof:id":1361026127,
-    "wof:lastmodified":1659988150,
-    "wof:name":"`Awdah",
+    "wof:lastmodified":1660065592,
+    "wof:name":"Awdah",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

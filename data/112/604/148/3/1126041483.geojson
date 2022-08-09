@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0628\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Shaybah"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0628\u0629"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126041483,
-    "wof:lastmodified":1659988155,
+    "wof:lastmodified":1660065580,
     "wof:name":"Shaybah",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0648\u064a\u0644\u0642"
     ],
+    "name:eng_x_preferred":[
+        "Al Fuwayliq"
+    ],
     "qs:name":"Al Fuwayliq",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890453195,
-    "wof:lastmodified":1659988153,
+    "wof:lastmodified":1660065613,
     "wof:name":"Al Fuwayliq",
     "wof:parent_id":1108720569,
     "wof:placetype":"locality",

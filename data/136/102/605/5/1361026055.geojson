@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0627\u0644\u0633\u0644\u0627\u0645"
     ],
+    "name:eng_x_preferred":[
+        "Umm as Salam"
+    ],
     "name:und_x_variant":[
         "Umm Salam",
         "Umm el Salam",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1361026055,
-    "wof:lastmodified":1659988149,
+    "wof:lastmodified":1660065577,
     "wof:name":"Umm as Salam",
     "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",

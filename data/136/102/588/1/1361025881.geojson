@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0635\u0631 \u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Qasr an Nasriyah"
+    ],
     "name:und_x_variant":[
         "Qa\u015fr an N\u0101\u015fir\u012byah",
         "Qa\u015fr an N\u0101\u015fr\u012byah"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1361025881,
-    "wof:lastmodified":1659988149,
+    "wof:lastmodified":1660065582,
     "wof:name":"Qasr an Nasriyah",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",

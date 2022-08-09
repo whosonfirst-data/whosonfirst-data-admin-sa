@@ -42,10 +42,10 @@
         "Wej"
     ],
     "name:eng_x_preferred":[
-        "Wej"
+        "Al Wajh"
     ],
     "name:eng_x_variant":[
-        "Al Wajh"
+        "Wej"
     ],
     "name:fas_x_preferred":[
         "\u0648\u062c\u0647"
@@ -256,7 +256,7 @@
         }
     ],
     "wof:id":890441455,
-    "wof:lastmodified":1659988153,
+    "wof:lastmodified":1660065602,
     "wof:name":"Al Wajh",
     "wof:parent_id":1108720643,
     "wof:placetype":"locality",

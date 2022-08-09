@@ -19,6 +19,9 @@
         "\u0627\u0644\u0646\u0642\u0639 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
     "name:eng_x_preferred":[
+        "Al Naq Ash Sharqiyyah"
+    ],
+    "name:eng_x_variant":[
         "Al Naq' Ash Sharqiyyah"
     ],
     "src:geom":"whosonfirst",
@@ -28,8 +31,8 @@
     "wof:geomhash":"a78ee0a10da668ae164cc6ab043540ee",
     "wof:hierarchy":[],
     "wof:id":1779992429,
-    "wof:lastmodified":1659988156,
-    "wof:name":"Al Naq' Ash Sharqiyyah",
+    "wof:lastmodified":1660065607,
+    "wof:name":"Al Naq Ash Sharqiyyah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

@@ -35,6 +35,9 @@
     "name:ara_x_variant":[
         "Al F\u012bw\u0101n"
     ],
+    "name:eng_x_preferred":[
+        "Al Fiwan"
+    ],
     "reversegeo:latitude":28.292268,
     "reversegeo:longitude":45.85418,
     "src:geom":"whosonfirst",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1361026213,
-    "wof:lastmodified":1659988148,
+    "wof:lastmodified":1660065613,
     "wof:name":"Al Fiwan",
     "wof:parent_id":1108720699,
     "wof:placetype":"neighbourhood",

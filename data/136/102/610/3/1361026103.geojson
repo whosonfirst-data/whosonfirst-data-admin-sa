@@ -35,6 +35,9 @@
     "name:ara_x_variant":[
         "As Sify\u0101n\u012b"
     ],
+    "name:eng_x_preferred":[
+        "As Sifyani"
+    ],
     "name:nno_x_preferred":[
         "As Sifyani"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1361026103,
-    "wof:lastmodified":1659988148,
+    "wof:lastmodified":1660065594,
     "wof:name":"As Sifyani",
     "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",

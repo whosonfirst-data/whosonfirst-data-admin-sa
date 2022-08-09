@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0634\u0645"
     ],
+    "name:eng_x_preferred":[
+        "Bashm"
+    ],
     "name:nno_x_preferred":[
         "Bashm"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1361025859,
-    "wof:lastmodified":1659988151,
+    "wof:lastmodified":1660065591,
     "wof:name":"Bashm",
     "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",

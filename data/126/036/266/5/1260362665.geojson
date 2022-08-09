@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0637\u0631\u064a\u0641"
     ],
+    "name:eng_x_preferred":[
+        "Turayf"
+    ],
     "name:und_x_variant":[
         "Turaif",
         "\u0162urayf"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1260362665,
-    "wof:lastmodified":1659988146,
+    "wof:lastmodified":1660065577,
     "wof:name":"Turayf",
     "wof:parent_id":1108720779,
     "wof:placetype":"locality",

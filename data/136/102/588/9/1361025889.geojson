@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0631\u0627\u0633"
     ],
+    "name:eng_x_preferred":[
+        "Ilbaras"
+    ],
     "reversegeo:latitude":26.30431,
     "reversegeo:longitude":43.891508,
     "src:geom":"whosonfirst",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1361025889,
-    "wof:lastmodified":1659988149,
+    "wof:lastmodified":1660065588,
     "wof:name":"Ilbaras",
     "wof:parent_id":1108720687,
     "wof:placetype":"neighbourhood",

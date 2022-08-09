@@ -19,6 +19,9 @@
         "\u0627\u0644\u0642\u0627\u0639 \u0627\u0644\u0628\u0627\u0631\u062f"
     ],
     "name:eng_x_preferred":[
+        "Alqa Al Barid"
+    ],
+    "name:eng_x_variant":[
         "Alqa' Al Barid"
     ],
     "src:geom":"whosonfirst",
@@ -28,8 +31,8 @@
     "wof:geomhash":"ed22731bff7b4162b6da9a1ee9ffb894",
     "wof:hierarchy":[],
     "wof:id":1779992423,
-    "wof:lastmodified":1659988157,
-    "wof:name":"Alqa' Al Barid",
+    "wof:lastmodified":1660065598,
+    "wof:name":"Alqa Al Barid",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

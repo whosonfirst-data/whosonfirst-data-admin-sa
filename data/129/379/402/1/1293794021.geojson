@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0645\u064a\u0631\u064a\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Sumayriyah"
+    ],
     "name:und_x_variant":[
         "Sumairiya",
         "Sumayr\u012byah"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293794021,
-    "wof:lastmodified":1659988144,
+    "wof:lastmodified":1660065579,
     "wof:name":"Sumayriyah",
     "wof:parent_id":1108720785,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u064a\u062c\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Mulayjah"
+    ],
     "name:und_x_variant":[
         "Mulaija"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125925109,
-    "wof:lastmodified":1659988154,
+    "wof:lastmodified":1660065583,
     "wof:name":"Mulayjah",
     "wof:parent_id":1108720623,
     "wof:placetype":"locality",

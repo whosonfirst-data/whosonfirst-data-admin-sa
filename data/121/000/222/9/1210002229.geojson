@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0641\u062c\u062d\u0627\u0646\u064a\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Fajhaniya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1210002229,
-    "wof:lastmodified":1659988146,
+    "wof:lastmodified":1660065590,
     "wof:name":"Fajhaniya",
     "wof:parent_id":1108720653,
     "wof:placetype":"locality",

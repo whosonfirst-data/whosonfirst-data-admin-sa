@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u0642\u0627\u064a\u0637"
     ],
+    "name:eng_x_preferred":[
+        "Al Laqayit"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293451509,
-    "wof:lastmodified":1659988145,
+    "wof:lastmodified":1660065610,
     "wof:name":"Al Laqayit",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u062d\u0645\u0644\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Umm Hamla"
+    ],
     "name:und_x_variant":[
         "Umm Haml\u0101"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226723753,
-    "wof:lastmodified":1659988165,
+    "wof:lastmodified":1660065577,
     "wof:name":"Umm Hamla",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",

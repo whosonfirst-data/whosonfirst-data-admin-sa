@@ -36,6 +36,9 @@
         "Ab\u016b \u2018Ar\u012bsh"
     ],
     "name:eng_x_preferred":[
+        "Abu Arish"
+    ],
+    "name:eng_x_variant":[
         "Abu `Arish"
     ],
     "name:fas_x_preferred":[
@@ -121,8 +124,8 @@
         }
     ],
     "wof:id":1125928499,
-    "wof:lastmodified":1659988155,
-    "wof:name":"Ab\u016b \u2018Ar\u012bsh",
+    "wof:lastmodified":1660065618,
+    "wof:name":"Abu Arish",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",
     "wof:population":49171,

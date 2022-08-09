@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0647\u0644 \u062d\u0646\u064a\u0634"
     ],
+    "name:eng_x_preferred":[
+        "Ahl Hunaysh"
+    ],
     "name:und_x_variant":[
         "Al Hanish",
         "Ahl Hanaish",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293772723,
-    "wof:lastmodified":1659988145,
+    "wof:lastmodified":1660065617,
     "wof:name":"Ahl Hunaysh",
     "wof:parent_id":1108720663,
     "wof:placetype":"locality",

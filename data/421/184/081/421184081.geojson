@@ -17,6 +17,15 @@
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0631\u0647"
+    ],
+    "name:eng_x_preferred":[
+        "Jabrah"
+    ],
+    "name:eng_x_variant":[
+        "Jebrah"
+    ],
     "name:und_x_variant":[
         "Jabrah"
     ],
@@ -66,8 +75,8 @@
         }
     ],
     "wof:id":421184081,
-    "wof:lastmodified":1659138441,
-    "wof:name":"\u062c\u0628\u0631\u0647",
+    "wof:lastmodified":1660065587,
+    "wof:name":"Jabrah",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

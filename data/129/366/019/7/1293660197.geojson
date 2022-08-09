@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0646\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Baranah"
+    ],
     "name:nno_x_preferred":[
         "Baranah"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293660197,
-    "wof:lastmodified":1659988145,
+    "wof:lastmodified":1660065591,
     "wof:name":"Baranah",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",

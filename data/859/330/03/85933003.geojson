@@ -35,9 +35,6 @@
     "name:eng_x_preferred":[
         "Aramco"
     ],
-    "name:eng_x_variant":[
-        "Aramco"
-    ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
     "qs:gn_local":107797,
@@ -98,8 +95,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1659138441,
-    "wof:name":"\u0627\u0631\u0627\u0645\u0643\u0648",
+    "wof:lastmodified":1660065595,
+    "wof:name":"Aramco",
     "wof:parent_id":421190321,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

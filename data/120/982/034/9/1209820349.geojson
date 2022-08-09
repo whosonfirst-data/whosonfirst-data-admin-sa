@@ -49,9 +49,10 @@
         "Al-'Ula"
     ],
     "name:eng_x_preferred":[
-        "Al-`Ula"
+        "Al-Ula"
     ],
     "name:eng_x_variant":[
+        "Al-`Ula",
         "Al Ola",
         "Dedan"
     ],
@@ -122,8 +123,8 @@
         }
     ],
     "wof:id":1209820349,
-    "wof:lastmodified":1659988146,
-    "wof:name":"Al-`Ula",
+    "wof:lastmodified":1660065600,
+    "wof:name":"Al-Ula",
     "wof:parent_id":1108720641,
     "wof:placetype":"locality",
     "wof:population":32413,

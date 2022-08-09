@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062d\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Shihah"
+    ],
     "name:und_x_variant":[
         "Shiha",
         "Sh\u012b\u1e29ah"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326615549,
-    "wof:lastmodified":1659988142,
+    "wof:lastmodified":1660065580,
     "wof:name":"Shihah",
     "wof:parent_id":1108720617,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
         "Al Had\u0101"
     ],
     "name:eng_x_preferred":[
+        "Al Had\u0101"
+    ],
+    "name:eng_x_variant":[
         "Al Hada"
     ],
     "name:fas_x_preferred":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890433329,
-    "wof:lastmodified":1659988153,
+    "wof:lastmodified":1660065613,
     "wof:name":"Al Had\u0101",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

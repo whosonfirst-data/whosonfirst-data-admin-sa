@@ -39,6 +39,9 @@
     "name:deu_x_preferred":[
         "Sidis"
     ],
+    "name:eng_x_preferred":[
+        "Sidis"
+    ],
     "name:fra_x_preferred":[
         "Sidis"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1361025935,
-    "wof:lastmodified":1659988148,
+    "wof:lastmodified":1660065579,
     "wof:name":"Sidis",
     "wof:parent_id":1108720703,
     "wof:placetype":"neighbourhood",

@@ -38,6 +38,9 @@
         "Sakaka"
     ],
     "name:eng_x_preferred":[
+        "Sakaka"
+    ],
+    "name:eng_x_variant":[
         "Sakakah"
     ],
     "name:epo_x_preferred":[
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":421175379,
-    "wof:lastmodified":1659988152,
+    "wof:lastmodified":1660065580,
     "wof:name":"Sakaka",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

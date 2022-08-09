@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0642\u0646\u0628\u0648\u0631\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Umm Qanburah"
+    ],
     "name:und_x_variant":[
         "Umm Qanb\u016brah"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209830235,
-    "wof:lastmodified":1659988146,
+    "wof:lastmodified":1660065577,
     "wof:name":"Umm Qanburah",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",

@@ -34,7 +34,11 @@
     ],
     "name:ara_x_variant":[
         "\u0639\u0650\u0644\u0650\u0642\u0629",
-        "Al Liq\u0101\u2019"
+        "Al Liq\u0101\u2019",
+        "`Iliqah"
+    ],
+    "name:eng_x_preferred":[
+        "Iliqah"
     ],
     "name:und_x_variant":[
         "Liqa",
@@ -63,8 +67,8 @@
         }
     ],
     "wof:id":1326519107,
-    "wof:lastmodified":1659988142,
-    "wof:name":"`Iliqah",
+    "wof:lastmodified":1660065588,
+    "wof:name":"Iliqah",
     "wof:parent_id":1108720667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",

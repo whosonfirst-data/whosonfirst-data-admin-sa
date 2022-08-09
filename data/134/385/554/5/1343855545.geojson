@@ -33,7 +33,11 @@
         "\u0627\u0644\u0634\u0639\u064a\u0628\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0634\u0639\u0628\u0629"
+        "\u0627\u0644\u0634\u0639\u0628\u0629",
+        "Ash Shi`bah"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shibah"
     ],
     "name:und_x_variant":[
         "Sha\u2018aba",
@@ -66,8 +70,8 @@
         }
     ],
     "wof:id":1343855545,
-    "wof:lastmodified":1659988143,
-    "wof:name":"Ash Shi`bah",
+    "wof:lastmodified":1660065593,
+    "wof:name":"Ash Shibah",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",

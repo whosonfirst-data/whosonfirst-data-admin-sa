@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0639\u064a\u0628\u0629"
     ],
+    "name:ara_x_variant":[
+        "Ash Shu\u2019aybah"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shuaybah"
+    ],
     "name:und_x_variant":[
         "Ash Shu\u2018aybah"
     ],
@@ -69,8 +75,8 @@
         }
     ],
     "wof:id":421204359,
-    "wof:lastmodified":1659988152,
-    "wof:name":"Ash Shu\u2019aybah",
+    "wof:lastmodified":1660065593,
+    "wof:name":"Ash Shuaybah",
     "wof:parent_id":421190297,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

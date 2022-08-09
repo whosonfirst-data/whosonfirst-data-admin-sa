@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u0642\u0627"
     ],
+    "name:eng_x_preferred":[
+        "Malqa"
+    ],
     "name:und_x_variant":[
         "Malq\u00e1"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209120929,
-    "wof:lastmodified":1659988146,
+    "wof:lastmodified":1660065584,
     "wof:name":"Malqa",
     "wof:parent_id":1108720785,
     "wof:placetype":"locality",

@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0634\u062e\u064a\u0628"
     ],
+    "name:eng_x_preferred":[
+        "Shokhaib"
+    ],
+    "name:eng_x_variant":[
+        "shokhaib\u064d"
+    ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
     "qs_pg:gn_fcode":"PPLL",
@@ -67,8 +73,8 @@
         }
     ],
     "wof:id":1125879983,
-    "wof:lastmodified":1659988155,
-    "wof:name":"shokhaib\u064d",
+    "wof:lastmodified":1660065579,
+    "wof:name":"Shokhaib",
     "wof:parent_id":1108720621,
     "wof:placetype":"locality",
     "wof:population":1500,

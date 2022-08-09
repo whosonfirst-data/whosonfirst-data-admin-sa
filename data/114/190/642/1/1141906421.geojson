@@ -27,6 +27,9 @@
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bb \u03b1\u03c4 \u039c\u03c0\u03b9\u03c3\u03ac"
     ],
+    "name:eng_x_preferred":[
+        "Qal at Bishah"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d0\u05dc \u05d0\u05ea \u05d1\u05d9\u05e9\u05d4"
     ],
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1141906421,
-    "wof:lastmodified":1659988165,
+    "wof:lastmodified":1660065582,
     "wof:name":"Qal at Bishah",
     "wof:parent_id":1108720681,
     "wof:placetype":"locality",

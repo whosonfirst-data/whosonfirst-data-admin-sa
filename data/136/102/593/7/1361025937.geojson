@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u062b\u0627\u0645\u064a\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Al Jithamiyah"
+    ],
     "name:und_x_variant":[
         "Judh\u0101m\u012byah",
         "Al-Ge\u1e6d\u00e2mijje",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1361025937,
-    "wof:lastmodified":1659988148,
+    "wof:lastmodified":1660065612,
     "wof:name":"Al Jithamiyah",
     "wof:parent_id":85632253,
     "wof:placetype":"neighbourhood",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0645\u0631\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Khumrah"
+    ],
     "name:nno_x_preferred":[
         "Khumrah"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1259850561,
-    "wof:lastmodified":1659988164,
+    "wof:lastmodified":1660065585,
     "wof:name":"Khumrah",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",

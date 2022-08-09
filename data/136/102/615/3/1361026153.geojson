@@ -30,9 +30,10 @@
         "Al Qay\u015f\u016bmah"
     ],
     "name:eng_x_preferred":[
-        "Qaisumah"
+        "Al Qay\u015f\u016bmah"
     ],
     "name:eng_x_variant":[
+        "Qaisumah",
         "Al Qaysumah"
     ],
     "name:fas_x_preferred":[
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1361026153,
-    "wof:lastmodified":1659988150,
+    "wof:lastmodified":1660065606,
     "wof:name":"Al Qay\u015f\u016bmah",
     "wof:parent_id":1108720699,
     "wof:placetype":"neighbourhood",

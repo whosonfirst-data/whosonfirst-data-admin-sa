@@ -27,6 +27,9 @@
     "name:ara_x_variant":[
         "S\u0101jir"
     ],
+    "name:eng_x_preferred":[
+        "Sajir"
+    ],
     "name:und_x_variant":[
         "As S\u0101jir"
     ],
@@ -73,8 +76,8 @@
         }
     ],
     "wof:id":1125925931,
-    "wof:lastmodified":1659988153,
-    "wof:name":"S\u0101jir",
+    "wof:lastmodified":1660065581,
+    "wof:name":"Sajir",
     "wof:parent_id":1108720545,
     "wof:placetype":"locality",
     "wof:population":11717,

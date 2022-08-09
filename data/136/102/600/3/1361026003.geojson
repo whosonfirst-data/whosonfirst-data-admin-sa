@@ -35,6 +35,9 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0628\u064f\u0635\u064f\u0631"
     ],
+    "name:eng_x_preferred":[
+        "Al Busur"
+    ],
     "name:und_x_variant":[
         "Busar",
         "Basr",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1361026003,
-    "wof:lastmodified":1659988151,
+    "wof:lastmodified":1660065614,
     "wof:name":"Al Busur",
     "wof:parent_id":1108720687,
     "wof:placetype":"neighbourhood",

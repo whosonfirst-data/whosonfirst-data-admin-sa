@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u064a\u0634\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Ash Shishah"
+    ],
     "name:nno_x_preferred":[
         "Ash Shishah"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1361025861,
-    "wof:lastmodified":1659988149,
+    "wof:lastmodified":1660065593,
     "wof:name":"Ash Shishah",
     "wof:parent_id":421204201,
     "wof:placetype":"neighbourhood",

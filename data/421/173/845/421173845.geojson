@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0628\u0631\u0632"
     ],
+    "name:eng_x_preferred":[
+        "Mubarraz"
+    ],
     "name:und_x_variant":[
         "Al Mubarraz"
     ],
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421173845,
-    "wof:lastmodified":1659988152,
+    "wof:lastmodified":1660065584,
     "wof:name":"Mubarraz",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

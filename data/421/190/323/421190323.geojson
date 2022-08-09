@@ -42,10 +42,10 @@
         "Ha'il"
     ],
     "name:eng_x_preferred":[
-        "Ha'il"
+        "Hail"
     ],
     "name:eng_x_variant":[
-        "Hail",
+        "Ha'il",
         "Hayil"
     ],
     "name:epo_x_preferred":[
@@ -313,8 +313,8 @@
         }
     ],
     "wof:id":421190323,
-    "wof:lastmodified":1659988152,
-    "wof:name":"Ha'il",
+    "wof:lastmodified":1660065589,
+    "wof:name":"Hail",
     "wof:parent_id":1108720703,
     "wof:placetype":"locality",
     "wof:population":267005,

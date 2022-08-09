@@ -25,7 +25,11 @@
         "\u0645\u0635\u0644\u064a\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0645\u0633\u0644\u064a\u0629"
+        "\u0645\u0633\u0644\u064a\u0629",
+        "Misl\u012byah"
+    ],
+    "name:eng_x_preferred":[
+        "Misliyah"
     ],
     "name:und_x_variant":[
         "Masliya"
@@ -73,8 +77,8 @@
         }
     ],
     "wof:id":1125925121,
-    "wof:lastmodified":1659988155,
-    "wof:name":"Misl\u012byah",
+    "wof:lastmodified":1660065584,
+    "wof:name":"Misliyah",
     "wof:parent_id":1108720677,
     "wof:placetype":"locality",
     "wof:population":6117,

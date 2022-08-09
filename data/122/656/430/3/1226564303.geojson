@@ -50,6 +50,9 @@
     "name:dan_x_preferred":[
         "Khafji"
     ],
+    "name:eng_x_preferred":[
+        "Ras al Khafji"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062e\u0641\u062c\u06cc"
     ],
@@ -131,8 +134,8 @@
         }
     ],
     "wof:id":1226564303,
-    "wof:lastmodified":1659988165,
-    "wof:name":"Ra's al Khafji",
+    "wof:lastmodified":1660065581,
+    "wof:name":"Ras al Khafji",
     "wof:parent_id":1108720591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",

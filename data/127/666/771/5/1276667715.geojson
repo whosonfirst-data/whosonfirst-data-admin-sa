@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u0627\u062c\u064a\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Khawajiyah"
+    ],
     "name:und_x_variant":[
         "Khawajiya",
         "Khaw\u0101j\u012byah"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1276667715,
-    "wof:lastmodified":1659988145,
+    "wof:lastmodified":1660065586,
     "wof:name":"Khawajiyah",
     "wof:parent_id":1108720753,
     "wof:placetype":"locality",

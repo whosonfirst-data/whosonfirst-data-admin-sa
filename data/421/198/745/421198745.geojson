@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0635\u0648\u064a\u0631"
     ],
+    "name:eng_x_preferred":[
+        "Suwayr"
+    ],
     "name:und_x_variant":[
         "\u015euwayr"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421198745,
-    "wof:lastmodified":1659988152,
+    "wof:lastmodified":1660065579,
     "wof:name":"Suwayr",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

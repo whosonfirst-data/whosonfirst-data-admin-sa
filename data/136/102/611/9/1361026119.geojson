@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u0637\u0627\u0646\u0629"
     ],
+    "name:ara_x_variant":[
+        "Sul\u0163\u0101nah"
+    ],
     "name:ceb_x_preferred":[
         "Sul\u0163\u0101nah"
     ],
@@ -81,8 +84,8 @@
         }
     ],
     "wof:id":1361026119,
-    "wof:lastmodified":1659988148,
-    "wof:name":"Sul\u0163\u0101nah",
+    "wof:lastmodified":1660065579,
+    "wof:name":"Sultanah",
     "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",
     "wof:population":946697,

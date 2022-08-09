@@ -36,6 +36,9 @@
     "name:ara_x_variant":[
         "Al W\u0101d\u012b"
     ],
+    "name:eng_x_preferred":[
+        "Al Wadi"
+    ],
     "name:und_x_variant":[
         "W\u0101d\u012b al Jin\u0101\u1e29",
         "Janab",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1327149257,
-    "wof:lastmodified":1659988142,
+    "wof:lastmodified":1660065602,
     "wof:name":"Al Wadi",
     "wof:parent_id":1108720785,
     "wof:placetype":"locality",

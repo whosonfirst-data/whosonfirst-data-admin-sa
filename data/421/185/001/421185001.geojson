@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u062c\u0631\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "Jar\u012br"
+    ],
+    "name:eng_x_preferred":[
+        "Jarir"
+    ],
+    "name:eng_x_variant":[
+        "Jerir"
+    ],
     "name:und_x_variant":[
         "Jar\u012br"
     ],
@@ -69,8 +78,8 @@
         }
     ],
     "wof:id":421185001,
-    "wof:lastmodified":1659138441,
-    "wof:name":"\u062c\u0631\u064a\u0631",
+    "wof:lastmodified":1660065587,
+    "wof:name":"Jarir",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

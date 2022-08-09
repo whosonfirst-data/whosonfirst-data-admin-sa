@@ -25,7 +25,8 @@
         "\u0642\u0644\u0639\u0629 \u0628\u064a\u0634\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0634\u0629"
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0634\u0629",
+        "Qal\u2018at B\u012bshah"
     ],
     "name:arz_x_preferred":[
         "\u0628\u064a\u0634\u0647"
@@ -41,6 +42,9 @@
     ],
     "name:eng_x_preferred":[
         "Bisha"
+    ],
+    "name:eng_x_variant":[
+        "Qalat Bishah"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0634\u0647"
@@ -128,8 +132,8 @@
         }
     ],
     "wof:id":1125925019,
-    "wof:lastmodified":1659988154,
-    "wof:name":"Qal\u2018at B\u012bshah",
+    "wof:lastmodified":1660065590,
+    "wof:name":"Bisha",
     "wof:parent_id":1108720681,
     "wof:placetype":"locality",
     "wof:population":81828,

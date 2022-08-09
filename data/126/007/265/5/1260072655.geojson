@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u064a\u062b\u064a\u0631"
     ],
+    "name:eng_x_preferred":[
+        "Tuwaythir"
+    ],
     "name:und_x_variant":[
         "Al-Tuwaithir",
         "Tuwaithir",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1260072655,
-    "wof:lastmodified":1659988146,
+    "wof:lastmodified":1660065577,
     "wof:name":"Tuwaythir",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

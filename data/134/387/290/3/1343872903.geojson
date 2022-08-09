@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u0642\u0631"
     ],
+    "name:eng_x_preferred":[
+        "Sunqur"
+    ],
     "name:und_x_variant":[
         "Sanqar",
         "Sunqur"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343872903,
-    "wof:lastmodified":1659988143,
+    "wof:lastmodified":1660065579,
     "wof:name":"Sunqur",
     "wof:parent_id":1108720785,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0635\u0644\u0647\u0628\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Salhabah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259501651,
-    "wof:lastmodified":1659988164,
+    "wof:lastmodified":1660065580,
     "wof:name":"Salhabah",
     "wof:parent_id":1108720753,
     "wof:placetype":"locality",

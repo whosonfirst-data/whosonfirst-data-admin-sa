@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0642\u0627\u0639\u0631\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "Qa`ariyah"
+    ],
+    "name:eng_x_preferred":[
+        "Qaariyah"
+    ],
     "name:und_x_variant":[
         "Qa\u2018\u0101r\u012byah"
     ],
@@ -58,8 +64,8 @@
         }
     ],
     "wof:id":1209725463,
-    "wof:lastmodified":1659988146,
-    "wof:name":"Qa`ariyah",
+    "wof:lastmodified":1660065583,
+    "wof:name":"Qaariyah",
     "wof:parent_id":1108720713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",

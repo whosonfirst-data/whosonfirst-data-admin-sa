@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u064a\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Matiyah"
+    ],
     "name:nno_x_preferred":[
         "Matiyah"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243525443,
-    "wof:lastmodified":1659988156,
+    "wof:lastmodified":1660065584,
     "wof:name":"Matiyah",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",

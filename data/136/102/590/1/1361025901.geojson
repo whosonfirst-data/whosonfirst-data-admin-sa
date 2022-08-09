@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0645\u062d\u064a\u0634"
     ],
+    "name:eng_x_preferred":[
+        "Imhaish"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85676819,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1361025901,
-    "wof:lastmodified":1659988150,
+    "wof:lastmodified":1660065588,
     "wof:name":"Imhaish",
     "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0648\u0627"
     ],
+    "name:eng_x_preferred":[
+        "Alowa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343259605,
-    "wof:lastmodified":1659988143,
+    "wof:lastmodified":1660065598,
     "wof:name":"Alowa",
     "wof:parent_id":1108720617,
     "wof:placetype":"locality",

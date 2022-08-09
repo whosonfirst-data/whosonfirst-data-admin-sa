@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0641\u064a\u0641\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Qufayfah"
+    ],
     "name:und_x_variant":[
         "Al Qufaifa",
         "Qufaifa",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1343878311,
-    "wof:lastmodified":1659988143,
+    "wof:lastmodified":1660065582,
     "wof:name":"Qufayfah",
     "wof:parent_id":1108720617,
     "wof:placetype":"locality",

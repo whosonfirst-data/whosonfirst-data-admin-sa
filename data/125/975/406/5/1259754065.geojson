@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0631\u0648\u0628\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Jirubah"
+    ],
     "name:und_x_variant":[
         "Jir\u016bbah"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259754065,
-    "wof:lastmodified":1659988164,
+    "wof:lastmodified":1660065587,
     "wof:name":"Jirubah",
     "wof:parent_id":1108720639,
     "wof:placetype":"locality",

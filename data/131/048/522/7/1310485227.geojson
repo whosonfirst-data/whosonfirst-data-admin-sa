@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0648\u0632\u064a\u0646"
     ],
+    "name:eng_x_preferred":[
+        "Al Qawzayn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310485227,
-    "wof:lastmodified":1659988147,
+    "wof:lastmodified":1660065606,
     "wof:name":"Al Qawzayn",
     "wof:parent_id":1108720715,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0646\u0627\u0645"
     ],
+    "name:eng_x_preferred":[
+        "Al Ghanam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327204979,
-    "wof:lastmodified":1659988143,
+    "wof:lastmodified":1660065613,
     "wof:name":"Al Ghanam",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",

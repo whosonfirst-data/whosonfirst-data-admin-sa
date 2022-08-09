@@ -33,7 +33,11 @@
         "\u0627\u0644\u0644\u0628"
     ],
     "name:ara_x_variant":[
-        "\u2018Ilb"
+        "\u2018Ilb",
+        "`Ilb"
+    ],
+    "name:eng_x_preferred":[
+        "Ilb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,8 +62,8 @@
         }
     ],
     "wof:id":1260069149,
-    "wof:lastmodified":1659988147,
-    "wof:name":"`Ilb",
+    "wof:lastmodified":1660065588,
+    "wof:name":"Ilb",
     "wof:parent_id":1108720543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",
