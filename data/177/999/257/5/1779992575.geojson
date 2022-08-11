@@ -22,15 +22,30 @@
         "Al Faiha"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"9109cf6ee9f99ddca2774114b9cdf0e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1779992575,
+            "region_id":85676819
+        }
+    ],
     "wof:id":1779992575,
-    "wof:lastmodified":1660065614,
+    "wof:lastmodified":1660235624,
     "wof:name":"Al Faiha",
-    "wof:parent_id":-1,
+    "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

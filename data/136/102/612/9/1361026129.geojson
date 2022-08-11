@@ -57,11 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85676825,
         102191569,
         85632253,
         421166941,
-        1108720605
+        1108720605,
+        85676825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1361026129,
-    "wof:lastmodified":1660065602,
+    "wof:lastmodified":1660235475,
     "wof:name":"Al Uyun",
     "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",

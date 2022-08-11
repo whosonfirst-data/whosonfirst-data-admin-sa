@@ -22,15 +22,30 @@
         "Al Rasf"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"d5ad6917dc629b732d03029f925d3708",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992673,
+            "region_id":85676831
+        }
+    ],
     "wof:id":1779992673,
-    "wof:lastmodified":1660065605,
+    "wof:lastmodified":1660235680,
     "wof:name":"Al Rasf",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

@@ -22,15 +22,30 @@
         "Alwadi"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"41f1c133be2e96b85be8f49158f42023",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1779992607,
+            "region_id":85676819
+        }
+    ],
     "wof:id":1779992607,
-    "wof:lastmodified":1660065597,
+    "wof:lastmodified":1660235642,
     "wof:name":"Alwadi",
-    "wof:parent_id":-1,
+    "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

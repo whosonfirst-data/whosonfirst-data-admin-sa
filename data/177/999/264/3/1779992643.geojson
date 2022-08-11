@@ -22,15 +22,30 @@
         "Barzan"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"bec9f214f0e51a0ee31aa7bff64b82ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992643,
+            "region_id":85676831
+        }
+    ],
     "wof:id":1779992643,
-    "wof:lastmodified":1660065591,
+    "wof:lastmodified":1660235664,
     "wof:name":"Barzan",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

@@ -19,15 +19,30 @@
         "\u0645\u062e\u0637\u0637 \u0627\u0644\u0634\u0627\u0637\u0626"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190281,
+        1108720633,
+        85676857
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"53dd6af6f9145718715e073bc04af139",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":421190281,
+            "neighbourhood_id":1779992677,
+            "region_id":85676857
+        }
+    ],
     "wof:id":1779992677,
-    "wof:lastmodified":1659050485,
+    "wof:lastmodified":1660235798,
     "wof:name":"\u0645\u062e\u0637\u0637 \u0627\u0644\u0634\u0627\u0637\u0626",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

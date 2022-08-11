@@ -22,15 +22,30 @@
         "Al Sharqiyyah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190281,
+        1108720633,
+        85676857
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"c9d43d7c6e36eb516489ff6baa7dc34b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":421190281,
+            "neighbourhood_id":1779992687,
+            "region_id":85676857
+        }
+    ],
     "wof:id":1779992687,
-    "wof:lastmodified":1660065603,
+    "wof:lastmodified":1660235686,
     "wof:name":"Al Sharqiyyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

@@ -22,15 +22,30 @@
         "Samah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"2ebf6ed1219d8cef673edc0f442f125b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992645,
+            "region_id":85676831
+        }
+    ],
     "wof:id":1779992645,
-    "wof:lastmodified":1660065580,
+    "wof:lastmodified":1660235665,
     "wof:name":"Samah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

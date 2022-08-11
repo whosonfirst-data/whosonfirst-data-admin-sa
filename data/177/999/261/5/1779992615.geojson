@@ -22,15 +22,30 @@
         "Qurtubah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"aea43be91becba0b82a8ffb74231bee3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1779992615,
+            "region_id":85676819
+        }
+    ],
     "wof:id":1779992615,
-    "wof:lastmodified":1660065582,
+    "wof:lastmodified":1660235646,
     "wof:name":"Qurtubah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

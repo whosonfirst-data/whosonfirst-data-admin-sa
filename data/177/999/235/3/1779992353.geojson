@@ -22,15 +22,30 @@
         "Al Worod"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"81bd0f17072ec137521cd1fba124ca6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992353,
+            "region_id":85676827
+        }
+    ],
     "wof:id":1779992353,
-    "wof:lastmodified":1660065601,
+    "wof:lastmodified":1660235495,
     "wof:name":"Al Worod",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

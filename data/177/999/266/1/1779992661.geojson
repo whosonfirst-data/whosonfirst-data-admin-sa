@@ -22,15 +22,30 @@
         "Industrial Area"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"31f118d627db603da59dd271dbc4eb5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992661,
+            "region_id":85676831
+        }
+    ],
     "wof:id":1779992661,
-    "wof:lastmodified":1660065588,
+    "wof:lastmodified":1660235674,
     "wof:name":"Industrial Area",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

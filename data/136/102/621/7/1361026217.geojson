@@ -49,8 +49,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        1209293959,
-        85632253
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +63,18 @@
     "wof:geomhash":"8f0c280a5d19b116d263f4942ff95891",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632253,
-            "locality_id":1209293959,
-            "neighbourhood_id":1361026217
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1361026217,
+            "region_id":85676831
         }
     ],
     "wof:id":1361026217,
-    "wof:lastmodified":1660065581,
+    "wof:lastmodified":1660235491,
     "wof:name":"Sadyan",
-    "wof:parent_id":85632253,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

@@ -22,15 +22,30 @@
         "Al Muhammadiyah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"1d111b2366edc5cd2f71813b8e958e3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1780000351,
+            "region_id":85676819
+        }
+    ],
     "wof:id":1780000351,
-    "wof:lastmodified":1660065608,
+    "wof:lastmodified":1660235692,
     "wof:name":"Al Muhammadiyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

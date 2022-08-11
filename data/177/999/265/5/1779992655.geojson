@@ -22,15 +22,30 @@
         "Al Mahattah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"0abd65972f0ba7b0547206664a8bb2cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992655,
+            "region_id":85676831
+        }
+    ],
     "wof:id":1779992655,
-    "wof:lastmodified":1660065610,
+    "wof:lastmodified":1660235670,
     "wof:name":"Al Mahattah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

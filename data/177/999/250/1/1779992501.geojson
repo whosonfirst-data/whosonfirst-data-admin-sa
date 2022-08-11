@@ -22,15 +22,30 @@
         "An Nasiriyyah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"5b9ab48e00958982382b169638dc7d6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992501,
+            "region_id":85676827
+        }
+    ],
     "wof:id":1779992501,
-    "wof:lastmodified":1660065597,
+    "wof:lastmodified":1660235584,
     "wof:name":"An Nasiriyyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

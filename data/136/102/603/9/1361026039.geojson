@@ -37,11 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
         1293684527,
-        1108720627
+        1108720627,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1361026039,
-    "wof:lastmodified":1660065586,
+    "wof:lastmodified":1660235450,
     "wof:name":"Khamam",
     "wof:parent_id":1293684527,
     "wof:placetype":"neighbourhood",

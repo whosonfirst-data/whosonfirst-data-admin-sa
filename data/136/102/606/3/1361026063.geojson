@@ -51,11 +51,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85676827,
         102191569,
         85632253,
-        1326539841,
-        1108720687
+        421204205,
+        1108720687,
+        85676827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,15 +68,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720687,
-            "locality_id":1326539841,
+            "locality_id":421204205,
             "neighbourhood_id":1361026063,
             "region_id":85676827
         }
     ],
     "wof:id":1361026063,
-    "wof:lastmodified":1660065613,
+    "wof:lastmodified":1660235459,
     "wof:name":"Al Ghammas",
-    "wof:parent_id":1108720687,
+    "wof:parent_id":421204205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

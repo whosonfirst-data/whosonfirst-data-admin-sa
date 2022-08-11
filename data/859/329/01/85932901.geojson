@@ -60,11 +60,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
         1125781573,
-        1108720627
+        1108720627,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +91,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1660065608,
+    "wof:lastmodified":1660235771,
     "wof:name":"Al Murjan",
     "wof:parent_id":1125781573,
     "wof:placetype":"neighbourhood",

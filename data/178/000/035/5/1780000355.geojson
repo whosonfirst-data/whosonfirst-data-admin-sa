@@ -22,15 +22,30 @@
         "Al Nahdah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"44579614baa2647e2aa927bbb612df55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1780000355,
+            "region_id":85676827
+        }
+    ],
     "wof:id":1780000355,
-    "wof:lastmodified":1660065607,
+    "wof:lastmodified":1660235693,
     "wof:name":"Al Nahdah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

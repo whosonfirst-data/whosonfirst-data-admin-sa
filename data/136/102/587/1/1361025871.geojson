@@ -40,11 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
         421204501,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1361025871,
-    "wof:lastmodified":1660065613,
+    "wof:lastmodified":1660235409,
     "wof:name":"Al Fawwaz",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",

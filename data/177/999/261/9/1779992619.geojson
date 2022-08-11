@@ -22,15 +22,30 @@
         "University of Hafr Al Batin"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"d11df0c5738d10df22b022df4420ed86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1779992619,
+            "region_id":85676819
+        }
+    ],
     "wof:id":1779992619,
-    "wof:lastmodified":1660065576,
+    "wof:lastmodified":1660235649,
     "wof:name":"University of Hafr Al Batin",
-    "wof:parent_id":-1,
+    "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

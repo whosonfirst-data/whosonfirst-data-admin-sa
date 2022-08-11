@@ -22,15 +22,30 @@
         "Al Qusayah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"984a54fbb2548af041a9792e8751b500",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992491,
+            "region_id":85676827
+        }
+    ],
     "wof:id":1779992491,
-    "wof:lastmodified":1660065605,
+    "wof:lastmodified":1660235577,
     "wof:name":"Al Qusayah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

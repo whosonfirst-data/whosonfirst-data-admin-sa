@@ -64,11 +64,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
         421200923,
-        1108720715
+        1108720715,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1660065581,
+    "wof:lastmodified":1660235758,
     "wof:name":"Quwaizah District",
     "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",

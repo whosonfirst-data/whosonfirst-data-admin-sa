@@ -46,11 +46,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1309734061,
-        1108720699
+        421203499,
+        1108720699,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,15 +63,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720699,
-            "locality_id":1309734061,
+            "locality_id":421203499,
             "neighbourhood_id":1361026001,
             "region_id":85676819
         }
     ],
     "wof:id":1361026001,
-    "wof:lastmodified":1660065601,
+    "wof:lastmodified":1660235436,
     "wof:name":"Al Wayiliyah",
-    "wof:parent_id":1108720699,
+    "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

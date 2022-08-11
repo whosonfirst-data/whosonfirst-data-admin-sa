@@ -43,11 +43,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1343254321,
-        1108720699
+        421203499,
+        1108720699,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +60,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720699,
-            "locality_id":1343254321,
+            "locality_id":421203499,
             "neighbourhood_id":1361026009,
             "region_id":85676819
         }
     ],
     "wof:id":1361026009,
-    "wof:lastmodified":1660065585,
+    "wof:lastmodified":1660235441,
     "wof:name":"King Faisal Military City",
-    "wof:parent_id":1108720699,
+    "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

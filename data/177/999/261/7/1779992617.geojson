@@ -22,15 +22,30 @@
         "Al Yarmuk"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"dc8ca69f0c537cc6c03005c2244e4d35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1779992617,
+            "region_id":85676819
+        }
+    ],
     "wof:id":1779992617,
-    "wof:lastmodified":1660065601,
+    "wof:lastmodified":1660235648,
     "wof:name":"Al Yarmuk",
-    "wof:parent_id":-1,
+    "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

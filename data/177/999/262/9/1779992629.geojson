@@ -22,15 +22,30 @@
         "Salah Al-Din Al-Shargi"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"9652ea67afbb264d7de45b9e8f5d1c39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992629,
+            "region_id":85676831
+        }
+    ],
     "wof:id":1779992629,
-    "wof:lastmodified":1660065580,
+    "wof:lastmodified":1660235656,
     "wof:name":"Salah Al-Din Al-Shargi",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

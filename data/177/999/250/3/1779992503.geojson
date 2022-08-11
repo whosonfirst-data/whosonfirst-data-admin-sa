@@ -22,15 +22,30 @@
         "Almuruj"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"989f46fdfd2139cbac19a632f1939d0b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992503,
+            "region_id":85676827
+        }
+    ],
     "wof:id":1779992503,
-    "wof:lastmodified":1660065598,
+    "wof:lastmodified":1660235585,
     "wof:name":"Almuruj",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

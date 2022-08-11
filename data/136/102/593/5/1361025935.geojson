@@ -59,11 +59,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85676831,
         102191569,
         85632253,
-        1293087351,
-        1108720703
+        421190323,
+        1108720703,
+        85676831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,15 +76,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720703,
-            "locality_id":1293087351,
+            "locality_id":421190323,
             "neighbourhood_id":1361025935,
             "region_id":85676831
         }
     ],
     "wof:id":1361025935,
-    "wof:lastmodified":1660065579,
+    "wof:lastmodified":1660235425,
     "wof:name":"Sidis",
-    "wof:parent_id":1108720703,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

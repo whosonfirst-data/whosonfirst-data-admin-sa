@@ -117,11 +117,11 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":24,
     "wof:belongsto":[
-        85676857,
         102191569,
         85632253,
         421200923,
-        1108720715
+        1108720715,
+        85676857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1660065610,
+    "wof:lastmodified":1660235718,
     "wof:name":"Al Kura",
     "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",

@@ -48,8 +48,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        1209293887,
-        85632253
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +62,18 @@
     "wof:geomhash":"4e3b3ab3d179950c40961f357954f351",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632253,
-            "locality_id":1209293887,
-            "neighbourhood_id":1361026085
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1361026085,
+            "region_id":85676831
         }
     ],
     "wof:id":1361026085,
-    "wof:lastmodified":1660065610,
+    "wof:lastmodified":1660235466,
     "wof:name":"Al Laqitah",
-    "wof:parent_id":85632253,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

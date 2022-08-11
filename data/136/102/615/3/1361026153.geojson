@@ -95,11 +95,11 @@
     "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
-        1125926717,
-        1108720699
+        421203499,
+        1108720699,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,15 +115,15 @@
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720699,
-            "locality_id":1125926717,
+            "locality_id":421203499,
             "neighbourhood_id":1361026153,
             "region_id":85676819
         }
     ],
     "wof:id":1361026153,
-    "wof:lastmodified":1660065606,
+    "wof:lastmodified":1660235479,
     "wof:name":"Al Qay\u015f\u016bmah",
-    "wof:parent_id":1108720699,
+    "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:population":20685,
     "wof:population_rank":7,

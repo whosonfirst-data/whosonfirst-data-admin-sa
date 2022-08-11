@@ -46,11 +46,11 @@
     "qs:woe_id":55948462,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85676813,
         102191569,
         85632253,
         421204501,
-        1108720657
+        1108720657,
+        85676813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":421192901,
-    "wof:lastmodified":1660065590,
+    "wof:lastmodified":1660235743,
     "wof:name":"Dirab",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",

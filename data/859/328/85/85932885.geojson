@@ -60,11 +60,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85676819,
         102191569,
         85632253,
         890449691,
-        1108720627
+        1108720627,
+        85676819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +91,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1660065614,
+    "wof:lastmodified":1660235765,
     "wof:name":"Al Danah",
     "wof:parent_id":890449691,
     "wof:placetype":"neighbourhood",

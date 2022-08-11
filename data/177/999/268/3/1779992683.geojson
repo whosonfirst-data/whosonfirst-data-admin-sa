@@ -22,15 +22,30 @@
         "Al Shamiyah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190281,
+        1108720633,
+        85676857
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"6d8aa75e327f03616f37ea8ef2693d6a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":421190281,
+            "neighbourhood_id":1779992683,
+            "region_id":85676857
+        }
+    ],
     "wof:id":1779992683,
-    "wof:lastmodified":1660065603,
+    "wof:lastmodified":1660235685,
     "wof:name":"Al Shamiyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

@@ -22,15 +22,30 @@
         "Alkhaldiyah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190281,
+        1108720633,
+        85676857
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"2282b0b3ffc06e52a84f055c392d440b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":421190281,
+            "neighbourhood_id":1779992679,
+            "region_id":85676857
+        }
+    ],
     "wof:id":1779992679,
-    "wof:lastmodified":1660065599,
+    "wof:lastmodified":1660235682,
     "wof:name":"Alkhaldiyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

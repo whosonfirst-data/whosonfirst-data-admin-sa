@@ -22,15 +22,30 @@
         "Khub Al Buraydi"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"098dc5484e77021ed6363c06a995cb42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992481,
+            "region_id":85676827
+        }
+    ],
     "wof:id":1779992481,
-    "wof:lastmodified":1660065586,
+    "wof:lastmodified":1660235571,
     "wof:name":"Khub Al Buraydi",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],

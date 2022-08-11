@@ -22,15 +22,30 @@
         "Al Khubaybiyyah"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
     "wof:breaches":[],
     "wof:country":"SA",
     "wof:geomhash":"bbcac068918fbf02db3fd0c7353011c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992465,
+            "region_id":85676827
+        }
+    ],
     "wof:id":1779992465,
-    "wof:lastmodified":1660065611,
+    "wof:lastmodified":1660235562,
     "wof:name":"Al Khubaybiyyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
