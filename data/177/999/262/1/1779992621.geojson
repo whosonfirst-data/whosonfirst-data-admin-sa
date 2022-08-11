@@ -1,0 +1,62 @@
+{
+  "id": 1779992621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000281,
+    "geom:bbox":"46.033019,28.439198,46.055919,28.455711",
+    "geom:latitude":28.447152,
+    "geom:longitude":46.045003,
+    "iso:country":"SA",
+    "lbl:latitude":28.447736,
+    "lbl:longitude":46.04593,
+    "mps:latitude":28.447736,
+    "mps:longitude":46.04593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0636\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rawdah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"c9f352cecfd5a42ed4d9b163003053e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1779992621,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1779992621,
+    "wof:lastmodified":1660235650,
+    "wof:name":"Al Rawdah",
+    "wof:parent_id":421203499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.033019,
+    28.439198,
+    46.055919,
+    28.455711
+],
+  "geometry": {"coordinates":[[[46.03443,28.439198],[46.033019,28.448881],[46.038987,28.449505],[46.038322,28.454026],[46.053925,28.455711],[46.055919,28.44361],[46.055883,28.441859],[46.03443,28.439198]]],"type":"Polygon"}
+}

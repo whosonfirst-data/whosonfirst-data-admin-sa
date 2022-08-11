@@ -1,0 +1,62 @@
+{
+  "id": 1779992467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:bbox":"43.926913,26.316631,43.94123,26.324525",
+    "geom:latitude":26.320345,
+    "geom:longitude":43.933587,
+    "iso:country":"SA",
+    "lbl:latitude":26.320187,
+    "lbl:longitude":43.933587,
+    "mps:latitude":26.320187,
+    "mps:longitude":43.933587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628 \u0627\u0644\u0628\u0631\u064a\u062f\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Khubal Buraydi"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"b04a5e712249e9aafd7672680a615ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992467,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992467,
+    "wof:lastmodified":1660235563,
+    "wof:name":"Khubal Buraydi",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.926913,
+    26.316631,
+    43.94123,
+    26.324525
+],
+  "geometry": {"coordinates":[[[43.937832,26.322928],[43.94123,26.317264],[43.938527,26.317248],[43.934506,26.317091],[43.932863,26.317043],[43.931507,26.316986],[43.930743,26.316852],[43.930141,26.316631],[43.928703,26.319635],[43.927553,26.321745],[43.926913,26.323055],[43.927169,26.323758],[43.92768,26.324173],[43.928447,26.324525],[43.930748,26.323886],[43.93257,26.32347],[43.933784,26.323278],[43.937832,26.322928]]],"type":"Polygon"}
+}

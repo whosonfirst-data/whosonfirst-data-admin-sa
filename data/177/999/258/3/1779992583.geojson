@@ -1,0 +1,62 @@
+{
+  "id": 1779992583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000651,
+    "geom:bbox":"45.98968,28.414805,46.023999,28.4422",
+    "geom:latitude":28.428942,
+    "geom:longitude":46.005851,
+    "iso:country":"SA",
+    "lbl:latitude":28.429457,
+    "lbl:longitude":46.005525,
+    "mps:latitude":28.429457,
+    "mps:longitude":46.005525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u064a\u062c"
+    ],
+    "name:eng_x_preferred":[
+        "Fulaij"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"624a2ccbcbb9176ac953ccf9b523a769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1779992583,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1779992583,
+    "wof:lastmodified":1660235628,
+    "wof:name":"Fulaij",
+    "wof:parent_id":421203499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.98968,
+    28.414805,
+    46.023999,
+    28.4422
+],
+  "geometry": {"coordinates":[[[45.993137,28.43894],[46.004279,28.4422],[46.009138,28.441723],[46.01624,28.440817],[46.016077,28.438869],[46.020018,28.429824],[46.023999,28.420687],[45.995779,28.414805],[45.993204,28.424189],[45.98968,28.438068],[45.993137,28.43894]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1779992665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000963,
+    "geom:bbox":"41.694555,27.533432,41.752188,27.555683",
+    "geom:latitude":27.545342,
+    "geom:longitude":41.722542,
+    "iso:country":"SA",
+    "lbl:latitude":27.544824,
+    "lbl:longitude":41.722542,
+    "mps:latitude":27.544824,
+    "mps:longitude":41.722542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u062a\u0632\u0629 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Muntazah Ash Sharqi"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"9092170e5f418debcf3c64dd393513b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992665,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1779992665,
+    "wof:lastmodified":1660235677,
+    "wof:name":"Al Muntazah Ash Sharqi",
+    "wof:parent_id":421190323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.694555,
+    27.533432,
+    41.752188,
+    27.555683
+],
+  "geometry": {"coordinates":[[[41.701686,27.555683],[41.726177,27.555118],[41.750677,27.554568],[41.752188,27.54821],[41.750677,27.546673],[41.74895,27.545563],[41.744879,27.544206],[41.740191,27.541245],[41.739328,27.537667],[41.737547,27.534619],[41.735993,27.533888],[41.733801,27.533432],[41.732065,27.533432],[41.729669,27.533718],[41.725598,27.534205],[41.69456,27.536652],[41.694555,27.537487],[41.701676,27.552681],[41.701686,27.555683]]],"type":"Polygon"}
+}

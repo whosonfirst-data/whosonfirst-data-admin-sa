@@ -1,0 +1,62 @@
+{
+  "id": 1779992693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:bbox":"41.077358,19.10807,41.08794,19.125805",
+    "geom:latitude":19.118306,
+    "geom:longitude":41.08349,
+    "iso:country":"SA",
+    "lbl:latitude":19.11881,
+    "lbl:longitude":41.082608,
+    "mps:latitude":19.11881,
+    "mps:longitude":41.082608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0632\u0647\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Alazhar"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190281,
+        1108720633,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"b28f7f5e8aa98e79e69ed5edcf771878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":421190281,
+            "neighbourhood_id":1779992693,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1779992693,
+    "wof:lastmodified":1660235690,
+    "wof:name":"Alazhar",
+    "wof:parent_id":421190281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.077358,
+    19.10807,
+    41.08794,
+    19.125805
+],
+  "geometry": {"coordinates":[[[41.08794,19.12414],[41.08607,19.11753],[41.086295,19.112755],[41.087123,19.108298],[41.085244,19.10807],[41.083721,19.112473],[41.081544,19.115244],[41.078925,19.116382],[41.077358,19.117666],[41.082707,19.125805],[41.084655,19.125056],[41.08794,19.12414]]],"type":"Polygon"}
+}

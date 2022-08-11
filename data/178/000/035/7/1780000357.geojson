@@ -1,0 +1,62 @@
+{
+  "id": 1780000357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001124,
+    "geom:bbox":"41.693862,27.6493,41.727022,27.704037",
+    "geom:latitude":27.671766,
+    "geom:longitude":41.708071,
+    "iso:country":"SA",
+    "lbl:latitude":27.663642,
+    "lbl:longitude":41.708387,
+    "mps:latitude":27.663642,
+    "mps:longitude":41.708387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u0629 \u062d\u0627\u0626\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "University of Hail"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"b17bf2757b7861942468f7d5118b2894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1780000357,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1780000357,
+    "wof:lastmodified":1660235694,
+    "wof:name":"University of Hail",
+    "wof:parent_id":421190323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.693862,
+    27.6493,
+    41.727022,
+    27.704037
+],
+  "geometry": {"coordinates":[[[41.696133,27.652335],[41.696368,27.658492],[41.697044,27.692841],[41.693862,27.697307],[41.706037,27.704037],[41.713509,27.698891],[41.70999,27.694953],[41.709241,27.693082],[41.709148,27.691023],[41.712423,27.690929],[41.71364,27.690649],[41.715137,27.689151],[41.714669,27.674085],[41.719816,27.669031],[41.721688,27.66744],[41.722249,27.665849],[41.722343,27.659673],[41.724214,27.660609],[41.727022,27.660609],[41.727022,27.65593],[41.726883,27.6493],[41.696287,27.649626],[41.696133,27.652335]]],"type":"Polygon"}
+}

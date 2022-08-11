@@ -32,9 +32,6 @@
     "name:eng_x_preferred":[
         "Al Sulaimaniyah Al Shamaliyah"
     ],
-    "name:eng_x_variant":[
-        "Al Sulaimaniyah Al Shamaliyah"
-    ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
     "qs:gn_local":108410,
@@ -97,8 +94,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627685101,
-    "wof:name":"\u0627\u0644\u0633\u0644\u064a\u0645\u0627\u0646\u064a\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+    "wof:lastmodified":1660235769,
+    "wof:name":"Al Sulaimaniyah Al Shamaliyah",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

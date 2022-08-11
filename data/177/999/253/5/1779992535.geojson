@@ -1,0 +1,62 @@
+{
+  "id": 1779992535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000297,
+    "geom:bbox":"44.005815,26.252544,44.039886,26.281829",
+    "geom:latitude":26.263751,
+    "geom:longitude":44.023736,
+    "iso:country":"SA",
+    "lbl:latitude":26.261643,
+    "lbl:longitude":44.025414,
+    "mps:latitude":26.261643,
+    "mps:longitude":44.025414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u064a\u0642\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Alhuwayqiyyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"83fd11b91951c70bed79db8eca423035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992535,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992535,
+    "wof:lastmodified":1660235604,
+    "wof:name":"Alhuwayqiyyah",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.005815,
+    26.252544,
+    44.039886,
+    26.281829
+],
+  "geometry": {"coordinates":[[[44.005815,26.281829],[44.023349,26.269419],[44.025613,26.268493],[44.032877,26.261665],[44.03478,26.263807],[44.038951,26.258436],[44.039886,26.256369],[44.022619,26.252544],[44.020114,26.260231],[44.018508,26.262617],[44.015975,26.265218],[44.014045,26.267225],[44.013059,26.26854],[44.011037,26.272406],[44.008816,26.277988],[44.005815,26.281829]]],"type":"Polygon"}
+}

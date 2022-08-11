@@ -1,0 +1,62 @@
+{
+  "id": 1779992409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:bbox":"43.999011,26.322214,44.011401,26.330623",
+    "geom:latitude":26.326305,
+    "geom:longitude":44.004926,
+    "iso:country":"SA",
+    "lbl:latitude":26.32619,
+    "lbl:longitude":44.005044,
+    "mps:latitude":26.32619,
+    "mps:longitude":44.005044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0633\u064a\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "An Nasim"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"da60d357b2b57b83e841d2d263ac2515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992409,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992409,
+    "wof:lastmodified":1660235529,
+    "wof:name":"An Nasim",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.999011,
+    26.322214,
+    44.011401,
+    26.330623
+],
+  "geometry": {"coordinates":[[[44.010414,26.329951],[44.010829,26.329146],[44.011401,26.328351],[44.01006,26.328007],[44.010048,26.328671],[44.009716,26.328754],[44.009284,26.328625],[44.009011,26.327038],[44.008985,26.32609],[44.009119,26.324417],[44.00964,26.322817],[43.999279,26.322214],[43.999177,26.323487],[44.000078,26.323747],[43.999011,26.326237],[44.000671,26.326616],[44.001619,26.326924],[44.001476,26.328199],[44.000894,26.32939],[44.00497,26.330536],[44.007651,26.330623],[44.010414,26.329951]]],"type":"Polygon"}
+}

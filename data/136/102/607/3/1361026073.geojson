@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0632\u064a\u0632\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "Al `Aziziyah"
+    ],
+    "name:eng_x_preferred":[
+        "Al Aziziyah"
+    ],
     "name:und_x_variant":[
         "Aziziyah Terminal",
         "M\u012bn\u0101\u2019 al \u2018Az\u012bz\u012byah",
@@ -62,8 +68,8 @@
         }
     ],
     "wof:id":1361026073,
-    "wof:lastmodified":1627685049,
-    "wof:name":"Al `Aziziyah",
+    "wof:lastmodified":1660235462,
+    "wof:name":"Al Aziziyah",
     "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

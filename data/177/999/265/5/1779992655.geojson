@@ -1,0 +1,62 @@
+{
+  "id": 1779992655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000187,
+    "geom:bbox":"41.682421,27.510598,41.698268,27.52414",
+    "geom:latitude":27.517244,
+    "geom:longitude":41.689675,
+    "iso:country":"SA",
+    "lbl:latitude":27.517423,
+    "lbl:longitude":41.689252,
+    "mps:latitude":27.517423,
+    "mps:longitude":41.689252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0637\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mahattah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"0abd65972f0ba7b0547206664a8bb2cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992655,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1779992655,
+    "wof:lastmodified":1660235670,
+    "wof:name":"Al Mahattah",
+    "wof:parent_id":421190323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.682421,
+    27.510598,
+    41.698268,
+    27.52414
+],
+  "geometry": {"coordinates":[[[41.682421,27.523744],[41.686071,27.524115],[41.690016,27.52414],[41.693614,27.523892],[41.69684,27.523867],[41.696,27.521037],[41.695895,27.519398],[41.696,27.517991],[41.696315,27.516688],[41.697282,27.513767],[41.698268,27.510598],[41.682737,27.510793],[41.683053,27.513217],[41.682561,27.514971],[41.682421,27.523744]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1780000351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000607,
+    "geom:bbox":"45.962432,28.365687,45.992348,28.39894",
+    "geom:latitude":28.383321,
+    "geom:longitude":45.976889,
+    "iso:country":"SA",
+    "lbl:latitude":28.384758,
+    "lbl:longitude":45.975394,
+    "mps:latitude":28.384758,
+    "mps:longitude":45.975394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Muhammadiyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"1d111b2366edc5cd2f71813b8e958e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1780000351,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1780000351,
+    "wof:lastmodified":1660235692,
+    "wof:name":"Al Muhammadiyah",
+    "wof:parent_id":421203499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.962432,
+    28.365687,
+    45.992348,
+    28.39894
+],
+  "geometry": {"coordinates":[[[45.963957,28.395108],[45.965674,28.395198],[45.983235,28.39894],[45.987682,28.382714],[45.992348,28.365687],[45.982598,28.369248],[45.978468,28.370757],[45.962432,28.378526],[45.963957,28.395108]]],"type":"Polygon"}
+}

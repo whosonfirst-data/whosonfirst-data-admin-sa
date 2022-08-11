@@ -29,6 +29,15 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0628\u0644\u062a\u064a\u0646 \u0627\u0644\u0642\u0628\u0644\u062a\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "alQiblatyn alqbltyn"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qiblatyn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,8 +63,8 @@
         }
     ],
     "wof:id":1361026031,
-    "wof:lastmodified":1627685042,
-    "wof:name":"alQiblatyn alqbltyn",
+    "wof:lastmodified":1660235447,
+    "wof:name":"Al Qiblatyn",
     "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

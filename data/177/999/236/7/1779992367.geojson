@@ -1,0 +1,62 @@
+{
+  "id": 1779992367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000314,
+    "geom:bbox":"43.960426,26.359272,43.984669,26.383137",
+    "geom:latitude":26.37333,
+    "geom:longitude":43.972672,
+    "iso:country":"SA",
+    "lbl:latitude":26.373571,
+    "lbl:longitude":43.972488,
+    "mps:latitude":26.373571,
+    "mps:longitude":43.972488,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0627\u064a\u0632\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Fayziyyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"60896ad50b403026efe7024452522551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992367,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992367,
+    "wof:lastmodified":1660235503,
+    "wof:name":"Al Fayziyyah",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.960426,
+    26.359272,
+    43.984669,
+    26.383137
+],
+  "geometry": {"coordinates":[[[43.960426,26.376099],[43.96766,26.379814],[43.974502,26.382746],[43.97636,26.383137],[43.984669,26.380987],[43.98118,26.370288],[43.976523,26.367022],[43.968642,26.359272],[43.967808,26.36098],[43.967039,26.363854],[43.960426,26.376099]]],"type":"Polygon"}
+}

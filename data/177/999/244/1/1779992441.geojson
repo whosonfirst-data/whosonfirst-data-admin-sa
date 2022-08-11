@@ -1,0 +1,65 @@
+{
+  "id": 1779992441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:bbox":"43.960842,26.323201,43.971526,26.329656",
+    "geom:latitude":26.326405,
+    "geom:longitude":43.966631,
+    "iso:country":"SA",
+    "lbl:latitude":26.327341,
+    "lbl:longitude":43.966995,
+    "mps:latitude":26.327341,
+    "mps:longitude":43.966995,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062c\u064a\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Alujaybah"
+    ],
+    "name:eng_x_variant":[
+        "Al'ujaybah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"4d17653be654e08e9b28cafc78d2174f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992441,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992441,
+    "wof:lastmodified":1660235547,
+    "wof:name":"Alujaybah",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.960842,
+    26.323201,
+    43.971526,
+    26.329656
+],
+  "geometry": {"coordinates":[[[43.961064,26.326063],[43.964789,26.328428],[43.966499,26.328982],[43.967438,26.329656],[43.968796,26.327792],[43.970161,26.326343],[43.971526,26.325079],[43.969892,26.324084],[43.968401,26.323201],[43.967954,26.32368],[43.967465,26.324455],[43.966842,26.325635],[43.964769,26.325416],[43.960842,26.325264],[43.961064,26.326063]]],"type":"Polygon"}
+}

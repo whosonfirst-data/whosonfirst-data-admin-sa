@@ -17,6 +17,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u062f\u0644\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Al Andalus"
+    ],
     "name:und_x_variant":[
         "Al Andalus"
     ],
@@ -66,8 +72,8 @@
         }
     ],
     "wof:id":421172447,
-    "wof:lastmodified":1627685062,
-    "wof:name":"\u0627\u0644\u0627\u0646\u062f\u0644\u0633",
+    "wof:lastmodified":1660235735,
+    "wof:name":"Al Andalus",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

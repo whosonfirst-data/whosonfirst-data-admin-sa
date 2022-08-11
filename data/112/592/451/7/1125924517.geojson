@@ -4,24 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.0005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.13333,27.1,44.13333,27.1",
-    "geom:latitude":27.1,
-    "geom:longitude":44.13333,
+    "geom:bbox":"44.144731,26.848947,44.180576,26.874778",
+    "geom:latitude":26.860522,
+    "geom:longitude":44.162945,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":13594,
     "iso:country":"SA",
-    "lbl:bbox":"44.11333,27.08,44.15333,27.12",
-    "lbl:latitude":27.1,
-    "lbl:longitude":44.13333,
+    "lbl:latitude":26.86573,
+    "lbl:longitude":44.16896,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u0648\u0645\u0629"
+    ],
+    "name:ara_x_variant":[
+        "Tan\u016bmah"
+    ],
+    "name:eng_x_preferred":[
+        "Tanumah"
+    ],
     "name:und_x_variant":[
         "Tanuma"
     ],
@@ -36,8 +44,13 @@
     "qs_pg:pop_sr":6,
     "qs_pg:qs_id":64798,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":26.86573,
+    "reversegeo:longitude":44.16896,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +65,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296595,
-    "wof:geomhash":"35f2cedd9d324519c05aed1160a4a5f2",
+    "wof:geomhash":"850795bf855622b36486361df4e1fa30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,8 +76,8 @@
         }
     ],
     "wof:id":1125924517,
-    "wof:lastmodified":1566638480,
-    "wof:name":"Tan\u016bmah",
+    "wof:lastmodified":1660235241,
+    "wof:name":"Tanumah",
     "wof:parent_id":1108720563,
     "wof:placetype":"locality",
     "wof:population":13594,
@@ -75,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.13333,
-    27.1,
-    44.13333,
-    27.1
+    44.144731,
+    26.848947,
+    44.180576,
+    26.874778
 ],
-  "geometry": {"coordinates":[44.13333,27.1],"type":"Point"}
+  "geometry": {"coordinates":[[[[44.180576,26.8611],[44.164845,26.849996],[44.160711,26.850613],[44.157318,26.848947],[44.151643,26.852895],[44.148681,26.852525],[44.146954,26.852834],[44.144731,26.853203],[44.144847,26.855234],[44.145544,26.857323],[44.147401,26.858484],[44.148445,26.859992],[44.148967,26.861095],[44.150128,26.862488],[44.152159,26.864635],[44.156163,26.867711],[44.158427,26.868813],[44.160864,26.869684],[44.161142,26.868456],[44.163371,26.869596],[44.16762,26.872083],[44.170315,26.874778],[44.180576,26.8611]]]],"type":"MultiPolygon"}
 }

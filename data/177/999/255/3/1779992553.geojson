@@ -1,0 +1,62 @@
+{
+  "id": 1779992553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000598,
+    "geom:bbox":"43.900777,26.414477,43.933981,26.449301",
+    "geom:latitude":26.431164,
+    "geom:longitude":43.916864,
+    "iso:country":"SA",
+    "lbl:latitude":26.4306,
+    "lbl:longitude":43.916864,
+    "mps:latitude":26.4306,
+    "mps:longitude":43.916864,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0632\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Alhazm"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"6a16ba2b85a56bd37497754234ebce65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992553,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992553,
+    "wof:lastmodified":1660235612,
+    "wof:name":"Alhazm",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.900777,
+    26.414477,
+    43.933981,
+    26.449301
+],
+  "geometry": {"coordinates":[[[43.915482,26.414477],[43.909095,26.424394],[43.900777,26.439221],[43.906054,26.442671],[43.912345,26.446798],[43.916811,26.449301],[43.933981,26.42153],[43.915482,26.414477]]],"type":"Polygon"}
+}

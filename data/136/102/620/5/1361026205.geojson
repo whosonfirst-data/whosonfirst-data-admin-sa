@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000535,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.98333,26.35,43.98333,26.35",
-    "geom:latitude":26.35,
-    "geom:longitude":43.98333,
+    "geom:bbox":"43.978624,26.326299,44.010414,26.354823",
+    "geom:latitude":26.340085,
+    "geom:longitude":43.994497,
     "gn:admin1_code":"0",
     "gn:asciiname":"Shimas",
     "gn:cc2":"SA",
@@ -24,45 +24,58 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"43.97833,26.345,43.98833,26.355",
+    "lbl:latitude":26.340032,
+    "lbl:longitude":43.994194,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
+        "\u0634\u0645\u0627\u0633"
+    ],
+    "name:ara_x_variant":[
         "Shim\u0101s"
+    ],
+    "name:eng_x_preferred":[
+        "Shimas"
     ],
     "name:und_x_variant":[
         "Shamas"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":26.340032,
+    "reversegeo:longitude":43.994194,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85676827,
         102191569,
         85632253,
-        1360103349,
-        1108720687
+        421204205,
+        1108720687,
+        85676827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":102041
     },
     "wof:country":"SA",
-    "wof:geomhash":"b99b892b841361dc91224f65466cadde",
+    "wof:geomhash":"2fbb360c5672060e7c8b8abe2cd6972c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720687,
-            "locality_id":1360103349,
+            "locality_id":421204205,
             "neighbourhood_id":1361026205,
             "region_id":85676827
         }
     ],
     "wof:id":1361026205,
-    "wof:lastmodified":1566638425,
+    "wof:lastmodified":1660235489,
     "wof:name":"Shimas",
-    "wof:parent_id":1108720687,
+    "wof:parent_id":421204205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -72,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.98333,
-    26.35,
-    43.98333,
-    26.35
+    43.978624,
+    26.326299,
+    44.010414,
+    26.354823
 ],
-  "geometry": {"coordinates":[43.98333,26.35],"type":"Point"}
+  "geometry": {"coordinates":[[[43.978624,26.345612],[43.985717,26.34929],[44.000067,26.354823],[44.005796,26.341654],[44.008775,26.334428],[44.010414,26.329951],[44.007651,26.330623],[44.00497,26.330536],[43.993902,26.327423],[43.991826,26.326299],[43.985427,26.332785],[43.98266,26.336676],[43.982229,26.337862],[43.979201,26.342643],[43.978624,26.345612]]],"type":"Polygon"}
 }

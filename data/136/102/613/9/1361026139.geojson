@@ -29,6 +29,15 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u0639\u0629"
+    ],
+    "name:ara_x_variant":[
+        "Al Jaz`ah"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jazah"
+    ],
     "name:und_x_variant":[
         "Jiza",
         "Al Jaz\u2018ah"
@@ -58,8 +67,8 @@
         }
     ],
     "wof:id":1361026139,
-    "wof:lastmodified":1627685057,
-    "wof:name":"Al Jaz`ah",
+    "wof:lastmodified":1660235477,
+    "wof:name":"Al Jazah",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

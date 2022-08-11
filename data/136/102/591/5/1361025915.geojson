@@ -30,7 +30,13 @@
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
+        "\u0641\u064a\u062d\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
         "F\u012b\u1e29\u0101n"
+    ],
+    "name:eng_x_preferred":[
+        "Fihan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1361025915,
-    "wof:lastmodified":1627685031,
+    "wof:lastmodified":1660235419,
     "wof:name":"Fihan",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",

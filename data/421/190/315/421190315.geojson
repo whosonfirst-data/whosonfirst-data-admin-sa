@@ -13,11 +13,14 @@
     "lbl:bbox":"42.5470425,16.863855,42.5870425,16.903855",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u062c\u0632\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
         "\u062c\u0627\u0632\u0627\u0646"
     ],
     "name:eng_x_preferred":[
@@ -45,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        1108720713,
-        85676853
+        85676853,
+        1108720713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421190315,
-    "wof:lastmodified":1601423089,
+    "wof:lastmodified":1660235713,
     "wof:name":"Jazan",
     "wof:parent_id":1108720713,
     "wof:placetype":"locality",

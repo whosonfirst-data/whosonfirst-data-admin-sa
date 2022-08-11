@@ -4,19 +4,26 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000281,
     "geom:area_square_m":0.0,
-    "geom:bbox":"40.38925,30.11713,40.38925,30.11713",
-    "geom:latitude":30.11713,
-    "geom:longitude":40.38925,
+    "geom:bbox":"40.381924,30.098221,40.403522,30.124014",
+    "geom:latitude":30.113422,
+    "geom:longitude":40.389942,
     "iso:country":"SA",
-    "lbl:bbox":"40.36925,30.09713,40.40925,30.13713",
+    "lbl:latitude":30.112495,
+    "lbl:longitude":40.390394,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u064a\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Suwayr"
+    ],
     "name:und_x_variant":[
         "\u015euwayr"
     ],
@@ -38,7 +45,13 @@
     "qs:qs_id":433181,
     "qs:woe_adm0":23424938,
     "qs:woe_id":1939381,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":30.112495,
+    "reversegeo:longitude":40.390394,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191569,
@@ -54,7 +67,7 @@
     },
     "wof:country":"SA",
     "wof:created":1459009959,
-    "wof:geomhash":"8b941f185dd3e75e7771354da4be29b1",
+    "wof:geomhash":"bebee013286438e230d6e20356f841ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +78,7 @@
         }
     ],
     "wof:id":421198745,
-    "wof:lastmodified":1566638465,
+    "wof:lastmodified":1660235714,
     "wof:name":"Suwayr",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",
@@ -77,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.38925,
-    30.11713,
-    40.38925,
-    30.11713
+    40.381924,
+    30.098221,
+    40.403522,
+    30.124014
 ],
-  "geometry": {"coordinates":[40.38925,30.11713],"type":"Point"}
+  "geometry": {"coordinates":[[[[40.39716,30.122464],[40.397615,30.121312],[40.397874,30.11964],[40.398329,30.119629],[40.399465,30.119489],[40.400773,30.119191],[40.401932,30.118744],[40.402677,30.118148],[40.403522,30.116459],[40.400988,30.115764],[40.399796,30.113959],[40.398024,30.114704],[40.396319,30.114319],[40.397582,30.111957],[40.396484,30.111682],[40.393132,30.10877],[40.390275,30.106517],[40.391319,30.10366],[40.382198,30.098221],[40.381924,30.100693],[40.382143,30.102287],[40.383517,30.1041],[40.383077,30.10899],[40.382363,30.111187],[40.383409,30.111399],[40.382197,30.122121],[40.385068,30.121858],[40.388756,30.122306],[40.392702,30.124014],[40.394005,30.123363],[40.393867,30.121858],[40.39716,30.122464]]]],"type":"MultiPolygon"}
 }

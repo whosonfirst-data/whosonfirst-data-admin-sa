@@ -1,0 +1,62 @@
+{
+  "id": 1779992567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000563,
+    "geom:bbox":"45.923886,28.425475,45.951254,28.456049",
+    "geom:latitude":28.440726,
+    "geom:longitude":45.937557,
+    "iso:country":"SA",
+    "lbl:latitude":28.440745,
+    "lbl:longitude":45.937557,
+    "mps:latitude":28.440745,
+    "mps:longitude":45.937557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0644\u0627\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Al Talal"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"e7dcd0ae76891306e9f42eafa2a0d5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1779992567,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1779992567,
+    "wof:lastmodified":1660235618,
+    "wof:name":"Al Talal",
+    "wof:parent_id":421203499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.923886,
+    28.425475,
+    45.951254,
+    28.456049
+],
+  "geometry": {"coordinates":[[[45.944141,28.456049],[45.951254,28.429749],[45.930906,28.425475],[45.923886,28.451648],[45.944141,28.456049]]],"type":"Polygon"}
+}

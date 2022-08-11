@@ -30,7 +30,14 @@
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
-        "\u0646\u0639\u0627\u0645\u064a\u0646"
+        "\u0646\u0639\u0645\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0639\u0627\u0645\u064a\u0646",
+        "Na`amin"
+    ],
+    "name:eng_x_preferred":[
+        "Naamin"
     ],
     "name:und_x_variant":[
         "Na\u2018\u0101m\u012bn",
@@ -61,8 +68,8 @@
         }
     ],
     "wof:id":1361025849,
-    "wof:lastmodified":1627685023,
-    "wof:name":"Na`amin",
+    "wof:lastmodified":1660235400,
+    "wof:name":"Naamin",
     "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

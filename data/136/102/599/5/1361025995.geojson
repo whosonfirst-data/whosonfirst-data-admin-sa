@@ -29,6 +29,12 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0645\u0646\u064a\u0635\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Ras Munaysif"
+    ],
     "name:und_x_variant":[
         "Ra\u2019s Munaysif"
     ],
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":1361025995,
-    "wof:lastmodified":1627685037,
-    "wof:name":"Ra's Munaysif",
+    "wof:lastmodified":1660235434,
+    "wof:name":"Ras Munaysif",
     "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

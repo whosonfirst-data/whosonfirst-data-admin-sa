@@ -1,0 +1,62 @@
+{
+  "id": 1779992495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000496,
+    "geom:bbox":"43.987401,26.227648,44.02666,26.254548",
+    "geom:latitude":26.241221,
+    "geom:longitude":44.005245,
+    "iso:country":"SA",
+    "lbl:latitude":26.236938,
+    "lbl:longitude":44.003312,
+    "mps:latitude":26.236938,
+    "mps:longitude":44.003312,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0631\u0645\u0648\u0643"
+    ],
+    "name:eng_x_preferred":[
+        "Alyarmouk"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"43de4b1703a977416645e2160e246450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992495,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992495,
+    "wof:lastmodified":1660235580,
+    "wof:name":"Alyarmouk",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.987401,
+    26.227648,
+    44.02666,
+    26.254548
+],
+  "geometry": {"coordinates":[[[43.989866,26.253674],[43.998932,26.254548],[44.003226,26.245244],[44.003862,26.242302],[44.007281,26.242143],[44.015145,26.245232],[44.018255,26.24604],[44.024299,26.247312],[44.02666,26.23958],[44.016929,26.237437],[44.016408,26.230023],[44.010095,26.227648],[44.007314,26.232571],[44.002044,26.230255],[43.999075,26.231305],[43.998395,26.23344],[43.992426,26.24252],[43.987897,26.241279],[43.988117,26.244529],[43.987401,26.248346],[43.988832,26.251845],[43.989866,26.253674]]],"type":"Polygon"}
+}

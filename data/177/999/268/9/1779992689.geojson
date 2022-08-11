@@ -1,0 +1,62 @@
+{
+  "id": 1779992689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:bbox":"41.06789,19.119381,41.078991,19.129878",
+    "geom:latitude":19.125259,
+    "geom:longitude":41.07314,
+    "iso:country":"SA",
+    "lbl:latitude":19.124499,
+    "lbl:longitude":41.073246,
+    "mps:latitude":19.124499,
+    "mps:longitude":41.073246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062a\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Ratibah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190281,
+        1108720633,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"358b9dc2e0f14f1c75f89c2fbc10f135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":421190281,
+            "neighbourhood_id":1779992689,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1779992689,
+    "wof:lastmodified":1660235688,
+    "wof:name":"Al Ratibah",
+    "wof:parent_id":421190281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.06789,
+    19.119381,
+    41.078991,
+    19.129878
+],
+  "geometry": {"coordinates":[[[41.078991,19.128284],[41.078119,19.125901],[41.077992,19.126319],[41.077228,19.126219],[41.076886,19.121479],[41.076582,19.121777],[41.072708,19.119381],[41.071638,19.120937],[41.069973,19.122889],[41.06789,19.125778],[41.068453,19.129878],[41.072227,19.129253],[41.071259,19.128769],[41.071469,19.128054],[41.071932,19.128159],[41.074584,19.127871],[41.075037,19.12919],[41.076988,19.129208],[41.078991,19.128284]]],"type":"Polygon"}
+}

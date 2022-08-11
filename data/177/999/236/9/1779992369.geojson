@@ -1,0 +1,62 @@
+{
+  "id": 1779992369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00017,
+    "geom:bbox":"43.929256,26.364552,43.960426,26.382159",
+    "geom:latitude":26.372683,
+    "geom:longitude":43.945975,
+    "iso:country":"SA",
+    "lbl:latitude":26.372584,
+    "lbl:longitude":43.945975,
+    "mps:latitude":26.372584,
+    "mps:longitude":43.945975,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0645\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Al Amn"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"49eb14f39c5f2b4d31e17a3b376b691c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992369,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992369,
+    "wof:lastmodified":1660235505,
+    "wof:name":"Al Amn",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.929256,
+    26.364552,
+    43.960426,
+    26.382159
+],
+  "geometry": {"coordinates":[[[43.956618,26.382159],[43.960426,26.376099],[43.956907,26.374242],[43.949424,26.370799],[43.940894,26.36732],[43.937551,26.365932],[43.936267,26.364552],[43.929256,26.367754],[43.92984,26.368735],[43.931645,26.369639],[43.931823,26.36884],[43.953856,26.379638],[43.95576,26.380907],[43.956618,26.382159]]],"type":"Polygon"}
+}

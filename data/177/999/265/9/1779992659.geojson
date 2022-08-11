@@ -1,0 +1,62 @@
+{
+  "id": 1779992659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000485,
+    "geom:bbox":"41.701077,27.464899,41.746942,27.492454",
+    "geom:latitude":27.476107,
+    "geom:longitude":41.715275,
+    "iso:country":"SA",
+    "lbl:latitude":27.474787,
+    "lbl:longitude":41.7118,
+    "mps:latitude":27.474787,
+    "mps:longitude":41.7118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0645\u0627\u0634\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Alkhamashiyyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"f7b18a8e1cfa2b7cd7c3e2e64be9b342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992659,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1779992659,
+    "wof:lastmodified":1660235673,
+    "wof:name":"Alkhamashiyyah",
+    "wof:parent_id":421190323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.701077,
+    27.464899,
+    41.746942,
+    27.492454
+],
+  "geometry": {"coordinates":[[[41.70624,27.492454],[41.715571,27.482884],[41.720929,27.48054],[41.746942,27.47412],[41.745435,27.472948],[41.743147,27.472446],[41.733824,27.474623],[41.729917,27.474232],[41.728219,27.473291],[41.71676,27.465921],[41.714501,27.465061],[41.71165,27.464899],[41.701077,27.468134],[41.702581,27.475349],[41.702803,27.478569],[41.703179,27.485712],[41.703722,27.488269],[41.70624,27.492454]]],"type":"Polygon"}
+}

@@ -30,10 +30,14 @@
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
-        "Biy\u0101r \u2018Al\u012b"
+        "\u0628\u064a\u0627\u0631 \u0639\u0644\u064a"
     ],
     "name:ara_x_variant":[
-        "\u0628\u064a\u0627\u0631 \u0639\u0644\u064a"
+        "Biy\u0101r \u2018Al\u012b",
+        "Biyar `Ali"
+    ],
+    "name:eng_x_preferred":[
+        "Biyar Ali"
     ],
     "name:und_x_variant":[
         "Biyar \u2019Ali"
@@ -63,8 +67,8 @@
         }
     ],
     "wof:id":1361026021,
-    "wof:lastmodified":1627685041,
-    "wof:name":"Biyar `Ali",
+    "wof:lastmodified":1660235444,
+    "wof:name":"Biyar Ali",
     "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

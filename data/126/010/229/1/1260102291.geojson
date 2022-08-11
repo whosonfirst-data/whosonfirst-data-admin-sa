@@ -31,7 +31,13 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0633\u0646\u0627\u0628\u064a\u0633"
+    ],
+    "name:ara_x_variant":[
         "\u0633\u0646\u0627\u0628\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Sanabis"
     ],
     "name:nno_x_preferred":[
         "Sanabis"
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1260102291,
-    "wof:lastmodified":1627685019,
+    "wof:lastmodified":1660235344,
     "wof:name":"Sanabis",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",

@@ -1,0 +1,62 @@
+{
+  "id": 1779992481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000189,
+    "geom:bbox":"43.930141,26.295302,43.945603,26.317572",
+    "geom:latitude":26.307986,
+    "geom:longitude":43.939136,
+    "iso:country":"SA",
+    "lbl:latitude":26.312414,
+    "lbl:longitude":43.938608,
+    "mps:latitude":26.312414,
+    "mps:longitude":43.938608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628 \u0627\u0644\u0628\u0631\u064a\u062f\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Khub Al Buraydi"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"098dc5484e77021ed6363c06a995cb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992481,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992481,
+    "wof:lastmodified":1660235571,
+    "wof:name":"Khub Al Buraydi",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.930141,
+    26.295302,
+    43.945603,
+    26.317572
+],
+  "geometry": {"coordinates":[[[43.945603,26.317572],[43.945118,26.316267],[43.943773,26.312933],[43.943334,26.311763],[43.943013,26.309891],[43.942967,26.309054],[43.94355,26.302276],[43.944018,26.299611],[43.945313,26.29715],[43.943864,26.296662],[43.943077,26.296373],[43.941019,26.295408],[43.940762,26.29581],[43.939391,26.295302],[43.937768,26.297551],[43.935777,26.298916],[43.935482,26.30158],[43.93618,26.302428],[43.937278,26.30597],[43.931128,26.314722],[43.930141,26.316631],[43.930743,26.316852],[43.931507,26.316986],[43.932863,26.317043],[43.934506,26.317091],[43.94123,26.317264],[43.945603,26.317572]]],"type":"Polygon"}
+}

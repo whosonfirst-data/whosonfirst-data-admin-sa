@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000851,
     "geom:area_square_m":0.0,
-    "geom:bbox":"41.72523,27.67816,41.72523,27.67816",
-    "geom:latitude":27.67816,
-    "geom:longitude":41.72523,
+    "geom:bbox":"41.709148,27.6493,41.745045,27.698891",
+    "geom:latitude":27.674781,
+    "geom:longitude":41.727854,
     "gn:admin1_code":"13",
     "gn:asciiname":"Al Jithamiyah",
     "gn:country_code":"SA",
@@ -23,13 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"41.72023,27.67316,41.73023,27.68316",
+    "lbl:latitude":27.675672,
+    "lbl:longitude":41.72935,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u062b\u0627\u0645\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jithamiyah"
     ],
     "name:und_x_variant":[
         "Judh\u0101m\u012byah",
@@ -39,28 +43,40 @@
         "Jadhamiyah",
         "Al Jith\u0101m\u012byah"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":27.675672,
+    "reversegeo:longitude":41.72935,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        1209300727,
-        85632253
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":109446
     },
     "wof:country":"SA",
-    "wof:geomhash":"a864498a97bb91e06fc83cf7cb709684",
+    "wof:geomhash":"4220acee0b0914e46b06c17b12cf5ece",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632253,
-            "locality_id":1209300727,
-            "neighbourhood_id":1361025937
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1361025937,
+            "region_id":85676831
         }
     ],
     "wof:id":1361025937,
-    "wof:lastmodified":1566638422,
+    "wof:lastmodified":1660235427,
     "wof:name":"Al Jithamiyah",
-    "wof:parent_id":85632253,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.72523,
-    27.67816,
-    41.72523,
-    27.67816
+    41.709148,
+    27.6493,
+    41.745045,
+    27.698891
 ],
-  "geometry": {"coordinates":[41.72523,27.67816],"type":"Point"}
+  "geometry": {"coordinates":[[[41.734537,27.649612],[41.726883,27.6493],[41.727022,27.65593],[41.727022,27.660609],[41.724214,27.660609],[41.722343,27.659673],[41.722249,27.665849],[41.721688,27.66744],[41.719816,27.669031],[41.714669,27.674085],[41.715137,27.689151],[41.71364,27.690649],[41.712423,27.690929],[41.709148,27.691023],[41.709241,27.693082],[41.70999,27.694953],[41.713509,27.698891],[41.745045,27.67898],[41.734537,27.649612]]],"type":"Polygon"}
 }

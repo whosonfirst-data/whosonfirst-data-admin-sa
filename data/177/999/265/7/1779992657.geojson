@@ -1,0 +1,62 @@
+{
+  "id": 1779992657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000219,
+    "geom:bbox":"41.689241,27.468134,41.70624,27.500492",
+    "geom:latitude":27.483905,
+    "geom:longitude":41.699131,
+    "iso:country":"SA",
+    "lbl:latitude":27.481892,
+    "lbl:longitude":41.698294,
+    "mps:latitude":27.481892,
+    "mps:longitude":41.698294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062d\u064a\u0631\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Albuhayrah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"5e1d327cf173545f0e4c61e298894e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992657,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1779992657,
+    "wof:lastmodified":1660235672,
+    "wof:name":"Albuhayrah",
+    "wof:parent_id":421190323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.689241,
+    27.468134,
+    41.70624,
+    27.500492
+],
+  "geometry": {"coordinates":[[[41.698465,27.500492],[41.704897,27.493842],[41.70624,27.492454],[41.703722,27.488269],[41.703179,27.485712],[41.702803,27.478569],[41.702581,27.475349],[41.701077,27.468134],[41.698449,27.470311],[41.697819,27.471451],[41.697609,27.472106],[41.696011,27.47491],[41.694884,27.476403],[41.694045,27.477189],[41.692997,27.477897],[41.692022,27.478183],[41.691174,27.478345],[41.690019,27.478452],[41.689241,27.478368],[41.691216,27.480368],[41.694435,27.484698],[41.696881,27.489744],[41.697713,27.492189],[41.698465,27.500492]]],"type":"Polygon"}
+}

@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.002613,
     "geom:area_square_m":0.0,
-    "geom:bbox":"41.65296,27.46666,41.65296,27.46666",
-    "geom:latitude":27.46666,
-    "geom:longitude":41.65296,
+    "geom:bbox":"41.61549,27.455759,41.691216,27.517287",
+    "geom:latitude":27.48644,
+    "geom:longitude":41.651827,
     "iso:country":"SA",
-    "lbl:bbox":"41.64796,27.46166,41.65796,27.47166",
+    "lbl:latitude":27.486469,
+    "lbl:longitude":41.651253,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -40,10 +41,17 @@
     "qs:qs_id":1018644,
     "qs:woe_adm0":23424938,
     "qs:woe_id":1938180,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":27.486469,
+    "reversegeo:longitude":41.651253,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191569,
         85632253,
+        421190323,
         1108720703,
         85676831
     ],
@@ -55,21 +63,21 @@
     },
     "wof:country":"SA",
     "wof:created":1459009434,
-    "wof:geomhash":"fa0f66d80144753f9a756cadb0ff7d80",
+    "wof:geomhash":"2e8b342d01475f52b4856436134e103c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720703,
-            "locality_id":-1,
+            "locality_id":421190323,
             "neighbourhood_id":421185149,
             "region_id":85676831
         }
     ],
     "wof:id":421185149,
-    "wof:lastmodified":1601423086,
+    "wof:lastmodified":1660235709,
     "wof:name":"An Naqrah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -77,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.65296,
-    27.46666,
-    41.65296,
-    27.46666
+    41.61549,
+    27.455759,
+    41.691216,
+    27.517287
 ],
-  "geometry": {"coordinates":[41.65296,27.46666],"type":"Point"}
+  "geometry": {"coordinates":[[[41.689241,27.478368],[41.68811,27.477934],[41.687023,27.477064],[41.648755,27.455759],[41.650167,27.457574],[41.61549,27.476282],[41.635202,27.509693],[41.635545,27.513846],[41.654341,27.516169],[41.657716,27.517287],[41.680245,27.49167],[41.691216,27.480368],[41.689241,27.478368]]],"type":"Polygon"}
 }

@@ -1,0 +1,62 @@
+{
+  "id": 1779992439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:bbox":"43.953221,26.326063,43.970501,26.338812",
+    "geom:latitude":26.332495,
+    "geom:longitude":43.96255,
+    "iso:country":"SA",
+    "lbl:latitude":26.331199,
+    "lbl:longitude":43.962551,
+    "mps:latitude":26.331199,
+    "mps:longitude":43.962551,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0645\u0627\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Ash Shammas"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"8152caf2d62b50ba78c809e69c5cb129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992439,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992439,
+    "wof:lastmodified":1660235546,
+    "wof:name":"Ash Shammas",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.953221,
+    26.326063,
+    43.970501,
+    26.338812
+],
+  "geometry": {"coordinates":[[[43.953221,26.338812],[43.95959,26.336335],[43.961315,26.334875],[43.962353,26.3356],[43.964109,26.333756],[43.967327,26.335726],[43.970501,26.331817],[43.967438,26.329656],[43.966499,26.328982],[43.964789,26.328428],[43.961064,26.326063],[43.961284,26.326759],[43.961417,26.327627],[43.959613,26.330267],[43.954334,26.337384],[43.953221,26.338812]]],"type":"Polygon"}
+}

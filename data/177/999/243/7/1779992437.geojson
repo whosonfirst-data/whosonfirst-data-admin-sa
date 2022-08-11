@@ -1,0 +1,62 @@
+{
+  "id": 1779992437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:bbox":"43.936256,26.331303,43.954334,26.344159",
+    "geom:latitude":26.337905,
+    "geom:longitude":43.944319,
+    "iso:country":"SA",
+    "lbl:latitude":26.337968,
+    "lbl:longitude":43.943703,
+    "mps:latitude":26.337968,
+    "mps:longitude":43.943703,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0628\u064a\u062d\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Subayhiyyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"445c58ae6d51da56fefded5a1e969836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992437,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992437,
+    "wof:lastmodified":1660235545,
+    "wof:name":"Al Subayhiyyah",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.936256,
+    26.331303,
+    43.954334,
+    26.344159
+],
+  "geometry": {"coordinates":[[[43.9449,26.344159],[43.945392,26.342527],[43.952602,26.339785],[43.953221,26.338812],[43.954334,26.337384],[43.953214,26.337032],[43.951769,26.336427],[43.95119,26.336088],[43.945886,26.333606],[43.944977,26.332838],[43.94456,26.332635],[43.942406,26.332046],[43.940502,26.331303],[43.939912,26.332213],[43.939694,26.33322],[43.939358,26.333891],[43.93867,26.33468],[43.938284,26.336124],[43.937512,26.337937],[43.936256,26.340787],[43.943756,26.343555],[43.9449,26.344159]]],"type":"Polygon"}
+}

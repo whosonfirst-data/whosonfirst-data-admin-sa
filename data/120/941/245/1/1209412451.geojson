@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0628\u064a\u0639\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "Ar Rabi`iyah"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rabiyah"
+    ],
     "name:und_x_variant":[
         "Ar Rab\u012b\u2018\u012byah"
     ],
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":1209412451,
-    "wof:lastmodified":1627685018,
-    "wof:name":"Ar Rabi`iyah",
+    "wof:lastmodified":1660235307,
+    "wof:name":"Ar Rabiyah",
     "wof:parent_id":1108720627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",

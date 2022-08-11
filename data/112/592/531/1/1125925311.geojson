@@ -4,24 +4,29 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000049,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.6,25.5,49.6,25.5",
-    "geom:latitude":25.5,
-    "geom:longitude":49.6,
+    "geom:bbox":"49.595478,25.497061,49.603998,25.507104",
+    "geom:latitude":25.502013,
+    "geom:longitude":49.60038,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":5359,
     "iso:country":"SA",
-    "lbl:bbox":"49.58,25.48,49.62,25.52",
-    "lbl:latitude":25.5,
-    "lbl:longitude":49.6,
+    "lbl:latitude":25.500843,
+    "lbl:longitude":49.599553,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u064a\u062c\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Julayjilah"
+    ],
     "name:und_x_variant":[
         "Julaijilah"
     ],
@@ -36,8 +41,13 @@
     "qs_pg:pop_sr":5,
     "qs_pg:qs_id":65308,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":25.500843,
+    "reversegeo:longitude":49.599553,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +62,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296620,
-    "wof:geomhash":"08a1acc724f916afc16d6578f6dbe0f8",
+    "wof:geomhash":"0f24acfe2c885cc8fccee176e878dcb6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +73,7 @@
         }
     ],
     "wof:id":1125925311,
-    "wof:lastmodified":1566638478,
+    "wof:lastmodified":1660235255,
     "wof:name":"Julayjilah",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",
@@ -75,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.6,
-    25.5,
-    49.6,
-    25.5
+    49.595478,
+    25.497061,
+    49.603998,
+    25.507104
 ],
-  "geometry": {"coordinates":[49.6,25.5],"type":"Point"}
+  "geometry": {"coordinates":[[[[49.600266,25.505688],[49.602329,25.505537],[49.602387,25.504354],[49.603697,25.50381],[49.603709,25.502592],[49.603998,25.497844],[49.602346,25.497691],[49.600998,25.497409],[49.600085,25.497257],[49.599476,25.49717],[49.59915,25.497061],[49.59928,25.499909],[49.598515,25.499787],[49.598306,25.500308],[49.598184,25.500358],[49.598136,25.500483],[49.598136,25.500744],[49.598167,25.501178],[49.598074,25.501514],[49.597425,25.50185],[49.597162,25.502492],[49.59702,25.503041],[49.59663,25.504034],[49.596294,25.504619],[49.596046,25.505239],[49.595904,25.505665],[49.595478,25.506001],[49.595957,25.506604],[49.596374,25.507104],[49.598256,25.505554],[49.600266,25.505688]]]],"type":"MultiPolygon"}
 }

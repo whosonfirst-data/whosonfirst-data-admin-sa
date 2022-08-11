@@ -4,26 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.004226,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.22228,25.86012,44.22228,25.86012",
-    "geom:latitude":25.86012,
-    "geom:longitude":44.22228,
+    "geom:bbox":"44.178093,25.816412,44.262786,25.912732",
+    "geom:latitude":25.862407,
+    "geom:longitude":44.218872,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":60870,
     "iso:country":"SA",
-    "lbl:bbox":"44.20228,25.84012,44.24228,25.88012",
-    "lbl:latitude":25.86012,
-    "lbl:longitude":44.22228,
+    "lbl:latitude":25.863456,
+    "lbl:longitude":44.207733,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0630\u0646\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mithnab"
     ],
     "name:und_x_variant":[
         "Midhnib"
@@ -39,8 +41,13 @@
     "qs_pg:pop_sr":8,
     "qs_pg:qs_id":66179,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":25.863456,
+    "reversegeo:longitude":44.207733,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +62,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296675,
-    "wof:geomhash":"b7d8091f584dc644d6aaef5a4b36b057",
+    "wof:geomhash":"2a7f86e1de89b99fdfd2485018f585e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":1125927029,
-    "wof:lastmodified":1566638478,
+    "wof:lastmodified":1660235273,
     "wof:name":"Al Mithnab",
     "wof:parent_id":1108720617,
     "wof:placetype":"locality",
@@ -78,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.22228,
-    25.86012,
-    44.22228,
-    25.86012
+    44.178093,
+    25.816412,
+    44.262786,
+    25.912732
 ],
-  "geometry": {"coordinates":[44.22228,25.86012],"type":"Point"}
+  "geometry": {"coordinates":[[[[44.203451,25.896896],[44.20776,25.896495],[44.21197,25.901206],[44.214075,25.902208],[44.216982,25.902509],[44.227606,25.912732],[44.241337,25.87675],[44.262786,25.848084],[44.252362,25.838863],[44.248654,25.835656],[44.24695,25.834854],[44.245246,25.834453],[44.241036,25.833752],[44.237729,25.833651],[44.233419,25.831647],[44.225301,25.826736],[44.206257,25.816412],[44.203451,25.821824],[44.196234,25.839264],[44.189419,25.8549],[44.18551,25.861916],[44.18561,25.874244],[44.184106,25.873643],[44.184507,25.877852],[44.178093,25.882162],[44.186712,25.889579],[44.193027,25.887174],[44.195733,25.890682],[44.203451,25.896896]]]],"type":"MultiPolygon"}
 }

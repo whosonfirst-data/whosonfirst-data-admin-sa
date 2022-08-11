@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.002604,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.03493,22.79856,39.03493,22.79856",
-    "geom:latitude":22.79856,
-    "geom:longitude":39.03493,
+    "geom:bbox":"39.003046,22.763106,39.071708,22.819454",
+    "geom:latitude":22.791854,
+    "geom:longitude":39.038785,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":41759,
     "iso:country":"SA",
-    "lbl:bbox":"39.01493,22.77856,39.05493,22.81856",
-    "lbl:latitude":22.79856,
-    "lbl:longitude":39.03493,
+    "lbl:latitude":22.799299,
+    "lbl:longitude":39.033141,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
@@ -23,10 +22,10 @@
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
-        "R\u0101bigh"
+        "\u0631\u0627\u0628\u063a"
     ],
     "name:ara_x_variant":[
-        "\u0631\u0627\u0628\u063a"
+        "R\u0101bigh"
     ],
     "name:cat_x_preferred":[
         "Rabigh"
@@ -99,8 +98,13 @@
     "qs_pg:pop_sr":7,
     "qs_pg:qs_id":65139,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":22.799299,
+    "reversegeo:longitude":39.033141,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -116,7 +120,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296611,
-    "wof:geomhash":"86be6e2e1d59072799eec901a570bb16",
+    "wof:geomhash":"8ce2cf379c9236cc9f5584325c17f519",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,8 +131,8 @@
         }
     ],
     "wof:id":1125925027,
-    "wof:lastmodified":1566638475,
-    "wof:name":"R\u0101bigh",
+    "wof:lastmodified":1660235249,
+    "wof:name":"Rabigh",
     "wof:parent_id":1108720739,
     "wof:placetype":"locality",
     "wof:population":41759,
@@ -139,10 +143,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.03493,
-    22.79856,
-    39.03493,
-    22.79856
+    39.003046,
+    22.763106,
+    39.071708,
+    22.819454
 ],
-  "geometry": {"coordinates":[39.03493,22.79856],"type":"Point"}
+  "geometry": {"coordinates":[[[[39.035214,22.811454],[39.045633,22.813407],[39.0474,22.814989],[39.051587,22.816942],[39.061541,22.819454],[39.065262,22.813872],[39.066019,22.812008],[39.066119,22.810311],[39.066718,22.807716],[39.067217,22.804323],[39.071708,22.778375],[39.06572,22.775681],[39.062227,22.773385],[39.038774,22.766799],[39.038175,22.764304],[39.032786,22.763106],[39.031888,22.766799],[39.030491,22.769493],[39.027796,22.772387],[39.025601,22.773485],[39.021609,22.775182],[39.016419,22.776878],[39.013226,22.777078],[39.010032,22.77628],[39.007936,22.774284],[39.004842,22.772487],[39.003046,22.789453],[39.012128,22.810411],[39.022707,22.809712],[39.025202,22.810511],[39.026998,22.812507],[39.028196,22.815101],[39.029892,22.814602],[39.032187,22.814503],[39.0314,22.810151],[39.035214,22.811454]]]],"type":"MultiPolygon"}
 }

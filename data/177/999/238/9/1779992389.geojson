@@ -1,0 +1,62 @@
+{
+  "id": 1779992389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000236,
+    "geom:bbox":"43.95757,26.333756,43.978624,26.359272",
+    "geom:latitude":26.346874,
+    "geom:longitude":43.967102,
+    "iso:country":"SA",
+    "lbl:latitude":26.347536,
+    "lbl:longitude":43.966942,
+    "mps:latitude":26.347536,
+    "mps:longitude":43.966942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u064a\u0647\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "An Naziyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"25639b3b8d0ac98551550918f7db70cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992389,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992389,
+    "wof:lastmodified":1660235517,
+    "wof:name":"An Naziyah",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95757,
+    26.333756,
+    43.978624,
+    26.359272
+],
+  "geometry": {"coordinates":[[[43.968642,26.359272],[43.974421,26.348371],[43.978624,26.345612],[43.976719,26.344921],[43.973829,26.344592],[43.96956,26.337499],[43.967327,26.335726],[43.964109,26.333756],[43.962353,26.3356],[43.965561,26.337838],[43.962027,26.342691],[43.959147,26.345402],[43.95757,26.348814],[43.968642,26.359272]]],"type":"Polygon"}
+}

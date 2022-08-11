@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001348,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.86848,26.28633,43.86848,26.28633",
-    "geom:latitude":26.28633,
-    "geom:longitude":43.86848,
+    "geom:bbox":"43.83297,26.268564,43.887489,26.306683",
+    "geom:latitude":26.287677,
+    "geom:longitude":43.859235,
     "gn:admin1_code":"8",
     "gn:asciiname":"Al Busur",
     "gn:country_code":"SA",
@@ -23,13 +23,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"43.86348,26.28133,43.87348,26.29133",
+    "lbl:latitude":26.288396,
+    "lbl:longitude":43.858715,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0635\u0631"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0628\u064f\u0635\u064f\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Busur"
     ],
     "name:und_x_variant":[
         "Busar",
@@ -38,34 +45,40 @@
         "Al Bu\u015fur",
         "Ilbaras"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":26.288396,
+    "reversegeo:longitude":43.858715,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85676827,
         102191569,
         85632253,
-        1293704975,
-        1108720687
+        421204205,
+        1108720687,
+        85676827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":109923
     },
     "wof:country":"SA",
-    "wof:geomhash":"7ec34a4fd64062c939ab2e342df231f2",
+    "wof:geomhash":"07b2ac303eb3b39b20961df619cb3db7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720687,
-            "locality_id":1293704975,
+            "locality_id":421204205,
             "neighbourhood_id":1361026003,
             "region_id":85676827
         }
     ],
     "wof:id":1361026003,
-    "wof:lastmodified":1566638437,
+    "wof:lastmodified":1660235438,
     "wof:name":"Al Busur",
-    "wof:parent_id":1108720687,
+    "wof:parent_id":421204205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -75,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.86848,
-    26.28633,
-    43.86848,
-    26.28633
+    43.83297,
+    26.268564,
+    43.887489,
+    26.306683
 ],
-  "geometry": {"coordinates":[43.86848,26.28633],"type":"Point"}
+  "geometry": {"coordinates":[[[43.85853,26.303876],[43.863702,26.304171],[43.880988,26.299],[43.880545,26.297375],[43.879363,26.295158],[43.879806,26.292203],[43.881431,26.290431],[43.88133,26.287484],[43.881284,26.286146],[43.887489,26.27669],[43.873601,26.271223],[43.872271,26.272257],[43.87035,26.272553],[43.867839,26.275803],[43.866804,26.274769],[43.866509,26.272553],[43.863258,26.27211],[43.856314,26.268564],[43.854098,26.27078],[43.853211,26.272257],[43.851143,26.27536],[43.845972,26.272996],[43.84479,26.275951],[43.841983,26.274621],[43.838437,26.277576],[43.839471,26.278167],[43.83297,26.296636],[43.836811,26.297966],[43.83297,26.303137],[43.837402,26.306683],[43.842721,26.299739],[43.85853,26.303876]]],"type":"Polygon"}
 }

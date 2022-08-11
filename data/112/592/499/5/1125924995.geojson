@@ -4,26 +4,31 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.001818,
     "geom:area_square_m":0.0,
-    "geom:bbox":"42.62537,17.1495,42.62537,17.1495",
-    "geom:latitude":17.1495,
-    "geom:longitude":42.62537,
+    "geom:bbox":"42.608804,17.141098,42.676073,17.176763",
+    "geom:latitude":17.16059,
+    "geom:longitude":42.640793,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":54108,
     "iso:country":"SA",
-    "lbl:bbox":"42.60537,17.1295,42.64537,17.1695",
-    "lbl:latitude":17.1495,
-    "lbl:longitude":42.62537,
+    "lbl:latitude":17.161953,
+    "lbl:longitude":42.646249,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0635\u0628\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u015eaby\u0101"
+    ],
+    "name:eng_x_preferred":[
+        "Sabya"
     ],
     "name:und_x_variant":[
         "Al-Sabya"
@@ -39,8 +44,13 @@
     "qs_pg:pop_sr":8,
     "qs_pg:qs_id":65072,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":17.161953,
+    "reversegeo:longitude":42.646249,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +65,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296610,
-    "wof:geomhash":"79bf471ae9d723f70885b9e07a9fca5b",
+    "wof:geomhash":"e3991b698b625810e2c618a84cc73a53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,8 +76,8 @@
         }
     ],
     "wof:id":1125924995,
-    "wof:lastmodified":1566638477,
-    "wof:name":"\u015eaby\u0101",
+    "wof:lastmodified":1660235247,
+    "wof:name":"Sabya",
     "wof:parent_id":1108720753,
     "wof:placetype":"locality",
     "wof:population":54108,
@@ -78,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.62537,
-    17.1495,
-    42.62537,
-    17.1495
+    42.608804,
+    17.141098,
+    42.676073,
+    17.176763
 ],
-  "geometry": {"coordinates":[42.62537,17.1495],"type":"Point"}
+  "geometry": {"coordinates":[[[[42.665303,17.153722],[42.652679,17.149573],[42.648177,17.142864],[42.645352,17.141098],[42.640585,17.142952],[42.639084,17.14357],[42.634847,17.143394],[42.630168,17.143394],[42.624694,17.143217],[42.619526,17.143137],[42.618427,17.143041],[42.617279,17.142776],[42.615249,17.142069],[42.61313,17.146219],[42.6126,17.148955],[42.611894,17.153987],[42.611011,17.157077],[42.610128,17.158666],[42.608804,17.160432],[42.609334,17.161668],[42.613042,17.17332],[42.61569,17.17438],[42.620369,17.175351],[42.623635,17.175439],[42.641909,17.175174],[42.645175,17.175704],[42.653474,17.176322],[42.659565,17.176763],[42.668216,17.175086],[42.672719,17.171555],[42.674308,17.167494],[42.676073,17.164051],[42.675543,17.161314],[42.675897,17.153104],[42.670158,17.153899],[42.665303,17.153722]]]],"type":"MultiPolygon"}
 }

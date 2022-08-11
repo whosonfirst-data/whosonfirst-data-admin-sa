@@ -47,8 +47,7 @@
         "Dariya",
         "Deraya",
         "Dhahara",
-        "Dhar\u012byah",
-        "Ad Diriyah"
+        "Dhar\u012byah"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -112,8 +111,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627685076,
-    "wof:name":"\u0627\u0644\u062f\u0631\u0639\u064a\u0629",
+    "wof:lastmodified":1660235746,
+    "wof:name":"Ad Diriyah",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

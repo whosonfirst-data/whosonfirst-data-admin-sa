@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.013563,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.4973,25.86944,43.4973,25.86944",
-    "geom:latitude":25.86944,
-    "geom:longitude":43.4973,
+    "geom:bbox":"43.417858,25.812791,43.591334,25.917119",
+    "geom:latitude":25.866344,
+    "geom:longitude":43.500853,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":81728,
     "iso:country":"SA",
-    "lbl:bbox":"43.4773,25.84944,43.5173,25.88944",
-    "lbl:latitude":25.86944,
-    "lbl:longitude":43.4973,
+    "lbl:latitude":25.869279,
+    "lbl:longitude":43.498446,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
@@ -23,6 +22,9 @@
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u0633"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u0631\u0633"
     ],
     "name:arz_x_preferred":[
@@ -153,8 +155,13 @@
     "qs_pg:pop_sr":8,
     "qs_pg:qs_id":65836,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":25.869279,
+    "reversegeo:longitude":43.498446,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -170,7 +177,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296657,
-    "wof:geomhash":"4f1094dc249dca4fe1e332fa862043ce",
+    "wof:geomhash":"7f45013ef6b8636877c86828041f10e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -181,7 +188,7 @@
         }
     ],
     "wof:id":1125926447,
-    "wof:lastmodified":1566638476,
+    "wof:lastmodified":1660235265,
     "wof:name":"Ar Rass",
     "wof:parent_id":1108720653,
     "wof:placetype":"locality",
@@ -193,10 +200,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.4973,
-    25.86944,
-    43.4973,
-    25.86944
+    43.417858,
+    25.812791,
+    43.591334,
+    25.917119
 ],
-  "geometry": {"coordinates":[43.4973,25.86944],"type":"Point"}
+  "geometry": {"coordinates":[[[[43.489883,25.917119],[43.538992,25.915104],[43.570153,25.904071],[43.580574,25.896917],[43.591334,25.875616],[43.588826,25.865854],[43.584116,25.860673],[43.571871,25.849213],[43.558841,25.837438],[43.546753,25.829589],[43.528569,25.822188],[43.519188,25.820384],[43.513776,25.819211],[43.50683,25.817948],[43.497538,25.816144],[43.485902,25.813889],[43.458785,25.812791],[43.45422,25.814503],[43.439711,25.822981],[43.429603,25.831132],[43.422699,25.846304],[43.417858,25.849705],[43.420298,25.864305],[43.420699,25.877239],[43.425105,25.890768],[43.465729,25.908116],[43.489883,25.917119]]]],"type":"MultiPolygon"}
 }

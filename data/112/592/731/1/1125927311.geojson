@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000697,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.69806,21.61694,39.69806,21.61694",
-    "geom:latitude":21.61694,
-    "geom:longitude":39.69806,
+    "geom:bbox":"39.68286,21.596043,39.711828,21.633433",
+    "geom:latitude":21.616486,
+    "geom:longitude":39.696609,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":22207,
     "iso:country":"SA",
-    "lbl:bbox":"39.67806,21.59694,39.71806,21.63694",
-    "lbl:latitude":21.61694,
-    "lbl:longitude":39.69806,
+    "lbl:latitude":21.613894,
+    "lbl:longitude":39.696577,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
@@ -23,10 +22,10 @@
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
-        "Al Jum\u016bm"
+        "\u0627\u0644\u062c\u0645\u0648\u0645"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u062c\u0645\u0648\u0645"
+        "Al Jum\u016bm"
     ],
     "name:ceb_x_preferred":[
         "Al Jum\u016bm"
@@ -35,6 +34,9 @@
         "\u0391\u03bb \u03a4\u03b6\u03bf\u03c5\u03bc\u03bf\u03cd\u03bc"
     ],
     "name:eng_x_preferred":[
+        "Al Jum\u016bm"
+    ],
+    "name:eng_x_variant":[
         "Al Jumum"
     ],
     "name:fas_x_preferred":[
@@ -69,8 +71,13 @@
     "qs_pg:pop_sr":7,
     "qs_pg:qs_id":66286,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":21.613894,
+    "reversegeo:longitude":39.696577,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -86,7 +93,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296684,
-    "wof:geomhash":"da2f1c71d35ab4d296cbbbf2823d6542",
+    "wof:geomhash":"cade534b0702c2f386876bdf44c416f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +104,7 @@
         }
     ],
     "wof:id":1125927311,
-    "wof:lastmodified":1566638476,
+    "wof:lastmodified":1660235277,
     "wof:name":"Al Jum\u016bm",
     "wof:parent_id":1108720587,
     "wof:placetype":"locality",
@@ -109,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.69806,
-    21.61694,
-    39.69806,
-    21.61694
+    39.68286,
+    21.596043,
+    39.711828,
+    21.633433
 ],
-  "geometry": {"coordinates":[39.69806,21.61694],"type":"Point"}
+  "geometry": {"coordinates":[[[[39.68286,21.632162],[39.683202,21.633433],[39.697327,21.631087],[39.702801,21.629425],[39.706173,21.627519],[39.709049,21.626216],[39.711828,21.623693],[39.708898,21.610835],[39.707277,21.606944],[39.704399,21.603093],[39.702088,21.604187],[39.700426,21.603377],[39.698562,21.602444],[39.697669,21.601811],[39.69547,21.598536],[39.692537,21.596043],[39.689654,21.59663],[39.687601,21.597363],[39.687894,21.600784],[39.688187,21.604059],[39.688138,21.605916],[39.687894,21.607676],[39.687014,21.608311],[39.68677,21.609533],[39.686477,21.611683],[39.686574,21.612612],[39.686526,21.613932],[39.686379,21.615838],[39.685744,21.615887],[39.68545,21.617548],[39.685108,21.618575],[39.684717,21.62009],[39.684962,21.621214],[39.684913,21.627128],[39.683495,21.630549],[39.68286,21.632162]]]],"type":"MultiPolygon"}
 }

@@ -1,0 +1,62 @@
+{
+  "id": 1779992463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000165,
+    "geom:bbox":"43.942967,26.302276,43.960639,26.317747",
+    "geom:latitude":26.31172,
+    "geom:longitude":43.950574,
+    "iso:country":"SA",
+    "lbl:latitude":26.312267,
+    "lbl:longitude":43.950405,
+    "mps:latitude":26.312267,
+    "mps:longitude":43.950405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0633\u0637"
+    ],
+    "name:eng_x_preferred":[
+        "Wasit"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"31c7cbd720cdbc2f5c34c623199d3691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992463,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992463,
+    "wof:lastmodified":1660235561,
+    "wof:name":"Wasit",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.942967,
+    26.302276,
+    43.960639,
+    26.317747
+],
+  "geometry": {"coordinates":[[[43.956489,26.317747],[43.959532,26.31332],[43.960639,26.311135],[43.959896,26.310125],[43.95644,26.308829],[43.950067,26.306777],[43.947484,26.305672],[43.94355,26.302276],[43.942967,26.309054],[43.943013,26.309891],[43.943334,26.311763],[43.943773,26.312933],[43.945118,26.316267],[43.945603,26.317572],[43.956489,26.317747]]],"type":"Polygon"}
+}

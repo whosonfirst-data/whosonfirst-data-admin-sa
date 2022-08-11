@@ -1,0 +1,62 @@
+{
+  "id": 1779992619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000776,
+    "geom:bbox":"45.913961,28.212082,45.95549,28.249347",
+    "geom:latitude":28.231859,
+    "geom:longitude":45.93615,
+    "iso:country":"SA",
+    "lbl:latitude":28.231675,
+    "lbl:longitude":45.93615,
+    "mps:latitude":28.231675,
+    "mps:longitude":45.93615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u0629 \u062d\u0641\u0631 \u0627\u0644\u0628\u0637\u064a\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "University of Hafr Al Batin"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421203499,
+        1108720699,
+        85676819
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"d11df0c5738d10df22b022df4420ed86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720699,
+            "locality_id":421203499,
+            "neighbourhood_id":1779992619,
+            "region_id":85676819
+        }
+    ],
+    "wof:id":1779992619,
+    "wof:lastmodified":1660235649,
+    "wof:name":"University of Hafr Al Batin",
+    "wof:parent_id":421203499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.913961,
+    28.212082,
+    45.95549,
+    28.249347
+],
+  "geometry": {"coordinates":[[[45.95549,28.242592],[45.939322,28.212082],[45.913961,28.22843],[45.924268,28.236533],[45.9287,28.24091],[45.93579,28.249347],[45.95549,28.242592]]],"type":"Polygon"}
+}

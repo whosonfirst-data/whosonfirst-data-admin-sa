@@ -32,9 +32,6 @@
     "name:eng_x_preferred":[
         "Al Nada"
     ],
-    "name:eng_x_variant":[
-        "Al Nada"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":293,
@@ -94,8 +91,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627685099,
-    "wof:name":"\u0627\u0644\u0646\u062f\u0649",
+    "wof:lastmodified":1660235766,
+    "wof:name":"Al Nada",
     "wof:parent_id":1125927181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

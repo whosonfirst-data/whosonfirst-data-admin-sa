@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0631\u0648\u0629"
     ],
+    "name:ara_x_variant":[
+        "`Urwah"
+    ],
+    "name:eng_x_preferred":[
+        "Urwah"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0631\u0648\u0647"
     ],
@@ -74,8 +80,8 @@
         }
     ],
     "wof:id":1361026049,
-    "wof:lastmodified":1627685045,
-    "wof:name":"`Urwah",
+    "wof:lastmodified":1660235454,
+    "wof:name":"Urwah",
     "wof:parent_id":421166941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

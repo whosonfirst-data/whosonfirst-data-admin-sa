@@ -4,26 +4,31 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.002967,
     "geom:area_square_m":0.0,
-    "geom:bbox":"42.1201,19.14547,42.1201,19.14547",
-    "geom:latitude":19.14547,
-    "geom:longitude":42.1201,
+    "geom:bbox":"42.104406,19.092895,42.181952,19.168741",
+    "geom:latitude":19.128578,
+    "geom:longitude":42.138304,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":24153,
     "iso:country":"SA",
-    "lbl:bbox":"42.1001,19.12547,42.1401,19.16547",
-    "lbl:latitude":19.14547,
-    "lbl:longitude":42.1201,
+    "lbl:latitude":19.11588,
+    "lbl:longitude":42.144284,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0645\u0627\u0634"
+    ],
+    "name:ara_x_variant":[
         "An Nim\u0101\u015f"
+    ],
+    "name:eng_x_preferred":[
+        "An Nimas"
     ],
     "name:und_x_variant":[
         "Num\u0101s"
@@ -39,8 +44,13 @@
     "qs_pg:pop_sr":7,
     "qs_pg:qs_id":65866,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":19.11588,
+    "reversegeo:longitude":42.144284,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +65,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296659,
-    "wof:geomhash":"ca942a297047f85731a03b51a15cd3ac",
+    "wof:geomhash":"7cae8d54c5035787581984cd11372122",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,8 +76,8 @@
         }
     ],
     "wof:id":1125926527,
-    "wof:lastmodified":1566638479,
-    "wof:name":"An Nim\u0101\u015f",
+    "wof:lastmodified":1660235266,
+    "wof:name":"An Nimas",
     "wof:parent_id":1108720649,
     "wof:placetype":"locality",
     "wof:population":24153,
@@ -78,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.1201,
-    19.14547,
-    42.1201,
-    19.14547
+    42.104406,
+    19.092895,
+    42.181952,
+    19.168741
 ],
-  "geometry": {"coordinates":[42.1201,19.14547],"type":"Point"}
+  "geometry": {"coordinates":[[[[42.119671,19.164619],[42.139363,19.168741],[42.153406,19.159582],[42.145621,19.147523],[42.151269,19.135005],[42.151117,19.128747],[42.153864,19.126152],[42.165924,19.115619],[42.181952,19.103407],[42.15997,19.094554],[42.141958,19.093638],[42.130537,19.092895],[42.120615,19.11106],[42.122572,19.107529],[42.120129,19.115161],[42.117839,19.125694],[42.118908,19.133784],[42.116008,19.141875],[42.11036,19.144317],[42.104406,19.153476],[42.110207,19.163398],[42.119671,19.164619]]]],"type":"MultiPolygon"}
 }

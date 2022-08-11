@@ -1,0 +1,62 @@
+{
+  "id": 1779992395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:bbox":"43.970501,26.327074,43.984523,26.337862",
+    "geom:latitude":26.332781,
+    "geom:longitude":43.977411,
+    "iso:country":"SA",
+    "lbl:latitude":26.332803,
+    "lbl:longitude":43.977411,
+    "mps:latitude":26.332803,
+    "mps:longitude":43.977411,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0644\u062f\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Khaldiyyah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"84c896566252844de5a72f85737915cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992395,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992395,
+    "wof:lastmodified":1660235521,
+    "wof:name":"Al Khaldiyyah",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.970501,
+    26.327074,
+    43.984523,
+    26.337862
+],
+  "geometry": {"coordinates":[[[43.982229,26.337862],[43.98266,26.336676],[43.984523,26.334056],[43.97885,26.330649],[43.975767,26.328797],[43.974539,26.327074],[43.971345,26.33041],[43.970501,26.331817],[43.973587,26.3337],[43.975246,26.334904],[43.982229,26.337862]]],"type":"Polygon"}
+}

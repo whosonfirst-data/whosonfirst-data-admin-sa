@@ -1,0 +1,59 @@
+{
+  "id": 1779992695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000503,
+    "geom:bbox":"41.08607,19.100923,41.110851,19.133939",
+    "geom:latitude":19.114728,
+    "geom:longitude":41.099101,
+    "iso:country":"SA",
+    "lbl:latitude":19.113563,
+    "lbl:longitude":41.099337,
+    "mps:latitude":19.113563,
+    "mps:longitude":41.099337,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "\u0645\u062e\u0637\u0637 \u0627\u0644\u0628\u0631\u062c"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190281,
+        1108720633,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"ace5b8f514e8117120065f9069836fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720633,
+            "locality_id":421190281,
+            "neighbourhood_id":1779992695,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":1779992695,
+    "wof:lastmodified":1660235800,
+    "wof:name":"\u0645\u062e\u0637\u0637 \u0627\u0644\u0628\u0631\u062c",
+    "wof:parent_id":421190281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.08607,
+    19.100923,
+    41.110851,
+    19.133939
+],
+  "geometry": {"coordinates":[[[41.090233,19.133939],[41.093132,19.126864],[41.095397,19.123832],[41.098623,19.123674],[41.104357,19.123447],[41.108646,19.124228],[41.110851,19.124844],[41.110247,19.100923],[41.099167,19.102083],[41.0975,19.103777],[41.091667,19.106251],[41.091221,19.108305],[41.086295,19.112755],[41.08607,19.11753],[41.08794,19.12414],[41.089771,19.131346],[41.089632,19.131864],[41.088258,19.132819],[41.090233,19.133939]]],"type":"Polygon"}
+}

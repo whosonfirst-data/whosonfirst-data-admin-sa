@@ -4,26 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.005719,
     "geom:area_square_m":0.0,
-    "geom:bbox":"41.03808,30.97531,41.03808,30.97531",
-    "geom:latitude":30.97531,
-    "geom:longitude":41.03808,
+    "geom:bbox":"40.974465,30.93926,41.116985,31.043435",
+    "geom:latitude":30.989831,
+    "geom:longitude":41.041742,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":148540,
     "iso:country":"SA",
-    "lbl:bbox":"41.01808,30.95531,41.05808,30.99531",
-    "lbl:latitude":30.97531,
-    "lbl:longitude":41.03808,
+    "lbl:latitude":30.973599,
+    "lbl:longitude":41.024821,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0639\u0631\u0639\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Ar\u2018ar"
     ],
     "name:eng_x_preferred":[
         "Arar"
@@ -48,14 +50,19 @@
     "qs_pg:pop_sr":10,
     "qs_pg:qs_id":65837,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":30.973599,
+    "reversegeo:longitude":41.024821,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
         85632253,
-        1108720651,
-        85676837
+        85676837,
+        1108720651
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -67,7 +74,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296652,
-    "wof:geomhash":"dbbae6313525fa9e71951bbd1ab46050",
+    "wof:geomhash":"0a2b91d1e657f1e93390a76f86bc4fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,8 +85,8 @@
         }
     ],
     "wof:id":1125926431,
-    "wof:lastmodified":1607462741,
-    "wof:name":"\u2018Ar\u2018ar",
+    "wof:lastmodified":1660235263,
+    "wof:name":"Arar",
     "wof:parent_id":1108720651,
     "wof:placetype":"locality",
     "wof:population":148540,
@@ -90,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.03808,
-    30.97531,
-    41.03808,
-    30.97531
+    40.974465,
+    30.93926,
+    41.116985,
+    31.043435
 ],
-  "geometry": {"coordinates":[41.03808,30.97531],"type":"Point"}
+  "geometry": {"coordinates":[[[[40.989828,30.99111],[40.993836,30.998235],[41.009622,30.995702],[41.011699,30.997176],[41.012985,30.998012],[41.027903,30.99868],[41.033692,31.006251],[41.040149,31.01204],[41.043489,31.018274],[41.047274,31.028962],[41.052395,31.029184],[41.061079,31.025845],[41.062637,31.018942],[41.072212,31.01961],[41.088243,31.01872],[41.088911,31.024509],[41.086017,31.029184],[41.087798,31.043435],[41.108282,31.042099],[41.106724,31.026067],[41.111845,31.027626],[41.116985,31.027258],[41.11646,31.016756],[41.108584,31.013431],[41.101233,31.014131],[41.037874,30.950421],[41.021827,30.962477],[41.018406,30.963454],[41.01922,30.948709],[41.014984,30.93983],[40.998529,30.93926],[40.995759,30.942437],[40.993031,30.944727],[40.995023,30.95016],[40.993234,30.956123],[40.988322,30.960482],[40.991039,30.969355],[40.983976,30.968993],[40.981145,30.96929],[40.974465,30.974633],[40.976914,30.981313],[40.979809,30.985321],[40.984262,30.988438],[40.989828,30.99111]]]],"type":"MultiPolygon"}
 }

@@ -1,0 +1,62 @@
+{
+  "id": 1779992623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000256,
+    "geom:bbox":"41.635545,27.513846,41.659172,27.530417",
+    "geom:latitude":27.521851,
+    "geom:longitude":41.648177,
+    "iso:country":"SA",
+    "lbl:latitude":27.521681,
+    "lbl:longitude":41.648177,
+    "mps:latitude":27.521681,
+    "mps:longitude":41.648177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u0627\u0628\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Sababah"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421190323,
+        1108720703,
+        85676831
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"d3f856452f6949f725484b25d88cbd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720703,
+            "locality_id":421190323,
+            "neighbourhood_id":1779992623,
+            "region_id":85676831
+        }
+    ],
+    "wof:id":1779992623,
+    "wof:lastmodified":1660235652,
+    "wof:name":"Sababah",
+    "wof:parent_id":421190323,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.635545,
+    27.513846,
+    41.659172,
+    27.530417
+],
+  "geometry": {"coordinates":[[[41.659172,27.529425],[41.658067,27.524516],[41.657014,27.519674],[41.657716,27.517287],[41.654341,27.516169],[41.635545,27.513846],[41.636715,27.515406],[41.638241,27.5192],[41.638379,27.520965],[41.637298,27.524882],[41.642165,27.525409],[41.641868,27.527194],[41.648859,27.528037],[41.652925,27.530417],[41.659172,27.529425]]],"type":"Polygon"}
+}

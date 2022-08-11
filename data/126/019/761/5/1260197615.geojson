@@ -26,11 +26,17 @@
     "lbl:bbox":"44.14796,26.84439,44.18796,26.88439",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0646\u0648\u0645\u0629"
+    ],
+    "name:ara_x_variant":[
         "\u0627\u0644\u062a\u0651\u064e\u0646\u0651\u064f\u0648\u0645\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "At Tannumah"
     ],
     "name:und_x_variant":[
         "At Tann\u016bmah"
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1260197615,
-    "wof:lastmodified":1566638356,
+    "wof:lastmodified":1660235348,
     "wof:name":"At Tannumah",
     "wof:parent_id":1108720563,
     "wof:placetype":"locality",

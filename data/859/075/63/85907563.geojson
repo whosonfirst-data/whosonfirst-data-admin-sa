@@ -33,8 +33,7 @@
         "Quwaizah District"
     ],
     "name:eng_x_variant":[
-        "Quwaizah",
-        "Quwaizah District"
+        "Quwaizah"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -96,8 +95,8 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627685092,
-    "wof:name":"\u0642\u0648\u064a\u0632\u0629",
+    "wof:lastmodified":1660235758,
+    "wof:name":"Quwaizah District",
     "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

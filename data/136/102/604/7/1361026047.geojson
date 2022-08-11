@@ -29,6 +29,15 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":15.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "Al Madinah as Sina`iyah"
+    ],
+    "name:eng_x_preferred":[
+        "Al Madinah as Sinaiyah"
+    ],
     "name:und_x_variant":[
         "Industrial Ciy",
         "Al Mad\u012bnah a\u015f \u015ein\u0101\u2018\u012byah"
@@ -58,8 +67,8 @@
         }
     ],
     "wof:id":1361026047,
-    "wof:lastmodified":1627685044,
-    "wof:name":"Al Madinah as Sina`iyah",
+    "wof:lastmodified":1660235452,
+    "wof:name":"Al Madinah as Sinaiyah",
     "wof:parent_id":421204501,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",

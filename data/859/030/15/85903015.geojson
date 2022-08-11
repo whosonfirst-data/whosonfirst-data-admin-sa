@@ -31,6 +31,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
         "Al Kur\u0101\u2018"
     ],
     "name:ell_x_preferred":[
@@ -147,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1627685080,
+    "wof:lastmodified":1660235718,
     "wof:name":"Al Kura",
     "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",

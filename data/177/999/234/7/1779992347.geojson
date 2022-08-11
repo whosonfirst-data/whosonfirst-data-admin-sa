@@ -1,0 +1,62 @@
+{
+  "id": 1779992347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000391,
+    "geom:bbox":"43.903791,26.367754,43.931645,26.393082",
+    "geom:latitude":26.380838,
+    "geom:longitude":43.919532,
+    "iso:country":"SA",
+    "lbl:latitude":26.381412,
+    "lbl:longitude":43.919743,
+    "mps:latitude":26.381412,
+    "mps:longitude":43.919743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0636\u0629/\u0627\u0644\u0628\u0634\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rawdah/Al Bishr"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"48b7966aaabc331bca8febac404eb596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992347,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992347,
+    "wof:lastmodified":1660235224,
+    "wof:name":"Al Rawdah/Al Bishr",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.903791,
+    26.367754,
+    43.931645,
+    26.393082
+],
+  "geometry": {"coordinates":[[[43.903791,26.379908],[43.908466,26.387982],[43.921639,26.390957],[43.92642,26.393082],[43.931645,26.369639],[43.92984,26.368735],[43.929256,26.367754],[43.903791,26.379908]]],"type":"Polygon"}
+}

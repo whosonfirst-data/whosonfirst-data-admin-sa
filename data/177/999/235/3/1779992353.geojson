@@ -1,0 +1,62 @@
+{
+  "id": 1779992353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000898,
+    "geom:bbox":"43.946227,26.386469,43.980545,26.42627",
+    "geom:latitude":26.409643,
+    "geom:longitude":43.965303,
+    "iso:country":"SA",
+    "lbl:latitude":26.410566,
+    "lbl:longitude":43.965303,
+    "mps:latitude":26.410566,
+    "mps:longitude":43.965303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0631\u0648\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Al Worod"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        421204205,
+        1108720687,
+        85676827
+    ],
+    "wof:breaches":[],
+    "wof:country":"SA",
+    "wof:geomhash":"81bd0f17072ec137521cd1fba124ca6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720687,
+            "locality_id":421204205,
+            "neighbourhood_id":1779992353,
+            "region_id":85676827
+        }
+    ],
+    "wof:id":1779992353,
+    "wof:lastmodified":1660235495,
+    "wof:name":"Al Worod",
+    "wof:parent_id":421204205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.946227,
+    26.386469,
+    43.980545,
+    26.42627
+],
+  "geometry": {"coordinates":[[[43.946227,26.425173],[43.951536,26.42627],[43.97615,26.42627],[43.978269,26.420377],[43.978504,26.417709],[43.978504,26.415276],[43.977248,26.407821],[43.977248,26.403661],[43.97819,26.40013],[43.980545,26.394087],[43.96412,26.386469],[43.958294,26.396764],[43.954942,26.403946],[43.946227,26.425173]]],"type":"Polygon"}
+}

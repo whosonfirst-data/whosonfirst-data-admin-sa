@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000343,
     "geom:area_square_m":0.0,
-    "geom:bbox":"41.6876,27.47218,41.6876,27.47218",
-    "geom:latitude":27.47218,
-    "geom:longitude":41.6876,
+    "geom:bbox":"41.668597,27.457466,41.701077,27.478452",
+    "geom:latitude":27.468439,
+    "geom:longitude":41.687685,
     "gn:admin1_code":"13",
     "gn:asciiname":"Sidis",
     "gn:country_code":"SA",
@@ -23,18 +23,23 @@
     "gn:population":0,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
-    "lbl:bbox":"41.6826,27.46718,41.6926,27.47718",
+    "lbl:latitude":27.469975,
+    "lbl:longitude":41.690146,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
-        "Sid\u012bs"
+        "\u0633\u064a\u062f\u064a\u0633"
     ],
     "name:ara_x_variant":[
-        "\u0633\u062f\u064a\u0633"
+        "\u0633\u062f\u064a\u0633",
+        "Sid\u012bs"
     ],
     "name:deu_x_preferred":[
+        "Sidis"
+    ],
+    "name:eng_x_preferred":[
         "Sidis"
     ],
     "name:fra_x_preferred":[
@@ -46,34 +51,40 @@
     "name:por_x_preferred":[
         "Sidis"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":27.469975,
+    "reversegeo:longitude":41.690146,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85676831,
         102191569,
         85632253,
-        1293087351,
-        1108720703
+        421190323,
+        1108720703,
+        85676831
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":395014
     },
     "wof:country":"SA",
-    "wof:geomhash":"b8faacff4ef1bade4f2a3699b2f2e597",
+    "wof:geomhash":"01d08c5d9b3e6ea3d9ddd4cc067cf3cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632253,
             "county_id":1108720703,
-            "locality_id":1293087351,
+            "locality_id":421190323,
             "neighbourhood_id":1361025935,
             "region_id":85676831
         }
     ],
     "wof:id":1361025935,
-    "wof:lastmodified":1566638423,
+    "wof:lastmodified":1660235425,
     "wof:name":"Sidis",
-    "wof:parent_id":1108720703,
+    "wof:parent_id":421190323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
@@ -83,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.6876,
-    27.47218,
-    41.6876,
-    27.47218
+    41.668597,
+    27.457466,
+    41.701077,
+    27.478452
 ],
-  "geometry": {"coordinates":[41.6876,27.47218],"type":"Point"}
+  "geometry": {"coordinates":[[[41.689241,27.478368],[41.690019,27.478452],[41.691174,27.478345],[41.692022,27.478183],[41.692997,27.477897],[41.694045,27.477189],[41.694884,27.476403],[41.696011,27.47491],[41.697609,27.472106],[41.697819,27.471451],[41.698449,27.470311],[41.701077,27.468134],[41.700689,27.466063],[41.699942,27.463757],[41.698633,27.461389],[41.696473,27.457466],[41.694904,27.458273],[41.692804,27.461784],[41.692143,27.462633],[41.691496,27.462907],[41.68729,27.463156],[41.686849,27.462715],[41.685849,27.462802],[41.684153,27.461106],[41.668597,27.466806],[41.687023,27.477064],[41.68811,27.477934],[41.689241,27.478368]]],"type":"Polygon"}
 }

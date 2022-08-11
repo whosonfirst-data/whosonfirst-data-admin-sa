@@ -4,24 +4,29 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000692,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.42419,27.27103,48.42419,27.27103",
-    "geom:latitude":27.27103,
-    "geom:longitude":48.42419,
+    "geom:bbox":"48.409894,27.247776,48.434989,27.293865",
+    "geom:latitude":27.272716,
+    "geom:longitude":48.422625,
     "gn:country":"SA",
     "gn:fcode":"PPL",
     "gn:population":5247,
     "iso:country":"SA",
-    "lbl:bbox":"48.40419,27.25103,48.44419,27.29103",
-    "lbl:latitude":27.27103,
-    "lbl:longitude":48.42419,
+    "lbl:latitude":27.261887,
+    "lbl:longitude":48.423475,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u064a\u062c\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Mulayjah"
+    ],
     "name:und_x_variant":[
         "Mulaija"
     ],
@@ -36,8 +41,13 @@
     "qs_pg:pop_sr":5,
     "qs_pg:qs_id":65172,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":27.261887,
+    "reversegeo:longitude":48.423475,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +62,7 @@
     },
     "wof:country":"SA",
     "wof:created":1497296614,
-    "wof:geomhash":"b9273e65f503e7465c2cc5fb317c047a",
+    "wof:geomhash":"50bf5d07777433e16ab8d002e69c4910",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +73,7 @@
         }
     ],
     "wof:id":1125925109,
-    "wof:lastmodified":1566638477,
+    "wof:lastmodified":1660235251,
     "wof:name":"Mulayjah",
     "wof:parent_id":1108720623,
     "wof:placetype":"locality",
@@ -75,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.42419,
-    27.27103,
-    48.42419,
-    27.27103
+    48.409894,
+    27.247776,
+    48.434989,
+    27.293865
 ],
-  "geometry": {"coordinates":[48.42419,27.27103],"type":"Point"}
+  "geometry": {"coordinates":[[[[48.420816,27.288335],[48.424087,27.288397],[48.425785,27.293774],[48.430666,27.293865],[48.430575,27.290772],[48.430999,27.288923],[48.432403,27.28258],[48.432925,27.280665],[48.433563,27.278925],[48.43481,27.276692],[48.433795,27.275967],[48.433563,27.275357],[48.430634,27.273414],[48.430745,27.272715],[48.431037,27.270402],[48.428052,27.270402],[48.428403,27.267563],[48.428608,27.26326],[48.428988,27.262324],[48.42931,27.259426],[48.43171,27.259514],[48.433145,27.259514],[48.434989,27.25925],[48.434462,27.254069],[48.429223,27.25338],[48.429018,27.256528],[48.426559,27.256323],[48.425651,27.247776],[48.418275,27.248333],[48.419735,27.261601],[48.416018,27.262072],[48.416437,27.26694],[48.409894,27.267673],[48.410208,27.269976],[48.410732,27.27296],[48.411255,27.276938],[48.412354,27.284423],[48.412512,27.286778],[48.412669,27.29018],[48.421032,27.290557],[48.420816,27.288335]]]],"type":"MultiPolygon"}
 }
