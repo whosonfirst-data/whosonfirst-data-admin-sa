@@ -21,11 +21,14 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_latn_x_preferred":[
+        "An Nim\u0101\u015f"
+    ],
     "name:ara_x_preferred":[
-        "\u0627\u0644\u0646\u0645\u0627\u0634"
+        "\u0627\u0644\u0646\u0645\u0627\u0635"
     ],
     "name:ara_x_variant":[
-        "An Nim\u0101\u015f"
+        "\u0627\u0644\u0646\u0645\u0627\u0634"
     ],
     "name:eng_x_preferred":[
         "An Nimas"
@@ -55,8 +58,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676851,
-        1108720649
+        1108720649,
+        85676851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125926527,
-    "wof:lastmodified":1660235266,
+    "wof:lastmodified":1686603044,
     "wof:name":"An Nimas",
     "wof:parent_id":1108720649,
     "wof:placetype":"locality",
