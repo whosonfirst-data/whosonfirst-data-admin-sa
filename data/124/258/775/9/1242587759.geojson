@@ -23,6 +23,9 @@
     "gn:population":15000,
     "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "label:ara_x_preferred_longname":[
+        "\u0627\u0644\u0630\u064a\u0628\u064a\u0629"
+    ],
     "lbl:latitude":26.027213,
     "lbl:longitude":43.153333,
     "lbl:max_zoom":15.0,
@@ -56,8 +59,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        85676827,
-        1108720687
+        1108720687,
+        85676827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,11 +78,20 @@
         }
     ],
     "wof:id":1242587759,
-    "wof:lastmodified":1660235328,
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1690071783,
     "wof:name":"Adh Dhibiyah",
     "wof:parent_id":1108720687,
     "wof:placetype":"locality",
-    "wof:population":15000,
+    "wof:placetype_alt":[
+        "village"
+    ],
+    "wof:population":5068,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
