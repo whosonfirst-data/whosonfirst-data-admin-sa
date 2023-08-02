@@ -26,6 +26,9 @@
     "name:arz_x_preferred":[
         "\u0628\u0631\u064a\u062f\u0647"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u0439\u0434\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b0\u09be\u0987\u09a6\u09be"
     ],
@@ -71,6 +74,9 @@
     "name:fra_x_preferred":[
         "Buraydah"
     ],
+    "name:gle_x_preferred":[
+        "Buraidah"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0ab0\u0ac8\u0aa6\u0abe\u0ab9"
     ],
@@ -95,11 +101,17 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30a4\u30c0\u30d5"
     ],
+    "name:jpn_x_variant":[
+        "\u30d6\u30e9\u30a4\u30c0"
+    ],
     "name:kal_x_preferred":[
         "Buraidah"
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc1\u0cb0\u0cbf\u0ca6\u0cbe\u0cb9\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e0\u10d0\u10d8\u10d3\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0443\u0440\u0430\u0439\u0434\u0430"
@@ -152,6 +164,9 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dd4\u0dbb\u0dba\u0dd2\u0daf\u0dcf"
     ],
+    "name:slv_x_preferred":[
+        "Burajda"
+    ],
     "name:spa_x_preferred":[
         "Buraid\u00e1"
     ],
@@ -184,6 +199,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u06cc\u062f\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Burayda"
+    ],
+    "name:vec_x_preferred":[
+        "Burayda"
     ],
     "name:vie_x_preferred":[
         "Buraidah"
@@ -352,7 +373,7 @@
         }
     ],
     "wof:id":421204205,
-    "wof:lastmodified":1660235234,
+    "wof:lastmodified":1690860276,
     "wof:name":"Buraydah",
     "wof:parent_id":1108720687,
     "wof:placetype":"locality",

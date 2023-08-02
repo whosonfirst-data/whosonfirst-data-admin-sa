@@ -56,6 +56,9 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09ac\u09c1\u0995 \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09a4\u09be\u09ac\u09c1\u0995 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Tabuk"
     ],
@@ -82,7 +85,8 @@
     ],
     "name:eng_x_variant":[
         "Tabouk",
-        "Tabuk Region"
+        "Tabuk Region",
+        "Tabuk Province"
     ],
     "name:epo_x_preferred":[
         "Emirlando Tabuko"
@@ -110,6 +114,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d1\u05d5\u05e7"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05ea\u05d1\u05d5\u05db"
     ],
     "name:hin_x_preferred":[
         "\u0924\u092c\u0942\u0915 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -210,6 +217,9 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0baa\u0bc2\u0b95\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0baa\u0bc1\u0b95\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c2c\u0c41\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
@@ -229,7 +239,11 @@
         "\u062a\u0628\u0648\u06a9"
     ],
     "name:urd_x_variant":[
-        "\u0635\u0648\u0628\u06c1 \u062a\u0628\u0648\u06a9"
+        "\u0635\u0648\u0628\u06c1 \u062a\u0628\u0648\u06a9",
+        "\u062a\u0628\u0648\u06a9 \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Tabuk viloyati"
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Tabuk"
@@ -372,7 +386,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636496654,
+    "wof:lastmodified":1690860267,
     "wof:name":"Tabuk",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

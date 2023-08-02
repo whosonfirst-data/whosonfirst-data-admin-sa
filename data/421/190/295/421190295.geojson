@@ -36,8 +36,14 @@
     "name:azb_x_preferred":[
         "\u0627\u0628\u0647\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0431\u0445\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09be\u09b9"
+    ],
+    "name:ben_x_variant":[
+        "\u0986\u09ac\u09b9\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0431\u0445\u0430"
@@ -87,8 +93,14 @@
     "name:fra_x_preferred":[
         "Abha"
     ],
+    "name:gle_x_preferred":[
+        "Abha"
+    ],
     "name:guj_x_preferred":[
         "\u0a86\u0aad\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d4\u05d0"
     ],
     "name:hin_x_preferred":[
         "\u0906\u092d\u093e"
@@ -212,6 +224,9 @@
     ],
     "name:uzb_x_preferred":[
         "Abxa"
+    ],
+    "name:vec_x_preferred":[
+        "Abha"
     ],
     "name:vep_x_preferred":[
         "Abh"
@@ -395,7 +410,7 @@
         }
     ],
     "wof:id":421190295,
-    "wof:lastmodified":1636496661,
+    "wof:lastmodified":1690860280,
     "wof:name":"Abha",
     "wof:parent_id":1108720533,
     "wof:placetype":"locality",

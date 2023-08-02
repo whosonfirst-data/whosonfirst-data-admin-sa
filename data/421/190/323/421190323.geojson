@@ -29,6 +29,9 @@
     "name:arz_x_preferred":[
         "\u062d\u0627\u064a\u0644"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0456\u043b\u044c"
+    ],
     "name:cat_x_preferred":[
         "Hail"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:deu_x_preferred":[
         "Ha'il"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u0390\u03bb"
     ],
     "name:eng_x_preferred":[
         "Hail"
@@ -59,6 +65,9 @@
     ],
     "name:fra_x_preferred":[
         "Ha\u00efl"
+    ],
+    "name:gle_x_preferred":[
+        "Ha'il"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d0'\u05d9\u05dc"
@@ -86,6 +95,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud558\uc77c"
+    ],
+    "name:lit_x_preferred":[
+        "Hailas"
     ],
     "name:mal_x_preferred":[
         "\u0d39\u0d3e\u0d2f\u0d3f\u0d7d"
@@ -120,6 +132,9 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u0438\u043b\u044c"
     ],
+    "name:slv_x_preferred":[
+        "\u1e24a\u02bcil"
+    ],
     "name:spa_x_preferred":[
         "Hail"
     ],
@@ -146,6 +161,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062d\u0627\u0626\u0644"
+    ],
+    "name:vec_x_preferred":[
+        "Ha'il"
     ],
     "name:vie_x_preferred":[
         "Ha'il"
@@ -313,7 +331,7 @@
         }
     ],
     "wof:id":421190323,
-    "wof:lastmodified":1660235229,
+    "wof:lastmodified":1690860280,
     "wof:name":"Hail",
     "wof:parent_id":1108720703,
     "wof:placetype":"locality",

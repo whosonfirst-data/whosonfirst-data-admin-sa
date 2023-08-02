@@ -41,6 +41,9 @@
     "name:arg_x_preferred":[
         "Riad"
     ],
+    "name:ary_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u0627\u0636"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0631\u064a\u0627\u0636"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:bak_x_preferred":[
         "\u04d8\u0440-\u0420\u0438\u044f\u0434"
+    ],
+    "name:ban_x_preferred":[
+        "Riyadh"
     ],
     "name:bcl_x_preferred":[
         "Riyadh"
@@ -91,6 +97,9 @@
     ],
     "name:cat_x_preferred":[
         "Al-Riyad"
+    ],
+    "name:cat_x_variant":[
+        "Riad"
     ],
     "name:cdo_x_preferred":[
         "Riyadh"
@@ -161,6 +170,9 @@
     "name:frp_x_preferred":[
         "Riyad"
     ],
+    "name:frr_x_preferred":[
+        "Riad"
+    ],
     "name:fry_x_preferred":[
         "Ar-Riaad"
     ],
@@ -230,6 +242,9 @@
     "name:ido_x_variant":[
         "Riad"
     ],
+    "name:iku_x_preferred":[
+        "\u1547\u140b\u1466"
+    ],
     "name:ilo_x_preferred":[
         "Riyadh"
     ],
@@ -290,6 +305,9 @@
     "name:lav_x_preferred":[
         "Rij\u0101da"
     ],
+    "name:lij_x_preferred":[
+        "Riyadh"
+    ],
     "name:lit_x_preferred":[
         "Rijadas"
     ],
@@ -320,14 +338,23 @@
     "name:mon_x_preferred":[
         "\u0420\u0438\u044f\u0434"
     ],
+    "name:mri_x_preferred":[
+        "Riata"
+    ],
     "name:msa_x_preferred":[
         "Riyadh"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u102e\u101a\u102c\u1037\u1012\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:mzn_x_preferred":[
         "\u0631\u06cc\u0627\u0636"
     ],
     "name:nan_x_preferred":[
         "Riyadh"
+    ],
+    "name:nav_x_preferred":[
+        "S\u00e9\u00edtah T\u00f3"
     ],
     "name:nep_x_preferred":[
         "\u0930\u093f\u092f\u093e\u0926"
@@ -395,6 +422,9 @@
     "name:rus_x_preferred":[
         "\u042d\u0440-\u0420\u0438\u044f\u0434"
     ],
+    "name:sat_x_preferred":[
+        "\u1c68\u1c64\u1c6d\u1c5f\u1c6b\u1c7d"
+    ],
     "name:scn_x_preferred":[
         "Rihad"
     ],
@@ -452,6 +482,9 @@
     "name:tgk_x_preferred":[
         "\u042d\u0440-\u0420\u0438\u044f\u0434"
     ],
+    "name:tgk_x_variant":[
+        "\u0420\u0438\u0451\u0437"
+    ],
     "name:tgl_x_preferred":[
         "Riyadh"
     ],
@@ -466,6 +499,9 @@
     ],
     "name:tur_x_preferred":[
         "Riyad"
+    ],
+    "name:udm_x_preferred":[
+        "\u042d\u0440-\u0420\u0438\u044f\u0434"
     ],
     "name:uig_x_preferred":[
         "\u0631\u0649\u064a\u0627\u062f"
@@ -674,7 +710,7 @@
         }
     ],
     "wof:id":421204501,
-    "wof:lastmodified":1627685210,
+    "wof:lastmodified":1690860277,
     "wof:megacity":1,
     "wof:name":"Riyadh",
     "wof:parent_id":1108720657,

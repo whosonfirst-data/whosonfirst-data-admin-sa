@@ -38,6 +38,9 @@
     "name:aze_x_preferred":[
         "Dammam"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u043c"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09be\u09ae\u09be\u09ae"
     ],
@@ -86,8 +89,14 @@
     "name:fra_x_preferred":[
         "Dammam"
     ],
+    "name:gle_x_preferred":[
+        "Dammam"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0aae\u0abe\u0aae"
+    ],
+    "name:hau_x_preferred":[
+        "Dammam"
     ],
     "name:hbs_x_preferred":[
         "Damam"
@@ -103,6 +112,9 @@
     ],
     "name:hun_x_preferred":[
         "Damm\u00e1m"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0564-\u0534\u0561\u0574\u0574\u0561\u0574"
     ],
     "name:ibo_x_preferred":[
         "Dammam"
@@ -191,6 +203,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u043c\u043c\u0430\u043c"
     ],
+    "name:rus_x_variant":[
+        "\u042d\u0434-\u0414\u0430\u043c\u043c\u0430\u043c"
+    ],
     "name:sco_x_preferred":[
         "Dammam"
     ],
@@ -212,8 +227,14 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bae\u0bcd\u0bae\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0bae\u0bcd\u0bae\u0bbe\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c2e\u0c4d\u0c2e\u0c3e\u0c2e\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0430\u043c\u043c\u043e\u043c"
     ],
     "name:tgl_x_preferred":[
         "Dammam"
@@ -239,6 +260,12 @@
     "name:uzb_x_preferred":[
         "Dammam"
     ],
+    "name:uzb_x_variant":[
+        "Dammom"
+    ],
+    "name:vec_x_preferred":[
+        "Dammam"
+    ],
     "name:vie_x_preferred":[
         "Dammam"
     ],
@@ -247,6 +274,9 @@
     ],
     "name:war_x_preferred":[
         "Dammam"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8fbe\u66fc"
     ],
     "name:zho_x_preferred":[
         "\u8fbe\u66fc"
@@ -418,7 +448,7 @@
         }
     ],
     "wof:id":421190297,
-    "wof:lastmodified":1627685158,
+    "wof:lastmodified":1690860281,
     "wof:megacity":1,
     "wof:name":"Dammam",
     "wof:parent_id":1108720541,

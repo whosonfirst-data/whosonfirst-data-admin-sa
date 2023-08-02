@@ -32,8 +32,14 @@
     "name:aze_x_preferred":[
         "Tabuk"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0431\u0443\u043a"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09ac\u09c1\u0995"
+    ],
+    "name:cat_x_preferred":[
+        "Tabuk"
     ],
     "name:ceb_x_preferred":[
         "Tab\u016bk"
@@ -68,6 +74,9 @@
     "name:fra_x_preferred":[
         "Tabuk"
     ],
+    "name:gle_x_preferred":[
+        "Tabuk"
+    ],
     "name:guj_x_preferred":[
         "\u0aa4\u0aac\u0ac1\u0a95"
     ],
@@ -80,11 +89,17 @@
     "name:hin_x_preferred":[
         "\u0924\u092c\u094d\u092c\u0942"
     ],
+    "name:hin_x_variant":[
+        "\u0924\u092c\u0941\u0915"
+    ],
     "name:hrv_x_preferred":[
         "Tabuk"
     ],
     "name:hun_x_preferred":[
         "Tab\u00fak"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0561\u0562\u0578\u0582\u056f"
     ],
     "name:ind_x_preferred":[
         "Tabuk"
@@ -155,7 +170,13 @@
     "name:sin_x_preferred":[
         "\u0da7\u0db6\u0dd4\u0d9a\u0dca"
     ],
+    "name:slv_x_preferred":[
+        "Tabuk"
+    ],
     "name:spa_x_preferred":[
+        "Tabuk"
+    ],
+    "name:sqi_x_preferred":[
         "Tabuk"
     ],
     "name:srp_x_preferred":[
@@ -187,6 +208,9 @@
     ],
     "name:urd_x_variant":[
         "\u062a\u0628\u0648\u06a9"
+    ],
+    "name:vec_x_preferred":[
+        "Tabuk"
     ],
     "name:vie_x_preferred":[
         "Tabuk"
@@ -358,7 +382,7 @@
         }
     ],
     "wof:id":421190329,
-    "wof:lastmodified":1636496661,
+    "wof:lastmodified":1690860281,
     "wof:name":"Tabuk",
     "wof:parent_id":1108720767,
     "wof:placetype":"locality",

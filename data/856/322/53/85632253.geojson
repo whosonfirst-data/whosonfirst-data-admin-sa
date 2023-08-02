@@ -52,8 +52,14 @@
     "name:amh_x_variant":[
         "\u1233\u12cd\u12f5\u12a0\u1228\u1262\u12eb"
     ],
+    "name:ami_x_preferred":[
+        "Saudi arabia"
+    ],
     "name:ang_x_preferred":[
         "Saudisc Arabea"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u090a\u0926\u0940 \u0905\u0930\u092c"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
@@ -67,6 +73,9 @@
     ],
     "name:arg_x_preferred":[
         "Arabia Saud\u00ed"
+    ],
+    "name:arq_x_preferred":[
+        "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
     ],
     "name:ary_x_preferred":[
         "\u0633\u0627\u0639\u0648\u062f\u064a\u0629"
@@ -86,6 +95,9 @@
     "name:ava_x_variant":[
         "\u0421\u0430\u0433I\u0443\u0434\u0438\u044f\u0437\u0443\u043b \u0413I\u0430\u0440\u0430\u0431\u0438\u044f"
     ],
+    "name:awa_x_preferred":[
+        "\u0938\u0909\u0926\u0940 \u0905\u0930\u092c"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0631\u0628\u06cc\u0633\u062a\u0627\u0646"
     ],
@@ -103,6 +115,9 @@
     ],
     "name:bam_x_variant":[
         "Arabiya Sawudiya"
+    ],
+    "name:ban_x_preferred":[
+        "Arab Saudi"
     ],
     "name:bar_x_preferred":[
         "Saudi Arabien"
@@ -127,6 +142,12 @@
     ],
     "name:bho_x_preferred":[
         "\u0938\u0909\u0926\u0940 \u0905\u0930\u092c"
+    ],
+    "name:bis_x_preferred":[
+        "Saudi Arebia"
+    ],
+    "name:blk_x_preferred":[
+        "\u101e\u1031\u102c\u103a\u1012\u102e\u1021\u102c\u101b\u1031\u1038\u1017\u102e\u1038\u101a\u102c\u1038\u1001\u1019\u103a\u1038\u1011\u102e"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f60\u0f74\u0f0b\u0f51\u0f72\u0f0b\u0f68\u0f0b\u0f62\u0f0b\u0f54\u0f72\u0f0b\u0f61\u0f0d"
@@ -188,6 +209,9 @@
     "name:cor_x_preferred":[
         "Arabi Saoudek"
     ],
+    "name:cos_x_preferred":[
+        "Arabia Saudita"
+    ],
     "name:crh_x_preferred":[
         "Saudiy Arabistan"
     ],
@@ -202,6 +226,9 @@
     ],
     "name:cze_x_variant":[
         "Saudsk\u00e1 Ar\u00e1bie"
+    ],
+    "name:dag_x_preferred":[
+        "Saudi Arabia"
     ],
     "name:dan_x_preferred":[
         "Saudi-Arabien"
@@ -328,6 +355,9 @@
     "name:ful_x_preferred":[
         "Arabii Sawdit"
     ],
+    "name:ful_x_variant":[
+        "Aarabe Sawdiyanke"
+    ],
     "name:gag_x_preferred":[
         "Saudi Arabiya"
     ],
@@ -354,6 +384,12 @@
     ],
     "name:gom_x_preferred":[
         "\u0938\u094c\u0926\u0940 \u0905\u0930\u0947\u092c\u093f\u092f\u093e"
+    ],
+    "name:gor_x_preferred":[
+        "Arab Saudi"
+    ],
+    "name:gpe_x_preferred":[
+        "Saudi Arabia"
     ],
     "name:grn_x_preferred":[
         "Aravia Saud\u00edta"
@@ -419,6 +455,9 @@
     "name:ido_x_preferred":[
         "Saudi-Arabia"
     ],
+    "name:iku_x_preferred":[
+        "\u14f5\u1405\u144e \u140a\u154c\u1431\u140a"
+    ],
     "name:ile_x_preferred":[
         "Saudi Arabia"
     ],
@@ -479,6 +518,9 @@
     "name:kan_x_variant":[
         "\u0cb8\u0ccc\u0ca6\u0cbf \u0c85\u0cb0\u0cc7\u0cac\u0cbf\u0caf\u0cbe"
     ],
+    "name:kas_x_preferred":[
+        "\u0633\u0648\u0657\u062f\u06cc \u0639\u0631\u0628"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10e3\u10d3\u10d8\u10e1 \u10d0\u10e0\u10d0\u10d1\u10d4\u10d7\u10d8"
     ],
@@ -490,6 +532,9 @@
     ],
     "name:kbp_x_preferred":[
         "Arabii-Sah\u028aditi"
+    ],
+    "name:kcg_x_preferred":[
+        "Sa\u0331udi A\u0331rabiya"
     ],
     "name:khm_x_preferred":[
         "\u17a2\u17b6\u179a\u17c9\u17b6\u1794\u17ca\u17b8\u179f\u17b6\u17a2\u17bc\u178c\u17b8\u178f"
@@ -587,6 +632,9 @@
     "name:ltz_x_preferred":[
         "Saudi-Arabien"
     ],
+    "name:ltz_x_variant":[
+        "Saudiarabien"
+    ],
     "name:lub_x_preferred":[
         "Alabu Nsawudi"
     ],
@@ -595,6 +643,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u6c99\u7279\u963f\u62c9\u4f2f"
+    ],
+    "name:mad_x_preferred":[
+        "Arab Saudi"
     ],
     "name:mai_x_preferred":[
         "\u0938\u093e\u0909\u0926\u0940 \u0905\u0930\u092c"
@@ -610,6 +661,12 @@
     ],
     "name:mar_x_variant":[
         "\u0938\u094c\u0926\u0940 \u0905\u0930\u092c"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0430\u0443\u0434\u043e\u043d\u044c \u0410\u0440\u0430\u0431\u0438\u044f"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0421\u0430\u0443\u0434 \u0410\u0440\u0430\u0432\u0438\u0439"
     ],
     "name:min_x_preferred":[
         "Arab Saudi"
@@ -629,11 +686,20 @@
     "name:mlt_x_variant":[
         "G\u0127arabja Sawdita"
     ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabe5\uabce\uabd7\uabe4 \uabd1\uabd4\uabe5\uabd5\uabe4\uabcc\uabe5"
+    ],
     "name:mon_x_preferred":[
         "\u0421\u0430\u0443\u0434\u044b\u043d \u0410\u0440\u0430\u0431"
     ],
+    "name:mri_x_preferred":[
+        "Hauri Ar\u0101pia"
+    ],
     "name:msa_x_preferred":[
         "Arab Saudi"
+    ],
+    "name:mwl_x_preferred":[
+        "Ar\u00e1bia Saudita"
     ],
     "name:mya_x_preferred":[
         "\u1006\u1031\u102c\u103a\u1012\u102e\u1021\u102c\u101b\u1031\u1017\u103b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
@@ -722,6 +788,9 @@
     "name:oss_x_preferred":[
         "\u0421\u0430\u0443\u0434\u044b \u0410\u0440\u0430\u0432\u0438"
     ],
+    "name:oss_x_variant":[
+        "\u0421\u0430\u0443\u0434\u044b \u0410\u0440\u0430\u0431\u0431"
+    ],
     "name:pam_x_preferred":[
         "Saudita Arabia"
     ],
@@ -803,6 +872,9 @@
     "name:sat_x_preferred":[
         "\u1c65\u1c73\u1c63\u1c6b\u1c64 \u1c5f\u1c68\u1c5a\u1c75\u1c7d"
     ],
+    "name:sat_x_variant":[
+        "\u1c65\u1c5f\u1c63\u1c6b\u1c64 \u1c5f\u1c68\u1c5a\u1c75\u1c7d"
+    ],
     "name:scn_x_preferred":[
         "Arabbia Saudita"
     ],
@@ -812,11 +884,20 @@
     "name:sgs_x_preferred":[
         "Sauda Arab\u0117j\u0117"
     ],
+    "name:shi_x_preferred":[
+        "Tagldit Tasa\u025budit"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u1031\u1083\u1087\u1010\u102e\u1087\u1022\u1083\u1087\u101b\u1031\u1038\u1015\u102e\u1038\u101a\u1083\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dc0\u0dd4\u0daf\u0dd2 \u0d85\u0dbb\u0dcf\u0db6\u0dd2\u0dba\u0dcf\u0dc0"
     ],
     "name:sin_x_variant":[
         "\u0dc3\u0dde\u0daf\u0dd2 \u0d85\u0dbb\u0dcf\u0db6\u0dd2\u0dba"
+    ],
+    "name:skr_x_preferred":[
+        "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"
     ],
     "name:slk_x_preferred":[
         "Saudsk\u00e1 Ar\u00e1bia"
@@ -826,6 +907,12 @@
     ],
     "name:sme_x_preferred":[
         "Saudi-Ar\u00e1bia"
+    ],
+    "name:smn_x_preferred":[
+        "Saudi-Arabia"
+    ],
+    "name:sms_x_preferred":[
+        "Saudi-Arabia"
     ],
     "name:sna_x_preferred":[
         "Saudi Arabia"
@@ -887,6 +974,9 @@
     "name:tat_x_preferred":[
         "\u0421\u043e\u0433\u0443\u0434 \u0413\u0430\u0440\u04d9\u0431\u0441\u0442\u0430\u043d\u044b"
     ],
+    "name:tay_x_preferred":[
+        "Saudi arabia"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4c\u0c26\u0c40 \u0c05\u0c30\u0c47\u0c2c\u0c3f\u0c2f\u0c3e"
     ],
@@ -914,10 +1004,19 @@
     "name:tir_x_variant":[
         "\u1230\u12d1\u12f2 \u12d3\u1228\u1265"
     ],
+    "name:tok_x_preferred":[
+        "ma Sajusi"
+    ],
     "name:ton_x_preferred":[
         "Saute \u02bbAlepea"
     ],
+    "name:ton_x_variant":[
+        "Sauti \u02bbAlepea"
+    ],
     "name:tpi_x_preferred":[
+        "Saudi Arabia"
+    ],
+    "name:trv_x_preferred":[
         "Saudi Arabia"
     ],
     "name:tuk_x_preferred":[
@@ -928,6 +1027,9 @@
     ],
     "name:tur_x_preferred":[
         "Suudi Arabistan"
+    ],
+    "name:twi_x_preferred":[
+        "Saudi Arabia"
     ],
     "name:udm_x_preferred":[
         "\u0421\u0430\u0443\u0434 \u0410\u0440\u0430\u0432\u0438\u044f"
@@ -955,6 +1057,9 @@
     ],
     "name:vec_x_preferred":[
         "Arabia Saud\u00eca"
+    ],
+    "name:vec_x_variant":[
+        "Ar\u00e0bia Saudia"
     ],
     "name:vep_x_preferred":[
         "Saudan Arabii"
@@ -1256,7 +1361,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1617827441,
+    "wof:lastmodified":1690860266,
     "wof:name":"Saudi Arabia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

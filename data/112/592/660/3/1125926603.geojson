@@ -33,13 +33,17 @@
     "name:ceb_x_preferred":[
         "Al Qurayy\u0101t"
     ],
+    "name:deu_x_preferred":[
+        "Al-Qurayyat"
+    ],
     "name:eng_x_preferred":[
         "Al Qurayy\u0101t"
     ],
     "name:eng_x_variant":[
         "Qurayyat",
         "Al Qurayyat",
-        "Gurayat"
+        "Gurayat",
+        "Qurayyat governorate"
     ],
     "name:epo_x_preferred":[
         "Kurejet"
@@ -59,11 +63,20 @@
     "name:nld_x_preferred":[
         "Qurayyat"
     ],
+    "name:nob_x_preferred":[
+        "Qurayyat"
+    ],
     "name:pol_x_preferred":[
         "Al-Kurajjat"
     ],
     "name:por_x_preferred":[
         "Al Qurayyat"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0443\u0440\u0430\u0439\u044f\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Qurayyat"
     ],
     "name:tgl_x_preferred":[
         "Gurayat"
@@ -124,7 +137,7 @@
         }
     ],
     "wof:id":1125926603,
-    "wof:lastmodified":1660235267,
+    "wof:lastmodified":1690860286,
     "wof:name":"Al Qurayy\u0101t",
     "wof:parent_id":1108720635,
     "wof:placetype":"locality",
