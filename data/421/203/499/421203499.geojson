@@ -72,6 +72,15 @@
     "name:fra_x_preferred":[
         "Hafar Al-Batin"
     ],
+    "name:gle_x_preferred":[
+        "Hafar Al-Batin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e4\u05e8 \u05d0\u05dc-\u05d1\u05d0\u05d8\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u092b\u0930 \u0905\u0932-\u092c\u093e\u0924\u093f\u0928"
+    ],
     "name:hun_x_preferred":[
         "Hafar al Batin"
     ],
@@ -94,6 +103,9 @@
         "Hafar Al-Batin"
     ],
     "name:nno_x_preferred":[
+        "Hafar Al-Batin"
+    ],
+    "name:nob_x_preferred":[
         "Hafar Al-Batin"
     ],
     "name:oci_x_preferred":[
@@ -136,6 +148,9 @@
         "\u062d\u0641\u0631 \u0627\u0644\u0628\u0627\u0637\u0646"
     ],
     "name:vie_x_preferred":[
+        "Hafar Al-Batin"
+    ],
+    "name:war_x_preferred":[
         "Hafar Al-Batin"
     ],
     "name:zho_x_preferred":[
@@ -263,8 +278,8 @@
     "wof:belongsto":[
         102191569,
         85632253,
-        1108720699,
-        85676819
+        85676819,
+        1108720699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -290,7 +305,7 @@
         }
     ],
     "wof:id":421203499,
-    "wof:lastmodified":1686602057,
+    "wof:lastmodified":1690860277,
     "wof:name":"Hafar al Batin",
     "wof:parent_id":1108720699,
     "wof:placetype":"locality",

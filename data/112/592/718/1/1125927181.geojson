@@ -35,6 +35,12 @@
     "name:ben_x_preferred":[
         "\u0996\u09c1\u09c1\u09ac\u09be\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u0996\u09cb\u09ac\u09be\u09b0"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0431\u0430\u0440"
+    ],
     "name:cat_x_preferred":[
         "Al-Khubar"
     ],
@@ -59,6 +65,9 @@
     "name:ell_x_preferred":[
         "\u0391\u03bb \u039a\u03bf\u03bc\u03c0\u03ac\u03c1"
     ],
+    "name:ell_x_variant":[
+        "\u03a7\u03bf\u03cd\u03bc\u03c0\u03b1\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Khobar"
     ],
@@ -79,6 +88,9 @@
     ],
     "name:fra_x_preferred":[
         "Khobar"
+    ],
+    "name:gle_x_preferred":[
+        "Al Khobar"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0acb\u0aac\u0abe\u0ab0"
@@ -170,6 +182,9 @@
     "name:tel_x_preferred":[
         "\u0c16\u0c4a\u0c2c\u0c30\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0425\u0443\u0431\u0430\u0440"
+    ],
     "name:tgl_x_preferred":[
         "Khobar"
     ],
@@ -185,7 +200,16 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u062e\u0628\u0631"
     ],
+    "name:uzb_x_preferred":[
+        "Al-Xubar"
+    ],
+    "name:vec_x_preferred":[
+        "Khobar"
+    ],
     "name:vie_x_preferred":[
+        "Khobar"
+    ],
+    "name:war_x_preferred":[
         "Khobar"
     ],
     "name:zho_x_preferred":[
@@ -240,7 +264,7 @@
         }
     ],
     "wof:id":1125927181,
-    "wof:lastmodified":1627685142,
+    "wof:lastmodified":1690860287,
     "wof:name":"Khobar",
     "wof:parent_id":1108720599,
     "wof:placetype":"locality",

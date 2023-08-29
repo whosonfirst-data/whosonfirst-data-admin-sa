@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Afif"
     ],
+    "name:eng_x_variant":[
+        "Afif governorate"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0641\u06cc\u0641"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1125928191,
-    "wof:lastmodified":1660235285,
+    "wof:lastmodified":1690860285,
     "wof:name":"Afif",
     "wof:parent_id":1108720547,
     "wof:placetype":"locality",

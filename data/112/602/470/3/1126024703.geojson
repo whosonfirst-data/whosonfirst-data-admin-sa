@@ -63,8 +63,14 @@
     "name:fra_x_preferred":[
         "Unaizah"
     ],
+    "name:gle_x_preferred":[
+        "Unaizah"
+    ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa8\u0abe\u0a9d\u0abe\u0ab9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e0\u05d9\u05d6\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0928\u0948\u091c\u093c\u093e\u0939"
@@ -165,6 +171,12 @@
     "name:urd_x_preferred":[
         "\u0639\u0646\u06cc\u0632\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Unayza"
+    ],
+    "name:vec_x_preferred":[
+        "Unaizah"
+    ],
     "name:vie_x_preferred":[
         "Unaizah"
     ],
@@ -215,7 +227,7 @@
         }
     ],
     "wof:id":1126024703,
-    "wof:lastmodified":1660235292,
+    "wof:lastmodified":1690860288,
     "wof:name":"Unaizah",
     "wof:parent_id":1108720785,
     "wof:placetype":"locality",

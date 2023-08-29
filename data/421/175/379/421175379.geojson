@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Djawf Amir"
     ],
+    "name:cat_x_variant":[
+        "Sakaka"
+    ],
     "name:ceb_x_preferred":[
         "Sak\u0101k\u0101"
     ],
@@ -55,8 +58,14 @@
     "name:fra_x_preferred":[
         "Sakaka"
     ],
+    "name:gle_x_preferred":[
+        "Sakakah"
+    ],
     "name:glg_x_preferred":[
         "Al-Xauf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05db\u05d0\u05db\u05d0"
     ],
     "name:ind_x_preferred":[
         "Sakaka"
@@ -76,6 +85,9 @@
     "name:kor_x_preferred":[
         "\uc0ac\uce74\uce74"
     ],
+    "name:lit_x_preferred":[
+        "Sakaka"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d15\u0d3e\u0d15"
     ],
@@ -86,6 +98,9 @@
         "Al Jawf"
     ],
     "name:nno_x_preferred":[
+        "Sakakah"
+    ],
+    "name:nob_x_preferred":[
         "Sakakah"
     ],
     "name:pan_x_preferred":[
@@ -111,6 +126,9 @@
     ],
     "name:tgl_x_preferred":[
         "Sakakah"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e30\u0e01\u0e32\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Sekake"
@@ -285,7 +303,7 @@
         }
     ],
     "wof:id":421175379,
-    "wof:lastmodified":1660235703,
+    "wof:lastmodified":1690860279,
     "wof:name":"Sakaka",
     "wof:parent_id":1108720757,
     "wof:placetype":"locality",

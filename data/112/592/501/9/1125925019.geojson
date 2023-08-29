@@ -44,7 +44,8 @@
         "Bisha"
     ],
     "name:eng_x_variant":[
-        "Qalat Bishah"
+        "Qalat Bishah",
+        "Bisha governorate"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0634\u0647"
@@ -73,11 +74,17 @@
     "name:pol_x_preferred":[
         "Bisza"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0448\u0430"
+    ],
     "name:spa_x_preferred":[
         "Bisha"
     ],
     "name:tgl_x_preferred":[
         "Bisha"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e35\u0e0a\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Bi\u015fa"
@@ -132,7 +139,7 @@
         }
     ],
     "wof:id":1125925019,
-    "wof:lastmodified":1660235248,
+    "wof:lastmodified":1690860286,
     "wof:name":"Bisha",
     "wof:parent_id":1108720681,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0644\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u064a\u0644"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b8 \u09b8\u09c1\u09b2\u09be\u0987\u09b2"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "As Sulayyil"
+    ],
+    "name:eng_x_variant":[
+        "As Sulayyil governorate"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0633\u0644\u064a\u0644"
@@ -79,6 +85,9 @@
     ],
     "name:por_x_preferred":[
         "As Sulayyil"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441-\u0421\u0443\u043b\u0430\u0439\u0438\u043b\u044c"
     ],
     "name:spa_x_preferred":[
         "As Sulayyil"
@@ -244,7 +253,7 @@
         }
     ],
     "wof:id":890441453,
-    "wof:lastmodified":1660235727,
+    "wof:lastmodified":1690860283,
     "wof:name":"As Sulayyil",
     "wof:parent_id":1108720663,
     "wof:placetype":"locality",

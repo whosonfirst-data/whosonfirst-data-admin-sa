@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0642\u064a\u0642"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0642\u064a\u0642"
+    ],
     "name:ast_x_preferred":[
         "Abqaiq"
     ],
@@ -51,6 +54,9 @@
     "name:fra_x_preferred":[
         "Abqa\u00efq"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05e7\u05d0\u05d9\u05e7"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0562\u0584\u0561\u0575\u0584"
     ],
@@ -62,6 +68,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10d1\u10d9\u10d0\u10d8\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ube0c\uce74\uc774\ud06c"
     ],
     "name:lit_x_preferred":[
         "Abkaikas"
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":421174347,
-    "wof:lastmodified":1660235702,
+    "wof:lastmodified":1690860278,
     "wof:name":"Abqaiq",
     "wof:parent_id":1108720685,
     "wof:placetype":"locality",

@@ -62,6 +62,12 @@
     "name:heb_x_preferred":[
         "\u05d0\u05dc \u05d7\u05d0\u05e8\u05d2'"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05dc-\u05d7'\u05e8\u05d2'"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u0916\u093c\u0930\u094d\u091c"
+    ],
     "name:hun_x_preferred":[
         "Al Kharj"
     ],
@@ -88,6 +94,12 @@
     ],
     "name:nno_x_preferred":[
         "Al-Kharj"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a32 \u0a16\u0a3c\u0a30\u0a1c"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u062c"
     ],
     "name:pol_x_preferred":[
         "Al-Chard\u017c"
@@ -117,6 +129,9 @@
         "\u0627\u0644\u062e\u0631\u062c"
     ],
     "name:vie_x_preferred":[
+        "Al-Kharj"
+    ],
+    "name:war_x_preferred":[
         "Al-Kharj"
     ],
     "name:zho_x_preferred":[
@@ -270,7 +285,7 @@
         }
     ],
     "wof:id":421195071,
-    "wof:lastmodified":1636496660,
+    "wof:lastmodified":1690860276,
     "wof:name":"Al Kharj",
     "wof:parent_id":1108720595,
     "wof:placetype":"locality",

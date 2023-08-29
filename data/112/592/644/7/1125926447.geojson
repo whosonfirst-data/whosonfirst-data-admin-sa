@@ -39,6 +39,9 @@
     "name:dan_x_preferred":[
         "Ar Rass"
     ],
+    "name:deu_x_preferred":[
+        "Ar-Rass"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c1 \u03a0\u03b1\u03c2"
     ],
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":1125926447,
-    "wof:lastmodified":1660235265,
+    "wof:lastmodified":1690860285,
     "wof:name":"Ar Rass",
     "wof:parent_id":1108720653,
     "wof:placetype":"locality",

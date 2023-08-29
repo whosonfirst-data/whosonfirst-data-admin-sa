@@ -31,6 +31,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u062c\u0628\u064a\u0644"
     ],
+    "name:aze_x_preferred":[
+        "\u0259l-C\u00fcbeyl"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09cb\u09ac\u09c7\u0987\u09b2"
     ],
@@ -67,11 +70,20 @@
     "name:fra_x_preferred":[
         "Al-Jubayl"
     ],
+    "name:fra_x_variant":[
+        "al-Jubayl"
+    ],
+    "name:gle_x_preferred":[
+        "Jubail"
+    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac1\u0aac\u0ac8\u0ab2"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05d2'\u05d1\u05d9\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05d5\u05d1\u05d9\u05d9\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u091c\u0941\u092c\u0948\u0932"
@@ -79,11 +91,20 @@
     "name:hun_x_preferred":[
         "Al Jubayl"
     ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u054b\u0578\u0582\u0562\u0561\u0575\u056c"
+    ],
     "name:ind_x_preferred":[
         "Jubail"
     ],
+    "name:ind_x_variant":[
+        "Al-Jubail"
+    ],
     "name:ita_x_preferred":[
         "Jubail"
+    ],
+    "name:ita_x_variant":[
+        "al-Jubayl"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e5\u30d0\u30a4\u30eb"
@@ -130,6 +151,9 @@
     "name:oci_x_preferred":[
         "Jubail"
     ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u06cc\u0644"
+    ],
     "name:pol_x_preferred":[
         "Al-D\u017cubajl"
     ],
@@ -148,6 +172,9 @@
     "name:spa_x_preferred":[
         "Jubail"
     ],
+    "name:sqi_x_preferred":[
+        "Jubail"
+    ],
     "name:sun_x_preferred":[
         "Jubail"
     ],
@@ -160,6 +187,9 @@
     "name:tel_x_preferred":[
         "\u0c1c\u0c41\u0c2c\u0c48\u0c32\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0430\u043b-\u04b6\u0443\u0431\u0430\u0439\u043b"
+    ],
     "name:tgl_x_preferred":[
         "Jubail"
     ],
@@ -168,6 +198,12 @@
     ],
     "name:tur_x_preferred":[
         "Jubail"
+    ],
+    "name:tur_x_variant":[
+        "el-C\u00fcbeyl"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d5\u0644\u062c\u06c7\u0628\u06d5\u064a\u0644"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0443\u0431\u0430\u0457\u043b\u044c"
@@ -184,7 +220,13 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u062c\u0628\u06cc\u0644"
     ],
+    "name:uzb_x_preferred":[
+        "al-Jubayl"
+    ],
     "name:vie_x_preferred":[
+        "Jubail"
+    ],
+    "name:war_x_preferred":[
         "Jubail"
     ],
     "name:zho_x_preferred":[
@@ -329,7 +371,7 @@
         }
     ],
     "wof:id":890439855,
-    "wof:lastmodified":1642551813,
+    "wof:lastmodified":1690860283,
     "wof:name":"Al Jubayl",
     "wof:parent_id":1108720585,
     "wof:placetype":"locality",

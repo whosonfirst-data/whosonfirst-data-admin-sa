@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0621 \u0627\u0644\u0639\u0642\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0646\u0627\u0621 \u0627\u0644\u0639\u0642\u064a\u0631"
+    ],
     "name:eng_x_preferred":[
         "Uqair"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d5\u05e7\u05d9\u05d9\u05e8"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30ab\u30a4\u30eb"
@@ -32,8 +38,14 @@
     "name:nno_x_preferred":[
         "Uqair"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0423\u043a\u0430\u0439\u0440"
+    ],
     "name:tgl_x_preferred":[
         "Uqair"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043a\u0435\u0439\u0440"
     ],
     "name:und_x_variant":[
         "\u2018Uqair"
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":421195069,
-    "wof:lastmodified":1566638461,
+    "wof:lastmodified":1690860276,
     "wof:name":"Al Uqayr",
     "wof:parent_id":1108720555,
     "wof:placetype":"locality",

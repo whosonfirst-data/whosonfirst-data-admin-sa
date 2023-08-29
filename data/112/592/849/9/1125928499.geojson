@@ -27,7 +27,8 @@
     "name:ara_x_variant":[
         "\u0672\u0628\u0648 \u0639\u0631\u064a\u0634",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0628\u064a \u0639\u0631\u064a\u0634",
-        "Ab\u016b \u2018Ar\u012bsh"
+        "Ab\u016b \u2018Ar\u012bsh",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0628\u0648 \u0639\u0631\u064a\u0634"
     ],
     "name:cat_x_preferred":[
         "Abu Arix"
@@ -39,10 +40,14 @@
         "Abu Arish"
     ],
     "name:eng_x_variant":[
-        "Abu `Arish"
+        "Abu `Arish",
+        "Abu `Arish governorate"
     ],
     "name:fas_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0628\u06cc \u0639\u0631\u06cc\u0634"
+    ],
+    "name:fin_x_preferred":[
+        "Abu Ari\u0161"
     ],
     "name:fra_x_preferred":[
         "Abou Arish"
@@ -65,6 +70,9 @@
     "name:pol_x_preferred":[
         "Abu Arisz"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443-\u0410\u0440\u0438\u0448"
+    ],
     "name:spa_x_preferred":[
         "Abu Arish"
     ],
@@ -79,6 +87,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0628\u0648 \u0639\u0631\u06cc\u0634"
+    ],
+    "name:uzb_x_preferred":[
+        "Abu \u02bdArish"
     ],
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
@@ -124,7 +135,7 @@
         }
     ],
     "wof:id":1125928499,
-    "wof:lastmodified":1660235291,
+    "wof:lastmodified":1690860286,
     "wof:name":"Abu Arish",
     "wof:parent_id":1108720535,
     "wof:placetype":"locality",
