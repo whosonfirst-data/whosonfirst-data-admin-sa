@@ -11,8 +11,8 @@
     "geom:longitude":39.127051,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:latitude":21.606119,
-    "lbl:longitude":39.13221,
+    "lbl:latitude":21.619837,
+    "lbl:longitude":39.127051,
     "lbl:max_zoom":18.0,
     "mps:latitude":21.619837,
     "mps:longitude":39.127051,
@@ -62,13 +62,13 @@
         "quattroshapes",
         "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85676857,
         102191569,
         85632253,
         421200923,
-        1108720715,
-        85676857
+        1108720715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +96,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627685903,
+    "wof:lastmodified":1694320549,
     "wof:name":"An Nahdah",
     "wof:parent_id":421200923,
     "wof:placetype":"neighbourhood",

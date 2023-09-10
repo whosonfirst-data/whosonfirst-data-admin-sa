@@ -11,8 +11,8 @@
     "geom:longitude":50.090701,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:latitude":26.468349,
-    "lbl:longitude":50.081569,
+    "lbl:latitude":26.472069,
+    "lbl:longitude":50.090561,
     "lbl:max_zoom":18.0,
     "mps:latitude":26.472069,
     "mps:longitude":50.090561,
@@ -62,12 +62,12 @@
         "quattroshapes",
         "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
-        1108720541,
-        85676819
+        1108720541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1627685929,
+    "wof:lastmodified":1694320549,
     "wof:name":"Al Hamra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
