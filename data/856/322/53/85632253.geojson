@@ -1291,7 +1291,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"966",
     "statoids:ds":"SA",
     "statoids:fifa":"KSA",
@@ -1365,7 +1365,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694492064,
+    "wof:lastmodified":1694639518,
     "wof:name":"Saudi Arabia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
