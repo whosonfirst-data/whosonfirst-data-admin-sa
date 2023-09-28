@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.121174,
-    "geom:area_square_m":12591754283.162376,
+    "geom:area_square_m":12591755221.622227,
     "geom:bbox":"45.017115,24.220342,47.743013,25.264332",
     "geom:latitude":24.732534,
     "geom:longitude":46.55204,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.RI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123410,
-    "wof:geomhash":"b5c53fa46957a6b7da7855ac61ff3069",
+    "wof:geomhash":"59970e62848125f7c7f860bf1259e72a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720657,
-    "wof:lastmodified":1627522749,
+    "wof:lastmodified":1695886458,
     "wof:name":"Ar-Riyad",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

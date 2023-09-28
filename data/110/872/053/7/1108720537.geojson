@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064489,
-    "geom:area_square_m":760852292.86393,
+    "geom:area_square_m":760852675.02148,
     "geom:bbox":"42.980159,17.189525,43.3365,17.597364",
     "geom:latitude":17.418739,
     "geom:longitude":43.149703,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.DI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123344,
-    "wof:geomhash":"8b0ecd93dc9296c9ba18c3285f54eb95",
+    "wof:geomhash":"c0ba26e95e2c31393c76a5cd04b60b4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720537,
-    "wof:lastmodified":1627522740,
+    "wof:lastmodified":1695886445,
     "wof:name":"Ad-Dair",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.460096,
-    "geom:area_square_m":36776316113.765327,
+    "geom:area_square_m":36776316473.231102,
     "geom:bbox":"39.557945,29.149447,42.970291,31.996644",
     "geom:latitude":30.725434,
     "geom:longitude":41.35207,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.HS.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123401,
-    "wof:geomhash":"ba461f655f62884fd14e25ea68567412",
+    "wof:geomhash":"83ce8736d0f0a1a3101f22f5f6e8ee0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720651,
-    "wof:lastmodified":1627522745,
+    "wof:lastmodified":1695886452,
     "wof:name":"Ar'ar",
     "wof:parent_id":85676837,
     "wof:placetype":"county",

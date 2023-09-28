@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.860832,
-    "geom:area_square_m":9640964220.348049,
+    "geom:area_square_m":9640964043.304274,
     "geom:bbox":"42.030363,24.47996,43.838186,25.980695",
     "geom:latitude":25.075152,
     "geom:longitude":42.9194,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.QS.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123402,
-    "wof:geomhash":"b3d9ad40d973fdc359ec51c49b57ef8a",
+    "wof:geomhash":"aec5447e0e73411c277e057f704b4b70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720653,
-    "wof:lastmodified":1627522745,
+    "wof:lastmodified":1695886453,
     "wof:name":"Ar-Rass",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

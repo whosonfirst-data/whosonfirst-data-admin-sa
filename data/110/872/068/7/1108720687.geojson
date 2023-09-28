@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.886011,
-    "geom:area_square_m":31892233912.602997,
+    "geom:area_square_m":31892233970.987362,
     "geom:bbox":"41.455996,24.986709,44.984261,28.252979",
     "geom:latitude":26.646941,
     "geom:longitude":43.504925,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.QS.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123423,
-    "wof:geomhash":"a4a45131a21bfaedf4e0bb5b3d5446fb",
+    "wof:geomhash":"b5f01ee3289831ff903212f99b5bf985",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720687,
-    "wof:lastmodified":1636496659,
+    "wof:lastmodified":1695886726,
     "wof:name":"Buraydah",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

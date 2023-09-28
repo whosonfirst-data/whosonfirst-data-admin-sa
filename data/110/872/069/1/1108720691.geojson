@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.963471,
-    "geom:area_square_m":31926528668.411663,
+    "geom:area_square_m":31926528668.842224,
     "geom:bbox":"38.1809,28.370765,40.937218,31.296151",
     "geom:latitude":29.390355,
     "geom:longitude":39.532097,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JF.DJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123426,
-    "wof:geomhash":"4531d99eb330be11d6d7a050d69d2d32",
+    "wof:geomhash":"c488be99e45deb66ad25d802473241b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720691,
-    "wof:lastmodified":1627522747,
+    "wof:lastmodified":1695886455,
     "wof:name":"Dawamat al-Jandal",
     "wof:parent_id":85676843,
     "wof:placetype":"county",

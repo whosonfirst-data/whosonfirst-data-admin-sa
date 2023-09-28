@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.065963,
-    "geom:area_square_m":11688484006.851379,
+    "geom:area_square_m":11688484006.851313,
     "geom:bbox":"35.0454353738,26.8102466205,36.7301070749,28.3121450359",
     "geom:latitude":27.52694,
     "geom:longitude":35.991984,
@@ -118,9 +118,10 @@
     "wof:concordances":{
         "hasc:id":"SA.TB.DU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123427,
-    "wof:geomhash":"a0b065424761121a7915cadd8ab7cbc9",
+    "wof:geomhash":"808142eaec6789dc2c6ac7fc232d648d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108720693,
-    "wof:lastmodified":1566638389,
+    "wof:lastmodified":1695886312,
     "wof:name":"Duba",
     "wof:parent_id":85676833,
     "wof:placetype":"county",

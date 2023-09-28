@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.952965,
-    "geom:area_square_m":11135391868.861103,
+    "geom:area_square_m":11135391467.253208,
     "geom:bbox":"49.787516,18.725174,52.002109,19.333681",
     "geom:latitude":19.092087,
     "geom:longitude":50.925713,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.NJ.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123373,
-    "wof:geomhash":"849301dda7fb0da8d6e9ca4a2823aa3f",
+    "wof:geomhash":"6d7f47b9292a1cf3cb9e530e2146ecea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720597,
-    "wof:lastmodified":1627522742,
+    "wof:lastmodified":1695886448,
     "wof:name":"Al-Kharkhir",
     "wof:parent_id":85676809,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.448739,
-    "geom:area_square_m":5013364616.942466,
+    "geom:area_square_m":5013364078.049443,
     "geom:bbox":"44.66316,24.91776,45.750096,25.809883",
     "geom:latitude":25.375748,
     "geom:longitude":45.136995,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123462,
-    "wof:geomhash":"2a367294a8ef47be07ffe2faa2675591",
+    "wof:geomhash":"c7dcd6f52d42c4699569d0eed1fe5a3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720763,
-    "wof:lastmodified":1627522750,
+    "wof:lastmodified":1695886460,
     "wof:name":"Shaqra",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

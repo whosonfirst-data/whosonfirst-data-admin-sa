@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.495341,
-    "geom:area_square_m":16479918065.542677,
+    "geom:area_square_m":16479916885.446939,
     "geom:bbox":"47.848156,26.009043,49.201253,27.93858",
     "geom:latitude":26.962133,
     "geom:longitude":48.522671,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.NU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123387,
-    "wof:geomhash":"10cfbf35aa75261818b40b8568503f27",
+    "wof:geomhash":"685662ef68d504ff96a1272c060d32ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720623,
-    "wof:lastmodified":1627522743,
+    "wof:lastmodified":1695886449,
     "wof:name":"Al-Nuayriyah",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

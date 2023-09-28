@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.707614,
-    "geom:area_square_m":8304640101.730707,
+    "geom:area_square_m":8304639707.667048,
     "geom:bbox":"41.414528,17.486969,43.35326,19.203694",
     "geom:latitude":18.350749,
     "geom:longitude":42.288551,
@@ -226,9 +226,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123342,
-    "wof:geomhash":"693d106758179a2ab5f159023b3534cd",
+    "wof:geomhash":"f29142a9b66cb0581f1a066f7da7a905",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -238,7 +239,7 @@
         }
     ],
     "wof:id":1108720533,
-    "wof:lastmodified":1636496659,
+    "wof:lastmodified":1695886726,
     "wof:name":"Abha",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

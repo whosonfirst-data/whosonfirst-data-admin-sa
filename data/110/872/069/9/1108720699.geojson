@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.886973,
-    "geom:area_square_m":42335181830.376312,
+    "geom:area_square_m":42335181848.014374,
     "geom:bbox":"44.366465,27.007156,47.720415,29.130772",
     "geom:latitude":28.254852,
     "geom:longitude":46.080999,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.HB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123430,
-    "wof:geomhash":"ae040f9b913f3c0bad845b874650d8dd",
+    "wof:geomhash":"d7c8993a0bb693ffb2309fc947a30d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720699,
-    "wof:lastmodified":1627522747,
+    "wof:lastmodified":1695886456,
     "wof:name":"Hafar al-Batin",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

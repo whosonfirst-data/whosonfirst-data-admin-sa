@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022616,
-    "geom:area_square_m":249659862.938057,
+    "geom:area_square_m":249660278.0021,
     "geom:bbox":"49.800258,26.625389,50.164612,26.857889",
     "geom:latitude":26.776311,
     "geom:longitude":49.957772,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.RT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123453,
-    "wof:geomhash":"38b512ff85985ca3d49711ff16aa3c62",
+    "wof:geomhash":"281d651adafda1dba9062f29a47bffac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720745,
-    "wof:lastmodified":1627522749,
+    "wof:lastmodified":1695886459,
     "wof:name":"Ras Tannurah",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

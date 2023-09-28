@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139832,
-    "geom:area_square_m":1651348672.958505,
+    "geom:area_square_m":1651348672.95857,
     "geom:bbox":"42.3802872159,16.9975130941,42.9125676524,17.4591979734",
     "geom:latitude":17.241819,
     "geom:longitude":42.638389,
@@ -97,9 +97,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123458,
-    "wof:geomhash":"8a787f13a390cd6c6e78227879284da0",
+    "wof:geomhash":"06bbe3d688f035a086fd3604fd1a50ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108720753,
-    "wof:lastmodified":1566638379,
+    "wof:lastmodified":1695886311,
     "wof:name":"Sabya",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

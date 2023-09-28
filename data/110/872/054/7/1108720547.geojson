@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.246496,
-    "geom:area_square_m":25434354630.529942,
+    "geom:area_square_m":25434354853.908916,
     "geom:bbox":"41.681567,22.418172,43.680469,24.732147",
     "geom:latitude":23.700691,
     "geom:longitude":42.830264,
@@ -127,9 +127,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.AF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123348,
-    "wof:geomhash":"86bd8c6bba946550dbe43bc649b86734",
+    "wof:geomhash":"7f3aac2ff4ddb148abbba91062e26310",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108720547,
-    "wof:lastmodified":1627522741,
+    "wof:lastmodified":1695886445,
     "wof:name":"Afif",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.42729,
-    "geom:area_square_m":26933247652.739384,
+    "geom:area_square_m":26933248272.808632,
     "geom:bbox":"39.904144,25.258007,42.011287,27.271543",
     "geom:latitude":26.18372,
     "geom:longitude":40.937838,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.HA.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123362,
-    "wof:geomhash":"b4c443ecf128f7dc2e0b0a626d33deaf",
+    "wof:geomhash":"52112cb769e4582495c6407f7c5598bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720573,
-    "wof:lastmodified":1627522742,
+    "wof:lastmodified":1695886447,
     "wof:name":"Al-Ghazalah",
     "wof:parent_id":85676831,
     "wof:placetype":"county",

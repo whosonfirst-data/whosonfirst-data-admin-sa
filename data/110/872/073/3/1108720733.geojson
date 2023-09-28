@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.592461,
-    "geom:area_square_m":28508162339.742985,
+    "geom:area_square_m":28508162273.733318,
     "geom:bbox":"45.779915,26.29081,48.170635,28.022526",
     "geom:latitude":27.209992,
     "geom:longitude":47.06075,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.QU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123447,
-    "wof:geomhash":"2b7409c732cb5e8773a81cda8bef8fb8",
+    "wof:geomhash":"7fa8da7a16ea800e46ff520c1887472c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720733,
-    "wof:lastmodified":1627522749,
+    "wof:lastmodified":1695886458,
     "wof:name":"Qaryah al-Ulya",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.839336,
-    "geom:area_square_m":52949013185.457375,
+    "geom:area_square_m":52949014113.433716,
     "geom:bbox":"39.117649,26.101995,42.302826,28.922846",
     "geom:latitude":27.758772,
     "geom:longitude":40.769777,
@@ -193,9 +193,10 @@
     "wof:concordances":{
         "hasc:id":"SA.HA.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123431,
-    "wof:geomhash":"48e6a2530fe7e55fa29b3817e17f8849",
+    "wof:geomhash":"75c2d273dec68e6cf1ffaabd8c3f2514",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1108720703,
-    "wof:lastmodified":1636496658,
+    "wof:lastmodified":1695886726,
     "wof:name":"Ha'il",
     "wof:parent_id":85676831,
     "wof:placetype":"county",

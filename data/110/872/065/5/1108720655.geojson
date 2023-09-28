@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069009,
-    "geom:area_square_m":813162751.758742,
+    "geom:area_square_m":813162653.862687,
     "geom:bbox":"42.640687,17.518858,43.054727,17.796261",
     "geom:latitude":17.645806,
     "geom:longitude":42.826936,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123409,
-    "wof:geomhash":"e330ff0eaf7b9662b24c61adf02d03c3",
+    "wof:geomhash":"0d2789d70d6cf0eacf3bf614914caa92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720655,
-    "wof:lastmodified":1627522745,
+    "wof:lastmodified":1695886453,
     "wof:name":"Ar-Rayth",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

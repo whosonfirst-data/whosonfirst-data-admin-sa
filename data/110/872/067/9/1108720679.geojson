@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126513,
-    "geom:area_square_m":1469994284.511765,
+    "geom:area_square_m":1469994248.776489,
     "geom:bbox":"41.500664,19.699869,41.975208,20.301298",
     "geom:latitude":20.001814,
     "geom:longitude":41.731126,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.BA.BI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123420,
-    "wof:geomhash":"4cc57e887c9bca7e8dec4e9f7ec1ad40",
+    "wof:geomhash":"ea5d4b141dc2d505261dfa1aa1568e69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720679,
-    "wof:lastmodified":1627522746,
+    "wof:lastmodified":1695886455,
     "wof:name":"Biljurashi",
     "wof:parent_id":85676847,
     "wof:placetype":"county",

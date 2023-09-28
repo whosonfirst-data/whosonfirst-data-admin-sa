@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.104054,
-    "geom:area_square_m":12919633859.571539,
+    "geom:area_square_m":12919633650.131891,
     "geom:bbox":"43.918585,18.183455,45.360265,19.450422",
     "geom:latitude":18.848152,
     "geom:longitude":44.717026,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.NJ.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123477,
-    "wof:geomhash":"9618da1856dbf8df88371caf3fb04b62",
+    "wof:geomhash":"85c7263314c946d215516b77ea6e77ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720793,
-    "wof:lastmodified":1627522751,
+    "wof:lastmodified":1695886462,
     "wof:name":"Yadamah",
     "wof:parent_id":85676809,
     "wof:placetype":"county",

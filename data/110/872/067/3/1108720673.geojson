@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162926,
-    "geom:area_square_m":1896548135.436987,
+    "geom:area_square_m":1896547940.333606,
     "geom:bbox":"41.703518,19.335906,42.158894,20.091114",
     "geom:latitude":19.711788,
     "geom:longitude":41.945468,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123417,
-    "wof:geomhash":"95131768e601115430ed9b31d88f18f9",
+    "wof:geomhash":"712e1cd815dd03e6518224e9cdb50093",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720673,
-    "wof:lastmodified":1627522746,
+    "wof:lastmodified":1695886454,
     "wof:name":"Balqarn",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

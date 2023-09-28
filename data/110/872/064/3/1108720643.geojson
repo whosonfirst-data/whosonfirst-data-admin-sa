@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.021076,
-    "geom:area_square_m":11305917997.224131,
+    "geom:area_square_m":11305917577.056858,
     "geom:bbox":"36.046276,25.758872,37.59189,27.182322",
     "geom:latitude":26.430184,
     "geom:longitude":36.822168,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.TB.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123397,
-    "wof:geomhash":"2fbb8b98eb5cd4c7b735c5493c5d5f79",
+    "wof:geomhash":"b1e37b6fe40ae3bb4f8d099361a1f751",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720643,
-    "wof:lastmodified":1627522744,
+    "wof:lastmodified":1695886452,
     "wof:name":"Al-Wajh",
     "wof:parent_id":85676833,
     "wof:placetype":"county",

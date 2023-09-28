@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.22444,
-    "geom:area_square_m":25062786697.82785,
+    "geom:area_square_m":25062786723.436535,
     "geom:bbox":"38.667727,23.005741,40.630652,25.495667",
     "geom:latitude":24.3231,
     "geom:longitude":39.631858,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MD.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123378,
-    "wof:geomhash":"f28622a7ac9d82f8339a07ba974ec120",
+    "wof:geomhash":"a7524b2d730cb1e370919e2556e2dce3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720605,
-    "wof:lastmodified":1627522743,
+    "wof:lastmodified":1695886448,
     "wof:name":"Al-Madinah",
     "wof:parent_id":85676825,
     "wof:placetype":"county",

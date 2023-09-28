@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16264,
-    "geom:area_square_m":1807760038.702727,
+    "geom:area_square_m":1807760356.495803,
     "geom:bbox":"44.611189,25.686248,45.177001,26.200479",
     "geom:latitude":25.985722,
     "geom:longitude":44.887238,
@@ -91,9 +91,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123361,
-    "wof:geomhash":"c5da4b7e5380d21a1b5e541ccc32a789",
+    "wof:geomhash":"ee5f2cd8d5a10951f21772eb73d6dfca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108720571,
-    "wof:lastmodified":1627522741,
+    "wof:lastmodified":1695886447,
     "wof:name":"Al-Ghat",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

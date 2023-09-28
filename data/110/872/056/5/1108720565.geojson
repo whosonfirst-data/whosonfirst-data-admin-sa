@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115474,
-    "geom:area_square_m":1285608410.19654,
+    "geom:area_square_m":1285608768.84748,
     "geom:bbox":"43.626646,25.472136,43.939548,26.162736",
     "geom:latitude":25.792338,
     "geom:longitude":43.777556,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.QS.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123358,
-    "wof:geomhash":"3daa67bfb845a61ee52a0df9c33f8b98",
+    "wof:geomhash":"17d4af6470e84e8ed8fb28bbf9407da0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720565,
-    "wof:lastmodified":1627522741,
+    "wof:lastmodified":1695886446,
     "wof:name":"Al-Badai",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.206969,
-    "geom:area_square_m":24787072527.395809,
+    "geom:area_square_m":24787072368.946472,
     "geom:bbox":"39.849578,23.507845,42.133235,25.599428",
     "geom:latitude":24.724926,
     "geom:longitude":40.976379,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MD.HI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123365,
-    "wof:geomhash":"ef6e1e4ffebe36a78f15771def14d268",
+    "wof:geomhash":"5838d7a77e37f538effec1889c917828",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720581,
-    "wof:lastmodified":1627522742,
+    "wof:lastmodified":1695886447,
     "wof:name":"Al-Hinakiyah",
     "wof:parent_id":85676825,
     "wof:placetype":"county",

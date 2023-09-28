@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":36.094469,
-    "geom:area_square_m":413423161934.793457,
+    "geom:area_square_m":413423168413.036499,
     "geom:bbox":"47.526772,19.000336,55.6667,26.601031",
     "geom:latitude":22.079082,
     "geom:longitude":50.943091,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.AH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123353,
-    "wof:geomhash":"91872895ebbce3554d151424e55c5721",
+    "wof:geomhash":"a656bc904bb3fa8190f79f838cacd653",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108720555,
-    "wof:lastmodified":1627522744,
+    "wof:lastmodified":1695886450,
     "wof:name":"Al-Ahsa",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

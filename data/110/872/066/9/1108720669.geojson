@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126236,
-    "geom:area_square_m":1486027400.765586,
+    "geom:area_square_m":1486027211.291849,
     "geom:bbox":"43.596377,17.517098,43.922799,18.175909",
     "geom:latitude":17.821645,
     "geom:longitude":43.75346,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.NJ.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123415,
-    "wof:geomhash":"4bccbae7de6cd48dc0427a64a319810c",
+    "wof:geomhash":"4612d84f1181d6999ee3353fad7c06a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720669,
-    "wof:lastmodified":1627522746,
+    "wof:lastmodified":1695886454,
     "wof:name":"Badr al-Janub",
     "wof:parent_id":85676809,
     "wof:placetype":"county",

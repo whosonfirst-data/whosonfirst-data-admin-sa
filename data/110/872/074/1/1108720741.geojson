@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.194404,
-    "geom:area_square_m":45274770817.386826,
+    "geom:area_square_m":45274771267.519035,
     "geom:bbox":"41.400469,28.255783,45.731338,30.483964",
     "geom:latitude":29.194343,
     "geom:longitude":43.544794,
@@ -136,9 +136,10 @@
     "wof:concordances":{
         "hasc:id":"SA.HS.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123451,
-    "wof:geomhash":"5915cdcf65ec446c65390be882c28154",
+    "wof:geomhash":"6cc857f3f2b5e0e41d01daf96ff4d19b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108720741,
-    "wof:lastmodified":1636496659,
+    "wof:lastmodified":1695886727,
     "wof:name":"Rafha",
     "wof:parent_id":85676837,
     "wof:placetype":"county",

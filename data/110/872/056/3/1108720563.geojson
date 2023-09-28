@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302085,
-    "geom:area_square_m":3329810002.358619,
+    "geom:area_square_m":3329809724.500468,
     "geom:bbox":"43.768022,26.559482,44.823401,27.340981",
     "geom:latitude":26.945356,
     "geom:longitude":44.165485,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.QS.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123357,
-    "wof:geomhash":"1077de27e39828a805e5b2f1ba470504",
+    "wof:geomhash":"e7920e45170612d24dc6c76d756deaee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720563,
-    "wof:lastmodified":1627522741,
+    "wof:lastmodified":1695886446,
     "wof:name":"Al-Asyah",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.253728,
-    "geom:area_square_m":2819804162.987422,
+    "geom:area_square_m":2819804114.826417,
     "geom:bbox":"44.139734,25.488803,44.799518,26.589626",
     "geom:latitude":26.00124,
     "geom:longitude":44.470916,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.QS.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123411,
-    "wof:geomhash":"7a65d0cea2dbc3fa2059f0b270629ec6",
+    "wof:geomhash":"e4fa7bfdfe647b0aa2ba3d1d95f2b140",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720659,
-    "wof:lastmodified":1627522745,
+    "wof:lastmodified":1695886453,
     "wof:name":"Ash-Shimasiyah",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

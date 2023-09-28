@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247674,
-    "geom:area_square_m":2914771050.184605,
+    "geom:area_square_m":2914770730.987321,
     "geom:bbox":"43.221846,17.366667,43.820587,18.351377",
     "geom:latitude":17.869335,
     "geom:longitude":43.516527,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.ZJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123479,
-    "wof:geomhash":"e899ab079ed5123641d95ad9370cc2aa",
+    "wof:geomhash":"8a7b2b21e23dea95bbbe47c12e8b1fa0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720797,
-    "wof:lastmodified":1627522752,
+    "wof:lastmodified":1695886463,
     "wof:name":"Zahran al-Janub",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

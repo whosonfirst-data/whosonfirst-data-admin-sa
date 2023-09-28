@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.616028,
-    "geom:area_square_m":7100407592.78849,
+    "geom:area_square_m":7100407115.736799,
     "geom:bbox":"41.14889,20.574949,42.040777,21.86002",
     "geom:latitude":21.22667,
     "geom:longitude":41.598941,
@@ -85,9 +85,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.TU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123471,
-    "wof:geomhash":"501aaaa98a33b676ddb22c16ad1bcc0c",
+    "wof:geomhash":"324c2a107e4800ebdbaa3623488a38f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108720781,
-    "wof:lastmodified":1627522751,
+    "wof:lastmodified":1695886461,
     "wof:name":"Turubah",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

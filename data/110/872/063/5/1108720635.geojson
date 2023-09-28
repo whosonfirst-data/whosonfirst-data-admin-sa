@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.927817,
-    "geom:area_square_m":9826677128.458679,
+    "geom:area_square_m":9826677043.56422,
     "geom:bbox":"37.000897,29.943484,38.748978,31.749722",
     "geom:latitude":31.068534,
     "geom:longitude":37.841154,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JF.QU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123392,
-    "wof:geomhash":"a7eb41a927a3a26faedb7d59bb036bda",
+    "wof:geomhash":"56526996217c61102c8e67ca970565db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720635,
-    "wof:lastmodified":1627522744,
+    "wof:lastmodified":1695886451,
     "wof:name":"Al-Qurayyat",
     "wof:parent_id":85676843,
     "wof:placetype":"county",

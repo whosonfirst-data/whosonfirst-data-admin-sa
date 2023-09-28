@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0901,
-    "geom:area_square_m":1067830921.372284,
+    "geom:area_square_m":1067831137.757949,
     "geom:bbox":"42.707863,16.379528,43.193,16.765465",
     "geom:latitude":16.570418,
     "geom:longitude":42.934601,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123460,
-    "wof:geomhash":"3e9fc93befc33de5cf2ef01d1c9fbd46",
+    "wof:geomhash":"9836be246758fa5322b34f5d3addcf92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108720759,
-    "wof:lastmodified":1627522750,
+    "wof:lastmodified":1695886460,
     "wof:name":"Samtah",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.342338,
-    "geom:area_square_m":3789828077.165712,
+    "geom:area_square_m":3789828576.668061,
     "geom:bbox":"42.601537,26.063883,43.770759,26.760025",
     "geom:latitude":26.454127,
     "geom:longitude":43.197591,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.QS.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123360,
-    "wof:geomhash":"fcd1801d83151a8906293d1162fa3d8f",
+    "wof:geomhash":"4ba76565ffcc4249a34fc395fdabadac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720569,
-    "wof:lastmodified":1627522741,
+    "wof:lastmodified":1695886446,
     "wof:name":"Al-Bukayriyah",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

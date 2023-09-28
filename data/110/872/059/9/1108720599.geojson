@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057732,
-    "geom:area_square_m":640283624.702861,
+    "geom:area_square_m":640283566.19332,
     "geom:bbox":"49.913664,25.984673,50.244836,26.421149",
     "geom:latitude":26.243408,
     "geom:longitude":50.113868,
@@ -85,12 +85,13 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123375,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"7640083db88d7e45b49b7eb5f38cc4d0",
+    "wof:geomhash":"eaece7d17b0a21414e17f26a85c38f38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108720599,
-    "wof:lastmodified":1627522748,
+    "wof:lastmodified":1695886457,
     "wof:name":"Al-Khubar",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

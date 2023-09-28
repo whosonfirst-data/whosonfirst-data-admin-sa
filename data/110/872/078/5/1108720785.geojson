@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17076,
-    "geom:area_square_m":1898636311.160678,
+    "geom:area_square_m":1898636153.582861,
     "geom:bbox":"43.778027,25.610935,44.268723,26.218807",
     "geom:latitude":25.94711,
     "geom:longitude":44.01183,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.QS.UN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123473,
-    "wof:geomhash":"b8c929f6e52c42e9235451790b2a5cb7",
+    "wof:geomhash":"f0c5839e8d898d821f4e28753dc065a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720785,
-    "wof:lastmodified":1627522751,
+    "wof:lastmodified":1695886461,
     "wof:name":"Unayzah",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

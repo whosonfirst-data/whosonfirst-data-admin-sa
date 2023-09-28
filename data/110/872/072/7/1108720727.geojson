@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.748286,
-    "geom:area_square_m":8624728880.060392,
+    "geom:area_square_m":8624728562.886652,
     "geom:bbox":"39.313791,20.615665,40.473299,21.849075",
     "geom:latitude":21.228791,
     "geom:longitude":39.830291,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123444,
-    "wof:geomhash":"1ea3ddf387cad5b686a97fca53b3bf8d",
+    "wof:geomhash":"af6bc76dc2af1aab8e9103df5ee375ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720727,
-    "wof:lastmodified":1627522748,
+    "wof:lastmodified":1695886458,
     "wof:name":"Makka",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

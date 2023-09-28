@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.162223,
-    "geom:area_square_m":47637169800.668297,
+    "geom:area_square_m":47637170034.05864,
     "geom:bbox":"40.188916,20.323427,42.877341,23.694888",
     "geom:latitude":22.229407,
     "geom:longitude":41.416884,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123395,
-    "wof:geomhash":"a716528219cb8a1264610f0e315cb6ea",
+    "wof:geomhash":"309fc782de89ef4ab6006f2f93f8d553",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720639,
-    "wof:lastmodified":1627522745,
+    "wof:lastmodified":1695886452,
     "wof:name":"Al-Taif",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

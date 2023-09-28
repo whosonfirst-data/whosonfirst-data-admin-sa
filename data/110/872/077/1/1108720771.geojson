@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.397637,
-    "geom:area_square_m":37172235200.9394,
+    "geom:area_square_m":37172235200.938782,
     "geom:bbox":"37.3579141007,26.7699213909,40.0605051217,28.939623251",
     "geom:latitude":27.769867,
     "geom:longitude":38.654307,
@@ -118,9 +118,10 @@
     "wof:concordances":{
         "hasc:id":"SA.TB.TY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123467,
-    "wof:geomhash":"0abf88464f0823aba612996a6124c3cc",
+    "wof:geomhash":"6ff203a55a6016a20b44953c73e6841d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108720771,
-    "wof:lastmodified":1566638359,
+    "wof:lastmodified":1695886310,
     "wof:name":"Tayma",
     "wof:parent_id":85676833,
     "wof:placetype":"county",

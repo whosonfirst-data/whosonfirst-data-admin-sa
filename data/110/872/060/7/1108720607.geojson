@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.184117,
-    "geom:area_square_m":24760062285.099182,
+    "geom:area_square_m":24760063134.068462,
     "geom:bbox":"39.779536,22.523459,42.157219,24.503756",
     "geom:latitude":23.532601,
     "geom:longitude":40.946947,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MD.MH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123379,
-    "wof:geomhash":"5287f1b2b0485ed799dc73b972989c75",
+    "wof:geomhash":"03877ee2f27798dc6b43c4a519e10652",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720607,
-    "wof:lastmodified":1627522743,
+    "wof:lastmodified":1695886449,
     "wof:name":"Al-Mahd",
     "wof:parent_id":85676825,
     "wof:placetype":"county",

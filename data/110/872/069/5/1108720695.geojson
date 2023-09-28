@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214519,
-    "geom:area_square_m":2410581440.762859,
+    "geom:area_square_m":2410581942.974004,
     "geom:bbox":"45.713585,24.390044,46.656119,24.948223",
     "geom:latitude":24.663771,
     "geom:longitude":46.099291,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.DR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123428,
-    "wof:geomhash":"acb41e9ee4b6ab5de8836d1a5e55a6b3",
+    "wof:geomhash":"31ba53a4495d84dc7767b88eb53fb1e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720695,
-    "wof:lastmodified":1627522747,
+    "wof:lastmodified":1695886456,
     "wof:name":"Duruma",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

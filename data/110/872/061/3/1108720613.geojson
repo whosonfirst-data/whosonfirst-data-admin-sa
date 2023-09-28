@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.198419,
-    "geom:area_square_m":24346976969.617828,
+    "geom:area_square_m":24346976636.36166,
     "geom:bbox":"44.832132,25.380662,46.630442,27.700039",
     "geom:latitude":26.405012,
     "geom:longitude":45.636363,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123381,
-    "wof:geomhash":"ce28dd10390886ae923b3a5b4346e68f",
+    "wof:geomhash":"0f7984d8779ba4c063a4660d3f3c1ba0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720613,
-    "wof:lastmodified":1627522744,
+    "wof:lastmodified":1695886451,
     "wof:name":"Al-Majmaah",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

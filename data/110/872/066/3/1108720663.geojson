@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.125866,
-    "geom:area_square_m":59447476684.897408,
+    "geom:area_square_m":59447475126.607552,
     "geom:bbox":"45.015133,19.211674,48.181079,21.487498",
     "geom:latitude":20.288098,
     "geom:longitude":46.452429,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123413,
-    "wof:geomhash":"6b421c08643ae885d55abd62b4f38716",
+    "wof:geomhash":"425f09ec4238fb5f16a838a1163e3868",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720663,
-    "wof:lastmodified":1627522745,
+    "wof:lastmodified":1695886454,
     "wof:name":"As-Sulayyil",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

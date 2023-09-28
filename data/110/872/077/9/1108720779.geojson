@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.852189,
-    "geom:area_square_m":19525447537.763157,
+    "geom:area_square_m":19525446280.468166,
     "geom:bbox":"37.913392,30.859217,40.134783,32.154284",
     "geom:latitude":31.509583,
     "geom:longitude":39.004458,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.HS.TU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123470,
-    "wof:geomhash":"8b813e7b43dc1c6cbeae777453d739e3",
+    "wof:geomhash":"28df1aa52c4698550ebd22ca48c0d754",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720779,
-    "wof:lastmodified":1627522751,
+    "wof:lastmodified":1695886461,
     "wof:name":"Turayf",
     "wof:parent_id":85676837,
     "wof:placetype":"county",

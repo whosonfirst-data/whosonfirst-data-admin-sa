@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.414397,
-    "geom:area_square_m":28120180901.771072,
+    "geom:area_square_m":28120180424.083717,
     "geom:bbox":"42.897247,18.255187,44.484583,20.802293",
     "geom:latitude":19.616725,
     "geom:longitude":43.626645,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123466,
-    "wof:geomhash":"dcb140d25a3b3149b3b00b31d17d7af2",
+    "wof:geomhash":"892507440876d588f35d5c4fc48a2c7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720769,
-    "wof:lastmodified":1627522750,
+    "wof:lastmodified":1695886460,
     "wof:name":"Tathlith",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

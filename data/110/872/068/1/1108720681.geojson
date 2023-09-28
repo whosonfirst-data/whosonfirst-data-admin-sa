@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.103836,
-    "geom:area_square_m":12839007285.717012,
+    "geom:area_square_m":12839007640.494631,
     "geom:bbox":"41.873487,18.991149,43.110071,20.589775",
     "geom:latitude":19.836604,
     "geom:longitude":42.56768,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.BI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123421,
-    "wof:geomhash":"148cb841a0bfed74341f93a0d63ff009",
+    "wof:geomhash":"d7c2f53ed23f6bce5e0a96c279e1f7df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720681,
-    "wof:lastmodified":1627522746,
+    "wof:lastmodified":1695886455,
     "wof:name":"Bishah",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058867,
-    "geom:area_square_m":650695159.402062,
+    "geom:area_square_m":650695796.700502,
     "geom:bbox":"49.746948,26.447862,50.092288,26.771677",
     "geom:latitude":26.627709,
     "geom:longitude":49.920851,
@@ -100,12 +100,13 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.QA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123389,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"1ad06c180afc98b7392ca255743c6ef3",
+    "wof:geomhash":"9562a889f612747429b200eb58899768",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108720627,
-    "wof:lastmodified":1636496658,
+    "wof:lastmodified":1695886726,
     "wof:name":"Al-Qatif",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

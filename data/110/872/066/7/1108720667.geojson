@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.486977,
-    "geom:area_square_m":5387714476.203178,
+    "geom:area_square_m":5387714674.048528,
     "geom:bbox":"44.381877,25.969883,45.09763,27.017581",
     "geom:latitude":26.524419,
     "geom:longitude":44.692572,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.ZU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123414,
-    "wof:geomhash":"9aac39beeb492ba65e32172e6a47ee38",
+    "wof:geomhash":"ac8355f870dd60e15716f2cb56620f73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720667,
-    "wof:lastmodified":1627522752,
+    "wof:lastmodified":1695886463,
     "wof:name":"Az-Zulfi",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

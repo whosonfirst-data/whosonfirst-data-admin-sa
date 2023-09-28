@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.711797,
-    "geom:area_square_m":8054273280.92277,
+    "geom:area_square_m":8054273169.966339,
     "geom:bbox":"38.376705,23.15481,39.511702,24.502928",
     "geom:latitude":23.778186,
     "geom:longitude":38.972967,
@@ -109,9 +109,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MD.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123416,
-    "wof:geomhash":"75c0bf89b68f066052390f89e17e7713",
+    "wof:geomhash":"366a5716f14d8e319ecc069a7969fe05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108720671,
-    "wof:lastmodified":1627522746,
+    "wof:lastmodified":1695886454,
     "wof:name":"Badr",
     "wof:parent_id":85676825,
     "wof:placetype":"county",

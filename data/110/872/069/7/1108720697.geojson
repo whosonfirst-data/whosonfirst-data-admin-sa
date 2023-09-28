@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060962,
-    "geom:area_square_m":721692858.474314,
+    "geom:area_square_m":721692751.338561,
     "geom:bbox":"41.564556,16.531195,42.192028,17.07625",
     "geom:latitude":16.783139,
     "geom:longitude":41.936899,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123429,
-    "wof:geomhash":"6b360fb5be2a239ffd0d3fc7fe12482e",
+    "wof:geomhash":"33bdf386851acf730981cf65e4dc585e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720697,
-    "wof:lastmodified":1627522747,
+    "wof:lastmodified":1695886456,
     "wof:name":"Farasan",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

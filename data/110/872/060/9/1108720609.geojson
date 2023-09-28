@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218309,
-    "geom:area_square_m":2552343095.892447,
+    "geom:area_square_m":2552342854.568588,
     "geom:bbox":"41.439876,18.760309,42.162596,19.361816",
     "geom:latitude":19.000829,
     "geom:longitude":41.823953,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123380,
-    "wof:geomhash":"655907650ddb2e0276fca781fbab6292",
+    "wof:geomhash":"6034e71299e2cccbeccd66801a34a00e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720609,
-    "wof:lastmodified":1627522743,
+    "wof:lastmodified":1695886449,
     "wof:name":"Al-Majardah",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

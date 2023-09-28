@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.527837,
-    "geom:area_square_m":6182646965.228278,
+    "geom:area_square_m":6182647334.998175,
     "geom:bbox":"42.476878,18.148913,43.460489,19.124225",
     "geom:latitude":18.688004,
     "geom:longitude":42.907195,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123439,
-    "wof:geomhash":"cbf89302420de3d802bcc8283706162c",
+    "wof:geomhash":"5dcbcf3f587038f2a5b09fe115e79aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720717,
-    "wof:lastmodified":1627522748,
+    "wof:lastmodified":1695886457,
     "wof:name":"Khamis Mushayt",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

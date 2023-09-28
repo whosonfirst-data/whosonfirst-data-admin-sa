@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08079,
-    "geom:area_square_m":955500432.315196,
+    "geom:area_square_m":955500743.124969,
     "geom:bbox":"42.60564,16.825966,43.04322,17.160216",
     "geom:latitude":16.966495,
     "geom:longitude":42.828081,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.AA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123343,
-    "wof:geomhash":"90cf08d0bd39cfcd06dd4806d94e112e",
+    "wof:geomhash":"5fffd75c379a6bb10e99ae2937604cef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720535,
-    "wof:lastmodified":1627522740,
+    "wof:lastmodified":1695886444,
     "wof:name":"Abu Arish",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

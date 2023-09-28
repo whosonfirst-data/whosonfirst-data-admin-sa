@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.674523,
-    "geom:area_square_m":19614987204.914196,
+    "geom:area_square_m":19614988592.736549,
     "geom:bbox":"43.685888,17.330556,47.660488,19.334497",
     "geom:latitude":18.674735,
     "geom:longitude":46.508115,
@@ -184,9 +184,10 @@
     "wof:concordances":{
         "hasc:id":"SA.NJ.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123446,
-    "wof:geomhash":"f4547f1393f76e2ebf7013a96385b39f",
+    "wof:geomhash":"7155fdca2e73849b8c2899c2e4411362",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -196,7 +197,7 @@
         }
     ],
     "wof:id":1108720731,
-    "wof:lastmodified":1636496659,
+    "wof:lastmodified":1695886727,
     "wof:name":"Najran",
     "wof:parent_id":85676809,
     "wof:placetype":"county",
