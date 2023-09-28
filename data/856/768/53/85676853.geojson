@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.099311,
-    "geom:area_square_m":12982773153.293596,
+    "geom:area_square_m":12982773153.294334,
     "geom:bbox":"41.564556,16.379528,43.3365,18.049528",
     "geom:latitude":17.231539,
     "geom:longitude":42.684461,
@@ -318,16 +318,18 @@
         "gn:id":105298,
         "gp:id":2346956,
         "hasc:id":"SA.JZ",
+        "iso:code":"SA-09",
         "iso:id":"SA-09",
         "qs_pg:id":1135309,
         "unlc:id":"SA-09",
         "wd:id":"Q269973"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f152c147b8304c4e5bea0c6b0d05421",
+    "wof:geomhash":"2695b90ac37a6e969afc10450e22ee01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -342,7 +344,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860270,
+    "wof:lastmodified":1695884843,
     "wof:name":"Jizan",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

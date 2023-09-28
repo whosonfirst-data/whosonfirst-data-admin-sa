@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.253267,
-    "geom:area_square_m":140825102929.997803,
+    "geom:area_square_m":140825102929.98996,
     "geom:bbox":"38.643749,18.461195,43.829112,23.694888",
     "geom:latitude":21.628768,
     "geom:longitude":41.257286,
@@ -401,16 +401,18 @@
         "gn:id":104514,
         "gp:id":2346959,
         "hasc:id":"SA.MK",
+        "iso:code":"SA-02",
         "iso:id":"SA-02",
         "qs_pg:id":221725,
         "wd:id":"Q234167"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "meso",
         "quattroshapes"
     ],
-    "wof:geomhash":"6b3e661248a0e2a4350c0ce4794e1f29",
+    "wof:geomhash":"271afd67001f3b77601457b466c328db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -425,7 +427,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860266,
+    "wof:lastmodified":1695884464,
     "wof:name":"Makkah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

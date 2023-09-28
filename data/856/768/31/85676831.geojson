@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.673133,
-    "geom:area_square_m":117154777560.093384,
+    "geom:area_square_m":117154777560.093552,
     "geom:bbox":"39.117649,25.258007,44.367071,28.926008",
     "geom:latitude":27.400807,
     "geom:longitude":41.440619,
@@ -411,16 +411,18 @@
         "gn:id":106280,
         "gp:id":2346957,
         "hasc:id":"SA.HA",
+        "iso:code":"SA-06",
         "iso:id":"SA-06",
         "qs_pg:id":1135310,
         "unlc:id":"SA-06",
         "wd:id":"Q243656"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"831ee7d53a6dc9ce799674b73580b9a2",
+    "wof:geomhash":"9e744cddaea652def6dda57c16799055",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -435,7 +437,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860270,
+    "wof:lastmodified":1695884843,
     "wof:name":"Ha'il",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

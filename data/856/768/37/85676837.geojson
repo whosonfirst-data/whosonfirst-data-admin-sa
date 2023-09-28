@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.50669,
-    "geom:area_square_m":101576534021.219315,
+    "geom:area_square_m":101576534021.21936,
     "geom:bbox":"37.913392,28.255783,45.731338,32.154284",
     "geom:latitude":30.202684,
     "geom:longitude":41.862127,
@@ -301,15 +301,17 @@
         "gn:id":109579,
         "gp:id":2346961,
         "hasc:id":"SA.HS",
+        "iso:code":"SA-08",
         "iso:id":"SA-08",
         "qs_pg:id":1135303,
         "wd:id":"Q201781"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3c702851f8e0ede403434245cf98d0d7",
+    "wof:geomhash":"ff15f1a9887c7d400f40a5490215d330",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -324,7 +326,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860271,
+    "wof:lastmodified":1695884463,
     "wof:name":"Northern Borders",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

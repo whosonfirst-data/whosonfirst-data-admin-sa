@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.456142,
-    "geom:area_square_m":150853675884.933411,
+    "geom:area_square_m":150853675884.938812,
     "geom:bbox":"36.636475,22.523459,42.157219,27.490252",
     "geom:latitude":24.930073,
     "geom:longitude":39.490134,
@@ -361,16 +361,18 @@
         "gn:id":109224,
         "gp:id":2346958,
         "hasc:id":"SA.MD",
+        "iso:code":"SA-03",
         "iso:id":"SA-03",
         "qs_pg:id":1135311,
         "wd:id":"Q236027"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "meso",
         "quattroshapes"
     ],
-    "wof:geomhash":"bf37eba43130e05666f69af7c0b08cac",
+    "wof:geomhash":"4fde6d401dd728fa8e036c482d61ea97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -385,7 +387,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860272,
+    "wof:lastmodified":1695884463,
     "wof:name":"Al Madinah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

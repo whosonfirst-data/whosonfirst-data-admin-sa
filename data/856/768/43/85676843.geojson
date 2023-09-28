@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.158655,
-    "geom:area_square_m":87385803284.18071,
+    "geom:area_square_m":87385803284.178497,
     "geom:bbox":"37.000897,28.370765,41.993367,31.749722",
     "geom:latitude":29.971993,
     "geom:longitude":39.553051,
@@ -347,15 +347,17 @@
         "gn:id":109470,
         "gp:id":2346950,
         "hasc:id":"SA.JF",
+        "iso:code":"SA-12",
         "iso:id":"SA-12",
         "qs_pg:id":1135305,
         "wd:id":"Q1471266"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d09fbd189fb0c4d03863176c1e03297",
+    "wof:geomhash":"d7faa6c8f4167e1eb11f886ad034950a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -370,7 +372,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860269,
+    "wof:lastmodified":1695884843,
     "wof:name":"Al Jawf",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

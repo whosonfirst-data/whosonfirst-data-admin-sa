@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.956348,
-    "geom:area_square_m":11101672266.050604,
+    "geom:area_square_m":11101672266.050373,
     "geom:bbox":"40.837534,19.446056,42.128673,20.830865",
     "geom:latitude":20.147198,
     "geom:longitude":41.467053,
@@ -335,15 +335,17 @@
         "gn:id":109954,
         "gp:id":2346949,
         "hasc:id":"SA.BA",
+        "iso:code":"SA-11",
         "iso:id":"SA-11",
         "qs_pg:id":1135304,
         "wd:id":"Q852774"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1de76a4a8d80a30db853bf77f7979566",
+    "wof:geomhash":"44fa1e747a99e00bba202a6764dbb7a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -358,7 +360,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860271,
+    "wof:lastmodified":1695884464,
     "wof:name":"Al-Bahah",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

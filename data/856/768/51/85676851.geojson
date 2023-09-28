@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.614145,
-    "geom:area_square_m":77258086948.052704,
+    "geom:area_square_m":77258086948.054169,
     "geom:bbox":"41.363093,17.366667,44.484583,20.802293",
     "geom:latitude":19.137122,
     "geom:longitude":42.942466,
@@ -374,16 +374,18 @@
         "gn:id":108179,
         "gp:id":2346955,
         "hasc:id":"SA.AS",
+        "iso:code":"SA-14",
         "iso:id":"SA-14",
         "qs_pg:id":1135308,
         "unlc:id":"SA-14",
         "wd:id":"Q779855"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee13150c217ba49e8b24e3195256b6de",
+    "wof:geomhash":"e4baece555afe5a28f13d0f9a994ae1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -398,7 +400,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860267,
+    "wof:lastmodified":1695884464,
     "wof:name":"Aseer",
     "wof:parent_id":85632253,
     "wof:placetype":"region",
