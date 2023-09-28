@@ -1329,6 +1329,7 @@
         "hasc:id":"SA",
         "icao:code":"HZ",
         "ioc:id":"KSA",
+        "iso:code":"SA",
         "itu:id":"ARS",
         "loc:id":"n80131611",
         "m49:code":"682",
@@ -1343,6 +1344,7 @@
         "wk:page":"Saudi Arabia",
         "wmo:id":"SD"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:country_alpha3":"SAU",
     "wof:geom_alt":[
@@ -1365,7 +1367,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639518,
+    "wof:lastmodified":1695881173,
     "wof:name":"Saudi Arabia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
