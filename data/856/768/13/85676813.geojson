@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.11639,
-    "geom:area_square_m":376480966584.105103,
+    "geom:area_square_m":376480966584.101135,
     "geom:bbox":"41.681567,19.211674,48.237069,27.700039",
     "geom:latitude":23.08134,
     "geom:longitude":45.586126,
@@ -336,16 +336,18 @@
         "gn:id":108411,
         "gp:id":2346951,
         "hasc:id":"SA.RI",
+        "iso:code":"SA-01",
         "iso:id":"SA-01",
         "qs_pg:id":1135302,
         "unlc:id":"SA-01",
         "wd:id":"Q1249255"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b5c73d3ab76b8a83f0ad950dd7cbe24",
+    "wof:geomhash":"ead6d25d5d50bb280bf4e398a4de9c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -360,7 +362,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860271,
+    "wof:lastmodified":1695885138,
     "wof:name":"Riyadh",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

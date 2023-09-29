@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.476124,
-    "geom:area_square_m":51284436429.703049,
+    "geom:area_square_m":51284434755.27536,
     "geom:bbox":"45.363045,20.929498,48.237069,23.238347",
     "geom:latitude":22.085392,
     "geom:longitude":46.850654,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.AJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123352,
-    "wof:geomhash":"b0408953a8f481243acc9bdb05eccfe4",
+    "wof:geomhash":"e990423cbfe6a431af21383bbebf9e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720553,
-    "wof:lastmodified":1627522744,
+    "wof:lastmodified":1695886450,
     "wof:name":"Al-Aflaj",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

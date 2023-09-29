@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.880679,
-    "geom:area_square_m":20919583120.979153,
+    "geom:area_square_m":20919583120.979404,
     "geom:bbox":"38.4291238365,24.6417710108,39.9800713844,26.8910418481",
     "geom:latitude":25.893262,
     "geom:longitude":39.367477,
@@ -139,9 +139,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MD.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123440,
-    "wof:geomhash":"3ec370e2484e5ad8c8a7d0175f3e1281",
+    "wof:geomhash":"351ca9d09f78f664f1296637f883eb26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108720721,
-    "wof:lastmodified":1566638379,
+    "wof:lastmodified":1695886311,
     "wof:name":"Khaybar",
     "wof:parent_id":85676825,
     "wof:placetype":"county",

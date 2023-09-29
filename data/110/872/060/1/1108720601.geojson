@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.136634,
-    "geom:area_square_m":13032530434.143408,
+    "geom:area_square_m":13032530198.270317,
     "geom:bbox":"41.590591,21.399472,43.376103,22.883504",
     "geom:latitude":21.984396,
     "geom:longitude":42.58965,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123376,
-    "wof:geomhash":"490124ee1c1c33789f1a64b613d9d67c",
+    "wof:geomhash":"831277ef151e31092b216c3288756680",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720601,
-    "wof:lastmodified":1627522742,
+    "wof:lastmodified":1695886448,
     "wof:name":"Al-Khurmah",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

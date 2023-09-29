@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.360371,
-    "geom:area_square_m":70561240256.843811,
+    "geom:area_square_m":70561240256.844467,
     "geom:bbox":"41.300329,24.47996,44.984261,28.252979",
     "geom:latitude":26.196343,
     "geom:longitude":43.342925,
@@ -359,15 +359,17 @@
         "gn:id":108933,
         "gp:id":2346952,
         "hasc:id":"SA.QS",
+        "iso:code":"SA-05",
         "iso:id":"SA-05",
         "qs_pg:id":1135306,
         "wd:id":"Q1105411"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f822d2fe5d444b3868cf8ca1f2d67aba",
+    "wof:geomhash":"91378f4c383dc4ce88fc79dd37979210",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -382,7 +384,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860268,
+    "wof:lastmodified":1695884463,
     "wof:name":"Al-Qassim",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

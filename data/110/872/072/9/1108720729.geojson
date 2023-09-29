@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375802,
-    "geom:area_square_m":4407383063.480074,
+    "geom:area_square_m":4407383069.497556,
     "geom:bbox":"41.363093,17.889018,42.481185,18.841355",
     "geom:latitude":18.473494,
     "geom:longitude":41.942376,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123445,
-    "wof:geomhash":"b2bd6991a513c5ebffe094707647e8e2",
+    "wof:geomhash":"f696ed06778dea297143a7ab1fc8cac8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720729,
-    "wof:lastmodified":1627522749,
+    "wof:lastmodified":1695886458,
     "wof:name":"Muhayil",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355282,
-    "geom:area_square_m":3964930855.624483,
+    "geom:area_square_m":3964931091.237458,
     "geom:bbox":"45.62874,24.914596,46.467354,26.059831",
     "geom:latitude":25.505842,
     "geom:longitude":46.041231,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123468,
-    "wof:geomhash":"280d81f6eadb3dcac3dee8c6848dfe46",
+    "wof:geomhash":"24ca12ea824219edf2311749faf73743",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720775,
-    "wof:lastmodified":1627522751,
+    "wof:lastmodified":1695886460,
     "wof:name":"Thadiq",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

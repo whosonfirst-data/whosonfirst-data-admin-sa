@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057934,
-    "geom:area_square_m":684931486.382269,
+    "geom:area_square_m":684931649.836902,
     "geom:bbox":"42.949637,16.837925,43.242611,17.21648",
     "geom:latitude":17.036578,
     "geom:longitude":43.083152,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123356,
-    "wof:geomhash":"c0890fb77044df01ee6e6cfb59ef4751",
+    "wof:geomhash":"a05862030674b13cdcfe241307fdad84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720561,
-    "wof:lastmodified":1627522744,
+    "wof:lastmodified":1695886451,
     "wof:name":"Al-Aridah",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

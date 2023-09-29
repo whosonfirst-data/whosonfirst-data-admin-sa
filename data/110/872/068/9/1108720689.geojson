@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0274,
-    "geom:area_square_m":323779651.325467,
+    "geom:area_square_m":323779688.740193,
     "geom:bbox":"42.677623,17.014148,42.947416,17.244838",
     "geom:latitude":17.130753,
     "geom:longitude":42.823441,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.DM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123425,
-    "wof:geomhash":"ea3c8f8af706e91386bc4ed4e66739e1",
+    "wof:geomhash":"1ef2eb9b4edc07cee7bca74d3880e5dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720689,
-    "wof:lastmodified":1627522746,
+    "wof:lastmodified":1695886455,
     "wof:name":"Damad",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

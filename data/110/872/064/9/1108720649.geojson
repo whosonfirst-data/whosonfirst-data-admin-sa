@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183675,
-    "geom:area_square_m":2144019929.012511,
+    "geom:area_square_m":2144020162.360012,
     "geom:bbox":"41.957971,18.999108,42.539889,19.530272",
     "geom:latitude":19.262905,
     "geom:longitude":42.254683,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123400,
-    "wof:geomhash":"7e70d24ff509ccf5d04ac9df68e8c0df",
+    "wof:geomhash":"a260bb4aba07b6c3909d06f26c341734",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720649,
-    "wof:lastmodified":1627522743,
+    "wof:lastmodified":1695886450,
     "wof:name":"An-Namas",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

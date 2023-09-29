@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15677,
-    "geom:area_square_m":1842574454.79036,
+    "geom:area_square_m":1842574805.42044,
     "geom:bbox":"41.78177,17.765034,42.368037,18.441292",
     "geom:latitude":18.098079,
     "geom:longitude":42.143317,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123454,
-    "wof:geomhash":"0c1fe76f747e0c737ed5e3bec8b3f2dc",
+    "wof:geomhash":"ae488ff9f7cc93dca5c44013b69b1ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720747,
-    "wof:lastmodified":1627522749,
+    "wof:lastmodified":1695886459,
     "wof:name":"Rijal Alma",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

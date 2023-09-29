@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.716119,
-    "geom:area_square_m":19113267643.51236,
+    "geom:area_square_m":19113267333.627918,
     "geom:bbox":"46.375456,24.795863,47.775351,26.677288",
     "geom:latitude":25.744421,
     "geom:longitude":47.074405,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.RU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123456,
-    "wof:geomhash":"6b774f174bb906f63b53eb634b43add2",
+    "wof:geomhash":"622ee3b6f94de980794533e02c87207f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108720751,
-    "wof:lastmodified":1627522750,
+    "wof:lastmodified":1695886459,
     "wof:name":"Rumah",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076188,
-    "geom:area_square_m":899073463.349854,
+    "geom:area_square_m":899073389.957291,
     "geom:bbox":"42.738275,17.15067,43.098192,17.576596",
     "geom:latitude":17.378103,
     "geom:longitude":42.941155,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.ID"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123367,
-    "wof:geomhash":"443e61978632f450d54d77dc4d0bd7f6",
+    "wof:geomhash":"0280531c33d4750db49a676fa96cf742",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720583,
-    "wof:lastmodified":1627522741,
+    "wof:lastmodified":1695886447,
     "wof:name":"Al-Idabi",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

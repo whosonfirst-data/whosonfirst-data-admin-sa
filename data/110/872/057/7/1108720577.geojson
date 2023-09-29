@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.455016,
-    "geom:area_square_m":5161308686.819911,
+    "geom:area_square_m":5161308421.731634,
     "geom:bbox":"45.620225,22.907118,46.767408,23.907489",
     "geom:latitude":23.458126,
     "geom:longitude":46.180675,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123363,
-    "wof:geomhash":"bdd1b76f76fd41204c4965d86d529da7",
+    "wof:geomhash":"c1d5c489224d03a8a066c92d0b22ea71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720577,
-    "wof:lastmodified":1627522742,
+    "wof:lastmodified":1695886447,
     "wof:name":"Al-Hariq",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

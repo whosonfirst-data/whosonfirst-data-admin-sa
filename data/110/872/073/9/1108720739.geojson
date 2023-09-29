@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.596362,
-    "geom:area_square_m":6792178015.899342,
+    "geom:area_square_m":6792178015.898295,
     "geom:bbox":"38.643749237,22.3174254163,39.8828915265,23.4961803602",
     "geom:latitude":22.913884,
     "geom:longitude":39.230148,
@@ -115,9 +115,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.RB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123449,
-    "wof:geomhash":"3a678a0365598356a208d4257c06a2e4",
+    "wof:geomhash":"f49deb876b9c265bea913d0aba1bc813",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108720739,
-    "wof:lastmodified":1566638376,
+    "wof:lastmodified":1695886311,
     "wof:name":"Rabigh",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

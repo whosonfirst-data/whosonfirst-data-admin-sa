@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.484945,
-    "geom:area_square_m":27927470122.968105,
+    "geom:area_square_m":27927470415.812412,
     "geom:bbox":"43.104831,23.673166,45.210713,25.598236",
     "geom:latitude":24.64339,
     "geom:longitude":44.157791,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.DW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123347,
-    "wof:geomhash":"c106d902856764d550e85d995b7695b1",
+    "wof:geomhash":"b0e3cf696547ece04bbe482283168ee8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720545,
-    "wof:lastmodified":1627522740,
+    "wof:lastmodified":1695886445,
     "wof:name":"Ad-Duwadimi",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

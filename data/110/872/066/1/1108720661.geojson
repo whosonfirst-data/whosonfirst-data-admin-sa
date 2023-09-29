@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.106162,
-    "geom:area_square_m":12176691793.495354,
+    "geom:area_square_m":12176691833.341061,
     "geom:bbox":"41.713235,26.45185,43.450791,27.661879",
     "geom:latitude":27.094791,
     "geom:longitude":42.447799,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.HA.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123412,
-    "wof:geomhash":"19910175db3a901d885d3ec5753b77f8",
+    "wof:geomhash":"475a01c49e08e7a829d4c91b458ec6e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720661,
-    "wof:lastmodified":1627522745,
+    "wof:lastmodified":1695886453,
     "wof:name":"As-Shinan",
     "wof:parent_id":85676831,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.318158,
-    "geom:area_square_m":3686764293.538769,
+    "geom:area_square_m":3686764700.801573,
     "geom:bbox":"41.406152,20.019027,42.128673,20.792224",
     "geom:latitude":20.423782,
     "geom:longitude":41.692894,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.BA.AQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123355,
-    "wof:geomhash":"377548b75081427db2af1b5571b1156c",
+    "wof:geomhash":"2d19f4985b1eaafa6534c539a340014f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720559,
-    "wof:lastmodified":1627522741,
+    "wof:lastmodified":1695886446,
     "wof:name":"Al-Aqiq",
     "wof:parent_id":85676847,
     "wof:placetype":"county",

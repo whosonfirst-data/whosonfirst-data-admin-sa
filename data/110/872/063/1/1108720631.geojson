@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144212,
-    "geom:area_square_m":1698291804.194011,
+    "geom:area_square_m":1698291769.271469,
     "geom:bbox":"41.92492,17.448723,42.475838,18.049528",
     "geom:latitude":17.75224,
     "geom:longitude":42.202145,
@@ -68,7 +68,7 @@
     "wof:concordances":{},
     "wof:country":"SA",
     "wof:created":1476123390,
-    "wof:geomhash":"d33ff43872e02cb2888ce04c70f9e997",
+    "wof:geomhash":"ffea94aee4481ec78475c2565ecc206a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108720631,
-    "wof:lastmodified":1627522741,
+    "wof:lastmodified":1695886447,
     "wof:name":"Alddarb",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.663016,
-    "geom:area_square_m":7534027166.246427,
+    "geom:area_square_m":7534028094.593327,
     "geom:bbox":"45.926423,22.778364,47.328315,23.760702",
     "geom:latitude":23.222918,
     "geom:longitude":46.693413,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.HB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123434,
-    "wof:geomhash":"ce12c25d22f5c2cde8e7bdd8d5bdcb78",
+    "wof:geomhash":"4fd2e5d650a9299512dd59b7b4987b30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720707,
-    "wof:lastmodified":1627522748,
+    "wof:lastmodified":1695886457,
     "wof:name":"Hawtat Bani Tamim",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

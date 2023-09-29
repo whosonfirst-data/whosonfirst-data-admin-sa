@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.171553,
-    "geom:area_square_m":56095481095.878098,
+    "geom:area_square_m":56095481048.050026,
     "geom:bbox":"34.572918,27.311267,38.791957,29.991911",
     "geom:latitude":28.686343,
     "geom:longitude":36.854245,
@@ -118,9 +118,10 @@
     "wof:concordances":{
         "hasc:id":"SA.TB.TB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123464,
-    "wof:geomhash":"9d8788182101dc5f7e01cdfcd604e081",
+    "wof:geomhash":"da4712cd1a4761f9425753f1fe23c42c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108720767,
-    "wof:lastmodified":1636496658,
+    "wof:lastmodified":1695886726,
     "wof:name":"Tabuk",
     "wof:parent_id":85676833,
     "wof:placetype":"county",

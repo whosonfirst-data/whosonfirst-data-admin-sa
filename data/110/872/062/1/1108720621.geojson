@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.474028,
-    "geom:area_square_m":5349162532.787649,
+    "geom:area_square_m":5349162914.22151,
     "geom:bbox":"45.779984,23.643004,46.660673,24.555839",
     "geom:latitude":24.131731,
     "geom:longitude":46.254391,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123386,
-    "wof:geomhash":"748b3f1a05d6daf35f55f6f1b08bfab5",
+    "wof:geomhash":"a7e0fe0315a1f3e516eae646521c18fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720621,
-    "wof:lastmodified":1627522744,
+    "wof:lastmodified":1695886451,
     "wof:name":"Al-Muzahimiya",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298403,
-    "geom:area_square_m":3429321474.699464,
+    "geom:area_square_m":3429320706.080729,
     "geom:bbox":"38.917862,20.886028,39.452437,22.323637",
     "geom:latitude":21.654899,
     "geom:longitude":39.199022,
@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.JI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123438,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"b1b848a0597afbf5af757861a1671f46",
+    "wof:geomhash":"d4e117c5431f5119534406d628e3281f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108720715,
-    "wof:lastmodified":1627522747,
+    "wof:lastmodified":1695886456,
     "wof:name":"Jiddah",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

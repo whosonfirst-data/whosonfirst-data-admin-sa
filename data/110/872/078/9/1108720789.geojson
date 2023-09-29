@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.976329,
-    "geom:area_square_m":45880096191.209251,
+    "geom:area_square_m":45880097663.454964,
     "geom:bbox":"43.427806,19.306348,45.810401,22.575581",
     "geom:latitude":21.057339,
     "geom:longitude":44.606875,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.WD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123475,
-    "wof:geomhash":"392445d8fe57926df393448a480b7498",
+    "wof:geomhash":"405927a303ce74cc212a5903d4922aed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720789,
-    "wof:lastmodified":1627522751,
+    "wof:lastmodified":1695886461,
     "wof:name":"Wadi ad-Dwasir",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

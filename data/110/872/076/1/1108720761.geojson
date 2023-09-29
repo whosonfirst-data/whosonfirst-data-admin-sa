@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.2609,
-    "geom:area_square_m":3068538950.685111,
+    "geom:area_square_m":3068539544.787499,
     "geom:bbox":"42.860867,17.581806,43.466613,18.461577",
     "geom:latitude":17.978621,
     "geom:longitude":43.160805,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123461,
-    "wof:geomhash":"60809573c72ae9f8149f96eceffb9f89",
+    "wof:geomhash":"c9134380df75cb41d81fb5c5a8aa6740",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720761,
-    "wof:lastmodified":1627522750,
+    "wof:lastmodified":1695886460,
     "wof:name":"Sarat Abidah",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

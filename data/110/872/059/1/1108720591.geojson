@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.771967,
-    "geom:area_square_m":8419862627.484462,
+    "geom:area_square_m":8419862990.757814,
     "geom:bbox":"47.557404,27.460697,49.2681,28.702413",
     "geom:latitude":28.105392,
     "geom:longitude":48.203694,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.KF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123371,
-    "wof:geomhash":"07375d4c9ee705c7de8e0fb7c00b53db",
+    "wof:geomhash":"f7335484e3ec6fc43dc3ae7d553216d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720591,
-    "wof:lastmodified":1627522749,
+    "wof:lastmodified":1695886458,
     "wof:name":"Al-Khafji",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

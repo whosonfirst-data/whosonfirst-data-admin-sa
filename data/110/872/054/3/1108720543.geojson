@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116357,
-    "geom:area_square_m":1305253058.57699,
+    "geom:area_square_m":1305252521.557797,
     "geom:bbox":"46.078949,24.696795,46.63132,25.040032",
     "geom:latitude":24.8788,
     "geom:longitude":46.372896,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.DI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123346,
-    "wof:geomhash":"5db30dc1c7d02350c26972ecf2db98ad",
+    "wof:geomhash":"9fe224eaa99bd00dbbe1a71836f5ff84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720543,
-    "wof:lastmodified":1627522747,
+    "wof:lastmodified":1695886455,
     "wof:name":"Ad-Diriyah",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

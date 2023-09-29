@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02899,
-    "geom:area_square_m":336426032.406234,
+    "geom:area_square_m":336426141.401212,
     "geom:bbox":"41.141298,20.028333,41.396964,20.450008",
     "geom:latitude":20.199065,
     "geom:longitude":41.273265,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.BA.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123382,
-    "wof:geomhash":"c194f29a2f32fcf16da899b9102e5d1d",
+    "wof:geomhash":"01c5443248cd87c83f131c0e81a890a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720615,
-    "wof:lastmodified":1627522743,
+    "wof:lastmodified":1695886449,
     "wof:name":"Al-Mandaq",
     "wof:parent_id":85676847,
     "wof:placetype":"county",

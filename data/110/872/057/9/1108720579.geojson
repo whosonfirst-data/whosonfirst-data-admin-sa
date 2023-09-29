@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030274,
-    "geom:area_square_m":358377446.481165,
+    "geom:area_square_m":358377153.672456,
     "geom:bbox":"43.04219,16.641694,43.266389,16.912443",
     "geom:latitude":16.792259,
     "geom:longitude":43.14997,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123364,
-    "wof:geomhash":"17d4c7fb1cedc1f22eb9250021eb4ce0",
+    "wof:geomhash":"ac0667993a1cbff63f5b69294dad43a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720579,
-    "wof:lastmodified":1627522742,
+    "wof:lastmodified":1695886447,
     "wof:name":"Al-Harth",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

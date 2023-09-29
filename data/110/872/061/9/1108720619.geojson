@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163113,
-    "geom:area_square_m":1898873765.356099,
+    "geom:area_square_m":1898873850.710874,
     "geom:bbox":"41.000194,19.446056,41.672038,19.976851",
     "geom:latitude":19.699784,
     "geom:longitude":41.363745,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.BA.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123385,
-    "wof:geomhash":"2cec3dfd32e6ff5624f39317ab431f7e",
+    "wof:geomhash":"822c83e0ddc6ac2620f79c6bc270e416",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720619,
-    "wof:lastmodified":1627522743,
+    "wof:lastmodified":1695886449,
     "wof:name":"Al-Mukhwah",
     "wof:parent_id":85676847,
     "wof:placetype":"county",

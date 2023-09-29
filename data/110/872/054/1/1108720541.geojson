@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130916,
-    "geom:area_square_m":1449687031.380691,
+    "geom:area_square_m":1449686787.169088,
     "geom:bbox":"49.58917,26.197232,50.228006,26.675038",
     "geom:latitude":26.423097,
     "geom:longitude":49.873994,
@@ -85,12 +85,13 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123345,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"a5021caf7c580d59138aa6a15345b6f9",
+    "wof:geomhash":"a526a2b8769f32e5f8dbf51164fe6927",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108720541,
-    "wof:lastmodified":1627522747,
+    "wof:lastmodified":1695886455,
     "wof:name":"Ad-Dammam",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

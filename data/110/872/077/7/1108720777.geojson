@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.750938,
-    "geom:area_square_m":8821859001.118402,
+    "geom:area_square_m":8821859001.118149,
     "geom:bbox":"43.7364195907,17.8588869534,45.4462585242,18.6259855528",
     "geom:latitude":18.18148,
     "geom:longitude":44.628285,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"SA.NJ.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123469,
-    "wof:geomhash":"4b9d08c29f771f2707ed676b42fff518",
+    "wof:geomhash":"54ee4d048a89e49915cf09bf2f2895eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108720777,
-    "wof:lastmodified":1566638358,
+    "wof:lastmodified":1695886310,
     "wof:name":"Thar",
     "wof:parent_id":85676809,
     "wof:placetype":"county",

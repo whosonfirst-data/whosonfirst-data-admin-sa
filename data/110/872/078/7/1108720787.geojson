@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.235935,
-    "geom:area_square_m":2606726642.483817,
+    "geom:area_square_m":2606726357.747513,
     "geom:bbox":"42.740378,26.369878,43.776972,26.959359",
     "geom:latitude":26.681165,
     "geom:longitude":43.234824,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.QS.UJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123474,
-    "wof:geomhash":"0f83f0e94f67fe59cd34581b0cce126a",
+    "wof:geomhash":"8d6cabfd0585d1af48549339fe89ac81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720787,
-    "wof:lastmodified":1627522751,
+    "wof:lastmodified":1695886461,
     "wof:name":"Uyun al-Jiwa",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

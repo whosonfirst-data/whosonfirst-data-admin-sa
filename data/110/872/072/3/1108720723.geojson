@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.853874,
-    "geom:area_square_m":10060555012.031315,
+    "geom:area_square_m":10060554844.656689,
     "geom:bbox":"44.348016,17.26706,45.980643,18.136604",
     "geom:latitude":17.662496,
     "geom:longitude":45.266249,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.NJ.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123441,
-    "wof:geomhash":"84f89669595ec872a0414069a897db83",
+    "wof:geomhash":"ae2779d8c7893e99fe8703eb5d493f79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720723,
-    "wof:lastmodified":1627522748,
+    "wof:lastmodified":1695886457,
     "wof:name":"Khubash",
     "wof:parent_id":85676809,
     "wof:placetype":"county",

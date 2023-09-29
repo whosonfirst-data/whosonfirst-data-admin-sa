@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248304,
-    "geom:area_square_m":2838261922.744699,
+    "geom:area_square_m":2838261922.744429,
     "geom:bbox":"39.5170672574,22.0961007315,40.2350106449,22.7872715629",
     "geom:latitude":22.418842,
     "geom:longitude":39.916647,
@@ -118,9 +118,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123370,
-    "wof:geomhash":"33b16ddc57be4b4f7b1a34814f2ee126",
+    "wof:geomhash":"e7027676d655beb79fa9d63ff8e2ca1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108720589,
-    "wof:lastmodified":1566638391,
+    "wof:lastmodified":1695886312,
     "wof:name":"Al-Kamil",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

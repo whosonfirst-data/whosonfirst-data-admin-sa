@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.254318,
-    "geom:area_square_m":61652590822.943085,
+    "geom:area_square_m":61652590822.942482,
     "geom:bbox":"45.270615241,16.95,50.1804637108,19.332826593",
     "geom:latitude":18.380328,
     "geom:longitude":47.430537,
@@ -106,9 +106,10 @@
     "wof:concordances":{
         "hasc:id":"SA.NJ.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123463,
-    "wof:geomhash":"124b3309fa0b5d2c029cf6f1d0e8d7b0",
+    "wof:geomhash":"30906f00ba7158d4b41e125f1820c0d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108720765,
-    "wof:lastmodified":1566638364,
+    "wof:lastmodified":1695886311,
     "wof:name":"Sharurah",
     "wof:parent_id":85676809,
     "wof:placetype":"county",

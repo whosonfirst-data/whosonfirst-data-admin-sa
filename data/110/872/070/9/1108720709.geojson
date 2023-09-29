@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152958,
-    "geom:area_square_m":1800976485.383337,
+    "geom:area_square_m":1800976861.770643,
     "geom:bbox":"43.841017,17.584422,44.572523,17.94606",
     "geom:latitude":17.783341,
     "geom:longitude":44.211706,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.NJ.HU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123435,
-    "wof:geomhash":"6f4ddd52669fccb915da7ba0839a8ec3",
+    "wof:geomhash":"c5bf5c3718b0f26c83b375de98070652",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720709,
-    "wof:lastmodified":1627522748,
+    "wof:lastmodified":1695886457,
     "wof:name":"Hubuna",
     "wof:parent_id":85676809,
     "wof:placetype":"county",

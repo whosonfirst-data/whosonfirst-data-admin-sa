@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.578169,
-    "geom:area_square_m":6421901615.472554,
+    "geom:area_square_m":6421901419.08118,
     "geom:bbox":"49.080282,25.617281,50.137093,26.651458",
     "geom:latitude":26.067349,
     "geom:longitude":49.546259,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123422,
-    "wof:geomhash":"80b701c78b7fa7ce80afcb576820ae20",
+    "wof:geomhash":"fe4f1db03b26351278aa880ff8baeb90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720685,
-    "wof:lastmodified":1627522740,
+    "wof:lastmodified":1695886445,
     "wof:name":"Buqayq",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

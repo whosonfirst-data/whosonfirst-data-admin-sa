@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.634849,
-    "geom:area_square_m":7084315584.272566,
+    "geom:area_square_m":7084315579.885338,
     "geom:bbox":"41.57399,25.080096,43.265867,25.987962",
     "geom:latitude":25.516345,
     "geom:longitude":42.660117,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.QS.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123398,
-    "wof:geomhash":"c30519dc0b00f9d6d1d412e1a06648c2",
+    "wof:geomhash":"e0d0086b42efc73083bad590c7206d3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720645,
-    "wof:lastmodified":1627522745,
+    "wof:lastmodified":1695886452,
     "wof:name":"An-Nabhaniyah",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

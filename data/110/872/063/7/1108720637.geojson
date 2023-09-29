@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.551659,
-    "geom:area_square_m":51723022290.752823,
+    "geom:area_square_m":51723021590.060875,
     "geom:bbox":"43.269926,21.929345,45.983979,24.670709",
     "geom:latitude":23.211908,
     "geom:longitude":44.651158,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.QU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123393,
-    "wof:geomhash":"cf453541263ec45c33802ccf48820355",
+    "wof:geomhash":"31da67b5ff0a526e9e071ecf815c29fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720637,
-    "wof:lastmodified":1627522744,
+    "wof:lastmodified":1695886451,
     "wof:name":"Al-Quwayiyah",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

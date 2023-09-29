@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.551829,
-    "geom:area_square_m":6330613193.092813,
+    "geom:area_square_m":6330613195.917301,
     "geom:bbox":"39.207777,21.466688,40.608736,22.539113",
     "geom:latitude":21.909313,
     "geom:longitude":39.913104,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.JU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123369,
-    "wof:geomhash":"d839b0f9deb5506c34d8c0d0e6a79d71",
+    "wof:geomhash":"7aca0b41f4235a3c689ec2bd8fe41155",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720587,
-    "wof:lastmodified":1627522742,
+    "wof:lastmodified":1695886448,
     "wof:name":"Al-Jumum",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.869865,
-    "geom:area_square_m":127492021730.801544,
+    "geom:area_square_m":127492021730.800781,
     "geom:bbox":"43.596377,16.95,52.002109,19.450422",
     "geom:latitude":18.450584,
     "geom:longitude":46.867644,
@@ -333,16 +333,18 @@
         "gn:id":103628,
         "gp:id":2346960,
         "hasc:id":"SA.NJ",
+        "iso:code":"SA-10",
         "iso:id":"SA-10",
         "qs_pg:id":674493,
         "unlc:id":"SA-10",
         "wd:id":"Q464718"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"04c359246b88615529f6acb8f7aad40d",
+    "wof:geomhash":"e44a6a689c4654c23c0528e6b5964dac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -357,7 +359,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860269,
+    "wof:lastmodified":1695884843,
     "wof:name":"Najran",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

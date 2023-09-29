@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.267367,
-    "geom:area_square_m":45632597250.30191,
+    "geom:area_square_m":45632597571.771477,
     "geom:bbox":"37.489985,28.913696,41.993367,31.000107",
     "geom:latitude":30.137501,
     "geom:longitude":39.939805,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JF.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123459,
-    "wof:geomhash":"befbb70a13bde96a15e642912b93113c",
+    "wof:geomhash":"0217c95fe6700d366dd4a111facada5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720757,
-    "wof:lastmodified":1627522750,
+    "wof:lastmodified":1695886460,
     "wof:name":"Sakaka",
     "wof:parent_id":85676843,
     "wof:placetype":"county",

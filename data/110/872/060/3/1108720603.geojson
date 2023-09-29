@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.988634,
-    "geom:area_square_m":11456002566.757523,
+    "geom:area_square_m":11456002687.93107,
     "geom:bbox":"39.55401,19.689918,41.163263,20.997553",
     "geom:latitude":20.424267,
     "geom:longitude":40.405867,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123377,
-    "wof:geomhash":"8a091c858f64c676f7eb6cbd98dc4e12",
+    "wof:geomhash":"c94c5e9b4b72719f8a7e71707aae1424",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720603,
-    "wof:lastmodified":1627522742,
+    "wof:lastmodified":1695886448,
     "wof:name":"Al-Lith",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

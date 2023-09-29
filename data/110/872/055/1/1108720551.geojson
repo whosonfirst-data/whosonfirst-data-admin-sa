@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254405,
-    "geom:area_square_m":2985432954.479954,
+    "geom:area_square_m":2985432732.857008,
     "geom:bbox":"42.692574,18.0089,43.714935,18.867801",
     "geom:latitude":18.37064,
     "geom:longitude":43.24937,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.AS.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123351,
-    "wof:geomhash":"4c9f77298f242253efb2ed5f9195839f",
+    "wof:geomhash":"2be084b50a23a31740b4ddfc66b52f45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720551,
-    "wof:lastmodified":1627522741,
+    "wof:lastmodified":1695886446,
     "wof:name":"Ahd Rifaydah",
     "wof:parent_id":85676851,
     "wof:placetype":"county",

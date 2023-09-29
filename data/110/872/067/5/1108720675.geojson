@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.300345,
-    "geom:area_square_m":25095823603.910385,
+    "geom:area_square_m":25095823340.509693,
     "geom:bbox":"41.785521,27.339671,44.367071,28.926008",
     "geom:latitude":28.079146,
     "geom:longitude":42.898108,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.HA.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123418,
-    "wof:geomhash":"9281d761437e1f3be15baa8c53ec749f",
+    "wof:geomhash":"4bcb81791f9571f0a6f11c2ceaec93d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720675,
-    "wof:lastmodified":1627522746,
+    "wof:lastmodified":1695886454,
     "wof:name":"Baqa",
     "wof:parent_id":85676831,
     "wof:placetype":"county",

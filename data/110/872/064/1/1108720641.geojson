@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.592759,
-    "geom:area_square_m":28681276079.028393,
-    "geom:bbox":"36.63647459332364,25.42819540812438,38.96931437629917,27.49025225079175",
+    "geom:area_square_m":28681276079.02692,
+    "geom:bbox":"36.6364745933,25.4281954081,38.9693143763,27.4902522508",
     "geom:latitude":26.536694,
     "geom:longitude":37.90926,
     "iso:country":"SA",
@@ -121,9 +121,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MD.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123396,
-    "wof:geomhash":"899fc8f3caa8182764fecfe868426d3a",
+    "wof:geomhash":"0d02e11382b16c9f9d7db2c6b056fbd4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108720641,
-    "wof:lastmodified":1672944134,
+    "wof:lastmodified":1695886570,
     "wof:name":"AlUla",
     "wof:parent_id":85676825,
     "wof:placetype":"county",

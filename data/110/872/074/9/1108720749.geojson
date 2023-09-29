@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.38586,
-    "geom:area_square_m":4290580102.986872,
+    "geom:area_square_m":4290580501.93393,
     "geom:bbox":"41.300329,25.188509,43.5915,26.582823",
     "geom:latitude":25.936921,
     "geom:longitude":42.222498,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.QS.RK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123455,
-    "wof:geomhash":"e2f66f929fbf2947f29da3ee4ee436e1",
+    "wof:geomhash":"80874f4d28f00f927cdd0b534cd30f66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720749,
-    "wof:lastmodified":1627522750,
+    "wof:lastmodified":1695886459,
     "wof:name":"Riyadh al-Khabra",
     "wof:parent_id":85676827,
     "wof:placetype":"county",

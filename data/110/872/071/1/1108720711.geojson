@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.313953,
-    "geom:area_square_m":3512167615.431535,
+    "geom:area_square_m":3512167651.973964,
     "geom:bbox":"45.704053,24.797914,46.658429,25.662387",
     "geom:latitude":25.214915,
     "geom:longitude":46.248677,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.HU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123436,
-    "wof:geomhash":"8bdcb35943f8a73b9e79023582b0204c",
+    "wof:geomhash":"c9a95ceab30c0f0aa38d107591ebcf20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720711,
-    "wof:lastmodified":1627522748,
+    "wof:lastmodified":1695886457,
     "wof:name":"Huraymila",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

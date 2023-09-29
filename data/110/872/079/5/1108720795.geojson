@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.653992,
-    "geom:area_square_m":18572957519.344231,
+    "geom:area_square_m":18572957778.872482,
     "geom:bbox":"37.367522,23.643974,38.897771,25.670581",
     "geom:latitude":24.748175,
     "geom:longitude":38.234088,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MD.YB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123478,
-    "wof:geomhash":"7ee90955c5f0b0b17ee45ff5864845dd",
+    "wof:geomhash":"d328b5f47127da585b009aed1fc081a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720795,
-    "wof:lastmodified":1627522751,
+    "wof:lastmodified":1695886462,
     "wof:name":"Yanbu al-Bahr",
     "wof:parent_id":85676825,
     "wof:placetype":"county",

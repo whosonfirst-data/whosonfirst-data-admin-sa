@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072193,
-    "geom:area_square_m":854773810.232852,
+    "geom:area_square_m":854773800.638653,
     "geom:bbox":"42.646821,16.598205,43.058302,16.903591",
     "geom:latitude":16.75787,
     "geom:longitude":42.852127,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123350,
-    "wof:geomhash":"a261ed88cd01b029ef9793b2cadb9a2d",
+    "wof:geomhash":"7b62b366ff17976d17a12bb390ba44a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720549,
-    "wof:lastmodified":1627522741,
+    "wof:lastmodified":1695886446,
     "wof:name":"Ahad al-Musarihah",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.635539,
-    "geom:area_square_m":7418905481.333189,
+    "geom:area_square_m":7418905491.637903,
     "geom:bbox":"40.590363,18.461195,41.947548,19.838978",
     "geom:latitude":19.254243,
     "geom:longitude":41.389674,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.QU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123391,
-    "wof:geomhash":"256aa347166f026bb5fe0ab1f95db3bc",
+    "wof:geomhash":"21916ab4349a6911b90f23731e60405e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720633,
-    "wof:lastmodified":1627522743,
+    "wof:lastmodified":1695886450,
     "wof:name":"Al-Qunfidhah",
     "wof:parent_id":85676857,
     "wof:placetype":"county",

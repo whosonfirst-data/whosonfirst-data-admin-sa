@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199088,
-    "geom:area_square_m":2312986433.237567,
+    "geom:area_square_m":2312986843.941001,
     "geom:bbox":"40.837534,19.672176,41.436177,20.366825",
     "geom:latitude":20.021032,
     "geom:longitude":41.108364,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.BA.QI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123448,
-    "wof:geomhash":"8be7f61593ec4f3e0c8cb832e20aa5ef",
+    "wof:geomhash":"0fc2c15280fc42b8b673c5dc8a8e05c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720735,
-    "wof:lastmodified":1627522749,
+    "wof:lastmodified":1695886459,
     "wof:name":"Qilwah",
     "wof:parent_id":85676847,
     "wof:placetype":"county",

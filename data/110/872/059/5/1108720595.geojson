@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.528733,
-    "geom:area_square_m":17285841715.343662,
+    "geom:area_square_m":17285841715.343403,
     "geom:bbox":"46.5294080298,23.0742780847,48.1528958531,24.5824928381",
     "geom:latitude":23.87063,
     "geom:longitude":47.48261,
@@ -130,9 +130,10 @@
     "wof:concordances":{
         "hasc:id":"SA.RI.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123372,
-    "wof:geomhash":"1dd33bde6718f9446a78e549c3768242",
+    "wof:geomhash":"29c7bf90ed7bd293961e3702a75938c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108720595,
-    "wof:lastmodified":1566638383,
+    "wof:lastmodified":1695886312,
     "wof:name":"Al-Kharj",
     "wof:parent_id":85676813,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.521811,
-    "geom:area_square_m":5642798321.368463,
+    "geom:area_square_m":5642798748.950384,
     "geom:bbox":"34.737083,28.393715,35.975351,29.357243",
     "geom:latitude":29.008804,
     "geom:longitude":35.357235,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.TB.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123432,
-    "wof:geomhash":"4d2701ad6885905dab749d9b4b7a1597",
+    "wof:geomhash":"f72a29bf07535ad60336f02ad674b9a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720705,
-    "wof:lastmodified":1627522747,
+    "wof:lastmodified":1695886456,
     "wof:name":"Haqil",
     "wof:parent_id":85676833,
     "wof:placetype":"county",

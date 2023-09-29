@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.572406,
-    "geom:area_square_m":6310682722.784537,
+    "geom:area_square_m":6310682599.834313,
     "geom:bbox":"48.919254,26.419536,49.878618,27.497269",
     "geom:latitude":26.923662,
     "geom:longitude":49.340544,
@@ -85,12 +85,13 @@
     "wof:concordances":{
         "hasc:id":"SA.SH.JU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123368,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"e08172ce0fca9e77b044efce87bc04ff",
+    "wof:geomhash":"c85b968c9bd07f83160448644275a55b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108720585,
-    "wof:lastmodified":1627522748,
+    "wof:lastmodified":1695886456,
     "wof:name":"Al-Jubayl",
     "wof:parent_id":85676819,
     "wof:placetype":"county",

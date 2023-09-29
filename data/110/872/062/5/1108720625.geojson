@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094852,
-    "geom:area_square_m":1098839450.52375,
+    "geom:area_square_m":1098839584.601601,
     "geom:bbox":"41.210366,20.127823,41.456442,20.830865",
     "geom:latitude":20.463879,
     "geom:longitude":41.347314,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"SA.BA.QA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123388,
-    "wof:geomhash":"f81705ce6579101ccba2b15bcecd8b48",
+    "wof:geomhash":"a39649dc79358afdc93fae6922468ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108720625,
-    "wof:lastmodified":1627522743,
+    "wof:lastmodified":1695886450,
     "wof:name":"Al-Qari",
     "wof:parent_id":85676847,
     "wof:placetype":"county",

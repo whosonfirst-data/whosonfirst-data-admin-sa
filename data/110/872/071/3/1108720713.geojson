@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027369,
-    "geom:area_square_m":323526906.942383,
+    "geom:area_square_m":323526559.693419,
     "geom:bbox":"42.534557,16.811874,43.156514,17.313881",
     "geom:latitude":17.060319,
     "geom:longitude":42.825238,
@@ -172,9 +172,10 @@
     "wof:concordances":{
         "hasc:id":"SA.JZ.JI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123437,
-    "wof:geomhash":"64929dfcb0d1fef20151887d5729dc8d",
+    "wof:geomhash":"20fd9c1ea212b488ecb3c02deeb5436c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":1108720713,
-    "wof:lastmodified":1636496658,
+    "wof:lastmodified":1695886726,
     "wof:name":"Jizan",
     "wof:parent_id":85676853,
     "wof:placetype":"county",

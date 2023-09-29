@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.881376,
-    "geom:area_square_m":9852154402.018492,
+    "geom:area_square_m":9852153028.737829,
     "geom:bbox":"36.486221,24.56654,38.035559,25.908964",
     "geom:latitude":25.308725,
     "geom:longitude":37.404664,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SA.TB.UM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123472,
-    "wof:geomhash":"00898dd1776deac31c3419ea729580ca",
+    "wof:geomhash":"349f0a97e00ce9eab2f93da2269cbd65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108720783,
-    "wof:lastmodified":1627522751,
+    "wof:lastmodified":1695886461,
     "wof:name":"Umluj",
     "wof:parent_id":85676833,
     "wof:placetype":"county",

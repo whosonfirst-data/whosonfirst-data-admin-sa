@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":46.261158,
-    "geom:area_square_m":524880806848.871094,
+    "geom:area_square_m":524880806848.876404,
     "geom:bbox":"44.366465,19.000336,55.6667,29.130772",
     "geom:latitude":23.27921,
     "geom:longitude":50.149936,
@@ -369,17 +369,19 @@
         "gn:id":108241,
         "gp:id":2346954,
         "hasc:id":"SA.SH",
+        "iso:code":"SA-04",
         "iso:id":"SA-04",
         "qs_pg:id":1135307,
         "unlc:id":"SA-04",
         "wd:id":"Q953508"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SA",
     "wof:geom_alt":[
         "meso",
         "quattroshapes"
     ],
-    "wof:geomhash":"213e493e46e88b140b9f75891bde876f",
+    "wof:geomhash":"ec57ed5ae4aefb5197b023cd3103984a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -394,7 +396,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690860268,
+    "wof:lastmodified":1695884598,
     "wof:name":"Eastern Province",
     "wof:parent_id":85632253,
     "wof:placetype":"region",

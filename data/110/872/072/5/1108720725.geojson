@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.36477,
-    "geom:area_square_m":4173449411.503699,
+    "geom:area_square_m":4173449156.486501,
     "geom:bbox":"39.225891,21.870055,39.938381,22.813814",
     "geom:latitude":22.287293,
     "geom:longitude":39.577284,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"SA.MK.KL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123442,
-    "wof:geomhash":"cc1438071a408475547a140888ff964e",
+    "wof:geomhash":"c720f34e7c269dece442e134710cab32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108720725,
-    "wof:lastmodified":1627522748,
+    "wof:lastmodified":1695886457,
     "wof:name":"Khulays",
     "wof:parent_id":85676857,
     "wof:placetype":"county",
