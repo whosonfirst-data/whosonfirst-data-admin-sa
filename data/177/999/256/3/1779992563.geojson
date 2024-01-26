@@ -5,31 +5,59 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000437,
+    "geom:area_square_m":0.0,
     "geom:bbox":"45.787089,28.52,45.812821,28.542513",
     "geom:latitude":28.530939,
     "geom:longitude":45.800672,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"As Sufayri",
+    "gn:country_code":"SA",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":108064,
+    "gn:latitude":28.53056,
+    "gn:longitude":45.80198,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"A\u015f \u015eufayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Riyadh",
     "iso:country":"SA",
+    "lbl:bbox":"45.79698,28.52556,45.80698,28.53556",
     "lbl:latitude":28.530983,
     "lbl:longitude":45.800672,
+    "lbl:max_zoom":18.0,
     "mps:latitude":28.530983,
     "mps:longitude":45.800672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0641\u064a\u0631\u064a"
     ],
     "name:eng_x_preferred":[
         "As Sufayri"
     ],
+    "name:und_x_variant":[
+        "A\u015f \u015eufayr\u012b"
+    ],
     "src:geom":"whosonfirst",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
         421203499,
-        1108720699,
-        85676819
+        1108720699
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":108064
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            108064
+        ]
+    },
     "wof:country":"SA",
     "wof:geomhash":"f73786d13e04bb5e4df6f2836cb85466",
     "wof:hierarchy":[
@@ -43,13 +71,15 @@
         }
     ],
     "wof:id":1779992563,
-    "wof:lastmodified":1660235616,
+    "wof:lastmodified":1706240656,
     "wof:name":"As Sufayri",
     "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1361025869
+    ],
     "wof:tags":[]
 },
   "bbox": [

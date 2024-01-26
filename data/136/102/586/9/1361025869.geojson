@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"45.80198,28.53056,45.80198,28.53056",
@@ -26,7 +28,7 @@
     "lbl:bbox":"45.79698,28.52556,45.80698,28.53556",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u0641\u064a\u0631\u064a"
@@ -39,11 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85676819,
         102191569,
         85632253,
         421203499,
-        1108720699,
-        85676819
+        1108720699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":1361025869,
-    "wof:lastmodified":1660235408,
+    "wof:lastmodified":1706240656,
     "wof:name":"As Sufayri",
     "wof:parent_id":421203499,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-sa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1779992563
+    ],
     "wof:supersedes":[
         1260281503
     ],

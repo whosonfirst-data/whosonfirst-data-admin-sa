@@ -13,6 +13,7 @@
     "gn:fcode":"PPL",
     "gn:population":148540,
     "iso:country":"SA",
+    "lbl:bbox":"41.0006896553,30.9700063263,41.0406896553,31.0100063263",
     "lbl:latitude":30.973599,
     "lbl:longitude":41.024821,
     "lbl:max_zoom":14.0,
@@ -27,18 +28,134 @@
     "name:ara_x_variant":[
         "\u2018Ar\u2018ar"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09be\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Arar"
+    ],
+    "name:deu_x_preferred":[
+        "Arar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
+        "Arar"
+    ],
+    "name:est_x_preferred":[
         "Arar"
     ],
     "name:fra_x_preferred":[
         "Arar"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u093e\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Arar"
+    ],
+    "name:ind_x_preferred":[
+        "Arar"
+    ],
     "name:nor_x_preferred":[
+        "Arar"
+    ],
+    "name:spa_x_preferred":[
+        "Arar"
+    ],
+    "name:swe_x_preferred":[
         "Arar"
     ],
     "name:und_x_variant":[
         "Ara\u2018ar"
     ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Saudi Arabia",
+    "ne:ADM0_A3":"SAU",
+    "ne:ADM1NAME":"Al Hudud ash Shamaliyah",
+    "ne:ADMIN1_COD":15,
+    "ne:CAPALT":0,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":108512,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"`Ar`ar",
+    "ne:GN_POP":148540,
+    "ne:GTOPO30":548.0,
+    "ne:ISO_A2":"SA",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":30.990006,
+    "ne:LONGITUDE":41.02069,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Arar",
+    "ne:MAX_AREAKM":24.0,
+    "ne:MAX_AREAMI":9.0,
+    "ne:MAX_BBXMAX":41.058333,
+    "ne:MAX_BBXMIN":40.991667,
+    "ne:MAX_BBYMAX":31.0,
+    "ne:MAX_BBYMIN":30.95,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":26.0,
+    "ne:MAX_PERMI":16.0,
+    "ne:MAX_POP10":222016,
+    "ne:MAX_POP20":222016,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":41.027146,
+    "ne:MEAN_BBYC":30.977652,
+    "ne:MEGACITY":0,
+    "ne:MIN_AREAKM":24.0,
+    "ne:MIN_AREAMI":9.0,
+    "ne:MIN_BBXMAX":41.058333,
+    "ne:MIN_BBXMIN":40.991667,
+    "ne:MIN_BBYMAX":31.0,
+    "ne:MIN_BBYMIN":30.95,
+    "ne:MIN_PERKM":26.0,
+    "ne:MIN_PERMI":16.0,
+    "ne:NAME":"Arar",
+    "ne:NAMEALT":"Ar'ar",
+    "ne:NAMEASCII":"Arar",
+    "ne:NAMEDIFF":0,
+    "ne:NATSCALE":20,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":222016,
+    "ne:POP_MIN":148540,
+    "ne:POP_OTHER":222016,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Saudi Arabia",
+    "ne:SOV_A3":"SAU",
+    "ne:TIMEZONE":"Asia/Riyadh",
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
     "qs_pg:aaroncc":"SA",
     "qs_pg:gn_country":"SA",
     "qs_pg:gn_fcode":"PPL",
@@ -85,7 +202,7 @@
         }
     ],
     "wof:id":1125926431,
-    "wof:lastmodified":1660235263,
+    "wof:lastmodified":1706240656,
     "wof:name":"Arar",
     "wof:parent_id":1108720651,
     "wof:placetype":"locality",
@@ -93,7 +210,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907091
+    ],
     "wof:tags":[]
 },
   "bbox": [
