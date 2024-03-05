@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":107465
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            410873
+        ]
+    },
     "wof:country":"SA",
     "wof:geomhash":"23e928c2d792e3943548af35afb0bd26",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1242988913,
-    "wof:lastmodified":1566638513,
+    "wof:lastmodified":1706240656,
     "wof:name":"Bayt Maqbul",
     "wof:parent_id":1108720549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310465487
+    ],
     "wof:tags":[]
 },
   "bbox": [

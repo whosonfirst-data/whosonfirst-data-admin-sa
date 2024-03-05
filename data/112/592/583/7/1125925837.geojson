@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.002386,
     "geom:area_square_m":0.0,
     "geom:bbox":"44.776921,26.286121,44.843994,26.349198",
@@ -18,7 +20,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -73,14 +75,16 @@
         }
     ],
     "wof:id":1125925837,
-    "wof:lastmodified":1660235259,
+    "wof:lastmodified":1706240656,
     "wof:name":"Az Zulfi",
     "wof:parent_id":1108720667,
     "wof:placetype":"locality",
     "wof:population":53144,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-sa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421190279
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
