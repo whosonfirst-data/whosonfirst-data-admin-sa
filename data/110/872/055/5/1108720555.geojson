@@ -14,10 +14,13 @@
         "mintaqah idariyya"
     ],
     "label:ara_x_preferred_longname":[
-        "\u0627\u0644\u0627\u062d\u0633\u0627\u0621 \u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u062d\u0633\u0627\u0621"
     ],
     "label:ara_x_preferred_placetype":[
         "\u0645\u062d\u0627\u0641\u0638\u0627\u062a\u200e"
+    ],
+    "label:ara_x_variant_longname":[
+        "\u0627\u0644\u0627\u062d\u0633\u0627\u0621 \u0645\u062d\u0627\u0641\u0638\u0627\u062a"
     ],
     "label:eng_x_preferred_longname":[
         "Al-Ahsa Governorate"
@@ -91,7 +94,7 @@
     "wof:concordances_official":"hasc:id",
     "wof:country":"SA",
     "wof:created":1476123353,
-    "wof:geomhash":"a656bc904bb3fa8190f79f838cacd653",
+    "wof:geomhash":"91872895ebbce3554d151424e55c5721",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108720555,
-    "wof:lastmodified":1695886450,
+    "wof:lastmodified":1709837419,
     "wof:name":"Al-Ahsa",
     "wof:parent_id":85676819,
     "wof:placetype":"county",
