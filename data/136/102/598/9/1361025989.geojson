@@ -39,7 +39,6 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209612507,
         85632253
     ],
     "wof:breaches":[],
@@ -51,7 +50,6 @@
     "wof:hierarchy":[
         {
             "country_id":85632253,
-            "locality_id":1209612507,
             "neighbourhood_id":1361025989
         }
     ],
