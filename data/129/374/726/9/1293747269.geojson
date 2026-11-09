@@ -58,7 +58,7 @@
         "wk:page":"Al_Jadi"
     },
     "wof:country":"SA",
-    "wof:geomhash":"06a1376c8ee4dad6242ba69d79a8d4be",
+    "wof:geomhash":"3db9373f7c74c8f14520b5534459a763",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     42.99484,
     16.64492000000001
 ],
-  "geometry": {"coordinates":[42.99484,16.64492000000001],"type":"Point"}
+  "geometry": {"coordinates":[42.99484,16.64492],"type":"Point"}
 }

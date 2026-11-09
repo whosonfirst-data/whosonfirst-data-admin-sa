@@ -122,7 +122,7 @@
         "wk:page":"Ras_Tanura"
     },
     "wof:country":"SA",
-    "wof:geomhash":"c9887df3f13c7fc7a18058371bed0d8e",
+    "wof:geomhash":"86a0ae847c136448676372ff1679f67b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,5 +148,5 @@
     50.06735,
     26.70742000000001
 ],
-  "geometry": {"coordinates":[50.06735,26.70742000000001],"type":"Point"}
+  "geometry": {"coordinates":[50.06735,26.70742],"type":"Point"}
 }

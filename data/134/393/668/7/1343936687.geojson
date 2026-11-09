@@ -59,7 +59,7 @@
         "wk:page":"Al_Gharith"
     },
     "wof:country":"SA",
-    "wof:geomhash":"8c22475f7673fa50794e498ea6f19eb8",
+    "wof:geomhash":"c2d1e5bc93d6902ecd2309171b825f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     41.87889000000001,
     21.605
 ],
-  "geometry": {"coordinates":[41.87889000000001,21.605],"type":"Point"}
+  "geometry": {"coordinates":[41.87889,21.605],"type":"Point"}
 }

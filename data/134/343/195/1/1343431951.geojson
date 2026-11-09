@@ -45,7 +45,7 @@
         "wk:page":"Suways"
     },
     "wof:country":"SA",
-    "wof:geomhash":"a745441f84a49b863a2ae656866260bb",
+    "wof:geomhash":"9a25efbf66aaf69a8f024a0ca1a0babb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     39.96944000000001,
     21.95833
 ],
-  "geometry": {"coordinates":[39.96944000000001,21.95833],"type":"Point"}
+  "geometry": {"coordinates":[39.96944,21.95833],"type":"Point"}
 }

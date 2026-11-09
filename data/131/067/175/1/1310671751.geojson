@@ -52,7 +52,7 @@
         "wk:page":"Haddat_ash_Sham"
     },
     "wof:country":"SA",
-    "wof:geomhash":"59869240503f1b30520ad8e545d9c44c",
+    "wof:geomhash":"9234f7b69ceb42a3229c41a1edc9a0a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     39.68324000000001,
     21.79411
 ],
-  "geometry": {"coordinates":[39.68324000000001,21.79411],"type":"Point"}
+  "geometry": {"coordinates":[39.68324,21.79411],"type":"Point"}
 }

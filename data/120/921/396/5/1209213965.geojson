@@ -61,7 +61,7 @@
         "wk:page":"Al_%60Uqul"
     },
     "wof:country":"SA",
-    "wof:geomhash":"a5e7f44e3140dc4e868ee6f74d670f69",
+    "wof:geomhash":"dd03ea52e5b1323c5ebc8266ea24a3d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     39.77979000000001,
     24.53162
 ],
-  "geometry": {"coordinates":[39.77979000000001,24.53162],"type":"Point"}
+  "geometry": {"coordinates":[39.77979,24.53162],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Ash_Shaybi"
     },
     "wof:country":"SA",
-    "wof:geomhash":"3511f0f3371e3bcb78076bda9c4d38e4",
+    "wof:geomhash":"15182fb6ad547252a8d0f1e7c9a5af8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     39.93369000000001,
     21.69498
 ],
-  "geometry": {"coordinates":[39.93369000000001,21.69498],"type":"Point"}
+  "geometry": {"coordinates":[39.93369,21.69498],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Al_Buraykah"
     },
     "wof:country":"SA",
-    "wof:geomhash":"9149bb066c51a1591e8902e20751f4ec",
+    "wof:geomhash":"2f16838da1b6641e0863bbee5bf95494",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     39.71749000000001,
     21.7882
 ],
-  "geometry": {"coordinates":[39.71749000000001,21.7882],"type":"Point"}
+  "geometry": {"coordinates":[39.71749,21.7882],"type":"Point"}
 }

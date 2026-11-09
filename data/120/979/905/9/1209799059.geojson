@@ -58,7 +58,7 @@
         "wk:page":"Al_Hamimah"
     },
     "wof:country":"SA",
-    "wof:geomhash":"3e2cb6b053f9eb12c243be12a7dc5d6d",
+    "wof:geomhash":"474d306f82ace9e7c30e64dfcabbfb66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     39.63209000000001,
     21.50948
 ],
-  "geometry": {"coordinates":[39.63209000000001,21.50948],"type":"Point"}
+  "geometry": {"coordinates":[39.63209,21.50948],"type":"Point"}
 }

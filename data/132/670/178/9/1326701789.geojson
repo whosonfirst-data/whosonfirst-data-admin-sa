@@ -49,7 +49,7 @@
         "wk:page":"Quwayda%27"
     },
     "wof:country":"SA",
-    "wof:geomhash":"88ef1c4e157cd6082c4bb58f89369635",
+    "wof:geomhash":"e0e63a07a295b18ee5fcc4573fc3bf9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     42.89024000000001,
     16.73341
 ],
-  "geometry": {"coordinates":[42.89024000000001,16.73341],"type":"Point"}
+  "geometry": {"coordinates":[42.89024,16.73341],"type":"Point"}
 }

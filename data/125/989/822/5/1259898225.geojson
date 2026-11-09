@@ -44,7 +44,7 @@
         "gn:id":109982
     },
     "wof:country":"SA",
-    "wof:geomhash":"bbae2a35c1058e55ad741545f45beeb2",
+    "wof:geomhash":"3047efb75ce05c375904a73a828b7be9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     43.40948,
     17.83422000000001
 ],
-  "geometry": {"coordinates":[43.40948,17.83422000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.40948,17.83422],"type":"Point"}
 }

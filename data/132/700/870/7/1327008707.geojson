@@ -52,7 +52,7 @@
         "wk:page":"Al_Khaydar"
     },
     "wof:country":"SA",
-    "wof:geomhash":"cab70f3ed9140cf9d737d4d432224dd6",
+    "wof:geomhash":"a9f984c5331662a93e562a63509ef657",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     40.63757,
     21.47637000000001
 ],
-  "geometry": {"coordinates":[40.63757,21.47637000000001],"type":"Point"}
+  "geometry": {"coordinates":[40.63757,21.47637],"type":"Point"}
 }

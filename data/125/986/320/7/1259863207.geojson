@@ -60,7 +60,7 @@
         "wk:page":"Al_Bir"
     },
     "wof:country":"SA",
-    "wof:geomhash":"9dc2bcbea08292b4273073fe67c6daa2",
+    "wof:geomhash":"ac4efa141c2ab988f59e67920bb538a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     45.95464000000001,
     25.28761
 ],
-  "geometry": {"coordinates":[45.95464000000001,25.28761],"type":"Point"}
+  "geometry": {"coordinates":[45.95464,25.28761],"type":"Point"}
 }
