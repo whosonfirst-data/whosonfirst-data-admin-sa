@@ -11,8 +11,8 @@
     "geom:longitude":50.090701,
     "gn:id":"",
     "iso:country":"SA",
-    "lbl:latitude":26.468349,
-    "lbl:longitude":50.081569,
+    "lbl:latitude":26.472997,
+    "lbl:longitude":50.090164,
     "lbl:max_zoom":18.0,
     "mps:latitude":26.472069,
     "mps:longitude":50.090561,
@@ -62,7 +62,7 @@
         "quattroshapes",
         "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191569,
         85632253,
