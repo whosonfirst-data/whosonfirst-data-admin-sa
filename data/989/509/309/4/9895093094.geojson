@@ -1,0 +1,75 @@
+{
+  "id": 9895093094,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.96357,19.5773,41.96357,19.5773",
+    "geom:latitude":19.5773,
+    "geom:longitude":41.96357,
+    "gn:population":100000,
+    "iso:country":"SA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670045: name \"Sabt Alalayah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670045"
+        },
+        {
+            "citation":"GeoNames populated place 11670045: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670045"
+        },
+        {
+            "citation":"GeoNames populated place 11670045: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670045"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720673 (Balqarn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632253,
+        85676851,
+        102191569,
+        1108720673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670045
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"6921629cf4c4fefdbbb91fe2e932e3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720673,
+            "locality_id":9895093094,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":9895093094,
+    "wof:lastmodified":1795747277,
+    "wof:name":"Sabt Alalayah",
+    "wof:parent_id":1108720673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.96357,
+    19.5773,
+    41.96357,
+    19.5773
+],
+  "geometry": {"coordinates":[41.96357,19.5773],"type":"Point"}
+}

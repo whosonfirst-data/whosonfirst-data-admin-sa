@@ -1,0 +1,75 @@
+{
+  "id": 9895093095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.92953,18.92966,41.92953,18.92966",
+    "geom:latitude":18.92966,
+    "geom:longitude":41.92953,
+    "gn:population":75351,
+    "iso:country":"SA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12495725: name \"Bariq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12495725"
+        },
+        {
+            "citation":"GeoNames populated place 12495725: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12495725"
+        },
+        {
+            "citation":"GeoNames populated place 12495725: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12495725"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720609 (Al-Majardah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632253,
+        85676851,
+        102191569,
+        1108720609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12495725
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"8f79d56b81bf2db601c8d64d8ec56917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720609,
+            "locality_id":9895093095,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":9895093095,
+    "wof:lastmodified":1795747277,
+    "wof:name":"Bariq",
+    "wof:parent_id":1108720609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.92953,
+    18.92966,
+    41.92953,
+    18.92966
+],
+  "geometry": {"coordinates":[41.92953,18.92966],"type":"Point"}
+}

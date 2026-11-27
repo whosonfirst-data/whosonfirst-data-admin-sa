@@ -1,0 +1,75 @@
+{
+  "id": 9895093097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87801,23.49598,46.87801,23.49598",
+    "geom:latitude":23.49598,
+    "geom:longitude":46.87801,
+    "gn:population":30720,
+    "iso:country":"SA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631408: name \"\u1e24aw\u1e6dah Ban\u012b Tam\u012bm\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631408"
+        },
+        {
+            "citation":"GeoNames populated place 13631408: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631408"
+        },
+        {
+            "citation":"GeoNames populated place 13631408: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631408"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720707 (Hawtat Bani Tamim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632253,
+        85676813,
+        102191569,
+        1108720707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631408
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"2020d05b312368199221c3b85b8214f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720707,
+            "locality_id":9895093097,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":9895093097,
+    "wof:lastmodified":1795747277,
+    "wof:name":"\u1e24aw\u1e6dah Ban\u012b Tam\u012bm",
+    "wof:parent_id":1108720707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87801,
+    23.49598,
+    46.87801,
+    23.49598
+],
+  "geometry": {"coordinates":[46.87801,23.49598],"type":"Point"}
+}

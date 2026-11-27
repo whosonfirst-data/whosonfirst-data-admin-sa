@@ -1,0 +1,75 @@
+{
+  "id": 9895093096,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.468,17.75558,44.468,17.75558",
+    "geom:latitude":17.75558,
+    "geom:longitude":44.468,
+    "gn:population":23252,
+    "iso:country":"SA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12513572: name \"Al Mash\u2018il\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12513572"
+        },
+        {
+            "citation":"GeoNames populated place 12513572: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12513572"
+        },
+        {
+            "citation":"GeoNames populated place 12513572: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12513572"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720709 (Hubuna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632253,
+        85676809,
+        102191569,
+        1108720709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12513572
+    },
+    "wof:country":"SA",
+    "wof:geomhash":"d140aa08211e662f87e18283fc7ae369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720709,
+            "locality_id":9895093096,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":9895093096,
+    "wof:lastmodified":1795747277,
+    "wof:name":"Al Mash\u2018il\u012byah",
+    "wof:parent_id":1108720709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.468,
+    17.75558,
+    44.468,
+    17.75558
+],
+  "geometry": {"coordinates":[44.468,17.75558],"type":"Point"}
+}
